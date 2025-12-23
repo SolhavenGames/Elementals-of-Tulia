@@ -9,11 +9,11 @@
 - Remaining Free States (Roccian Delekt, Ballad Ralia, Sakai Bunnis) join the Phlanax.
 - Tixolam (Poisi) begins investigations and tests revolving around Forbidden Elements.
 - T-Year 886, Knightsdale Nations form the Independent Coven, a "defensive" military alliance.
-- T-Year 887, Tixolam begins human tests, starting a "Perfect-Warrior" program with Bane being given to Warrior-000 "Zero". 
+- T-Year 887, Tixolam begins human tests, starting a "Perfect-Warrior" program with Bane being given to ***Warrior-000 "Zero"***. 
 - T-Year 888, Dal yon Tulia starts.
 - First refugees flee to Earth, most die in space.
-- Rai & Arete flee in the first refugee group.
-- Ember & Adva find and recruit Vael
-- Ember, Adva, and Kael Arrive to Earth
-- Kael is returned to Tulia, infected with Death as a test subject
+- ***Rai*** & ***Arete*** flee in the first refugee group.
+- ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
+- ***Ember***, ***Adva***, and ***Kael*** Arrive to Earth.
+- ***Kael*** is returned to Tulia, infected with Death as a test subject
 - 
