@@ -4,6 +4,7 @@
 ## T-Year 900
 - March on Tramalen establishes Firen Knightsdale / Irision
 - **_Xor_** participates in the Poisi Knightsdale movement.
+- **_Is’ale_** begins pleading to the government to intervene in Irision after news broke of the evils of the nation.
 ###T-Year 901
 - Siege of Set establishes Poisi Knightsdale / Tixolam 
 ## T-Year 902
