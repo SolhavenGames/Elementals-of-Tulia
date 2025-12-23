@@ -13,7 +13,7 @@
 - T-Year 888, Dal yon Tulia starts.
 - First refugees flee to Earth, most die in space.
 - ***Rai*** & ***Arete*** flee in the first refugee group.
-- ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
+- T-Year 918 ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
 - ***Ember***, ***Adva***, and ***Kael*** Arrive to Earth.
 - ***Kael*** is returned to Tulia, infected with Death as a test subject
 - 
