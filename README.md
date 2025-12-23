@@ -22,9 +22,9 @@
 ### T-Year 908
 - **Dal yon Tulia** starts, a deadly global war between the Coven and Phlanax, displacing and killing millions within the first months. (T-Year 908 - Present)
 - **_Is’ale_** immediately joins the Rutt Military (Naturine), refusing to let Knightsdales dominate Tulia.
-- Xor silently begins to regret his alignment after his daughter is killed for protesting.
+- **_Xor_** silently begins to regret his alignment after his daughter is killed for protesting.
 - First refugees flee to Earth, most die in space.
-- **_Xor_** is fired for Conspiracy to Sabotoge Tixolam.
+- **_Xor_** is fired for Conspiracy to Sabotage Tixolam.
 - ***Rai***, ***Arete***, & **_Xor_** flee in the first refugee group. (**_Rai_** & **_Arete_** together, **_Xor_** alone) (E-Year 2020)
 ### T-Year 909
 - Coven nations begin confiscating and stealing Space equipment, heavily hindering attempts to flee to Earth. 
@@ -58,7 +58,7 @@ grow closer to the Light element.
 - Nature realizes that **_Ember_** has Hellfire sleeping within her, building suspicion around the hidden locked element.
 - Phlanax warriors begin to recapture stolen Space equipment, building a stockpile for those who wish to flee to Earth.
 - **_Zezri_** is enlisted into the Dalino Military (Darrekin) and placed on the border with Tixolam
-- **_Zezri_**is kidnapped in her sleep by Tixolam soldiers and brought into the Forbidden Element tests. 
+- **_Zezri_** is kidnapped in her sleep by Tixolam soldiers and brought into the Forbidden Element tests. 
 ### T-Year 912
 **_Is’ale_** is honorably discharged from the Rutt Military after facing a brutal injury to his abdomen, which actually happens to increase his val bank. 
 - **_Spara_** is found by Snai soldiers, being forced to fight her way out and fleeing to Bunnis.
@@ -79,10 +79,10 @@ grow closer to the Light element.
 - **_Dera_** awakens his val, fearing being captured and killed by Ballad soldiers, entering Gate I Time.
 - **_Dera_** fights losing his sanity after gaining a perfect memory from Gate I Time, feeling as if he's reliving all the moments with his sister and family.
 - **_K’zorak_**, who had been living off the land for the past few years, helps **_Dera_** stabilize.
-- **_Zenzri_** escapes Tixolam captivity, now having Void Gate I. Fearing herself, she does not return home and refuses to use her element.
+- **_Zezri_** escapes Tixolam captivity, now having Void Gate I. Fearing herself, she does not return home and refuses to use her element.
 ## T-Year 915
 - **_Ember_** & **_Adva_** have a close encounter with Coven soldiers, resulting in them having to fight for their lives.
-- **_Zenzri_** experiments with her power for the first time, discovering her pocket dimension.
+- **_Zezri_** experiments with her power for the first time, discovering her pocket dimension.
 ### T-Year 918 
 - ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
 - Nature discovers **_Aeri's_** Warshine and snitches. Light admits to secretly enchanting them, beginning the Great God War as the Gods scramble to ensure their people survive.
