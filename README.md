@@ -60,7 +60,7 @@ grow closer to the Light element.
 - **_Zezri_** is enlisted into the Dalino Military (Darrekin) and placed on the border with Tixolam
 - **_Zezri_** is kidnapped in her sleep by Tixolam soldiers and brought into the Forbidden Element tests. 
 ## T-Year 912
-**_Is’ale_** is honorably discharged from the Rutt Military after facing a brutal injury to his abdomen, which actually happens to increase his val bank. 
+- **_Is’ale_** is honorably discharged from the Rutt Military after facing a brutal injury to his abdomen, which actually happens to increase his val bank. 
 - **_Spara_** is found by Snai soldiers, being forced to fight her way out and fleeing to Bunnis.
 - Fire element swears to know nothing about **_Ember's_** Hellfire, telling the truth. Suspicion and distrust rises among the gods.
 - **_Is’ale_** narrowly dodges an assassination attempt, provoking Rutt to try and get him off the planet. 
