@@ -26,7 +26,7 @@
 - **_Xor_** is fired for Conspiracy to Sabatoge Tixolam.
 - ***Rai***, ***Arete***, & **_Xor_** flee in the first refugee group. (**_Rai_** & **_Arete_** together, **_Xor_** alone) (E-Year 2020)
 ### T-Year 909
-- Coven nations begin confescating and stealing Space equipment, heavily hindering attempts to flee to Earth. 
+- Coven nations begin confiscating and stealing Space equipment, heavily hindering attempts to flee to Earth. 
 - **_Zero_**, along with the 6 other soldiers in his division, are deployed to their first missions, assassinations across Ralia (Ballad Nation)
 and Wavalo (Watrish Nation).
 - **_Zero_** reaches Bane Gate II, the first to do so.
@@ -49,7 +49,7 @@ planet. (E-Year 2021)
 grow closer to the Light element.
 ### T-Year 911
 - **_Aeri_** is given Warshine by Light, who keeps this a secret from the rest of the gods.
-- **_Kael_** is taken as a POW by Phlanax costal raids and sent to Rutt.
+- **_Kael_** is taken as a POW by Phlanax coastal raids and sent to Rutt.
 - Nature realizes that **_Ember_** has Hellfire sleeping within her, building suspicion around the supposedly locked element.
 ### T-Year 912
 - **_Spara_** is found by Snai soldiers, being forced to fight her way out and fleeing to Bunnis.
@@ -59,9 +59,12 @@ grow closer to the Light element.
 - Irision (Firen) sends warriors to Earth to recover Ember after concluding that she wields Hellfire with Tixolam's help.
 ### T-Year 913
 - Nature finishes investigating every Firen, finding that only Ember currently wields Hellfire. It now moves to investigate Airren elementals.
+- Zero reaches Bane Gate III after assassinating a Naturine General. The sudden confusion from the shift brings the military of Tixolam to grant him slight vacation.
+- **_Spara_** unlocks Subzero, getting the attention of Nature who blames Ice.
+- Gods begin to point fingers at each other, with all of them being mobilized in investigations, accusations being thrown by everyone.
 ### T-Year 918 
 - ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
-- Gods discover **_Aeri's_** Warshine, beginning the Great God War as they scramble to ensure their people survive.
+- Nature discovers **_Aeri's_** Warshine and snitches. Light admits to secretly enchanting them, beginning the Great God War as the Gods scramble to ensure their people survive.
 - ***Ember***, ***Adva***, and ***Kael*** arrive to Earth. (E-Year 2033)
 - **_Xor_** assists **_Ember_**, **_Adva_**, and **_Kael_** with assimilation. (E-Year 2033)
 - A new person, **_Diablo_**, rises to power in the EII. Immediately renaming it to the "Elemental Research Initiative", they secretly become hostile to Elementals, as
@@ -81,4 +84,5 @@ grow closer to the Light element.
 - News of Forbidden Elements reach Earth, though some already knew due to **_Ember_** awakening Hellfire.
 - Coven and Phlanax nations alike begin their own Forbidden Element experiments. (T-Year 919 - Present)
 - **_Adva_** seeks Squall to further assist **_Ember_** in her Crusade. (E-Year 2034)
-- **_Rai_** and **_Arete_**, seeing the hostile Earth Institution, pursue Deluge and Bastion. 
+- **_Rai_** and **_Arete_**, seeing the hostile ERI, pursue Deluge and Bastion. (E-Year 2034)
+- Hundreds of Elementals begin to go missing on Earth (E-Year 2034)
