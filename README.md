@@ -68,7 +68,7 @@ grow closer to the Light element.
 **_Diablo_** personally sees Elementals as a threat to humanity. (E-Year 2033)
 - **_Ember_** awakens, being visited by the Fire god in an attempt to indoctrinate her. (E-Year 2033)
 - **_Kael_** is temporarily wounded by Humans (ERI), no longer allowing him to fight at his best ability. (E-Year 2033)
-- **_Ember_**, **_Adva_**, **_Kael_**, and **_Yenox_** encounter the Irision Warriors sent to reclaim Ember. (E-Year 2033)
+- **_Ember_**, **_Adva_**, **_Kael_**, and **_Xor_** encounter the Irision Warriors sent to reclaim Ember. (E-Year 2033)
 - **_Kael_** saves **_Ember's_** life, nearly sacrificing his own, resulting in her reaching Threshold III in Gate I for the first time. (E-Year 2033)
 - Irision warriors mock **_Ember_** after brutally injuring **_Kael_**, leaking **_Xor's_** past ties to Tixolam after recognizing him. (E-Year 2033)
 - **_Ember_** kills **_Xor_** after discovering his nationalistic beliefs, and him defending them, including the murder of his own daughter. **_Adva_** supports this. (E-Year 2033)
@@ -76,5 +76,9 @@ grow closer to the Light element.
 - **_Ember_** blames Humanity for losing **_Kael_** (the injury prior weakening him), and declares a personal war on them with **_Adva's_** support.
 - Accusations of Tixolam using Forbidden Elements or banned technology rise, which Tixolam does not respond to.
 ### T-Year 919
+- News of Forbidden Elements not being myths spread like wildfire, and the possibility of such shakes Tulia to its core.
+- Gods begin sticking their hands in Dal yon Tulia in attempts to tip the scale, causing millions more deaths.
+- News of Forbidden Elements reach Earth, though some already knew due to **_Ember_** awakening Hellfire.
 - Coven and Phlanax nations alike begin their own Forbidden Element experiments. (T-Year 919 - Present)
 - **_Adva_** seeks Squall to further assist **_Ember_** in her Crusade. (E-Year 2034)
+- **_Rai_** and **_Arete_**, seeing the hostile Earth Institution, pursue Deluge and Bastion. 
