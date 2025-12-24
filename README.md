@@ -4,27 +4,38 @@
 ## T-Year 900
 - March on Tramalen establishes Firen Knightsdale / Irision
 - **_Xor_** participates in the Poisi Knightsdale movement.
+- Tulian World Governments cannot agree on how to deal with Irision, but all agree that direct intervention is not an option. 
 ## T-Year 901
 - **_Is’ale_** begins pleading to the government to intervene in Irision after news broke of the evils of the nation.
-- Siege of Set establishes Poisi Knightsdale / Tixolam 
+- Siege of Set establishes Poisi Knightsdale / Tixolam
+- Irision and Tixolam are faced with minor trade sanctions.
+- Investigations into the freedom of citizens in Irision and Tixolam are blocked by the two nations. 
 ## T-Year 902
+- Higher education in Irision is fully abolished, forcing **_Ember_** to return home to her parents. 
 - The Great Massacre in Icik/Snai capitals establishes Fraklen and Swailen (Icik/Snai Knightsdales).
 ## T-Year 905
 - Rutt (Naturine) & Wavalo (Watrish) form the Phlanax of Freedom, a military alliance against Irision. (T-Year 905 - Present)
 - Poisi-Assisted Windstorm Protests coup in Airren Nation establishes Knightsdale / Wrenao (Airren).
 - Remaining Free States (Roccian Delekt, Ballad Ralia, Sakai Bunnis) join the Phlanax.
+- Pro-Knightsdale Protests in Ralia are brutally suppressed.
+- A counter-coup occurs in Wrenao, temporarly returning freedom to the nation. A civil war breaks out, and Airren warriors slaughter Airren civilians.
 ## T-Year 906
 - Tixolam (Poisi) begins investigations and tests revolving around Forbidden Elements.
 - **_Xor_** is put into a minor government position.
+- Wrenao defeats the largest armies in the Anti-Knightsdale resistance, limited to fighting guerrillas in the countryside plains. 
 - Knightsdale Nations form the Independent Coven, a "defensive" military alliance. (T-Year 906 - Present)
+- Rutt and Wavalo begin shutting down radical social medias after their own Knightsdale movements gather there.
 ## T-Year 907
 - Tixolam begins human tests, starting a "Perfect-Warrior" program with Bane being given to ***Warrior-000 "Zero"***.
 - **_Xor_** is tasked with being the main diplomat between Irision and Tixolam.
+- Representatives from Wrenao, Tixolam, and Fraklen give the "Speeches of Destiny" in the world government meeting, declaring the Phlanax as evil and aggressive.
+- Tulian World Government collapses when the Coven forms their own independent World Government, and neither can claim full legitimacy. 
 ## T-Year 908
 - **Dal yon Tulia** starts, a deadly global war between the Coven and Phlanax, displacing and killing millions within the first months. (T-Year 908 - Present)
 - **_Is’ale_** immediately joins the Rutt Military (Naturine), refusing to let Knightsdales dominate Tulia.
 - **_Xor_** silently begins to regret his alignment after his daughter is killed for protesting.
 - First refugees flee to Earth, most die in space.
+- Wavalo publically executes Knightsdale sympathisers, attempting to send a message.
 - **_Xor_** is fired for Conspiracy to Sabotage Tixolam.
 - ***Rai***, ***Arete***, & **_Xor_** flee in the first refugee group. (**_Rai_** & **_Arete_** together, **_Xor_** alone) (E-Year 2020)
 ## T-Year 909
