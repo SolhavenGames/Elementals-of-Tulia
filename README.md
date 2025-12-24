@@ -13,6 +13,7 @@
 ## T-Year 902
 - Higher education in Irision is fully abolished, forcing **_Ember_** to return home to her parents. 
 - The Great Massacre in Icik/Snai capitals establishes Fraklen and Swailen (Icik/Snai Knightsdales).
+- A counter coup in Swailen succeeds, but is quickly suppressed by Fraklen warriors. 
 ## T-Year 905
 - Rutt (Naturine) & Wavalo (Watrish) form the Phlanax of Freedom, a military alliance against Irision. (T-Year 905 - Present)
 - Poisi-Assisted Windstorm Protests coup in Airren Nation establishes Knightsdale / Wrenao (Airren).
@@ -29,22 +30,27 @@
 - Tixolam begins human tests, starting a "Perfect-Warrior" program with Bane being given to ***Warrior-000 "Zero"***.
 - **_Xor_** is tasked with being the main diplomat between Irision and Tixolam.
 - Representatives from Wrenao, Tixolam, and Fraklen give the "Speeches of Destiny" in the world government meeting, declaring the Phlanax as evil and aggressive.
-- Tulian World Government collapses when the Coven forms their own independent World Government, and neither can claim full legitimacy. 
+- Tulian World Government collapses when the Coven forms their own independent World Government, and neither can claim full legitimacy.
+- Bunnis becomes the first Phlanax nation to mass mobilize preparing for war, against the wishes of their allies.
 ## T-Year 908
-- **Dal yon Tulia** starts, a deadly global war between the Coven and Phlanax, displacing and killing millions within the first months. (T-Year 908 - Present)
+- **Dal yon Tulia** starts after a border conflict between Irision and Rutt, a deadly global war between the Coven and Phlanax, displacing and killing millions within the first months. (T-Year 908 - Present)
 - **_Is’ale_** immediately joins the Rutt Military (Naturine), refusing to let Knightsdales dominate Tulia.
 - **_Xor_** silently begins to regret his alignment after his daughter is killed for protesting.
 - First refugees flee to Earth, most die in space.
 - Wavalo publically executes Knightsdale sympathisers, attempting to send a message.
 - **_Xor_** is fired for Conspiracy to Sabotage Tixolam.
 - ***Rai***, ***Arete***, & **_Xor_** flee in the first refugee group. (**_Rai_** & **_Arete_** together, **_Xor_** alone) (E-Year 2020)
+- An attempted Knightsdale coup in Sharlin (Litti nation) fails due to high public support for the current sitting government.
+- **_Ember's_** parents are forcefully enlisted, leaving her alone. 
 ## T-Year 909
 - Coven nations begin confiscating and stealing Space equipment, heavily hindering attempts to flee to Earth. 
 - **_Zero_**, along with the 6 other soldiers in his division, are deployed to their first missions, assassinations across Ralia (Ballad Nation)
 and Wavalo (Watrish Nation).
+- An isolationist movement in Rutt fails after Wavalo and Ralia silences them with spies and cyber warfare. 
 - **_K’zorak_** becomes a popular news anchor in Ralia, covering war news. 
 - **_Zero_** reaches Bane Gate II, the first to do so.
-- **_Xor_** integrates to Human society, choosing to hold on to his nationalism secretly (E-Year 2021). 
+- **_Xor_** integrates to Human society, choosing to hold on to his nationalism secretly (E-Year 2021).
+- Rutt discovers Wavalo & Ralia's actions, demanding reparations. Both apologize, but neither pay. 
 - **_Spara_** defects from the Icik Army, hiding out deep in The Far South.
 - The Forbidden Element Death is born from the mass murders in Dal yon Tulia, catching the God's attention for a moment.
 - **_Dera_** is drafted, splitting him from his sister **_Teira_**, who flees to Sharlin, taking refuge in refugee camps. 
@@ -54,6 +60,7 @@ the poisi population.
 - Earth's Global Government forms an institution named "The Elemental Integration Initiative" tasked with studying and protecting Elementals on the
 planet. (E-Year 2021)
 - **_Rai_** and **_Arete_**, distrustful of Humanity, retreat to unclaimed territory in the Amazon Rainforest. (E-Year 2022)
+- **_Ember_** flees to Wrenao after hearing of the limited Coven patrols there. 
 ## T-Year 910
 - **_Adva_** dodges the Airren draft, living in ruined cities called "No Man's Land".
 - Ralia, despite being a Phlanax nation, silences **_K’zorak_** due to beliefs that his coverage spreads fear among the populations.
@@ -133,6 +140,11 @@ grow closer to the Light element.
 - Hundreds of Elementals begin to go missing on Earth. (E-Year 2034)
 ## T-Year 920
 - **_Zezri's_** underground society tries and fails to cure **_Kael_**, who reaches Death Gate V.
+- Contact Death spreads through Tixolam and **_Zezri's_** underground society due to contact with victims.
+- Tixolam begins publicly demonizing Forbidden Elements, growing afraid of the monsters that broke from their grip. 
 - **_Ember_** attacks Wuhan-Nanjing, causing 1.2 trillion in damages and killing hundreds of thousands. (E-Year 2036)
 - **_Adva_** gains Squall, regaining her Windsi. She is hesitant to move beyond Gate I. (E-Year 2036)
 - **_Rai_** and **_Arete_** hear of the attack on Wuhan-Nanjing, beginning to admire **_Ember_** from a distance. (E-Year 2036)
+- The Coven declares Forbidden Elements an anomoly, while the Phlanax declare the Forbidden Elements a bi-product of Coven ambition.
+- Both sides claim to commmit to no more use of Forbidden Elements.
+- **_Rai_** reaches Deluge Gate I. (E-Year 2037)
