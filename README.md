@@ -84,6 +84,10 @@ grow closer to the Light element.
 ## T-Year 915
 - **_Ember_** & **_Adva_** have a close encounter with Coven soldiers, resulting in them having to fight for their lives.
 - **_Zezri_** experiments with her power for the first time, discovering her pocket dimension.
+## T-Year 916
+- e
+## T-Year 917 
+- e
 ## T-Year 918 
 - ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
 - Nature discovers **_Aeri's_** Warshine and snitches. Light admits to secretly enchanting them, beginning the Great God War as the Gods scramble to ensure their people survive.
