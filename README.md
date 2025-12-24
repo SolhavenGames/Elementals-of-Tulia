@@ -85,10 +85,14 @@ grow closer to the Light element.
 - **_Ember_** & **_Adva_** have a close encounter with Coven soldiers, resulting in them having to fight for their lives.
 - **_Zezri_** experiments with her power for the first time, discovering her pocket dimension.
 ## T-Year 916
-- e
+- **_Zezri_** is confronted by Poisi warriors, and is forced to use her element to defender herself.
+- Joined by a group of other experimented escapees, **_Zezri_** helps form an underground community preparing to liberate others from Tixolam's evils. 
 ## T-Year 917 
-- e
+- **_Zezri_** climbs the heirarchy of her underground society, becoming the leader due to her power.
+- Tixolam secretly declares a state of emergency & shadow war regarding the escape of some test subejcts.
+- **_Zero_** is sent to confront those thought to be tied to **_Zezri's_** underground society. 
 ## T-Year 918 
+- **_Zezri_** and **_Zero_** meet and fight, resulting in **_Zezri's_** retreat when she is fatally injured. Her portals cause enough energy to gain some regional attention, and she reaches Void Gate II from the battle. 
 - ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
 - Nature discovers **_Aeri's_** Warshine and snitches. Light admits to secretly enchanting them, beginning the Great God War as the Gods scramble to ensure their people survive.
 - ***Ember***, ***Adva***, and ***Kael*** arrive to Earth. (E-Year 2033)
@@ -106,9 +110,18 @@ grow closer to the Light element.
 - Accusations of Tixolam using Forbidden Elements or banned technology rise, which Tixolam does not respond to.
 ## T-Year 919
 - News of Forbidden Elements not being myths spread like wildfire, and the possibility of such shakes Tulia to its core.
+- Tixolam assaults **_Zezri's_** society, engaging in bloody conflict in their own countryside.
+- **_Zezri_** and **_Zero_** meet again. This time **_Zezri_** defeats **_Zero_**, forcing a retreat.
+- Tixolam loses the battle, and is forced to retreat.
+- **_Kael_** is freed by **_Zezri's_** underground society, who leads an attack on Tixolam Labs. 
 - Gods begin sticking their hands in Dal yon Tulia in attempts to tip the scale, causing millions more deaths.
 - News of Forbidden Elements reaches Earth, though some already knew due to **_Ember_** awakening Hellfire.
 - Coven and Phlanax nations alike begin their own Forbidden Element experiments. (T-Year 919 - Present)
 - **_Adva_** seeks Squall to further assist **_Ember_** in her Crusade. (E-Year 2034)
-- **_Rai_** and **_Arete_**, seeing the hostile ERI, pursue Deluge and Bastion. (E-Year 2034)
+- **_Rai_** and **_Arete_**, seeing the hostile ERI, pursue Deluge and Bastion. **_Rai_** secretly wishes to pursue it to feel free from **_Arete's_** protection. (E-Year 2034)
 - Hundreds of Elementals begin to go missing on Earth. (E-Year 2034)
+## T-Year 920
+- **_Zezri's_** underground society tries and fails to cure **_Kael_**, who reaches Death Gate V.
+- **_Ember_** attacks Wuhan-Nanjing, causing 1.2 trillion in damages and killing hundreds of thousands. (E-Year 2036)
+- **_Adva_** gains Squall, regaining her Windsi. She is hesitant to move beyond Gate I. (E-Year 2036)
+- **_Rai_** and **_Arete_** hear of the attack on Wuhan-Nanjing, beginning to admire **_Ember_** from a distance. (E-Year 2036)
