@@ -120,6 +120,8 @@ grow closer to the Light element.
 - **_Zezri_** and **_Zero_** meet and fight, resulting in **_Zezri's_** retreat when she is fatally injured. Her portals cause enough energy to gain some regional attention, and she reaches Void Gate II from the battle. 
 - ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
 - Nature discovers **_Aeri's_** Warshine and snitches. Light admits to secretly enchanting them, beginning the Great God War as the Gods scramble to ensure their people survive.
+- Light abandons **_Aeri_** after believing **_Aeri_** is too volatile, and it's people needs its attention more. It notably does not attempt to remove Warshine from him.
+- **_Aeri_** ends up wandering with **_Teira_** through the Sharlin countryside. They bond over their Forbidden Elements, impressing each other with their powers. 
 - ***Ember***, ***Adva***, and ***Kael*** arrive to Earth. (E-Year 2033)
 - **_Xor_** assists **_Ember_**, **_Adva_**, and **_Kael_** with assimilation. (E-Year 2033)
 - A new person, **_Diablo_**, rises to power in the EII. Immediately renaming it to the "Elemental Research Initiative", they secretly become hostile to Elementals, as **_Diablo_** personally sees Elementals as a threat to humanity. (E-Year 2033)
@@ -134,6 +136,8 @@ grow closer to the Light element.
 - **_Ember_** blames Humanity for losing **_Kael_** (the injury prior weakening him), and declares a personal war on them with **_Adva's_** support. (E-Year 2034)
 - Accusations of Tixolam using Forbidden Elements or banned technology rise, which Tixolam does not respond to.
 ## T-Year 919
+- **_K'zorak_** reaches Omni Gate II as **_Dera_** reaches Time Gate II. They plan to flee to Earth for safety from Phlanax Bounty Hunters.
+- **_Teira_** abandons **_Aeri_**, leaving him confused and alone.
 - News of Forbidden Elements not being myths spread like wildfire, and the possibility of such shakes Tulia to its core.
 - Tixolam assaults **_Zezri's_** society, engaging in bloody conflict in their own countryside.
 - **_Zezri_** and **_Zero_** meet again. This time **_Zezri_** defeats **_Zero_**, forcing a retreat.
@@ -145,14 +149,18 @@ grow closer to the Light element.
 - **_Adva_** seeks Squall to further assist **_Ember_** in her Crusade. (E-Year 2034)
 - **_Rai_** and **_Arete_**, seeing the hostile ERI, pursue Deluge and Bastion. **_Rai_** secretly wishes to pursue it to feel free from **_Arete's_** protection. (E-Year 2034)
 - Hundreds of Elementals begin to go missing on Earth. (E-Year 2034)
+- **_K'zorak_** and **_Dera_** flee Tulia together, being chased away by Phlanax warriors. 
 ## T-Year 920
+- **_K'zorak_** and **_Dera_** arrive on earth. (E-Year 2035)
+- **_Arete_** reaches Bastion Gate I. (E-Year 2035)
 - **_Zezri's_** underground society tries and fails to cure **_Kael_**, who reaches Death Gate V.
 - Contact Death spreads through Tixolam and **_Zezri's_** underground society due to contact with victims.
 - Tixolam begins publicly demonizing Forbidden Elements, growing afraid of the monsters that broke from their grip.
 - A wounded **_Zero_** is released by **_Zezri's_** underground group, strippinng him of his leadership and keeping him confused.
 - **_Ember_** attacks Wuhan-Nanjing, causing 1.2 trillion in damages and killing hundreds of thousands. (E-Year 2036)
 - **_Adva_** gains Squall, regaining her Windsi. She is hesitant to move beyond Gate I. (E-Year 2036)
-- **_Rai_** and **_Arete_** hear of the attack on Wuhan-Nanjing, beginning to admire **_Ember_** from a distance. (E-Year 2036)
+- **_K'zorak_** and **_Dera_** are refused refuge all around the world, and end up living on Yakushima Island. (E-Year 2036)
+- Elementals across Earth begin to admire **_Ember_**. (E-Year 2036)
 - The Coven declares Forbidden Elements an anomoly, while the Phlanax declare the Forbidden Elements a bi-product of Coven ambition.
 - Both sides claim to commmit to no more use of Forbidden Elements.
 - Irision begins researching how to access the Sol element, struggling due to low val banks among test subejcts.
@@ -164,4 +172,12 @@ grow closer to the Light element.
 - **_Ember_**, under the alias Hellfire, is declared a wanted terrorist across planet Earth. (E-Year 2037)
 ## T-Year 921
 - **_Adva_** finally chooses to sacrifice her Windsi for Squall Gate II. **_Ember_** supports her through this. (E-Year 2037)
-- Phlanax World Government declare _all_ Forbidden Element wielders wanted criminals. 
+- **_Ember_** reaches Hellfire Gate II after she experimented with her power in an isolated area. (E-Year 2038)
+- Phlanax World Government declare _all_ Forbidden Element wielders wanted criminals. (E-Year 2038)
+- **_Rai_** reaches Deluge Gate II, preparing to intervene with **_Ember's_** terrorism. **_Arete_** reaches Bastion Gate II, but remains neutral. (E-Year 2038)
+- **_Diablo_**, after spending billions on self-experimentation, discovers and reaches Pure Gate I in the same day. (E-Year 2038)
+- Forbidden Elementals on Tulia begin to gather, as they plan to flee the growing hostilities of Tulia.
+- **_Zezri_** is forced to trap **_Zero_** in her pocket dimension, as he kept attempting to fight her.
+- **_Aeri_** begins making plans to flee after narrowly evading capture by Coven soldiers. 
+## T-Year 922
+- placeholder
