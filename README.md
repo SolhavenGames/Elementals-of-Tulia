@@ -135,6 +135,7 @@ grow closer to the Light element.
 - **_Ember_** kills **_Xor_** after discovering his nationalistic beliefs, and him defending them, including the murder of his own daughter. **_Adva_** supports this. (E-Year 2033)
 - ***Kael*** is returned to Tulia by Irision warriors, infected with Death as a test subject in Tixolam. 
 - **_Ember_** blames Humanity for losing **_Kael_** (the injury prior weakening him), and declares a personal war on them with **_Adva's_** support. (E-Year 2034)
+- **_Terkou_** meets **_Ember_** and **_Adva_**, giving **_Adva_** a bo-staff that coonducts her val a little _too_ well, making her dangerous. 
 - Accusations of Tixolam using Forbidden Elements or banned technology rise, which Tixolam does not respond to.
 ## T-Year 919
 - **_K'zorak_** reaches Omni Gate II as **_Dera_** reaches Time Gate II. They plan to flee to Earth for safety from Phlanax Bounty Hunters.
@@ -148,6 +149,7 @@ grow closer to the Light element.
 - News of Forbidden Elements reaches Earth, though some already knew due to **_Ember_** awakening Hellfire.
 - Coven and Phlanax nations alike begin their own Forbidden Element experiments. (T-Year 919 - Present)
 - **_Adva_** seeks Squall to further assist **_Ember_** in her Crusade. (E-Year 2034)
+- **_Terkou_** assists **_Adva_** in her search for Squall, resulting in her getting further training in the use of her staff.
 - **_Rai_** and **_Arete_**, seeing the hostile ERI, pursue Deluge and Bastion. **_Rai_** secretly wishes to pursue it to feel free from **_Arete's_** protection. (E-Year 2034)
 - Hundreds of Elementals begin to go missing on Earth. (E-Year 2034)
 - **_K'zorak_** and **_Dera_** flee Tulia together, being chased away by Phlanax warriors. 
@@ -159,7 +161,7 @@ grow closer to the Light element.
 - Tixolam begins publicly demonizing Forbidden Elements, growing afraid of the monsters that broke from their grip.
 - A wounded **_Zero_** is released by **_Zezri's_** underground group, strippinng him of his leadership and keeping him confused.
 - **_Ember_** attacks Wuhan-Nanjing, causing 1.2 trillion in damages and killing hundreds of thousands. (E-Year 2036)
-- **_Adva_** gains Squall, regaining her Windsi. She is hesitant to move beyond Gate I. (E-Year 2036)
+- **_Adva_** gains Squall, regaining her Windsi. She is hesitant to move beyond Gate I, though **_Terkou_** applies pressure. (E-Year 2036)
 - **_K'zorak_** and **_Dera_** are refused refuge all around the world, and end up living on Yakushima Island. (E-Year 2036)
 - Elementals across Earth begin to admire **_Ember_**. (E-Year 2036)
 - The Coven declares Forbidden Elements an anomoly, while the Phlanax declare the Forbidden Elements a bi-product of Coven ambition.
@@ -181,4 +183,4 @@ grow closer to the Light element.
 - **_Zezri_** is forced to trap **_Zero_** in her pocket dimension, as he kept attempting to fight her.
 - **_Aeri_** begins making plans to flee after narrowly evading capture by Coven soldiers. 
 ## T-Year 922
-- placeholder
+- First HUMAN (Humanoid Unit for Mitigation, Armor, and Nullification) units are deployed. They are highly experimental and Elementals defeat them with ease.
