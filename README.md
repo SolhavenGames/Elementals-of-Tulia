@@ -5,7 +5,7 @@
 - March on Tramalen establishes Firen Knightsdale / Irision
 - **_Xor_** participates in the Poisi Knightsdale movement.
 - Tulian World Governments cannot agree on how to deal with Irision, but all agree that direct intervention is not an option.
-- **_Terkou_** moves to Antarctica. 
+- **_Terkou_** moves to Antarctica. (E-Year 2009) 
 ## T-Year 901
 - **_Is’ale_** begins pleading to the government to intervene in Irision after news broke of the evils of the nation.
 - Siege of Set establishes Poisi Knightsdale / Tixolam
@@ -183,4 +183,5 @@ grow closer to the Light element.
 - **_Zezri_** is forced to trap **_Zero_** in her pocket dimension, as he kept attempting to fight her.
 - **_Aeri_** begins making plans to flee after narrowly evading capture by Coven soldiers. 
 ## T-Year 922
-- First HUMAN (Humanoid Unit for Mitigation, Armor, and Nullification) units are deployed. They are highly experimental and Elementals defeat them with ease.
+- First HUMAN (Humanoid Unit for Mitigation, Armor, and Nullification) units are deployed. They are highly experimental and Elementals defeat them with ease. (E-Yer 2038)
+-  
