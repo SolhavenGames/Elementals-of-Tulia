@@ -12,7 +12,7 @@
 - Irision and Tixolam are faced with minor trade sanctions.
 - Investigations into the freedom of citizens in Irision and Tixolam are blocked by the two nations. 
 ## T-Year 902
-- Higher education in Irision is fully abolished, forcing **_Ember_** to return home to her parents. 
+- Higher education in Irision is fully abolished, forcing **_Imbra_** to return home to her parents. 
 - The Great Massacre in Icik/Snai capitals establishes Fraklen and Swailen (Icik/Snai Knightsdales).
 - A counter coup in Swailen succeeds, but is quickly suppressed by Fraklen warriors. 
 ## T-Year 905
@@ -42,7 +42,7 @@
 - **_Xor_** is fired for Conspiracy to Sabotage Tixolam.
 - ***Rai***, ***Arete***, & **_Xor_** flee in the first refugee group. (**_Rai_** & **_Arete_** together, **_Xor_** alone) (E-Year 2020)
 - An attempted Knightsdale coup in Sharlin (Litti nation) fails due to high public support for the current sitting government.
-- **_Ember's_** parents are forcefully enlisted, leaving her alone. 
+- **_Imbra's_** parents are forcefully enlisted, leaving her alone. 
 ## T-Year 909
 - Coven nations begin confiscating and stealing Space equipment, heavily hindering attempts to flee to Earth. 
 - **_Zero_**, along with the 6 other soldiers in his division, are deployed to their first missions, assassinations across Ralia (Ballad Nation)
@@ -60,7 +60,7 @@ the poisi population.
 - **_Dera_** fakes his own death, fleeing to the Rainforest of Kial in Ralia.
 - Earth's Global Government known as the Association of Democratic States (ADS) forms an institution named "The Elemental Integration Initiative" tasked with studying and protecting Elementals on the planet. (E-Year 2021)
 - **_Rai_** and **_Arete_**, distrustful of Humanity, retreat to unclaimed territory in the Amazon Rainforest. (E-Year 2022)
-- **_Ember_** flees to Wrenao after hearing of the limited Coven patrols there. 
+- **_Imbra_** flees to Wrenao after hearing of the limited Coven patrols there. 
 ## T-Year 910
 - **_Adva_** dodges the Airren draft, living in ruined cities called "No Man's Land".
 - Ralia, despite being a Phlanax nation, silences **_K’zorak_** due to beliefs that his coverage spreads fear among the populations.
@@ -68,27 +68,27 @@ the poisi population.
 - **_Kael_** watches his family get massacred by Icik soldiers for protesting.
 - Knightsdale Youth programs are exposed, forcing the Phlanax to treat every non-Phlanax born with caution.
 - Xor becomes a trusted elemental among human society (E-Year 2023)
-- **_Ember_** and **_Adva_** meet in Wrenao, sharing information and growing to trust each other.
+- **_Imbra_** and **_Adva_** meet in Wrenao, sharing information and growing to trust each other.
 - **_Aeri_** is discharged from the Sharlin Military and sentenced to "Godly Intervention", sent to the countryside to live off the land and
 grow closer to the Light element.
 ## T-Year 911
 - **_Aeri_** is given Warshine by Light, who keeps this a secret from the rest of the gods.
 - **_Kael_** is taken as a POW by Phlanax coastal raids and sent to Rutt.
-- Nature realizes that **_Ember_** has Hellfire sleeping within her, building suspicion around the hidden locked element.
+- Nature realizes that **_Imbra_** has Hellfire sleeping within her, building suspicion around the hidden locked element.
 - Phlanax warriors begin to recapture stolen Space equipment, building a stockpile for those who wish to flee to Earth.
 - **_Zezri_** is enlisted into the Dalino Military (Darrekin) and placed on the border with Tixolam
 - **_Zezri_** is kidnapped in her sleep by Tixolam soldiers and brought into the Forbidden Element tests. 
 ## T-Year 912
 - **_Is’ale_** is honorably discharged from the Rutt Military after facing a brutal injury to his abdomen, which actually happens to increase his val bank. 
 - **_Spara_** is found by Snai soldiers, being forced to fight her way out and fleeing to Bunnis.
-- Fire element swears to know nothing about **_Ember's_** Hellfire, telling the truth. Suspicion and distrust rises among the gods.
+- Fire element swears to know nothing about **_Imbra's_** Hellfire, telling the truth. Suspicion and distrust rises among the gods.
 - **_Is’ale_** narrowly dodges an assassination attempt, provoking Rutt to try and get him off the planet. 
 - Gods declare that Hellfire is simply an anomaly and decide to wait for more evidence before action, angering Nature.
 - Nature no longer trusts anyone, and begins investigating each and every elemental for forbidden energies, beginning with the Firen.
-- Irision (Firen) sends warriors to Earth to recover Ember after concluding that she wields Hellfire with Tixolam's help.
+- Irision (Firen) sends warriors to Earth to recover Imbra after concluding that she wields Hellfire with Tixolam's help.
 - **_Teira_** leaves the refugee camp, with a mission to find her remaining family members. She awakens her val, entering Space Gate I, which urges her to isolate.
 ## T-Year 913
-- Nature finishes investigating every Firen, finding that only Ember currently wields Hellfire. It now moves to investigate Airren elementals.
+- Nature finishes investigating every Firen, finding that only **_Imbra_** currently wields Hellfire. It now moves to investigate Airren elementals.
 - Phlanax World Government creates the "Peacekeepers", a force that wanders in attempts to find and protect civilians.
 - Rutt successfully escorts **_Is’ale_** to Earth, cooperating with the local government. (E-Year 2026)
 - Zero reaches Bane Gate III after assassinating a Naturine General. The sudden confusion from the shift of Gates brings the military of Tixolam to grant him a small vacation.
@@ -101,7 +101,7 @@ grow closer to the Light element.
 - **_K’zorak_**, who had been living off the land for the past few years, helps **_Dera_** stabilize.
 - **_Zezri_** escapes Tixolam captivity, now having Void Gate I. Fearing herself, she does not return home and refuses to use her element.
 ## T-Year 915
-- **_Ember_** & **_Adva_** have a close encounter with Coven soldiers, resulting in them having to fight for their lives.
+- **_Imbra_** & **_Adva_** have a close encounter with Coven soldiers, resulting in them having to fight for their lives.
 - **_Zezri_** experiments with her power for the first time, discovering her pocket dimension.
 - **_Aeri_** reaches Warshine III thanks to Light's extended training. 
 ## T-Year 916
@@ -119,23 +119,23 @@ grow closer to the Light element.
 - **_Aeri_** and **_Teira_** bump into each other once again. Light is afraid of Teira's power, but doesn't warn the other gods because it would have to reveal **_Aeri's_** warshine. 
 ## T-Year 918 
 - **_Zezri_** and **_Zero_** meet and fight, resulting in **_Zezri's_** retreat when she is fatally injured. Her portals cause enough energy to gain some regional attention, and she reaches Void Gate II from the battle. 
-- ***Ember*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
+- ***Imbra*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
 - Nature discovers **_Aeri's_** Warshine and snitches. Light admits to secretly enchanting them, beginning the Great God War as the Gods scramble to ensure their people survive.
 - Light abandons **_Aeri_** after believing **_Aeri_** is too volatile, and it's people needs its attention more. It notably does not attempt to remove Warshine from him.
 - **_Aeri_** ends up wandering with **_Teira_** through the Sharlin countryside. They bond over their Forbidden Elements, impressing each other with their powers. 
-- ***Ember***, ***Adva***, and ***Kael*** arrive to Earth. (E-Year 2033)
-- **_Xor_** assists **_Ember_**, **_Adva_**, and **_Kael_** with assimilation. (E-Year 2033)
-- A new person, **_Diablo_**, rises to power in the EII. Immediately renaming it to the "Elemental Research Initiative", they secretly become hostile to Elementals, as **_Diablo_** personally sees Elementals as a threat to humanity. (E-Year 2033)
+- ***Imbra***, ***Adva***, and ***Kael*** arrive to Earth. (E-Year 2033)
+- **_Xor_** assists **_Imbra_**, **_Adva_**, and **_Kael_** with assimilation. (E-Year 2033)
+- A new person, **_Troy_**, rises to power in the EII. Immediately renaming it to the "Elemental Research Initiative", they secretly become hostile to Elementals, as **_Troy_** personally sees Elementals as a threat to humanity. (E-Year 2033)
 - ERI begins researching and producing weaponry to combat and weaken Elemental Val. (E-Year 2033)
-- **_Ember_** awakens, being visited by the Fire god in an attempt to indoctrinate her. (E-Year 2033)
+- **_Imbra_** awakens, being visited by the Fire god in an attempt to indoctrinate her. (E-Year 2033)
 - **_Kael_** is temporarily wounded by Humans (ERI), no longer allowing him to fight at his best ability. (E-Year 2033)
-- **_Ember_**, **_Adva_**, **_Kael_**, and **_Xor_** encounter the Irision Warriors sent to reclaim Ember. (E-Year 2033)
-- **_Kael_** saves **_Ember's_** life, nearly sacrificing his own, resulting in her reaching Threshold III in Gate I for the first time. (E-Year 2033)
-- Irision warriors mock **_Ember_** after brutally injuring **_Kael_**, leaking **_Xor's_** past ties to Tixolam after recognizing him. (E-Year 2033)
-- **_Ember_** kills **_Xor_** after discovering his nationalistic beliefs, and him defending them, including the murder of his own daughter. **_Adva_** supports this. (E-Year 2033)
+- **_Imbra_**, **_Adva_**, **_Kael_**, and **_Xor_** encounter the Irision Warriors sent to reclaim Imbra. (E-Year 2033)
+- **_Kael_** saves **_Imbra's_** life, nearly sacrificing his own, resulting in her reaching Threshold III in Gate I for the first time. (E-Year 2033)
+- Irision warriors mock **_Imbra_** after brutally injuring **_Kael_**, leaking **_Xor's_** past ties to Tixolam after recognizing him. (E-Year 2033)
+- **_Imbra_** kills **_Xor_** after discovering his nationalistic beliefs, and him defending them, including the murder of his own daughter. **_Adva_** supports this. (E-Year 2033)
 - ***Kael*** is returned to Tulia by Irision warriors, infected with Death as a test subject in Tixolam. 
-- **_Ember_** blames Humanity for losing **_Kael_** (the injury prior weakening him), and declares a personal war on them with **_Adva's_** support. (E-Year 2034)
-- **_Terkou_** meets **_Ember_** and **_Adva_**, giving **_Adva_** a bo-staff that coonducts her val a little _too_ well, making her dangerous. 
+- **_Imbra_** blames Humanity for losing **_Kael_** (the injury prior weakening him), and declares a personal war on them with **_Adva's_** support. (E-Year 2034)
+- **_Terkou_** meets **_Imbra_** and **_Adva_**, giving **_Adva_** a bo-staff that coonducts her val a little _too_ well, making her dangerous. 
 - Accusations of Tixolam using Forbidden Elements or banned technology rise, which Tixolam does not respond to.
 ## T-Year 919
 - **_K'zorak_** reaches Omni Gate II as **_Dera_** reaches Time Gate II. They plan to flee to Earth for safety from Phlanax Bounty Hunters.
@@ -146,9 +146,9 @@ grow closer to the Light element.
 - Tixolam loses the battle, and is forced to retreat.
 - **_Kael_** is freed by **_Zezri's_** underground society, who leads an attack on Tixolam Labs. 
 - Gods begin sticking their hands in Dal yon Tulia in attempts to tip the scale, causing millions more deaths.
-- News of Forbidden Elements reaches Earth, though some already knew due to **_Ember_** awakening Hellfire.
+- News of Forbidden Elements reaches Earth, though some already knew due to **_Imbra_** awakening Hellfire.
 - Coven and Phlanax nations alike begin their own Forbidden Element experiments. (T-Year 919 - Present)
-- **_Adva_** seeks Squall to further assist **_Ember_** in her Crusade. (E-Year 2034)
+- **_Adva_** seeks Squall to further assist **_Imbra_** in her Crusade. (E-Year 2034)
 - **_Terkou_** assists **_Adva_** in her search for Squall, resulting in her getting further training in the use of her staff.
 - **_Rai_** and **_Arete_**, seeing the hostile ERI, pursue Deluge and Bastion. **_Rai_** secretly wishes to pursue it to feel free from **_Arete's_** protection. (E-Year 2034)
 - Hundreds of Elementals begin to go missing on Earth. (E-Year 2034)
@@ -160,10 +160,10 @@ grow closer to the Light element.
 - Contact Death spreads through Tixolam and **_Zezri's_** underground society due to contact with victims.
 - Tixolam begins publicly demonizing Forbidden Elements, growing afraid of the monsters that broke from their grip.
 - A wounded **_Zero_** is released by **_Zezri's_** underground group, strippinng him of his leadership and keeping him confused.
-- **_Ember_** attacks Wuhan-Nanjing, causing 1.2 trillion in damages and killing hundreds of thousands. (E-Year 2036)
+- **_Imbra_** attacks Wuhan-Nanjing, causing 1.2 trillion in damages and killing hundreds of thousands. (E-Year 2036)
 - **_Adva_** gains Squall, regaining her Windsi. She is hesitant to move beyond Gate I, though **_Terkou_** applies pressure. (E-Year 2036)
 - **_K'zorak_** and **_Dera_** are refused refuge all around the world, and end up living on Yakushima Island. (E-Year 2036)
-- Elementals across Earth begin to admire **_Ember_**. (E-Year 2036)
+- Elementals across Earth begin to admire **_Imbra_**. (E-Year 2036)
 - The Coven declares Forbidden Elements an anomoly, while the Phlanax declare the Forbidden Elements a bi-product of Coven ambition.
 - Both sides claim to commmit to no more use of Forbidden Elements.
 - Irision begins researching how to access the Sol element, struggling due to low val banks among test subejcts.
@@ -171,14 +171,14 @@ grow closer to the Light element.
 - ADS declares a state of emergency surrounding Elementals, giving the ERI more power and influence. (E-Year 2036)
 - **_Rai_** reaches Deluge Gate I. (E-Year 2037)
 - Large-Scale Anti Elemental weaponry begins development, made to be placed in Super Cities. (E-Year 2037)
-- **_Ember_** attacks New York Super City, causing just under 2 trillion in damage to the city. (E-Year 2037)
-- **_Ember_**, under the alias Hellfire, is declared a wanted terrorist across planet Earth. (E-Year 2037)
+- **_Imbra_** attacks New York Super City, causing just under 2 trillion in damage to the city. (E-Year 2037)
+- **_Imbra_**, under the alias Hellfire, is declared a wanted terrorist across planet Earth. (E-Year 2037)
 ## T-Year 921
-- **_Adva_** finally chooses to sacrifice her Windsi for Squall Gate II. **_Ember_** supports her through this. (E-Year 2037)
-- **_Ember_** reaches Hellfire Gate II after she experimented with her power in an isolated area. (E-Year 2038)
+- **_Adva_** finally chooses to sacrifice her Windsi for Squall Gate II. **_Imbra_** supports her through this. (E-Year 2037)
+- **_Imbra_** reaches Hellfire Gate II after she experimented with her power in an isolated area. (E-Year 2038)
 - Phlanax World Government declare _all_ Forbidden Element wielders wanted criminals. (E-Year 2038)
-- **_Rai_** reaches Deluge Gate II, preparing to intervene with **_Ember's_** terrorism. **_Arete_** reaches Bastion Gate II, but remains neutral. (E-Year 2038)
-- **_Diablo_**, after spending billions on self-experimentation, discovers and reaches Pure Gate I in the same day. (E-Year 2038)
+- **_Rai_** reaches Deluge Gate II, preparing to intervene with **_Imbra's_** terrorism. **_Arete_** reaches Bastion Gate II, but remains neutral. (E-Year 2038)
+- **_Troy_**, after spending billions on self-experimentation, discovers and reaches Pure Gate I in the same day. (E-Year 2038)
 - Forbidden Elementals on Tulia begin to gather, as they plan to flee the growing hostilities of Tulia.
 - **_Zezri_** is forced to trap **_Zero_** in her pocket dimension, as he kept attempting to fight her.
 - **_Aeri_** begins making plans to flee after narrowly evading capture by Coven soldiers. 
