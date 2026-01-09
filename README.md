@@ -33,7 +33,7 @@
 - Representatives from Wrenao, Tixolam, and Fraklen give the "Speeches of Destiny" in the world government meeting, declaring the Phlanax as evil and aggressive.
 - Tulian World Government collapses when the Coven forms their own independent World Government, and neither can claim full legitimacy.
 - Bunnis becomes the first Phlanax nation to mass mobilize preparing for war, against the wishes of their allies.
-## T-Year 908
+## T-Year 908 - First Arc (First Stories)
 - **Dal yon Tulia** starts after a border conflict between Irision and Rutt, a deadly global war between the Coven and Phlanax, displacing and killing millions within the first months. (T-Year 908 - Present)
 - **_Is’ale_** immediately joins the Rutt Military (Naturine), refusing to let Knightsdales dominate Tulia.
 - **_Xor_** silently begins to regret his alignment after his daughter is killed for protesting.
