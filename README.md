@@ -121,7 +121,7 @@ grow closer to the Light element.
 - **_Zezri_** and **_Zero_** meet and fight, resulting in **_Zezri's_** retreat when she is fatally injured. Her portals cause enough energy to gain some regional attention, and she reaches Void Gate II from the battle. 
 - ***Imbra*** & ***Adva*** find and recruit ***Kael***, who calls himself ***Vael***.
 - Nature discovers **_Aeri's_** Warshine and snitches. Light admits to secretly enchanting them, beginning the Great God War as the Gods scramble to ensure their people survive.
-- Light abandons **_Aeri_** after believing **_Aeri_** is too volatile, and it's people needs its attention more. It notably does not attempt to remove Warshine from him.
+- Light abandons **_Aeri_** after believing **_Aeri_** is too volatile, and it's people needs its attention more. It notably does not attempt to remove Warshine from them.
 - **_Aeri_** ends up wandering with **_Teira_** through the Sharlin countryside. They bond over their Forbidden Elements, impressing each other with their powers. 
 - ***Imbra***, ***Adva***, and ***Kael*** arrive to Earth. (E-Year 2033)
 - **_Xor_** assists **_Imbra_**, **_Adva_**, and **_Kael_** with assimilation. (E-Year 2033)
@@ -139,7 +139,7 @@ grow closer to the Light element.
 - Accusations of Tixolam using Forbidden Elements or banned technology rise, which Tixolam does not respond to.
 ## T-Year 919
 - **_K'zorak_** reaches Omni Gate II as **_Dera_** reaches Time Gate II. They plan to flee to Earth for safety from Phlanax Bounty Hunters.
-- **_Teira_** abandons **_Aeri_**, leaving him confused and alone.
+- **_Teira_** abandons **_Aeri_**, leaving them confused and alone.
 - News of Forbidden Elements not being myths spread like wildfire, and the possibility of such shakes Tulia to its core.
 - Tixolam assaults **_Zezri's_** society, engaging in bloody conflict in their own countryside.
 - **_Zezri_** and **_Zero_** meet again. This time **_Zezri_** defeats **_Zero_**, forcing a retreat.
