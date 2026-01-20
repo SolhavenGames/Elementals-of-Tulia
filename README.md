@@ -47,6 +47,7 @@
 - Coven nations begin confiscating and stealing Space equipment, heavily hindering attempts to flee to Earth. 
 - **_Zero_**, along with the 6 other soldiers in his division, are deployed to their first missions, assassinations across Ralia (Ballad Nation)
 and Wavalo (Watrish Nation).
+- **_Samae_** founds the Knights of Gaea, an anti-elemental organization which silently commits hate crimes against the species. (E-Year 2021)
 - An isolationist movement in Rutt fails after Wavalo and Ralia silences them with spies and cyber warfare. 
 - **_K’zorak_** becomes a popular news anchor in Ralia, covering war news. 
 - **_Zero_** reaches Bane Gate II, the first to do so.
@@ -161,6 +162,7 @@ grow closer to the Light element.
 - Tixolam begins publicly demonizing Forbidden Elements, growing afraid of the monsters that broke from their grip.
 - A wounded **_Zero_** is released by **_Zezri's_** underground group, strippinng him of his leadership and keeping him confused.
 - **_Imbra_** attacks Wuhan-Nanjing, causing 1.2 trillion in damages and killing hundreds of thousands. (E-Year 2036)
+- The Knights of Gaea declare war on **_Imbra_** specifically, revealing themselves as the ones harassing elementals for all these years. (E-Year 2036). 
 - **_Adva_** gains Squall, regaining her Windsi. She is hesitant to move beyond Gate I, though **_Terkou_** applies pressure. (E-Year 2036)
 - **_K'zorak_** and **_Dera_** are refused refuge all around the world, and end up living on Yakushima Island. (E-Year 2036)
 - Elementals across Earth begin to admire **_Imbra_**. (E-Year 2036)
@@ -172,13 +174,14 @@ grow closer to the Light element.
 - **_Rai_** reaches Deluge Gate I. (E-Year 2037)
 - Large-Scale Anti Elemental weaponry begins development, made to be placed in Super Cities. (E-Year 2037)
 - **_Imbra_** attacks New York Super City, causing just under 2 trillion in damage to the city. (E-Year 2037)
+- **_Samae_** duels **_Imbra_**, getting brutally injured in the fight.
 - **_Imbra_**, under the alias Hellfire, is declared a wanted terrorist across planet Earth. (E-Year 2037)
 ## T-Year 921
 - **_Adva_** finally chooses to sacrifice her Windsi for Squall Gate II. **_Imbra_** supports her through this. (E-Year 2037)
 - **_Imbra_** reaches Hellfire Gate II after she experimented with her power in an isolated area. (E-Year 2038)
 - Phlanax World Government declare _all_ Forbidden Element wielders wanted criminals. (E-Year 2038)
 - **_Rai_** reaches Deluge Gate II, preparing to intervene with **_Imbra's_** terrorism. **_Arete_** reaches Bastion Gate II, but remains neutral. (E-Year 2038)
-- **_Troy_**, after spending billions on self-experimentation, discovers and reaches Pure Gate I in the same day. (E-Year 2038)
+- **_Samae_**, after spending billions on self-experimentation, discovers and reaches Pure Gate I in the same day. (E-Year 2038)
 - Forbidden Elementals on Tulia begin to gather, as they plan to flee the growing hostilities of Tulia.
 - **_Zezri_** is forced to trap **_Zero_** in her pocket dimension, as he kept attempting to fight her.
 - **_Aeri_** begins making plans to flee after narrowly evading capture by Coven soldiers. 
