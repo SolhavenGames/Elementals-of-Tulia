@@ -27,10 +27,14 @@ How it feels: Witnesses are not touched at all by the presence of the omni wield
 and over-energized, constantly requiring more action.
 
 NOTES
+
 Flux/Core (Soft/Hard Element) choice can be made after the element has already been deployed. This essentially means that the user can launch a liquid-like substance at someone, then make
 it hard as rock.
+
 Omni at Gate V can mimic effects of all elements (excluding forbiddens). 
+
 Omni’s influence is not controllable, all it does is simply make elements act slightly different around the Omni user. 
+
 Progression through gates requires growing familiar with all elements, and conscious decisions to lose your own. 
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
 ---------- Pure (I - V) -  This element was created by the Human gods, in an attempt to mimic Elemental power. It’s the only forbidden element that isn’t truly an element, it’s pure val.
