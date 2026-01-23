@@ -1,5 +1,5 @@
 # THE TULIA ARC
-~“War took our home, but it can build us a new one.”~
+<sub>_“War took our home, but it can build us a new one.”_<sub>
 # TULIA
 ## ⦿ Collapse of the Free World
 As radical movements promoting nationalism and xenophobia conquer powerful
