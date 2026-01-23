@@ -1,22 +1,14 @@
-The Forbidden Elements. 
-
-Elements that are often considered to be a myth, are true. The elements are far more powerful than what is usually expected from an element, bringing upon power formerly unknown.
-Only one of these elements has been unlocked prior to the beginning of the Elementals story (Sol). The rest have not been seen, discovered, or used once in recorded history. 
-However due to the “Val Spike”, many come out now. Each Forbidden Element has different Gates of which they can be harnessed, empowered, and used. These differing Gates will 
-change the features and how the user can properly use it. Some versions of these elements can only be unlocked by specific types of elementals, specifically if they are 
-enhancements of existing elements.
-
+# The Forbidden Elements. 
 	Format: Element (Min Gate - Max Gate) - Description 
 	Gate (Gate) - Gate effects (Repeat for all gates)
 	How It Feels - Descrption of feelings/effects of element on witnesses or
 	NOTES 
 	Things to note
 
-Universal Forbidden Elements
-Anyone of any elemental type can use these.
----------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
----------- Omni (I - V) - The second youngest Forbidden Element, created by all of the elements together to create one final union.
-It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
+# Universal Forbidden Elements
+<sub>_Anyone of any elemental type can use these._<sub>
+# Omni (I - V) 
+The second youngest Forbidden Element, created by all of the elements together to create one final union. It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
 ⦿ Gate I - The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light
 green, Blood Omni becomes pink). Omni element will also share characteristics of the original element (Flux/Core, Temperature, Feel).
 Disconnection from the original element does not begin yet.
