@@ -2,8 +2,9 @@
 	
 ## ⦿ Imbra Hayes (Female) - Firen - Forbidden Element User (Hellfire)  
 A Firen born in New Iris into a wealthy popular family. Her father was a warrior, and her mother was a jeweler. Through her youth, she was the prized possession in her family, treated and spoiled as much as possible, while her parents taught her to be selfless and respectful. When the March on Tramalen happened, she was a student away from home, who quickly returned to be with her family in the time of uncertainty. The newly established Knightsdale in Tramalen took her family from her, drafting them into war. Her parents ordered her to flee out of the nation, and she eventually ended up inWrenao where she met her closest friend, Adva. Together, after narrowly surviving Wrenao, they fled to Earth with a new friend, Kael, who called himself Vael. There,she met Xor, who helped her, Adva, and Kael integrate into human culture. Unfortunately, humanity grew hostile. After multiple encounters with Human soldiers and Covenwarriors, she killed Xor for his ties to the Knightsdale movement, and Kael was ripped away, who she had grown to love. She declared a crusade against Humanity with her newly awakened Hellfire, assisted by her long-time friend, Adva.
- ⦾ Birthday: Year 873, Month Zneff, Day 22 
- ⦾ Height: 5'2" / 158cm
+
+⦾ Birthday: Year 873, Month Zneff, Day 22 
+⦾ Height: 5'2" / 158cm
 ## ⦿ Adva Anil (Female) - Airren - Forbidden Element User (Squall)  
 An Airren born in Wor. She was adopted by a wealthy Airren businesswoman who hardly recognized or acknowledged her, leading to Adva doing whatever she wanted in her 
 earlier years. When Wor fell to Wrenao and Dal yon Tulia started, she dodged a draft and survived incities torn to shreds, where she met Imbra. They survived together
