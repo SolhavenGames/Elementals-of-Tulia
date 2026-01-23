@@ -9,17 +9,23 @@
 <sub>_Anyone of any elemental type can use these._<sub>
 # Omni (I - V) 
 The second youngest Forbidden Element, created by all of the elements together to create one final union. It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
+
 ⦿ Gate I - The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light
 green, Blood Omni becomes pink). Omni element will also share characteristics of the original element (Flux/Core, Temperature, Feel).
 Disconnection from the original element does not begin yet.
+
 ⦿ Gate II  - Omni element loses the color and temperature of the original element. User gains the ability to alter the temperature.
 Disconnect from the original element begins here, and grows with each Gate. 
+
 ⦿ Gate III - Omni element loses the feel of the original element, allowing the user to choose so long as it’s in line with the Omni flux/core distinction. 
+
 ⦿ Gate IV - Omni element loses the Flux/Core distinction, allowing the user to choose which one they prefer for the moment. 
+
 ⦿ Gate V - The user can now change characteristics of the elements they have already created. They can also influence nearby elements (not control, simply influence). Disconnection 
 from the original element disappears entirely here, as the user struggles to even remember what their original element was. Memories are scattered and even when reminded, they’re skeptical. 
 How it feels: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated 
 and over-energized, constantly requiring more action.
+
 NOTES
 Flux/Core (Soft/Hard Element) choice can be made after the element has already been deployed. This essentially means that the user can launch a liquid-like substance at someone, then make
 it hard as rock.
