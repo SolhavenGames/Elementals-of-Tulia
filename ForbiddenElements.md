@@ -186,28 +186,28 @@ This element was created by the Fire element to empower rage in its people. The 
 
 ⦾ **Threshold III** - The final form of Hellfire. Val production reaches a staggering 100x, incredibly dangerous for the user and everyone around. While wisps are present in this threshold, there is still too much excess val, and these flames are hotter, faster, and nearly autonomous. No explosion can happen despite the massive val increase, instead the user will just pass out. When in this threshold, the user’s mind grows so incredibly focused that they cannot speak. However, the user struggles to retain control, as  their mind grows corrupted by the excess forbidden energy. The user feels as if they are moving incredibly fast, when in reality, their intense perception has slowed the world around them enough to make them feel that way. They become immensely strong, incredibly durable, and have incredible reaction speeds. Reaching this threshold will stain the user’s mental state forever, as they will always recall it as a loss of themselves. When confronted about it, they’ll shiver, growing a new found fear of their own power.
 
+**_How it feels_**: Witnesses of Hellfire, no matter the gate, will feel intrigued, almost as if they should approach the user. Their curiosity will rise, and in some cases, the witness can become infatuated with the user. The user themself, depending on the gate, will either become intensely emotional, or incredibly dedicated. No matter the gate, the user will always feel a sensation to burn, use their element, and even kill, as they get random intense episodes of immense bloodlust. 
+
 **NOTES**
 - The Hellfire user’s bloodlust will never target people they consider friends, lovers, or family (unless the gates say otherwise). 
 - Threshold N is most vulnerable to bloodlust outbursts.
 - Progression backwards through thresholds is difficult in the later gates, requiring meditation and regulation.
 - Progression through the gates requires learning emotional control, even if the user had it before Hellfire arrived.
----------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
-Sol (I - III) - The first Forbidden Element hand crafted by an element. It was created by Fire in an attempt to secure the battlefield easily, and given to a single warrior to test. This 
-element began a race for other elements to build their own forbiddens. A controlled, combat-centered fire based element that empowers the user at the cost of peace of mind. As it’s 
-empowered, the flames become a brighter orange. 
-Gate I - The user will become knowledgeable on how to best use the element of fire, providing them with a “Third Eye” which can predict enemy attacks and plan counter attacks. 
-Gate II  - Flames become more controlled, refusing to burn without being given explicit command by the user. Explosions are possible by throwing fireballs or shooting focused beams of
-fire. The Third Eye becomes louder, however, speaking more violence and hatred into the user’s mind. 
-Gate III - The Third Eye merges with the user’s consciousness. They are overwhelmed with the urge to kill alongside pride for the Firen element, alongside the heavy influence of nearby
-flames in a closed radius. The speed of their flight is heavily increased, and they can crash into the ground to cause massive explosions. The Third Eye becomes unbearable, eating away 
-at their sanity. 
-	How It Feels: Witnesses of this element will feel an aura of immense authority and control, with an urge to follow the commands and wisdom of the user. The user will grow hateful of 
-non-Firen culture and existence as the Third Eye spews propaganda into their ear, which can provoke self-harm as the Third Eye constantly convinces them they have not done enough for the 
-Firen.
----------- NOTES: 
-Sol’s flames are explosive.
-The Third Eye can be wrong.
-Progression through the element requires deeds that the Fire element declares bravery.
+
+## Sol (I - III)
+The first Forbidden Element hand crafted by an element. It was created by Fire in an attempt to secure the battlefield easily, and given to a single warrior to test. This element began a race for other elements to build their own forbiddens. A controlled, combat-centered fire based element that empowers the user at the cost of peace of mind. As it’s empowered, the flames become a brighter orange. 
+
+⦿ **Gate I** - The user will become knowledgeable on how to best use the element of fire, providing them with a “Third Eye” which can predict enemy attacks and plan counter attacks. 
+
+⦿ **Gate II**  - Flames become more controlled, refusing to burn without being given explicit command by the user. Explosions are possible by throwing fireballs or shooting focused beams of fire. The Third Eye becomes louder, however, speaking more violence and hatred into the user’s mind. 
+
+⦿ **Gate III** - The Third Eye merges with the user’s consciousness. They are overwhelmed with the urge to kill alongside pride for the Firen element, alongside the heavy influence of nearby flames in a closed radius. The speed of their flight is heavily increased, and they can crash into the ground to cause massive explosions. The Third Eye becomes unbearable, eating away at their sanity. 
+
+**_How It Feels_**: Witnesses of this element will feel an aura of immense authority and control, with an urge to follow the commands and wisdom of the user. The user will grow hateful of non-Firen culture and existence as the Third Eye spews propaganda into their ear, which can provoke self-harm as the Third Eye constantly convinces them they have not done enough for the Firen.
+**NOTES**: 
+- Sol’s flames are explosive.
+- The Third Eye can be wrong.
+- Progression through the element requires deeds that the Fire element declares bravery.
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
 AIRREN FORBIDDEN
 Squall (I - IV) - An Air-Based element only accessible to those who had windsi’s before they awakened. It was built by the Air element in an attempt to protect its people’s land and
