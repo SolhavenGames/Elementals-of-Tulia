@@ -101,61 +101,47 @@ increasingly hopeless and pessimistic as the Gates progress.
 - To break out of Death’s grasp requires immense positive emotional influence. 
 - Death on a user will not mimic its symptoms to anyone around them (unless infected by the victim’s element in Gate V and beyond).
 - Progression through the element is natural, the victim has no influence.
----------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
----------- Time (I - V) - The oldest forbidden element, created at the dawn of everything. One of the two elements that chooses its user. Once the user awakens their val, if they are chosen, their
-element will be replaced by Time gradually, over the course of 7-19 Tulia days. This element can also only have one user at a time. It can appear as either green wisps or physical green 
-clocks, where the user can grab the hands to reverse or speed up time.
-⦿ Gate I - Once the user awakens their val, the process of replacement begins. While it’s happening, the user will gain a near perfect memory that will remain for all gates. Instead of
-remembering moments, the user will feel as if they genuinely relive them. Once the replacement is finished, the user will gain “regional time control”, with everything in their view within
-30 meters of themselves. They do not yet unlock the clocks. Green wisps will appear around what is affected by the user. They cannot yet move things backwards in time. The speed at which
-things are moved through time is limited by 5 seconds per second.
-⦿ Gate II - The ability to move things backwards in time is unlocked. Speed is now limited to 10 seconds per second. Green wisps can now be crafted into weapons. The user shows a slight
-fascination with the future and advancements of technology. 
-⦿ Gate III - User unlocks the clock. Breaking the clock allows for them to freeze time in their general area (around them, 50 meters out). Grabbing the hands to move forward or back will
-affect what they choose in their mind. The clocks can be thrown as projectiles. If they break on contact, they will have the same freezing effect. Others can affect the clock, leaving room
-for odd and unpredictable effects on localized time on their behalf. User will become impatient. 
-⦿ Gate IV - Clocks can now affect universal time in cases of extreme emotion or focus. Altering it too much (beyond 15-30 seconds) will have devastating effects on the user’s stamina, with
-going beyond 75 seconds resulting in temporal death (the user lives forever in a state of frozen time). User can get visions of the future that come rarely in dreams.
-⦿ Gate V - With meditation, the user can predict outcomes with varying accuracy depending on how many possible outcomes there are. User unlocks fully localized time which only affects 
-them, allowing them to speed up themselves through time to attack quicker, rewind in time to heal injuries, or freeze themselves in time to be completely still. 
-How It Feels: Witnesses will feel some indescribable force that makes them perceive things differently (either faster or slower, with no correlation deciding what they get), with déjà vu
-growing intense around this user. With enough exposure to the user, witnesses will feel nothing. The user will grow slight obsessions with the future and obsession with tech, as well as 
-growing impatient. 
----------- NOTES
-If the Time user leaves time frozen for too long, they risk temporal death.
-If others break the clocks, potential effects are momentary time rewinds, time glitches, and brain lag. The Time user will feel these effects most. 
-Clocks are purely physical energy.
-Their future predictions are wrong more often than not, especially in the heat of battle. They get more accurate when the user uses their abilities.
-Rewinding injuries too frequently increases risk of temporal death. 
-Progression through the gates requires close encounters with Temporal Death, showing the user puts their trust in the element.
----------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
----------- Space (I - V) - The second oldest, created alongside Time. One of the two elements that chooses its user instead of being chosen. Once the chosen awakens their val, this 
-element will slowly replace their original element over the course of 6-8 Tulia days. This element will only have one user at a time. It will always appear as purple or blue wisps, 
-similar to the green wisps of its sister element Time. 
-Gate I - Once the user awakens their val, the replacement process will begin. Immediately, the user will lose their original element. Over the progressing days, the wisps of Space will
-randomly appear around their hands and lower arms over the period of replacement. Once it’s finished, the user will begin to struggle with depth perception and feel displaced constantly.
-At this gate, the element is purely melee, with each attack enchanted with space. Armor struggles, footing fails, and bones rattle in ways they shouldn’t when attacked by this user. The
-user is no longer a part of space, instead an influence on it.
-Gate II - User unlocks ranged attacks, being able to throw propel force. Depth perception worsens and the user can randomly struggle from balance issues. However, the user can feel and 
-affect things from a distance, mimicking telekinesis. In reality, it’s actually as if the item is  in their hand, simply visibly displaced. Under stress, the user can misjudge where the
-item may be—or, in rare cases, Space could unintentionally lie to them, and an item may be in a different place than they perceive. 
-Gate III - The user unlocks gravity control, and their balance issues disappear. User can now cause minor shifts in gravity that will affect everything in their affected radius (around
-50 meters). This user can now perfectly quantify every distance, with their mind being clouded by their calculations that they don’t welcome. The constant quantifications cloud their 
-thoughts, often making it difficult to focus. Their telekinesis can now pull and push items, limited to five times their own lifting strength.
-Gate IV - User can now travel through the three dimensions independently from each other. They are no longer affected by gravity, and can enchant items with their own localized gravity,
-limited based on the item’s size, requiring direct contact from the user. However, the user can summon spawns of their wisps to throw their gravity, or create “gravity bombs” which will 
-disrupt usual gravity in the area momentarily. The user will always feel displaced after this gate, and rarely walks on the ground anymore. With that, they will commonly lose focus as 
-their mind drifts through the dimensions independently. 
-Gate V - The user is now entirely immune to all gravity, no longer requires oxygen, and masters independent dimensional travel. The user can create their own, localized dimensions, in 
-which they can travel and warp in odd ways. To the untrained eye, their movements can sometimes look like short-range teleportation. The user can now collapse items in on themselves when
-it has been affected by their power after a while. They cannot do this to living creatures.
-How It Feels: Witnesses will get intense vertigo upon their first few exposures to the user, which will slowly wear off after enough time with them. The user will feel displaced and
-lonely, uncomfortable in cramped places. However, whether they enjoy this loneliness is unknown. The user struggles to build close relationships, as being near people has an off feeling
-to it. 
----------- NOTES
-Creating new “localized dimensions”, as in adding to the 3D. It allows them to move through 4D and above by adding the extra dimension. 
-User can move to 2D and even 1D. They cannot bring people with them.
-Progression through this gate requires meditation beyond the atmosphere of any celestial body. 
+
+## Time (I - V)
+The oldest forbidden element, created at the dawn of everything. One of the two elements that chooses its user. Once the user awakens their val, if they are chosen, their element will be replaced by Time gradually, over the course of 7-19 Tulia days. This element can also only have one user at a time. It can appear as either green wisps or physical green clocks, where the user can grab the hands to reverse or speed up time.
+
+⦿ **Gate I** - Once the user awakens their val, the process of replacement begins. While it’s happening, the user will gain a near perfect memory that will remain for all gates. Instead of remembering moments, the user will feel as if they genuinely relive them. Once the replacement is finished, the user will gain “regional time control”, with everything in their view within 30 meters of themselves. They do not yet unlock the clocks. Green wisps will appear around what is affected by the user. They cannot yet move things backwards in time. The speed at which things are moved through time is limited by 5 seconds per second.
+
+⦿ **Gate II** - The ability to move things backwards in time is unlocked. Speed is now limited to 10 seconds per second. Green wisps can now be crafted into weapons. The user shows a slight fascination with the future and advancements of technology. 
+
+⦿ **Gate III** - User unlocks the clock. Breaking the clock allows for them to freeze time in their general area (around them, 50 meters out). Grabbing the hands to move forward or back will affect what they choose in their mind. The clocks can be thrown as projectiles. If they break on contact, they will have the same freezing effect. Others can affect the clock, leaving room for odd and unpredictable effects on localized time on their behalf. User will become impatient. 
+
+⦿ **Gate IV** - Clocks can now affect universal time in cases of extreme emotion or focus. Altering it too much (beyond 15-30 seconds) will have devastating effects on the user’s stamina, with going beyond 75 seconds resulting in temporal death (the user lives forever in a state of frozen time). User can get visions of the future that come rarely in dreams. 
+
+⦿ **Gate V** - With meditation, the user can predict outcomes with varying accuracy depending on how many possible outcomes there are. User unlocks fully localized time which only affects them, allowing them to speed up themselves through time to attack quicker, rewind in time to heal injuries, or freeze themselves in time to be completely still. How It Feels: Witnesses will feel some indescribable force that makes them perceive things differently (either faster or slower, with no correlation deciding what they get), with déjà vu growing intense around this user. With enough exposure to the user, witnesses will feel nothing. The user will grow slight obsessions with the future and obsession with tech, as well as growing impatient. 
+
+**NOTES**
+- If the Time user leaves time frozen for too long, they risk temporal death.
+- If others break the clocks, potential effects are momentary time rewinds, time glitches, and brain lag. The Time user will feel these effects most. 
+- Clocks are purely physical energy.
+- Their future predictions are wrong more often than not, especially in the heat of battle. They get more accurate when the user uses their abilities.
+- Rewinding injuries too frequently increases risk of temporal death. 
+- Progression through the gates requires close encounters with Temporal Death, showing the user puts their trust in the element.
+
+## Space (I - V)
+The second oldest, created alongside Time. One of the two elements that chooses its user instead of being chosen. Once the chosen awakens their val, this element will slowly replace their original element over the course of 6-8 Tulia days. This element will only have one user at a time. It will always appear as purple or blue wisps, similar to the green wisps of its sister element Time. 
+
+⦿ **Gate I** - Once the user awakens their val, the replacement process will begin. Immediately, the user will lose their original element. Over the progressing days, the wisps of Space will randomly appear around their hands and lower arms over the period of replacement. Once it’s finished, the user will begin to struggle with depth perception and feel displaced constantly. At this gate, the element is purely melee, with each attack enchanted with space. Armor struggles, footing fails, and bones rattle in ways they shouldn’t when attacked by this user. The user is no longer a part of space, instead an influence on it.
+
+⦿ **Gate II** - User unlocks ranged attacks, being able to throw propel force. Depth perception worsens and the user can randomly struggle from balance issues. However, the user can feel and affect things from a distance, mimicking telekinesis. In reality, it’s actually as if the item is  in their hand, simply visibly displaced. Under stress, the user can misjudge where the item may be—or, in rare cases, Space could unintentionally lie to them, and an item may be in a different place than they perceive. 
+
+⦿ **Gate III** - The user unlocks gravity control, and their balance issues disappear. User can now cause minor shifts in gravity that will affect everything in their affected radius (around 50 meters). This user can now perfectly quantify every distance, with their mind being clouded by their calculations that they don’t welcome. The constant quantifications cloud their thoughts, often making it difficult to focus. Their telekinesis can now pull and push items, limited to five times their own lifting strength.
+
+⦿ **Gate IV** - User can now travel through the three dimensions independently from each other. They are no longer affected by gravity, and can enchant items with their own localized gravity, limited based on the item’s size, requiring direct contact from the user. However, the user can summon spawns of their wisps to throw their gravity, or create “gravity bombs” which will disrupt usual gravity in the area momentarily. The user will always feel displaced after this gate, and rarely walks on the ground anymore. With that, they will commonly lose focus as their mind drifts through the dimensions independently. 
+
+⦿ **Gate V** - The user is now entirely immune to all gravity, no longer requires oxygen, and masters independent dimensional travel. The user can create their own, localized dimensions, in which they can travel and warp in odd ways. To the untrained eye, their movements can sometimes look like short-range teleportation. The user can now collapse items in on themselves when it has been affected by their power after a while. They cannot do this to living creatures.
+
+**_How It Feels_**: Witnesses will get intense vertigo upon their first few exposures to the user, which will slowly wear off after enough time with them. The user will feel displaced and lonely, uncomfortable in cramped places. However, whether they enjoy this loneliness is unknown. The user struggles to build close relationships, as being near people has an off feeling to it. 
+
+**NOTES**
+- Creating new “localized dimensions”, as in adding to the 3D. It allows them to move through 4D and above by adding the extra dimension. 
+- User can move to 2D and even 1D. They cannot bring people with them.
+- Progression through this gate requires meditation beyond the atmosphere of any celestial body. 
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
 ---------- Specific Forbidden Elements ----------
 Only specific elementals of specific types can use these.
