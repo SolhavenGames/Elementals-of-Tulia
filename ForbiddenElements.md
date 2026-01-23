@@ -7,7 +7,7 @@
 
 # Universal Forbidden Elements
 <sub>_Anyone of any elemental type can use these._<sub>
-# Omni (I - V) 
+## Omni (I - V) 
 The second youngest Forbidden Element, created by all of the elements together to create one final union. It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
 
 ⦿ **Gate I** - The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light
@@ -23,7 +23,8 @@ Disconnect from the original element begins here, and grows with each Gate.
 
 ⦿ **Gate V** - The user can now change characteristics of the elements they have already created. They can also influence nearby elements (not control, simply influence). Disconnection 
 from the original element disappears entirely here, as the user struggles to even remember what their original element was. Memories are scattered and even when reminded, they’re skeptical. 
-How it feels: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated 
+
+## **_How it feels_**: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated 
 and over-energized, constantly requiring more action.
 
 **NOTES**
@@ -35,22 +36,27 @@ it hard as rock.
 
 - Omni’s influence is not controllable, all it does is simply make elements act slightly different around the Omni user. 
 
-- Progression through gates requires growing familiar with all elements, and conscious decisions to lose your own. 
----------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
----------- Pure (I - V) -  This element was created by the Human gods, in an attempt to mimic Elemental power. It’s the only forbidden element that isn’t truly an element, it’s pure val.
-Uniquely, Humans can unlock this as well. It is nearly invisible apart from purple and red wisps that appear when it’s in use. The element is purely closed-ranged.
-⦿ Gate I - Purely cosmetic. When this Gate is unlocked, nothing about the user is changed. If they’re an elemental, they will simply have the purple and red wisps accompany their original 
+- Progression through gates requires growing familiar with all elements, and conscious decisions to lose your own.
+
+## Pure (I - V)
+This element was created by the Human gods, in an attempt to mimic Elemental power. It’s the only forbidden element that isn’t truly an element, it’s pure val. Uniquely, Humans can unlock this as well. It is nearly invisible apart from purple and red wisps that appear when it’s in use. The element is purely closed-ranged.
+
+⦿ **Gate I** - Purely cosmetic. When this Gate is unlocked, nothing about the user is changed. If they’re an elemental, they will simply have the purple and red wisps accompany their original 
 element. If they’re human, the wisps will appear when they do feats that require lots of physical exertion. 
-⦿ Gate II - For Elementals, this Gate will empower their usual element by increasing their val production slightly. For Humans, they will become slightly stronger, gain more stamina, and
+
+⦿ **Gate II** - For Elementals, this Gate will empower their usual element by increasing their val production slightly. For Humans, they will become slightly stronger, gain more stamina, and
 be able to spawn the wisps from their fingertips. The wisps themselves are still mostly useless. 
-⦿ Gate III - This is the first Gate that brings upon major changes. Both Humans and Elementals will feel drastic changes in their personality, becoming more self-serving and arrogant. 
+
+⦿ **Gate III** - This is the first Gate that brings upon major changes. Both Humans and Elementals will feel drastic changes in their personality, becoming more self-serving and arrogant. 
 Elementals will lose their original element, and both will experience extreme strength (Lift around 1,000 pounds), speed (Move at about 120mph), and endurance (resist gunshots) coming 
 gradually after this Gate is reached (taking about 45 Tulia Days). This comes at the cost of higher sustenance required (food and water), which increases with each Gate. 
-⦿ Gate IV - Physical stats are doubled. The user faces urges to become stronger and better than those around them at all costs. Hitting another val creature repeatedly can cause a temporary
+
+⦿ **Gate IV** - Physical stats are doubled. The user faces urges to become stronger and better than those around them at all costs. Hitting another val creature repeatedly can cause a temporary
 drainage of val, weakening the victim’s element.
-⦿ Gate V - Physical stats can be increased by usual means of exercise, training, and exposure much faster than the average being. Nearby elements will be influenced by the user’s presence,
+⦿ **Gate V** - Physical stats can be increased by usual means of exercise, training, and exposure much faster than the average being. Nearby elements will be influenced by the user’s presence,
 but the user cannot control that influence, which will feel like a slight tug from the upper chest. User will have an undying urge to become the strongest person they can be, always
 believing that they are never enough, feeling the need to prove themselves.
+
 How It Feels: Elementals will feel when this forbidden element is close, as their own val is drawn to it. It will never directly flee to them, but the change can be felt. The user will
 feel an unrelenting urge to become as strong and as fast as possible, aiming to test their limits, and prove themselves constantly. Despite all this, they always will feel as if their
 improvements are inadequate. This side of insecurity they will fight to never show. Their veins will also begin to glow the same color of their wisps for every Gate after Gate IV. 
