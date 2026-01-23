@@ -156,6 +156,8 @@ This element was created by the Fire element to empower rage in its people. The 
 
 ⦾ **Threshold III** - User becomes incredibly vulnerable to self-damage as they are increasingly blinded by intense rage. They carelessly attack their opponent, almost wild and animal-like, resulting in lots of collateral. Their flames burn quickly and carelessly, causing environmental damage as well. The user usually needs to be restrained if they reach this threshold to be able to calm down.
 
+
+
 ⦿ **Gate II** - Progression through the Gate II thresholds is similar to Gate I, now adding an ability to activate it manually through use of the base element. Flames in Gate II are easier to control, but will still burn wildly and can easily grow beyond the user’s influence. In this Gate, the user retains their vulnerability to strong negative emotions, but their rage can be turned into focus. They also gain a strong sensation to burn things.
 
 ⦾ **Threshold I** - User becomes incredibly focused with increased perception. Their attacks are quicker, and their flames grow hotter. The flames on their body grow larger, encompassing more of their surroundings. A crash is possible here if the user does not fight enough.
@@ -164,6 +166,8 @@ This element was created by the Fire element to empower rage in its people. The 
 
 ⦾ **Threshold III** - User is now blinded by rage. Val production is heavily increased, and excess val will be forced out of the user’s body in vents mainly located on their shoulders and lower legs. While the flames that exit from these vents cannot be controlled, the user can force their own flames out, which can. The flames exiting these vents can increase the user’s speed. 
 
+
+
 ⦿ **Gate III** - User’s flames become much hotter naturally, never being able to cool below 80°F. Strong emotions now have a lesser influence on the element, now mostly being controlled by the user by using their element to build “frenzy”. Strong emotions still have an effect on the element, just a negative one now, being able to initiate a crash in all thresholds if the user grows too angry. Val production is naturally increased, resulting in random leaks of flames without their control.
 
 ⦾ **Threshold I** - Flames turn red with black highlights. Val production is nearly quintupled, remaining this way for the rest of the thresholds, forcing itself out through vents on the user’s shoulders, lower legs, upper arms, and palms. The user gains immense perception, speed, and strength in this threshold. 
@@ -171,6 +175,8 @@ This element was created by the Fire element to empower rage in its people. The 
 ⦾ **Threshold II** - Retaining everything from Threshold I, Threshold II allows the user to slow down their usage of flames as excess val is now slowly expelled in independent wisps (which usually happens naturally, but Hellfire will hold onto them until this threshold and beyond). These wisps can cause fires and cannot be controlled by the user until they land. User’s attacks become fast enough to land before they visibly land, burning through metals and stones.
 
 ⦾ **Threshold III** - Rage rises again. Users' perception drops, but now has the possibility to burn through concepts, leaving holes in dimensions, memories, and sometimes even opponent’s abilities. A crash is possible if the user does not properly balance rage and focus, which will result in a massive explosion. They will not die from this, but they will face extreme injury.
+
+
 
 ⦿ **Gate IV** - Flames are permanently red with black highlights. Often referred to as the “Gate to Hell”, User’s base flames are now hot enough to burn through metal. Strong emotions now have little effect on the element and crashes are no longer possible in the same sense. Instead, the user must balance themselves with a new, alien inner force that seems to call for them to burn as bright as possible. Now, progression through thresholds requires use of the element and focus. However, each threshold requires immense focus to maintain, or they could drop back a threshold. User can now direct their own heat with enough focus. User will now hold onto grudges and have trouble forgiving others while rarely admitting if they do wrong, standing by their choices. 
 
