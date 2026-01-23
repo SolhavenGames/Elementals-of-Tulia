@@ -142,9 +142,8 @@ The second oldest, created alongside Time. One of the two elements that chooses 
 - Creating new “localized dimensions”, as in adding to the 3D. It allows them to move through 4D and above by adding the extra dimension. 
 - User can move to 2D and even 1D. They cannot bring people with them.
 - Progression through this gate requires meditation beyond the atmosphere of any celestial body. 
----------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
----------- Specific Forbidden Elements ----------
-Only specific elementals of specific types can use these.
+# Specific Forbidden Elements
+<sub>**_Only elementals of specific types can use these._**<sub>
 FIREN FORBIDDENS
 Hellfire (I - IV) - This element was created by the Fire element to empower rage in its people. The only 2D Forbidden Element, with 3 distinct layers in each gate called “Thresholds”. 
 This fire-based element will turn the user’s flames a deep red when in use. This element is heavily connected to emotion, and cannot be chosen. Instead, users are born with it in very
