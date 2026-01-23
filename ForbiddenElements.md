@@ -24,8 +24,7 @@ Disconnect from the original element begins here, and grows with each Gate.
 ⦿ **Gate V** - The user can now change characteristics of the elements they have already created. They can also influence nearby elements (not control, simply influence). Disconnection 
 from the original element disappears entirely here, as the user struggles to even remember what their original element was. Memories are scattered and even when reminded, they’re skeptical. 
 
-## **_How it feels_**: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated 
-and over-energized, constantly requiring more action.
+ **_How it feels_**: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated  and over-energized, constantly requiring more action.
 
 **NOTES**
 
