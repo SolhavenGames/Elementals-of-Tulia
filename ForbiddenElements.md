@@ -30,11 +30,8 @@ from the original element disappears entirely here, as the user struggles to eve
 
 - Flux/Core (Soft/Hard Element) choice can be made after the element has already been deployed. This essentially means that the user can launch a liquid-like substance at someone, then make
 it hard as rock.
-
 - Omni at Gate V can mimic effects of all elements (excluding forbiddens). 
-
 - Omni’s influence is not controllable, all it does is simply make elements act slightly different around the Omni user. 
-
 - Progression through gates requires growing familiar with all elements, and conscious decisions to lose your own.
 
 ## Pure (I - V)
@@ -52,20 +49,22 @@ gradually after this Gate is reached (taking about 45 Tulia Days). This comes at
 
 ⦿ **Gate IV** - Physical stats are doubled. The user faces urges to become stronger and better than those around them at all costs. Hitting another val creature repeatedly can cause a temporary
 drainage of val, weakening the victim’s element.
+
 ⦿ **Gate V** - Physical stats can be increased by usual means of exercise, training, and exposure much faster than the average being. Nearby elements will be influenced by the user’s presence,
 but the user cannot control that influence, which will feel like a slight tug from the upper chest. User will have an undying urge to become the strongest person they can be, always
 believing that they are never enough, feeling the need to prove themselves.
 
-How It Feels: Elementals will feel when this forbidden element is close, as their own val is drawn to it. It will never directly flee to them, but the change can be felt. The user will
+**_How It Feels_**: Elementals will feel when this forbidden element is close, as their own val is drawn to it. It will never directly flee to them, but the change can be felt. The user will
 feel an unrelenting urge to become as strong and as fast as possible, aiming to test their limits, and prove themselves constantly. Despite all this, they always will feel as if their
 improvements are inadequate. This side of insecurity they will fight to never show. Their veins will also begin to glow the same color of their wisps for every Gate after Gate IV. 
----------- NOTES
-Pure users are still capable of forming alliances if they feel it benefits them. 
-Pure elementals will forget their original element in a similar way that an Omni user does. 
-Val drainage will not benefit the pure user directly, it simply weakens the victim for a little bit.
-Unlike Omni users, Pure user’s influence on nearby elements can be controlled, as they can use their val to “grab” other elements (they cannot use them, just hold them).
-Combat will not strengthen them as much as exercise or training.
-Progression through the element requires intense physical training. 
+
+**NOTES**
+- Pure users are still capable of forming alliances if they feel it benefits them. 
+- Pure elementals will forget their original element in a similar way that an Omni user does. 
+- Val drainage will not benefit the pure user directly, it simply weakens the victim for a little bit.
+- Unlike Omni users, Pure user’s influence on nearby elements can be controlled, as they can use their val to “grab” other elements (they cannot use them, just hold them).
+- Combat will not strengthen them as much as exercise or training.
+- Progression through the element requires intense physical training. 
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
 ---------- Death (I - XI) - The youngest forbidden element, created due to the rapid death of elementals on Tulia. The forbidden element that is not chosen, but caught. Unlike the others,
 its user can relieve themselves of it before they are too far gone. The time of progression depends on how willing the victim is to live. This element is one of the only ones to Gate up 
