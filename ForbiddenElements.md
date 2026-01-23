@@ -144,61 +144,47 @@ The second oldest, created alongside Time. One of the two elements that chooses 
 - Progression through this gate requires meditation beyond the atmosphere of any celestial body. 
 # Specific Forbidden Elements
 <sub>**_Only elementals of specific types can use these._**<sub>
-FIREN FORBIDDENS
-Hellfire (I - IV) - This element was created by the Fire element to empower rage in its people. The only 2D Forbidden Element, with 3 distinct layers in each gate called “Thresholds”. 
-This fire-based element will turn the user’s flames a deep red when in use. This element is heavily connected to emotion, and cannot be chosen. Instead, users are born with it in very
-rare cases. There is a universal “Threshold N (Zero)” in which the user is simply normal, getting no effects from any threshold (but retaining the Gate’s effects). The user will be entirely
-normal until a near-death experience caused by unnatural causes, and only then will the element fully awaken.
-⦿ Gate I - Progression through thresholds in Gate I requires intense emotions or near death experiences. Flames in all thresholds of this gate are always chaotic and hard to control.
-Movement through thresholds requires increasingly heavy reactions. This Gate makes the user vulnerable to strong negative emotions, usually turning them into rage.
-⦾ Threshold I - Threshold I acts more as a “second wind”. The user’s stamina is restored and they feel rejuvenated, prepared for more combat. They only get slight endurance and speed
-increases, alongside a newfound courage.
-⦾ Threshold II - Flames turn red with black highlights. This threshold is more dangerous than it is powerful, as the user becomes blinded by pure rage and hatred, causing them to act
-erratically. Whoever caused the drastic emotion is the main target. Sometimes, if the target escapes, the element engages in a “crash”, in which it falls back to Threshold N and the user
-collapses into tears. In this phase, the user becomes much faster and gains physical strength. 
-⦾ Threshold III - User becomes incredibly vulnerable to self-damage as they are increasingly blinded by intense rage. They carelessly attack their opponent, almost wild and animal-like,
-resulting in lots of collateral. Their flames burn quickly and carelessly, causing environmental damage as well. The user usually needs to be restrained if they reach this threshold to be
-able to calm down.
-⦿ Gate II - Progression through the Gate II thresholds is similar to Gate I, now adding an ability to activate it manually through use of the base element. Flames in Gate II are easier
-to control, but will still burn wildly and can easily grow beyond the user’s influence. In this Gate, the user retains their vulnerability to strong negative emotions, but their rage can
-be turned into focus. They also gain a strong sensation to burn things.
-⦾ Threshold I - User becomes incredibly focused with increased perception. Their attacks are quicker, and their flames grow hotter. The flames on their body grow larger, encompassing more 
-of their surroundings. A crash is possible here if the user does not fight enough.
-⦾ Threshold II - Flames turn red with black highlights. Contact with the user burns. Even if the user charged up to this threshold, focus becomes accompanied by rage, not yet overtaking it.
-The user loses some perception, but their attacks become faster and stronger. Their flames now burn faster, and are now able to burn through things that can’t usually be burned.
-⦾ Threshold III - User is now blinded by rage. Val production is heavily increased, and excess val will be forced out of the user’s body in vents mainly located on their shoulders and lower
-legs. While the flames that exit from these vents cannot be controlled, the user can force their own flames out, which can. The flames exiting these vents can increase the user’s speed. 
-⦿ Gate III - User’s flames become much hotter naturally, never being able to cool below 80°F. Strong emotions now have a lesser influence on the element, now mostly being controlled by the
-user by using their element to build “frenzy”. Strong emotions still have an effect on the element, just a negative one now, being able to initiate a crash in all thresholds if the user
-grows too angry. Val production is naturally increased, resulting in random leaks of flames without their control.
-⦾ Threshold I - Flames turn red with black highlights. Val production is nearly quintupled, remaining this way for the rest of the thresholds, forcing itself out through vents on the user’s
-shoulders, lower legs, upper arms, and palms. The user gains immense perception, speed, and strength in this threshold. 
-⦾ Threshold II - Retaining everything from Threshold I, Threshold II allows the user to slow down their usage of flames as excess val is now slowly expelled in independent wisps (which
-usually happens naturally, but Hellfire will hold onto them until this threshold and beyond). These wisps can cause fires and cannot be controlled by the user until they land. User’s attacks
-become fast enough to land before they visibly land, burning through metals and stones.
-⦾ Threshold III - Rage rises again. Users' perception drops, but now has the possibility to burn through concepts, leaving holes in dimensions, memories, and sometimes even opponent’s 
-abilities. A crash is possible if the user does not properly balance rage and focus, which will result in a massive explosion. They will not die from this, but they will face extreme injury.
-⦿ Gate IV - Flames are permanently red with black highlights. Often referred to as the “Gate to Hell”, User’s base flames are now hot enough to burn through metal. Strong emotions now have 
-little effect on the element and crashes are no longer possible in the same sense. Instead, the user must balance themselves with a new, alien inner force that seems to call for them to burn
-as bright as possible. Now, progression through thresholds requires use of the element and focus. However, each threshold requires immense focus to maintain, or they could drop back a threshold.
-User can now direct their own heat with enough focus. User will now hold onto grudges and have trouble forgiving others while rarely admitting if they do wrong, standing by their choices. 
-⦾ Threshold I - Flames cannot be put out unless by the user themself, and will also not burn without explicit command. Flames also act as extra eyes, meaning that the user can see what the 
-flames feel. Perception, speed, and strength rise drastically. Flames burn hot enough to be able to burn ranged attacks before they land (the user must do this themselves, this does not happen
-naturally). Val production reaches 10x the normal amount, forcing itself out through vents on the user’s shoulders, lower legs, and palms.
-⦾ Threshold II - Perception speeds up. Flames can burn concepts again. User no longer has to explicitly summon flames from themselves, now being able to spontaneously combust items (not living
-beings) from range. Flames can also explode on command. However, with val production reaching 50x as normal, the user becomes a walking hazard as their entire body becomes a vent, constantly
-spewing uncontrollable flames.
-⦾ Threshold III - The final form of Hellfire. Val production reaches a staggering 100x, incredibly dangerous for the user and everyone around. While wisps are present in this threshold, there
-is still too much excess val, and these flames are hotter, faster, and nearly autonomous. No explosion can happen despite the massive val increase, instead the user will just pass out. When in
-this threshold, the user’s mind grows so incredibly focused that they cannot speak. However, the user struggles to retain control, as  their mind grows corrupted by the excess forbidden energy.
-The user feels as if they are moving incredibly fast, when in reality, their intense perception has slowed the world around them enough to make them feel that way. They become immensely strong, 
-incredibly durable, and have incredible reaction speeds. Reaching this threshold will stain the user’s mental state forever, as they will always recall it as a loss of themselves. When confronted 
-about it, they’ll shiver, growing a new found fear of their own power.
----------- NOTES
-The Hellfire user’s bloodlust will never target people they consider friends, lovers, or family (unless the gates say otherwise). 
-Threshold N is most vulnerable to bloodlust outbursts.
-Progression backwards through thresholds is difficult in the later gates, requiring meditation and regulation.
-Progression through the gates requires learning emotional control, even if the user had it before Hellfire arrived.
+# FIREN FORBIDDENS
+## Hellfire (I - IV)
+This element was created by the Fire element to empower rage in its people. The only 2D Forbidden Element, with 3 distinct layers in each gate called “Thresholds”. This fire-based element will turn the user’s flames a deep red when in use. This element is heavily connected to emotion, and cannot be chosen. Instead, users are born with it in very rare cases. There is a universal “Threshold N (Zero)” in which the user is simply normal, getting no effects from any threshold (but retaining the Gate’s effects). The user will be entirely normal until a near-death experience caused by unnatural causes, and only then will the element fully awaken.
+
+⦿ **Gate I** - Progression through thresholds in Gate I requires intense emotions or near death experiences. Flames in all thresholds of this gate are always chaotic and hard to control. Movement through thresholds requires increasingly heavy reactions. This Gate makes the user vulnerable to strong negative emotions, usually turning them into rage.
+
+⦾ **Threshold I** - Threshold I acts more as a “second wind”. The user’s stamina is restored and they feel rejuvenated, prepared for more combat. They only get slight endurance and speed increases, alongside a newfound courage.
+
+⦾ **Threshold II** - Flames turn red with black highlights. This threshold is more dangerous than it is powerful, as the user becomes blinded by pure rage and hatred, causing them to act erratically. Whoever caused the drastic emotion is the main target. Sometimes, if the target escapes, the element engages in a “crash”, in which it falls back to Threshold N and the user collapses into tears. In this phase, the user becomes much faster and gains physical strength. 
+
+⦾ **Threshold III** - User becomes incredibly vulnerable to self-damage as they are increasingly blinded by intense rage. They carelessly attack their opponent, almost wild and animal-like, resulting in lots of collateral. Their flames burn quickly and carelessly, causing environmental damage as well. The user usually needs to be restrained if they reach this threshold to be able to calm down.
+
+⦿ **Gate II** - Progression through the Gate II thresholds is similar to Gate I, now adding an ability to activate it manually through use of the base element. Flames in Gate II are easier to control, but will still burn wildly and can easily grow beyond the user’s influence. In this Gate, the user retains their vulnerability to strong negative emotions, but their rage can be turned into focus. They also gain a strong sensation to burn things.
+
+⦾ **Threshold I** - User becomes incredibly focused with increased perception. Their attacks are quicker, and their flames grow hotter. The flames on their body grow larger, encompassing more of their surroundings. A crash is possible here if the user does not fight enough.
+
+⦾ **Threshold II** - Flames turn red with black highlights. Contact with the user burns. Even if the user charged up to this threshold, focus becomes accompanied by rage, not yet overtaking it. The user loses some perception, but their attacks become faster and stronger. Their flames now burn faster, and are now able to burn through things that can’t usually be burned.
+
+⦾ **Threshold III** - User is now blinded by rage. Val production is heavily increased, and excess val will be forced out of the user’s body in vents mainly located on their shoulders and lower legs. While the flames that exit from these vents cannot be controlled, the user can force their own flames out, which can. The flames exiting these vents can increase the user’s speed. 
+
+⦿ **Gate III** - User’s flames become much hotter naturally, never being able to cool below 80°F. Strong emotions now have a lesser influence on the element, now mostly being controlled by the user by using their element to build “frenzy”. Strong emotions still have an effect on the element, just a negative one now, being able to initiate a crash in all thresholds if the user grows too angry. Val production is naturally increased, resulting in random leaks of flames without their control.
+
+⦾ **Threshold I** - Flames turn red with black highlights. Val production is nearly quintupled, remaining this way for the rest of the thresholds, forcing itself out through vents on the user’s shoulders, lower legs, upper arms, and palms. The user gains immense perception, speed, and strength in this threshold. 
+
+⦾ **Threshold II** - Retaining everything from Threshold I, Threshold II allows the user to slow down their usage of flames as excess val is now slowly expelled in independent wisps (which usually happens naturally, but Hellfire will hold onto them until this threshold and beyond). These wisps can cause fires and cannot be controlled by the user until they land. User’s attacks become fast enough to land before they visibly land, burning through metals and stones.
+
+⦾ **Threshold III** - Rage rises again. Users' perception drops, but now has the possibility to burn through concepts, leaving holes in dimensions, memories, and sometimes even opponent’s abilities. A crash is possible if the user does not properly balance rage and focus, which will result in a massive explosion. They will not die from this, but they will face extreme injury.
+
+⦿ **Gate IV** - Flames are permanently red with black highlights. Often referred to as the “Gate to Hell”, User’s base flames are now hot enough to burn through metal. Strong emotions now have little effect on the element and crashes are no longer possible in the same sense. Instead, the user must balance themselves with a new, alien inner force that seems to call for them to burn as bright as possible. Now, progression through thresholds requires use of the element and focus. However, each threshold requires immense focus to maintain, or they could drop back a threshold. User can now direct their own heat with enough focus. User will now hold onto grudges and have trouble forgiving others while rarely admitting if they do wrong, standing by their choices. 
+
+⦾ **Threshold I** - Flames cannot be put out unless by the user themself, and will also not burn without explicit command. Flames also act as extra eyes, meaning that the user can see what the flames feel. Perception, speed, and strength rise drastically. Flames burn hot enough to be able to burn ranged attacks before they land (the user must do this themselves, this does not happen naturally). Val production reaches 10x the normal amount, forcing itself out through vents on the user’s shoulders, lower legs, and palms.
+
+⦾ **Threshold II** - Perception speeds up. Flames can burn concepts again. User no longer has to explicitly summon flames from themselves, now being able to spontaneously combust items (not living beings) from range. Flames can also explode on command. However, with val production reaching 50x as normal, the user becomes a walking hazard as their entire body becomes a vent, constantly spewing uncontrollable flames.
+
+⦾ **Threshold III** - The final form of Hellfire. Val production reaches a staggering 100x, incredibly dangerous for the user and everyone around. While wisps are present in this threshold, there is still too much excess val, and these flames are hotter, faster, and nearly autonomous. No explosion can happen despite the massive val increase, instead the user will just pass out. When in this threshold, the user’s mind grows so incredibly focused that they cannot speak. However, the user struggles to retain control, as  their mind grows corrupted by the excess forbidden energy. The user feels as if they are moving incredibly fast, when in reality, their intense perception has slowed the world around them enough to make them feel that way. They become immensely strong, incredibly durable, and have incredible reaction speeds. Reaching this threshold will stain the user’s mental state forever, as they will always recall it as a loss of themselves. When confronted about it, they’ll shiver, growing a new found fear of their own power.
+
+**NOTES**
+- The Hellfire user’s bloodlust will never target people they consider friends, lovers, or family (unless the gates say otherwise). 
+- Threshold N is most vulnerable to bloodlust outbursts.
+- Progression backwards through thresholds is difficult in the later gates, requiring meditation and regulation.
+- Progression through the gates requires learning emotional control, even if the user had it before Hellfire arrived.
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- 
 Sol (I - III) - The first Forbidden Element hand crafted by an element. It was created by Fire in an attempt to secure the battlefield easily, and given to a single warrior to test. This 
 element began a race for other elements to build their own forbiddens. A controlled, combat-centered fire based element that empowers the user at the cost of peace of mind. As it’s 
