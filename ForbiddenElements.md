@@ -204,201 +204,185 @@ The first Forbidden Element hand crafted by an element. It was created by Fire i
 ⦿ **Gate III** - The Third Eye merges with the user’s consciousness. They are overwhelmed with the urge to kill alongside pride for the Firen element, alongside the heavy influence of nearby flames in a closed radius. The speed of their flight is heavily increased, and they can crash into the ground to cause massive explosions. The Third Eye becomes unbearable, eating away at their sanity. 
 
 **_How It Feels_**: Witnesses of this element will feel an aura of immense authority and control, with an urge to follow the commands and wisdom of the user. The user will grow hateful of non-Firen culture and existence as the Third Eye spews propaganda into their ear, which can provoke self-harm as the Third Eye constantly convinces them they have not done enough for the Firen.
+
 **NOTES**: 
 - Sol’s flames are explosive.
 - The Third Eye can be wrong.
 - Progression through the element requires deeds that the Fire element declares bravery.
 
 # AIRREN FORBIDDEN
-## Squall (I - IV) - An Air-Based element only accessible to those who had windsi’s before they awakened. It was built by the Air element in an attempt to protect its people’s land and
-independence. Visually, it’s the same as normal wind. However, this forbidden element allows for more precision and control of the usually chaotic art. 
-⦿ Gate I - The user’s windsi returns (it usually disappears after awakening) temporarily. In this Gate, it will act as an extra eye, giving the user perception through the wind. The user
-will also gain access to larger attacks and faster winds, alongside air whips, which are invisible whips that also act as lassos. The user grows a sense of loyalty to those they are 
-already close with.
-⦿ Gate II - The windsi disappears, once and for all. A direct sacrifice, the user has to choose this to progress through the rest of the gates. Now, the user can perceive through the air 
-that surrounds them. They can also raise the density of the air in specific areas, though it costs hefty amounts of stamina to maintain. The user grows faster and more agile. There are
-no personality effects in this gate. 
-⦿ Gate III - The user’s val becomes more powerful, allowing for larger, faster attacks. Their wind can now be instantiated in more powerful bursts. When they use their element in this gate
-and beyond, it’s common for wind storms to start, even without their command. These storms can become worse based on their emotion, following them until they calm. They will also grow 
-even faster, retaining complete control over their body when airborne. Personality wise, users will grow impatient and energetic. 
-⦿ Gate IV - In this gate, the user can now summon instant and sudden gusts of wind from any part of their body. These sudden winds can be powerful enough to uproot trees or demolish walls.
-They can also enchant their body, which causes their strikes to ground and knock victims around easier. In this gate, the user grows fickle and unpredictable. 
-How It Feels: Witnesses of the Squall user will feel at peace, almost too comfortable. The user will grow to be more like the wind they command: fickle, unpredictable, yet energetic and 
-free. However, they struggle to sit still. The loss of their Windsi is also rubbed in slightly, as Squall will commit to actions that mimic the windsi, without being it, constantly
-reminding the user what they sacrificed for power.
-NOTES
-The sudden gusts of wind in Gate IV are very painful, and can stun.
-Windstorms are fast enough naturally by Gate III to throw off balance.
-Wind grows sharp, allowing the user to create “invisible slashes”. 
-Progression through the element requires dancing with the wind & meditation mid-air.
+## Squall (I - IV)
+An Air-Based element only accessible to those who had windsi’s before they awakened. It was built by the Air element in an attempt to protect its people’s land and independence. Visually, it’s the same as normal wind. However, this forbidden element allows for more precision and control of the usually chaotic art. 
+
+⦿ **Gate I** - The user’s windsi returns (it usually disappears after awakening) temporarily. In this Gate, it will act as an extra eye, giving the user perception through the wind. The user will also gain access to larger attacks and faster winds, alongside air whips, which are invisible whips that also act as lassos. The user grows a sense of loyalty to those they are already close with.
+
+⦿ **Gate II** - The windsi disappears, once and for all. A direct sacrifice, the user has to choose this to progress through the rest of the gates. Now, the user can perceive through the air that surrounds them. They can also raise the density of the air in specific areas, though it costs hefty amounts of stamina to maintain. The user grows faster and more agile. There are no personality effects in this gate. 
+
+⦿ **Gate III** - The user’s val becomes more powerful, allowing for larger, faster attacks. Their wind can now be instantiated in more powerful bursts. When they use their element in this gate and beyond, it’s common for wind storms to start, even without their command. These storms can become worse based on their emotion, following them until they calm. They will also grow even faster, retaining complete control over their body when airborne. Personality wise, users will grow impatient and energetic. 
+
+⦿ **Gate IV** - In this gate, the user can now summon instant and sudden gusts of wind from any part of their body. These sudden winds can be powerful enough to uproot trees or demolish walls. They can also enchant their body, which causes their strikes to ground and knock victims around easier. In this gate, the user grows fickle and unpredictable. 
+
+**_How It Feels_**: Witnesses of the Squall user will feel at peace, almost too comfortable. The user will grow to be more like the wind they command: fickle, unpredictable, yet energetic and free. However, they struggle to sit still. The loss of their Windsi is also rubbed in slightly, as Squall will commit to actions that mimic the windsi, without being it, constantly reminding the user what they sacrificed for power.
+
+**NOTES**
+- The sudden gusts of wind in Gate IV are very painful, and can stun.
+- Windstorms are fast enough naturally by Gate III to throw off balance.
+- Wind grows sharp, allowing the user to create “invisible slashes”. 
+- Progression through the element requires dancing with the wind & meditation mid-air.
 
 # WATRISH FORBIDDEN
-## Deluge (I - V) - Created by the Water element to control the long untamed oceans, this water based element that gives the user command over storms and seas, alongside giving them the
-opportunity to create ocean-like environments in battle. It appears as a deeper blue compared to normal water.
-⦿ Gate I - User’s water instantly becomes darker as soon as the user chooses deluge. Immediately, their water grows colder and becomes contaminated with harmless algae. The user grows
-connected with the skies, feeling sensations based on the forecast. It’s also possible for them to bring in light rainfall. In all storms they summon, every drop of rain is theirs to 
-command. The user will grow loudly judgemental of most actions, always daring to share their opinions.
-⦿ Gate II - The water haloed around the users body will become thicker and more dense, making slow moving ranged attacks useless against them. Their summoned storms will now be accompanied
-by far more downpour, soaking the battlefield in rainstorms that can block the sun. They also unlock the command of the oceans here. When present with a lot of water, they can dash 
-through it as if they are the ocean, forming waves as they move. The user will now feel uncomfortable resting, and will move often.
-⦿ Gate III - As the battlefield gets wetter, the user will grow stronger. Their water grows more dense, now stopping most ranged attacks, while not affecting their weight. In fact, the 
-user becomes faster in this gate, being able to flux-fly at double the speed (using excess water to negate friction on the ground, sliding). Rainstorms can now come with lightning,
-though that will never be directly controlled by the user.
-⦿ Gate IV - Rainstorms are now affected by the user’s emotions. Even without strong emotions, they can now bring upon rainstorms that cause intense flash-flooding, the water of which is
-controlled by them. In this Gate, Deluge basically builds an ocean in its battlefield to fight to its best degree. However, the user now feels uneasy when on land, away from the ocean,
-for too long. Vicinity is required for them to remain stable. 
-⦿ Gate V - Flash-Flooding now feels heavy. As the fights continue, victims will noticeably suffer from drops in oxygen when in battle with the deluge user. Mimicking the ocean, the user
-loses some control. Their flash floods have waves that crash beyond their command. The rain drops carelessly on whoever it pleases. Even their own water begins to shift and distort in 
-ways they don’t desire when in combat. All of this comes with the fact they now suffer intense attacks of melancholy and hopelessness after use of their rainstorms.
-How It Feels: Witnesses, when hearing Deluge’s rainstorms before flash flooding, can feel calm and at ease. After Flash Flooding is introduced, their chest will feel heavy and they may
-struggle to breathe. Without storms, Deluge makes witnesses feel calmer. The user will grow to despise being on land, be uncomfortable resting, and suffer melancholy after the use of 
-their powers in the fifth gate.
-NOTES
-User gains speed & damage bonuses in cold/ocean environments. 
-Rainstorms grow heavy enough by Gate V to drown others in the rain (when paired with strong emotion). 
-Progression through the element requires meditation in progressively deeper water.
+## Deluge (I - V)
+Created by the Water element to control the long untamed oceans, this water based element that gives the user command over storms and seas, alongside giving them the opportunity to create ocean-like environments in battle. It appears as a deeper blue compared to normal water.
+
+⦿ **Gate I** - User’s water instantly becomes darker as soon as the user chooses deluge. Immediately, their water grows colder and becomes contaminated with harmless algae. The user grows connected with the skies, feeling sensations based on the forecast. It’s also possible for them to bring in light rainfall. In all storms they summon, every drop of rain is theirs to command. The user will grow loudly judgemental of most actions, always daring to share their opinions.
+
+⦿ **Gate II** - The water haloed around the users body will become thicker and more dense, making slow moving ranged attacks useless against them. Their summoned storms will now be accompanied by far more downpour, soaking the battlefield in rainstorms that can block the sun. They also unlock the command of the oceans here. When present with a lot of water, they can dash through it as if they are the ocean, forming waves as they move. The user will now feel uncomfortable resting, and will move often.
+
+⦿ **Gate III** - As the battlefield gets wetter, the user will grow stronger. Their water grows more dense, now stopping most ranged attacks, while not affecting their weight. In fact, the user becomes faster in this gate, being able to flux-fly at double the speed (using excess water to negate friction on the ground, sliding). Rainstorms can now come with lightning, though that will never be directly controlled by the user.
+
+⦿ **Gate IV** - Rainstorms are now affected by the user’s emotions. Even without strong emotions, they can now bring upon rainstorms that cause intense flash-flooding, the water of which is controlled by them. In this Gate, Deluge basically builds an ocean in its battlefield to fight to its best degree. However, the user now feels uneasy when on land, away from the ocean, for too long. Vicinity is required for them to remain stable. 
+
+⦿ **Gate V** - Flash-Flooding now feels heavy. As the fights continue, victims will noticeably suffer from drops in oxygen when in battle with the deluge user. Mimicking the ocean, the user loses some control. Their flash floods have waves that crash beyond their command. The rain drops carelessly on whoever it pleases. Even their own water begins to shift and distort in ways they don’t desire when in combat. All of this comes with the fact they now suffer intense attacks of melancholy and hopelessness after use of their rainstorms.
+
+**_How It Feels_**: Witnesses, when hearing Deluge’s rainstorms before flash flooding, can feel calm and at ease. After Flash Flooding is introduced, their chest will feel heavy and they may struggle to breathe. Without storms, Deluge makes witnesses feel calmer. The user will grow to despise being on land, be uncomfortable resting, and suffer melancholy after the use of their powers in the fifth gate.
+
+**NOTES**
+- User gains speed & damage bonuses in cold/ocean environments. 
+- Rainstorms grow heavy enough by Gate V to drown others in the rain (when paired with strong emotion). 
+- Progression through the element requires meditation in progressively deeper water.
 
 # LITTI FORBIDDEN
-## Warshine (I - VI) - A light-based forbidden element created by the Light element to counter their rival’s Forbidden, Void. It harnesses the militaristic nature of the Litti people into
-one final form. Warshine massively enhances the speed of Litti elementals, alongside giving them the abilities to create illusions and distort light, at the steep sacrifice of willingness 
-to compromise along with intense pride. 
-⦿ Gate I - Warshine is one of the hardest forbidden elements to adopt. Gate I severely weakens the user, as they are expected to meditate and grow closer to their element. During this
-meditation, their ego and pride are fed non-stop by Light (the element incarnate). This meditation can last anywhere from 3 Tulia Days to 4 Tulia Months (124 Tulia Days). If they do 
-anything that Light considers to be breaking their meditation, their timer restarts. They must avoid fighting, eating more than one meal a day, using their element for luxuries, and
+## Warshine (I - VI)
+A light-based forbidden element created by the Light element to counter their rival’s Forbidden, Void. It harnesses the militaristic nature of the Litti people into one final form. Warshine massively enhances the speed of Litti elementals, alongside giving them the abilities to create illusions and distort light, at the steep sacrifice of willingness to compromise along with intense pride. 
+
+⦿ **Gate I** - Warshine is one of the hardest forbidden elements to adopt. Gate I severely weakens the user, as they are expected to meditate and grow closer to their element. During this meditation, their ego and pride are fed non-stop by Light (the element incarnate). This meditation can last anywhere from 3 Tulia Days to 4 Tulia Months (124 Tulia Days). If they do anything that Light considers to be breaking their meditation, their timer restarts. They must avoid fighting, eating more than one meal a day, using their element for luxuries, and
 meditate every day. 
-⦿ Gate II - Once Gate I is complete, the user unlocks Warshine. Normally, Litti elementals can only emit light. With Warshine, the user will gain the ability to manipulate it as well,
-casting illusions when done efficiently. However, the user may suffer from severe vision issues, as their visible light spectrum expands. 
-⦿ Gate III - The true purpose of Warshine comes out— speed. The user can reach upwards of 1% the speed of light. It takes them around 2 minutes to accelerate to that speed, though. As
-their speed increases, so does their perception. Time moves much slower for them, and it becomes hard for them to sit still. This issue grows as their speed grows. Along with this 
-immense speed increase, the control of light waves becomes easier for them.
-⦿ Gate IV - Peak speed reaches 20% the speed of light, with 1.5 minutes of acceleration. Light wave control now infiltrates the minds of those who see it, convincing the viewer that what
-they are seeing is real, no matter how foolish it may seem. The user will grow a sense of pride and constantly misjudge their abilities.
-⦿ Gate V - Peak speed reaches 60% SOL with 40 seconds of acceleration. User can now use the light of objects to catch energy and projectiles. This is including invisible ones, because the
-user can now see anything that may be invisible. Unfortunately, this now clouds their mind, as they can see every single lightwave, sometimes causing confusion.
-⦿ Gate VI - Speed reaches 100% SOL, and the user can train themselves to reach further. Beyond this point, the user can instantly accelerate to their peak speed using boosts, but without
-them, can accelerate to their peak speed in around 3 seconds. Their light parries can now duplicate attacks coming their way. The user can also now ride light particles as a way to get 
-airborne. At this point, the user’s pride grows to its peak, coming with bravery and courage as well. They will commonly try to force themselves into a leadership role, even if they don’t
-know much about their mission.
-How It Feels: Witnesses may feel confused and unsure, questioning what they see. Not out of paranoia that the user is attempting to trick them, simply from the user’s vicinity. The user
-themselves grows incredibly prideful, brave, and cocky, commonly over-estimating their abilities. Their minds are always running due to being clouded by being able to see all light, and 
-moving much faster than normal to keep up with their peak speed.
-NOTES
-User’s speed will cut seamlessly through air, and their attacks using their speed must be landed perfectly to carry all of its momentum. 
-Light wave illusions can be seen through after enough time watching closely. 
-User’s light parry takes a moment, as the user has to catch the attack, then return it. Duplication is demanding in terms of stamina. 
-The user is incapable of feeling fear. 
-User is constantly glowing. 
-Maintenance of top speeds beyond Gate III becomes difficult, as running at these speeds could potentially scuff their sense of time, damage their internal organs, or tire them out.  
-Progression through the element requires further meditation with light and proof of intense pride. 
+
+⦿ **Gate II** - Once Gate I is complete, the user unlocks Warshine. Normally, Litti elementals can only emit light. With Warshine, the user will gain the ability to manipulate it as well, casting illusions when done efficiently. However, the user may suffer from severe vision issues, as their visible light spectrum expands. 
+
+⦿ **Gate III** - The true purpose of Warshine comes out— speed. The user can reach upwards of 1% the speed of light. It takes them around 2 minutes to accelerate to that speed, though. As their speed increases, so does their perception. Time moves much slower for them, and it becomes hard for them to sit still. This issue grows as their speed grows. Along with this immense speed increase, the control of light waves becomes easier for them.
+
+⦿ **Gate IV** - Peak speed reaches 20% the speed of light, with 1.5 minutes of acceleration. Light wave control now infiltrates the minds of those who see it, convincing the viewer that what they are seeing is real, no matter how foolish it may seem. The user will grow a sense of pride and constantly misjudge their abilities.
+
+⦿ **Gate V** - Peak speed reaches 60% SOL with 40 seconds of acceleration. User can now use the light of objects to catch energy and projectiles. This is including invisible ones, because the user can now see anything that may be invisible. Unfortunately, this now clouds their mind, as they can see every single lightwave, sometimes causing confusion.
+
+⦿ **Gate VI** - Speed reaches 100% SOL, and the user can train themselves to reach further. Beyond this point, the user can instantly accelerate to their peak speed using boosts, but without them, can accelerate to their peak speed in around 3 seconds. Their light parries can now duplicate attacks coming their way. The user can also now ride light particles as a way to get airborne. At this point, the user’s pride grows to its peak, coming with bravery and courage as well. They will commonly try to force themselves into a leadership role, even if they don’t know much about their mission.
+
+**_How It Feels_**: Witnesses may feel confused and unsure, questioning what they see. Not out of paranoia that the user is attempting to trick them, simply from the user’s vicinity. The user themselves grows incredibly prideful, brave, and cocky, commonly over-estimating their abilities. Their minds are always running due to being clouded by being able to see all light, and moving much faster than normal to keep up with their peak speed.
+
+**NOTES**
+- User’s speed will cut seamlessly through air, and their attacks using their speed must be landed perfectly to carry all of its momentum. 
+- Light wave illusions can be seen through after enough time watching closely. 
+- User’s light parry takes a moment, as the user has to catch the attack, then return it. Duplication is demanding in terms of stamina. 
+- The user is incapable of feeling fear. 
+- User is constantly glowing. 
+- Maintenance of top speeds beyond Gate III becomes difficult, as running at these speeds could potentially scuff their sense of time, damage their internal organs, or tire them out.  
+- Progression through the element requires further meditation with light and proof of intense pride. 
 
 # DARREKIN FORBIDDEN
-## Void (I - IV) - An enhanced Darkness element, created by the element Darkness in an attempt to gain an upper-hand on their rival, Light. It will always appear as a deep endless black. To
-increase its Gate requires use of its pocket dimension. Overuse of this element can drain spiritual strength as the user grows connected to its pocket dimension. Portals can be made by 
-simple thought.
-⦿ Gate I - Element is used as portals through darkness to and from a pocket dimension of infinite shadows. This Gate doesn’t take the spiritual requirements. Portals will linger and cause
-large, noticeable energy bursts on radars and satellites. 
-⦿ Gate II - Elemental can make multiple portals and no longer linger. Spiritual requirements begin, but lightly (takes a lot to show minor symptoms). Portals no longer require darkness.
-⦿ Gate III - Portals no longer have to be walked through, contact is enough to be teleported. Can spawn any shape to be thrown for contact. Normal portals may be spawned anywhere, but 
-contact portals must be thrown (unless contact is created by the Elemental’s own body.)  Spiritual drawbacks peak at this Gate, carrying onto the next.
-⦿ Gate IV - Elemental can teleport themselves without the use of portals. Shadows and darkness warp around them when the element is in use. Pocket dimension becomes infinitely large. This 
-Gate will cause the user to lose touch with the real world permanently, always feeling like something is missing. 
-How It Feels: This element being used will make those nearby feel heavy. Gravity from the pocket dimension will not physically pull them down, but they can feel its presence. The user 
+## Void (I - IV)
+An enhanced Darkness element, created by the element Darkness in an attempt to gain an upper-hand on their rival, Light. It will always appear as a deep endless black. To increase its Gate requires use of its pocket dimension. Overuse of this element can drain spiritual strength as the user grows connected to its pocket dimension. Portals can be made by simple thought.
+
+⦿ **Gate I** - Element is used as portals through darkness to and from a pocket dimension of infinite shadows. This Gate doesn’t take the spiritual requirements. Portals will linger and cause large, noticeable energy bursts on radars and satellites. 
+
+⦿ **Gate II** - Elemental can make multiple portals and no longer linger. Spiritual requirements begin, but lightly (takes a lot to show minor symptoms). Portals no longer require darkness.
+
+⦿ **Gate III** - Portals no longer have to be walked through, contact is enough to be teleported. Can spawn any shape to be thrown for contact. Normal portals may be spawned anywhere, but contact portals must be thrown (unless contact is created by the Elemental’s own body.)  Spiritual drawbacks peak at this Gate, carrying onto the next.
+
+⦿ **Gate IV** - Elemental can teleport themselves without the use of portals. Shadows and darkness warp around them when the element is in use. Pocket dimension becomes infinitely large. This Gate will cause the user to lose touch with the real world permanently, always feeling like something is missing. 
+
+**_How It Feels_**: This element being used will make those nearby feel heavy. Gravity from the pocket dimension will not physically pull them down, but they can feel its presence. The user 
 themself will become more sensitive to light, and always have an urge to feed their pocket dimension.
-NOTES
-The pocket dimension is pitch black. No light bounces off of anything, and only the Void user can see in it.
-If the pocket dimension grows too hungry, the user will feel an urge to feed themselves to it, getting trapped there forever.
-Progression through the gates requires feeding the pocket dimension.
+
+**NOTES**
+- The pocket dimension is pitch black. No light bounces off of anything, and only the Void user can see in it.
+- If the pocket dimension grows too hungry, the user will feel an urge to feed themselves to it, getting trapped there forever.
+- Progression through the gates requires feeding the pocket dimension.
 
 # ICIK/SNAI FORBIDDEN
-## Subzero (I - V) - An element created by the Brother Elements to protect their corner of the world. This element is an enhancement of both Ice and Snow, meaning both elementals can unlock
-this power. It always appears as either white or cyan, depending on whether Ice or Snow is in use.
-⦿ Gate I - The original element remains, with no access to the other. The element becomes twice as cold and the user can strike with more precision. It also gains the ability to act as a 
-Flux element, while still being able to act as a Core. 
-⦿ Gate II - User unlocks the second element. Their element reaches three times as cold as usual once this Gate is reached. However the user’s brain lags in random moments as they struggle
-to keep up, with their brain moving slower when not in combat.
-⦿ Gate III - Ice can be turned to Snow, and Snow to Ice. User can also affect temperatures without use of their element, with their Ice and Snow reaching five times as cold as normal. Ice
-and Snow have a lasting effect on the environment, which will decay on its own over multiple days. User will begin to experience short term memory issues and executive dysfunction, 
-struggling to begin or end tasks. 
-⦿ Gate IV - Ice and Snow grow sharp, becoming eight times as cold (now allowing near instant frostbite on contact) as usual and becoming immune to heat. Wounds caused by Subzero will no
-longer heal or worsen naturally, requiring outside influence. User will struggle with perception outside of combat as their mind fixates often.
-⦿ Gate V - Elements become twelve times as cold, causing victims of it to move slower as their body begins to slowly freeze after elongated exposure. Moments can be locked in place by the
-element, with Ice or Snow only melting upon the user’s command. Things locked will be perfectly preserved. The user also gains the ability to make excellent spears instantly. The user 
-will think much slower outside of combat.
-How It Feels: Witnesses will feel frigid for a few moments once the first contact is made. The presence of the user themself does not directly affect the temperature, but it will feel 
-like they do. While outside of combat, the user will struggle cognitively after use depending on what gate they are in. They will also be incredibly uncomfortable in warm areas.
-NOTES
-This element can freeze flames (not summoned by Hellfire or Sol). 
-Shields created by this element are nearly unbreakable. 
-Progression through this element requires meditation in self-created cold environments.
+## Subzero (I - V)
+An element created by the Brother Elements to protect their corner of the world. This element is an enhancement of both Ice and Snow, meaning both elementals can unlock this power. It always appears as either white or cyan, depending on whether Ice or Snow is in use.
+
+⦿ **Gate I** - The original element remains, with no access to the other. The element becomes twice as cold and the user can strike with more precision. It also gains the ability to act as a Flux element, while still being able to act as a Core. 
+
+⦿ **Gate II** - User unlocks the second element. Their element reaches three times as cold as usual once this Gate is reached. However the user’s brain lags in random moments as they struggle to keep up, with their brain moving slower when not in combat.
+
+⦿ **Gate III** - Ice can be turned to Snow, and Snow to Ice. User can also affect temperatures without use of their element, with their Ice and Snow reaching five times as cold as normal. Ice and Snow have a lasting effect on the environment, which will decay on its own over multiple days. User will begin to experience short term memory issues and executive dysfunction, struggling to begin or end tasks. 
+
+⦿ **Gate IV** - Ice and Snow grow sharp, becoming eight times as cold (now allowing near instant frostbite on contact) as usual and becoming immune to heat. Wounds caused by Subzero will no longer heal or worsen naturally, requiring outside influence. User will struggle with perception outside of combat as their mind fixates often.
+
+⦿ **Gate V** - Elements become twelve times as cold, causing victims of it to move slower as their body begins to slowly freeze after elongated exposure. Moments can be locked in place by the element, with Ice or Snow only melting upon the user’s command. Things locked will be perfectly preserved. The user also gains the ability to make excellent spears instantly. The user will think much slower outside of combat.
+
+**_How It Feels_**: Witnesses will feel frigid for a few moments once the first contact is made. The presence of the user themself does not directly affect the temperature, but it will feel like they do. While outside of combat, the user will struggle cognitively after use depending on what gate they are in. They will also be incredibly uncomfortable in warm areas.
+
+**NOTES**
+- This element can freeze flames (not summoned by Hellfire or Sol). 
+- Shields created by this element are nearly unbreakable. 
+- Progression through this element requires meditation in self-created cold environments.
 
 # NATURINE FORBIDDEN
-## Biota (I - IV) - Created by the Nature element to oppose and resist Sol, Biota is a Naturine Forbidden Element built for war. It’s the reason that Elementals aren’t born with all of the 
-element specific forbidden elements, as it created widespread fear among the gods about forbidden elements killing off the Tulian population. This element is sometimes referred to as 
-“Life”, due to it extending connections with Mother Nature. 
-⦿ Gate I - Immediately, the user grows immune to fire. Their element spawn does not—just the vines on their body. They also gain armor which they can activate at any time. It’s unfortunately
-tight and hard to breathe in, but it’s very durable, absorbing lots of damage. 
-⦿ Gate II - Nature around the user will be influenced by them, giving the user the choice to influence it and bring it to their command, or to ignore it and allow it to cloud their mind.
-Users can now extend their limbs using their vines, which if held flor long enough can cause internal damage. 
-⦿ Gate III - User can now plant “seeds” on targets, which allows the user to use their element from the seed. They can grow anything from that seed, which is useful, because this is the
-gate their plant arsenal expands. They can now grow explosive, carnivorous, irritating, or heavy plants that will have different effects on the target. The user will begin to feel as 
-if they have lived for too long, and it will be hard to impress them. 
-⦿ Gate IV - User can now instantly grow seeds from their palm, resulting in massive, hard-hitting attacks. After chaining enough hits, they can turn their victim into leaves in the wind.
-Vines are stronger, and more dense. However at this point, all of the user’s attacks are heavy, and their armor weighs them down. They move slowly, but breaking through their armor is
-incredibly difficult, as it now grows thorns and hurts to hit them directly. 
-How It Feels: Witnesses of Biota feel calm, almost too calm. They get calm enough to make them slightly uneasy. The user will feel heavy and clouded, always unsafe and anxious as they
-fear sneak attacks and distrust those around them.
-NOTES
-Biota’s armor must be deployed, which can take a few seconds, leaving the user vulnerable to counter attacks.
-User can instantly create massive weapons such as whips and hammers.
-Seeds can be destroyed, but are silently deployed, so the victim must be aware. Seeds will die if not used fast enough (within 60 seconds). 
-Progression through the element requires residing within heavy verdure for extended amounts of time.
+## Biota (I - IV)
+Created by the Nature element to oppose and resist Sol, Biota is a Naturine Forbidden Element built for war. It’s the reason that Elementals aren’t born with all of the element specific forbidden elements, as it created widespread fear among the gods about forbidden elements killing off the Tulian population. This element is sometimes referred to as “Life”, due to it extending connections with Mother Nature. 
+
+⦿ **Gate I** - Immediately, the user grows immune to fire. Their element spawn does not—just the vines on their body. They also gain armor which they can activate at any time. It’s unfortunately tight and hard to breathe in, but it’s very durable, absorbing lots of damage. 
+
+⦿ **Gate II** - Nature around the user will be influenced by them, giving the user the choice to influence it and bring it to their command, or to ignore it and allow it to cloud their mind. Users can now extend their limbs using their vines, which if held flor long enough can cause internal damage. 
+
+⦿ **Gate III** - User can now plant “seeds” on targets, which allows the user to use their element from the seed. They can grow anything from that seed, which is useful, because this is the gate their plant arsenal expands. They can now grow explosive, carnivorous, irritating, or heavy plants that will have different effects on the target. The user will begin to feel as if they have lived for too long, and it will be hard to impress them. 
+
+⦿ **Gate IV** - User can now instantly grow seeds from their palm, resulting in massive, hard-hitting attacks. After chaining enough hits, they can turn their victim into leaves in the wind. Vines are stronger, and more dense. However at this point, all of the user’s attacks are heavy, and their armor weighs them down. They move slowly, but breaking through their armor is incredibly difficult, as it now grows thorns and hurts to hit them directly. 
+
+**_How It Feels_**: Witnesses of Biota feel calm, almost too calm. They get calm enough to make them slightly uneasy. The user will feel heavy and clouded, always unsafe and anxious as they fear sneak attacks and distrust those around them.
+
+**NOTES**
+- Biota’s armor must be deployed, which can take a few seconds, leaving the user vulnerable to counter attacks.
+- User can instantly create massive weapons such as whips and hammers.
+- Seeds can be destroyed, but are silently deployed, so the victim must be aware. Seeds will die if not used fast enough (within 60 seconds). 
+- Progression through the element requires residing within heavy verdure for extended amounts of time.
 
 # POISI FORBIDDEN
-## Bane (I - V) - Created by the element Poison out of fear of being surrounded by other Forbidden elements. Bane is a full-on assassin type element, built to infiltrate and destroy silently
-without leaving any tracks. 
-⦿ Gate I - This gate weakens the user substantially. Their toxins no longer kill, but they become purely invisible with a specific aroma. The user gains the ability to go invisible, and
-becomes incredibly light-weight. When not invisible, their body becomes fully covered by their element. They’re entirely unrecognizable, and the user will begin to forget who they were,
-becoming a weapon, usually looking for someone to serve or work with.
-⦿ Gate II - User’s toxins will still not kill, instead causing immense damage internally that will often require heavy medical action to reverse. User gains the ability to make daggers from 
-their element, though they will not have any poison or venom attached to them. User will become invisible to cameras and mirrors no matter what, and lose further memories. 
-⦿ Gate III - At Gate III, the user should have forgotten who they were entirely. They now are expected to form a new life, usually joining a movement or group. They will not have their own
-objectives, but make a good soldier. They will randomly have flashbacks of what they lost, a gruesome reminder. At this point, their toxins become lethal to humans again. 
-⦿ Gate IV - User’s toxins can linger for much longer. They become lethal to elementals after enough exposure, and near-instantly kill humans. They can now instantly switch between visible
-and invisible. 
-⦿ Gate V - User becomes faster and totally silent when invisible, no longer producing any sound when invisible. They can now plant toxins onto people when in proximity that must be destroyed
-or toxins will enter the bloodstream. The user becomes incredibly calculating and careful, always following orders. At this gate, the user can seem near emotionless, becoming hard to make
-them smile, frown, or even react.
-How It Feels: Witnesses of the Bane user will feel as if they should be ignored, as if they are not important, and as if they should be left alone. After enough exposure, this feeling
-disappears. The user becomes an emotionless soldier who follows orders, forgetting everything they knew and loved before they adopted the element.
-NOTES
-When invisible, the user is still visible to the Gate V (and beyond) Warshine user.
-Toxins remain invisible, but the aroma can push victims away, demanding strategy instead of mindless attacks.
-Bane’s toxins still are destroyed in reaction with Fire, disrupted by Water, pushed by Air, and absorbed by Snow. 
-Progression through Gates I-III requires sacrificing personal items, and kills. Gates IV-V require silent kills that the user does not get blamed for.
+## Bane (I - V)
+Created by the element Poison out of fear of being surrounded by other Forbidden elements. Bane is a full-on assassin type element, built to infiltrate and destroy silently without leaving any tracks. 
+
+⦿ **Gate I** - This gate weakens the user substantially. Their toxins no longer kill, but they become purely invisible with a specific aroma. The user gains the ability to go invisible, and becomes incredibly light-weight. When not invisible, their body becomes fully covered by their element. They’re entirely unrecognizable, and the user will begin to forget who they were, becoming a weapon, usually looking for someone to serve or work with.
+
+⦿ **Gate II** - User’s toxins will still not kill, instead causing immense damage internally that will often require heavy medical action to reverse. User gains the ability to make daggers from  their element, though they will not have any poison or venom attached to them. User will become invisible to cameras and mirrors no matter what, and lose further memories. 
+
+⦿ **Gate III** - At Gate III, the user should have forgotten who they were entirely. They now are expected to form a new life, usually joining a movement or group. They will not have their own objectives, but make a good soldier. They will randomly have flashbacks of what they lost, a gruesome reminder. At this point, their toxins become lethal to humans again. 
+
+⦿ **Gate IV** - User’s toxins can linger for much longer. They become lethal to elementals after enough exposure, and near-instantly kill humans. They can now instantly switch between visible and invisible. 
+
+⦿ **Gate V** - User becomes faster and totally silent when invisible, no longer producing any sound when invisible. They can now plant toxins onto people when in proximity that must be destroyed or toxins will enter the bloodstream. The user becomes incredibly calculating and careful, always following orders. At this gate, the user can seem near emotionless, becoming hard to make them smile, frown, or even react.
+
+**_How It Feels_**: Witnesses of the Bane user will feel as if they should be ignored, as if they are not important, and as if they should be left alone. After enough exposure, this feeling disappears. The user becomes an emotionless soldier who follows orders, forgetting everything they knew and loved before they adopted the element.
+
+**NOTES**
+- When invisible, the user is still visible to the Gate V (and beyond) Warshine user.
+- Toxins remain invisible, but the aroma can push victims away, demanding strategy instead of mindless attacks.
+- Bane’s toxins still are destroyed in reaction with Fire, disrupted by Water, pushed by Air, and absorbed by Snow. 
+- Progression through Gates I-III requires sacrificing personal items, and kills. Gates IV-V require silent kills that the user does not get blamed for.
 
 # ROCCIAN FORBIDDEN
-## Bastion (I - VI) - A defensive Forbidden Element made by the Rock element. It was made to be incredibly defensive, as the Rock element did not want to provoke the others into thinking
-they were preparing for an invasion. This element demands dominance of the battlefield with large, unmoving walls and structures altering the very ground itself. 
-⦿ Gate I - The user immediately grows heavier, with their haloed body getting armor similar to that of Biota’s. However, his armor is much stronger and heavier. The user is also now able 
-to create walls extending from slabs of stone in the ground. The user will grow more selfless as these gates progress. 
-⦿ Gate II - All rocks of the user become two times more dense. They can enchant others will invisible armor, increasing their durability slightly. Walls created by the user are now nearly
-impossible to move (but still possible to shatter/break through them). 
-⦿ Gate III - User can now sense steps through vibrations in the ground. However, this comes with the downside that they now hear every vibration, allowing a more cunning opponent to throw
-them off. Along with this, their mind also grows crowded with constant vibrations and noises that may be unimportant. They can now swivel their walls around a corner of it they choose.
-However, the element grows too fast, and they become heavier and slower, as well as requiring more stamina to utilize their abilities to the greatest ability, but quickly running out.
-⦿ Gate IV - User can now create platforms, which they can use to launch themselves or others. They can also build rock mass around a specific area of their body to either resist incoming
-damage or increase their own damage output. Armor given to allies is slightly stronger and no longer weighs them down. The user now values their life below others, and is incredibly brave 
-and willing to work in teams.
-⦿ Gate V - Weapons they manifest can now be manifested from walls or platforms they create. User can connect themselves to the ground they stand on to hold their ground better. The user 
-gains an unrelenting urge to help and defend people who either can’t defend themselves or face extreme life-threatening attacks. Stamina requirements greatly diminish at this point.
-⦿ Gate VI - The user can now nearly instantly deploy their armor. They can now “claim” territory on a battlefield, in which they unlock total control of every rock and stone on the ground 
-around them in a 20 meter radius. They can now morph their limbs into weapons or shields.
-How It Feels: Witnesses of Bastion will feel substantially safer. No anxiety, no fear, just safety and security. Enemies may feel incredibly irritated near them, as they feel they’re 
-fighting an unfair battle. The user will feel as if they were built to protect, with the element fabricating memories of them doing so. Unfortunately, the user’s mind becomes clouded by
-small vibrations in the ground relating to tectonic movements or distant disruptions. 
-NOTES 
-The user of this element can easily become immovable when they anchor to the ground.
-This element is meant to be very selfless and passive.
-Bastion was almost not made, nearly prevented by the other elements.
-The user can have difficulty sleeping with all of the vibrations.
-Progression through this element requires acts of heroism and bravery. 
+## Bastion (I - VI)
+A defensive Forbidden Element made by the Rock element. It was made to be incredibly defensive, as the Rock element did not want to provoke the others into thinking they were preparing for an invasion. This element demands dominance of the battlefield with large, unmoving walls and structures altering the very ground itself. 
+
+⦿ **Gate I** - The user immediately grows heavier, with their haloed body getting armor similar to that of Biota’s. However, his armor is much stronger and heavier. The user is also now able to create walls extending from slabs of stone in the ground. The user will grow more selfless as these gates progress. 
+
+⦿ **Gate II** - All rocks of the user become two times more dense. They can enchant others will invisible armor, increasing their durability slightly. Walls created by the user are now nearly impossible to move (but still possible to shatter/break through them). 
+
+⦿ **Gate III** - User can now sense steps through vibrations in the ground. However, this comes with the downside that they now hear every vibration, allowing a more cunning opponent to throw them off. Along with this, their mind also grows crowded with constant vibrations and noises that may be unimportant. They can now swivel their walls around a corner of it they choose. However, the element grows too fast, and they become heavier and slower, as well as requiring more stamina to utilize their abilities to the greatest ability, but quickly running out.
+
+⦿ **Gate IV** - User can now create platforms, which they can use to launch themselves or others. They can also build rock mass around a specific area of their body to either resist incoming damage or increase their own damage output. Armor given to allies is slightly stronger and no longer weighs them down. The user now values their life below others, and is incredibly brave and willing to work in teams.
+
+⦿ **Gate V** - Weapons they manifest can now be manifested from walls or platforms they create. User can connect themselves to the ground they stand on to hold their ground better. The user gains an unrelenting urge to help and defend people who either can’t defend themselves or face extreme life-threatening attacks. Stamina requirements greatly diminish at this point.
+
+⦿ **Gate VI** - The user can now nearly instantly deploy their armor. They can now “claim” territory on a battlefield, in which they unlock total control of every rock and stone on the ground around them in a 20 meter radius. They can now morph their limbs into weapons or shields.
+
+**_How It Feels_**: Witnesses of Bastion will feel substantially safer. No anxiety, no fear, just safety and security. Enemies may feel incredibly irritated near them, as they feel they’re fighting an unfair battle. The user will feel as if they were built to protect, with the element fabricating memories of them doing so. Unfortunately, the user’s mind becomes clouded by small vibrations in the ground relating to tectonic movements or distant disruptions. 
+
+**NOTES** 
+- The user of this element can easily become immovable when they anchor to the ground.
+- This element is meant to be very selfless and passive.
+- Bastion was almost not made, nearly prevented by the other elements.
+- The user can have difficulty sleeping with all of the vibrations.
+- Progression through this element requires acts of heroism and bravery. 
