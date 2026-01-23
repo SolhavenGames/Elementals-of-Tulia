@@ -6,7 +6,7 @@
 	Things to note
 
 # Universal Forbidden Elements
-<sub>_Anyone of any elemental type can use these._<sub>
+<sub>_Anyone of any elemental type (and in one case, human!) can use these._<sub>
 ## Omni (I - V) 
 The second youngest Forbidden Element, created by all of the elements together to create one final union. It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
 
