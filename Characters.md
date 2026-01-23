@@ -6,20 +6,14 @@ A Firen born in New Iris into a wealthy popular family. Her father was a warrior
 ⦾ Birthday: Year 873, Month Zneff, Day 22 
 
 ⦾ Height: 5'2" / 158cm
-## ⦿ Adva Anil (Female) - Airren - Forbidden Element User (Squall)  
-An Airren born in Wor. She was adopted by a wealthy Airren businesswoman who hardly recognized or acknowledged her, leading to Adva doing whatever she wanted in her 
-earlier years. When Wor fell to Wrenao and Dal yon Tulia started, she dodged a draft and survived incities torn to shreds, where she met Imbra. They survived together
-before finding Vael (Kael) and fleeing to Earth. There, conflicts caused her to silently decide thatthe universe was inherently violent, so she would be violent back.
-With Imbra by her side, she assists her in the crusade by seeking out Squall.
+## ⦿ Adva "Tempest" Anil (Female) - Airren - Forbidden Element User (Squall)  
+An Airren born in Wor. She was adopted by a wealthy Airren businesswoman who hardly recognized or acknowledged her, leading to Adva doing whatever she wanted in her earlier years. When Wor fell to Wrenao and Dal yon Tulia started, she dodged a draft and survived incities torn to shreds, where she met Imbra. They survived together before finding Vael (Kael) and fleeing to Earth. There, conflicts caused her to silently decide thatthe universe was inherently violent, so she would be violent back. With Imbra by her side, she assists her in the crusade by seeking out Squall.
 
 ⦾ Birthday: Year 866, Month Tulip, Day 1
 
 ⦾ Height: 5'4" / 162cm
 ## ⦿ Rai Ronal (Male) - Watirsh - Forbidden Element User (Deluge) 
-A Watrish child born into a middle-class family in the corrupt nation of Wavalo, Rai constantly found himself trying to claw his way up the social ladder. He never
-got the chance to succeed, as Dal yon Tulia started. When his city was destroyed in a bombing, he decided to meet up with family friend Arete Ishel to flee the
-planet to Earth. On Earth, they isolated in the Amazon Rainforest, an anarchist territory with no authority. When humans begin to grow more hostile, they seek 
-Forbidden Elements Deluge and Bastion. 
+A Watrish child born into a middle-class family in the corrupt nation of Wavalo, Rai constantly found himself trying to claw his way up the social ladder. He never got the chance to succeed, as Dal yon Tulia started. When his city was destroyed in a bombing, he decided to meet up with family friend Arete Ishel to flee the planet to Earth. On Earth, they isolated in the Amazon Rainforest, an anarchist territory with no authority. When humans begin to grow more hostile, they seek Forbidden Elements Deluge and Bastion. 
 
 ⦾ Birthday: Year 871, Month Tilik, Day 30
 ## ⦿ Arete Ishel (Female) - Roccian - Forbidden Element User (Bastion)
