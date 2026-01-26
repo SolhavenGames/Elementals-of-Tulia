@@ -150,7 +150,7 @@ This element was created by the Fire element to empower rage in its people. The 
 
 ⦿ **Gate I** - Progression through thresholds in Gate I requires intense emotions or near death experiences. Flames in all thresholds of this gate are always chaotic and hard to control. Movement through thresholds requires increasingly heavy reactions. This Gate makes the user vulnerable to strong negative emotions, usually turning them into rage.
 
-⦾ **Threshold I** - Threshold I acts more as a “second wind”. The user’s stamina is restored and they feel rejuvenated, prepared for more combat. They only get slight endurance and speed increases, alongside a newfound courage.
+⦾ **Threshold I** - Threshold I acts more as a “second wind”. The user’s stamina is restored and they feel rejuvenated, prepared for more combat. They only get slight endurance, strength, and speed increases, alongside a newfound courage. The user will also be healed from any major injuries that they may have gained on the way to this gate.
 
 ⦾ **Threshold II** - Flames turn red with black highlights. This threshold is more dangerous than it is powerful, as the user becomes blinded by pure rage and hatred, causing them to act erratically. Whoever caused the drastic emotion is the main target. Sometimes, if the target escapes, the element engages in a “crash”, in which it falls back to Threshold N and the user collapses into tears. In this phase, the user becomes much faster and gains physical strength. 
 
