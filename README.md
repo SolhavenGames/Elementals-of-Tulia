@@ -175,7 +175,7 @@ grow closer to the Light element.
 - Large-Scale Anti Elemental weaponry begins development, made to be placed in Super Cities. (E-Year 2037)
 - **_Imbra_** attacks New York Super City, causing just under 2 trillion in damage to the city. (E-Year 2037)
 - **_Samae_** duels **_Imbra_**, getting brutally injured in the fight.
-- **_Imbra_**, under the alias Hellfire, is declared a wanted terrorist across planet Earth. (E-Year 2037)
+- **_Imbra_**, under the alias Phoenix, is declared a wanted terrorist across planet Earth. (E-Year 2037)
 ## T-Year 921
 - **_Adva_** finally chooses to sacrifice her Windsi for Squall Gate II. **_Imbra_** supports her through this. (E-Year 2037)
 - **_Imbra_** reaches Hellfire Gate II after she experimented with her power in an isolated area. (E-Year 2038)
