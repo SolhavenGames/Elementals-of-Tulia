@@ -1,5 +1,5 @@
 # MAJOR CHARACTERS!
-<sub>**_"We build our own history, not by choice, but by force."_**<sub>
+<sub>_"We build our own history, not by choice, but by force."_<sub>
 These are the characters who will have a major impact on the story alone, being major pillars of the entire Elementals Universe and timeline.
 -
 ## ⦿ Imbra "Phoenix" Hayes (Female) - Firen - Forbidden Element User (Hellfire)  
