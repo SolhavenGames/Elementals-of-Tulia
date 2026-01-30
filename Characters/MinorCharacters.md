@@ -2,7 +2,7 @@
 <sub> **_"The spotlight isn't what makes you matter."_** <sub>
 
 These characters will have their own influences, but not as much as the major characters. Instead, they will each have their own roles to fill that may not directly affect as much as the Major Character's roles. 
-## ⦿ Grand Iris (Female) - Firen - Minor Antagonist
+## ⦿ Knison Iris (Female) - Firen - Minor Antagonist
 The leader of Irision, Iris is simultaniously one of the most respected, and one of the most feared Elementals on Tulia. She is ruthless, efficient, and calculating, molding the nation around those values. She has served many roles, like giving the direct order to capture Imbra, approving Kael to be sent to Tixolam,
 
 ⦾ Birthday: Year 722, Month Retti, Day 2
