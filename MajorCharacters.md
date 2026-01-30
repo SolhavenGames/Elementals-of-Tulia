@@ -1,5 +1,7 @@
-# CHARACTERS!
-	
+# MAJOR CHARACTERS!
+<sub> **_"We build our own history, not by choice, but by force."_**
+These are the characters who will have a major impact on the story alone, being major pillars of the entire Elementals Universe and timeline.
+-
 ## ⦿ Imbra "Phoenix" Hayes (Female) - Firen - Forbidden Element User (Hellfire)  
 A Firen born in New Iris into a wealthy popular family. Her father was a warrior, and her mother was a jeweler. Through her youth, she was the prized possession in her family, treated and spoiled as much as possible, while her parents taught her to be selfless and respectful. When the March on Tramalen happened, she was a student away from home, who quickly returned to be with her family in the time of uncertainty. The newly established Knightsdale in Tramalen took her family from her, drafting them into war. Her parents ordered her to flee out of the nation, and she eventually ended up inWrenao where she met her closest friend, Adva. Together, after narrowly surviving Wrenao, they fled to Earth with a new friend, Kael, who called himself Vael. There,she met Xor, who helped her, Adva, and Kael integrate into human culture. Unfortunately, humanity grew hostile. After multiple encounters with Human soldiers and Covenwarriors, she killed Xor for his ties to the Knightsdale movement, and Kael was ripped away, who she had grown to love. She declared a crusade against Humanity with her newly awakened Hellfire, assisted by her long-time friend, Adva.
 
@@ -80,7 +82,4 @@ Endzone, an experimental android built for war on Earth, is a lost, wandering an
 Wykoi dedicated his life early on to the research of Elemental life and customs. He’s spent most of his life doing so, finding much pride and joy in his studies, being the loudest human to be for co-existence with Elementals seeking refuge, publicly debating those who disagree with him, including Samae. His knowledge on the species got him a job in the ADS’ Elemental Integration Initiative, where he’d assist in making spaces comfortable and fit for Elementals residing on the planet. Unfortunately, when Troy takes over and rebrands the EII to the Elemental Research Initiative, he loses his job, now fighting from the sidelines to keep peace between the species. His efforts were in vain, as the Elemental Crusade broke out, brutal and swift. Thanks to his connections, however, he is one of the few humans on the “Do Not Harm” list for Elemental Factions. 
 
 ⦾ Birthday: Year 207, Month December, Day 2
-## ⦿ Xor (Male) - Poisi - Minor Protag-Supporting
-Xor, born in Tilox, was a nationalist in his youth. He believed the Poisi Elementals were superior to everyone with no compromise, and was even a founder in their Knightsdale Movement. He was arrested shortly after, so had little influence in the later years when the Siege of Set put them into power. He was given a seat in the government, but his loyalty wavered slightly when the state killed his daughter due to her protesting. Knowing this would have this effect, the state had already planned to replace him, sending him away. He flees to Earth, fearing for his life, where he begins to justify his nationalistic tendencies while integrating with humanity. He eventually helps Adva, Imbra, and Kael integrate into human society, but is killed by Imbra when she discovers his nationalist ties.
 
-⦾ Birthday: Year 844, Month Venos, Day 7
