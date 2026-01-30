@@ -7,3 +7,8 @@ Xor, born in Tilox, was a nationalist in his youth. He believed the Poisi Elemen
 
 ⦾ Birthday: Year 844, Month Venos, Day 7
 
+## ⦿ Knight Asli (Female) - Firen - Minor Antagonist
+A high-ranking warrior in Irision, Knight Asli is a powerful and dangerous combatant who is sent to abduct Imbra and return her to Tulia under the belief that she weilds the forbidden element Hellfire. She fails this mission, instead returning with Kael, and indirectly causing Imbra's Crusade. 
+
+⦾ Birthday: Year 844, Month Venos, Day 7
+
