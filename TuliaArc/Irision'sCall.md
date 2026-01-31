@@ -42,6 +42,7 @@ Asli’s eyes flicker around the room. Her hand twitches as she stands. “Yes, 
 <sub>Before The Hunt Summary: Asli receives orders to hunt Imbra.<sub>
 # After The Hunt …
 <sub>~ 90-100 Tulia Days after “Before The Hunt”<sub> 
+
 The doors swung open, two knights holding them. In walked Grand Knight Asli, holding a chained Snai Elemental by the collar as if it were an animal. Its face had been covered and mouth kept shut by a clamp. The chains have become frostbitten after remaining tied to it for so long.
 
 Iris sat on the other side of the room, her chin resting upon two balled fists. As her gaze falls upon the prisoner, her eyes grow narrow. Her flames seem to jerk in odd, angular directions as she examines the visible parts of its body. 
@@ -94,3 +95,4 @@ Iris throws her hand up. “What nation is this?”
 
 Iris’ gaze jumps between Asli and Kael. Then, she approaches, and kneels before Kael. She places her finger under his chin, moving his head around. His resistance is light, almost nullable compared to her. “Maybe I could.”
 <sub>After The Hunt Summary: Asli returns with Kael instead of Imbra, with Iris deciding to use Kael as a bargaining chip.<sub>
+
