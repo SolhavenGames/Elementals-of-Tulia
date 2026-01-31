@@ -9,13 +9,13 @@ A Firen born in New Iris into a wealthy popular family. Her father was a warrior
 
 ⦾ Birthday: Year 873, Month Zneff, Day 22 
 
-⦾ Height: 5'2" / 158cm
+⦾ Height: 4'11" / 158cm
 ## ⦿ Adva "Tempest" Anil (Female) - Airren - Forbidden Element User (Squall)  
 An Airren born in Wor. She was adopted by a wealthy Airren businesswoman who hardly recognized or acknowledged her, leading to Adva doing whatever she wanted in her earlier years. When Wor fell to Wrenao and Dal yon Tulia started, she dodged a draft and survived incities torn to shreds, where she met Imbra. They survived together before finding Vael (Kael) and fleeing to Earth. There, conflicts caused her to silently decide thatthe universe was inherently violent, so she would be violent back. With Imbra by her side, she assists her in the crusade by seeking out Squall.
 
 ⦾ Birthday: Year 866, Month Tulip, Day 1
 
-⦾ Height: 5'4" / 162cm
+⦾ Height: 5'1" / 162cm
 ## ⦿ Rai Ronal (Male) - Watirsh - Forbidden Element User (Deluge) 
 A Watrish child born into a middle-class family in the corrupt nation of Wavalo, Rai constantly found himself trying to claw his way up the social ladder. He never got the chance to succeed, as Dal yon Tulia started. When his city was destroyed in a bombing, he decided to meet up with family friend Arete Ishel to flee the planet to Earth. On Earth, they isolated in the Amazon Rainforest, an anarchist territory with no authority. When humans begin to grow more hostile, they seek Forbidden Elements Deluge and Bastion. 
 
@@ -30,17 +30,17 @@ Born in Calen to a single mother with 4 siblings, Kael learned that everything c
 
 ⦾ Birthday: Year 873, Month Hulmin, Day 27 
 
-⦾ Height: 5'7.5" / 171cm
+⦾ Height: 5'4.5" / 171cm
 ## ⦿ Aeri Glem (Non-Binary) - Litti - Forbidden Element User (Warshine)
 Aeri Glem was born into a nationalistic Litti family. From a young age, they were told they’d join the military and dominate the battlefield. They joined as soon as they could, participating in hundreds of battles, growing familiar with their element quickly. When Dal yon Tulia started, they were reassigned to guarding refugee camps on the border in case of Tixolam invasion. After being caught talking with Teira, they were discharged and banished to the countryside, where Light discovered them and granted them Warshine …
 
 ⦾ Birthday: Year 870, Month Kinner, Day 2
-## ⦿ Dera Kni-Soa (Male) - Poisi - Forbidden Element User (Time)
-A member of the long Kni-Soa bloodline, Dera is a workaholic who loves to learn. His main subject was history, which he’d tell his family all about, including his bloodline’s history. When Dal yon Tulia started, he was drafted, being split from his family briefly before escaping to Ralia’s Rainforest in Kial. There he awakened, discovering Time. If it weren’t for K’zorak, he likely would’ve gone insane from the way Time treats the Elemental mind …
+## ⦿ Dera Kni-Soa (Male) - Poisi - Forbidden Element User (Era)
+A member of the long Kni-Soa bloodline, Dera is a workaholic who loves to learn. His main subject was history, which he’d tell his family all about, including his bloodline’s history. When Dal yon Tulia started, he was drafted, being split from his family briefly before escaping to Ralia’s Rainforest in Kial. There he awakened, discovering Era. If it weren’t for K’zorak, he likely would’ve gone insane from the way Era treats the Elemental mind …
 
 ⦾ Birthday: Year 861, Month Yurni, Day 7
-## ⦿ Teira Kni-Soa (Female) - Poisi - Forbidden Element User (Space)
-A member of the long Kin-Soa bloodline, Teira was considered to be the prize jewel of the family. Smart, beautiful, and charming, she was loved by virtually everyone she met. At the start of Dal yon Tulia, she used this charm to try to prevent her brother from being drafted, to which he failed. When the rest of her family was taken by the government, she fled to a refugee camp in neighboring Sharlin. After remaining there for a while she left, dedicated to finding her brother. When she awakened, she entered Space Gate I …
+## ⦿ Teira Kni-Soa (Female) - Poisi - Forbidden Element User (Dimension)
+A member of the long Kin-Soa bloodline, Teira was considered to be the prize jewel of the family. Smart, beautiful, and charming, she was loved by virtually everyone she met. At the start of Dal yon Tulia, she used this charm to try to prevent her brother from being drafted, to which he failed. When the rest of her family was taken by the government, she fled to a refugee camp in neighboring Sharlin. After remaining there for a while she left, dedicated to finding her brother. When she awakened, she entered Dimension Gate I …
 
 ⦾ Birthday: Year 873, Month Kinner, Day 33
 ## ⦿ Warrior-0000 “Zero” (Male) - Poisi - Forbidden Element User (Bane)
@@ -56,6 +56,10 @@ adopted Subzero to defend herself better …
 A child born into an impoverished family, she was told the military was her only way out. She endured training from the young age of 19, making her more than battle-ready when she was enlisted. She was placed on the border with Tixolam, and when Dal Yon Tulia started, she was constantly put on high alert. The one night she wasn’t, Poisi Soldiers from Tixolam kidnapped her in her sleep after sensing her immense Val Bank. They ended up giving her the Void element. When she escaped, she initially feared herself, but began light experiments in an isolated countryside …
 
 ⦾ Birthday: Year 869, Month Stemo, Day 5
+## ⦿ Zrili Qonn (Non-Binary) - Lithil - Forbidden Element User (Din)
+A nobody living in the noisy capital city Te of Stalto, Zrili hated much of their large city life. They always wanted to move closer to the countryside of the neighboring nation Delekt for their silence and quiet culture. Under pressure by their family, Zrili was forced into employment in the heart of Stalto- its powerful generators and power banks. Once Dal yon Tulia broke out, Zrili's job became even more important. Stalto did not join the war due to massive economic benefits from both sides, but still mostly sided with the Phlanax over the Coven. Once Zrili was given a promotion that required them to awaken their val, they were horrified to find that their element had just disappeared entirely. They was fired two days after their awakening, ousted by their family by day four, and looking for peace in Delekt by day 6- when Din arrived. They were kidnapped by Tixolam, who sensed the Forbidden Element, and later freed by the lady who'd become their closest friend- Zezri Duro. 
+
+⦾ Birthday: Year 871, Month Unity, Day 27
 ## ⦿ Is’ale Minsi (Male) - Naturine - Forbidden Element User (Biota)
 An advocate and freedom fighter born in Rutt, he despises the Knightsdale Ideology and those who bow to it. He spent his years trying to convince Rutt to invade Irision before they could spread their disease, which was shut down multiple times. When Dal yon Tulia started, he joined the military, but faced brutal injury and was discharged. After dodging an assassination attempt, Rutt sends him to Earth for safety. When Earth grows hostile to Elementals, he seeks Biota for protection …
 

@@ -102,8 +102,8 @@ increasingly hopeless and pessimistic as the Gates progress.
 - Death on a user will not mimic its symptoms to anyone around them (unless infected by the victim’s element in Gate V and beyond).
 - Progression through the element is natural, the victim has no influence.
 
-## Time (I - V)
-The oldest forbidden element, created at the dawn of everything. One of the two elements that chooses its user. Once the user awakens their val, if they are chosen, their element will be replaced by Time gradually, over the course of 7-19 Tulia days. This element can also only have one user at a time. It can appear as either green wisps or physical green clocks, where the user can grab the hands to reverse or speed up time.
+## Era (I - V)
+The oldest forbidden element, created at the dawn of everything. One of the three elements that chooses its user. Once the user awakens their val, if they are chosen, their element will be replaced by Era gradually, over the course of 7-19 Tulia days. This element can also only have one user at a time. It can appear as either green wisps or physical green clocks, where the user can grab the hands to reverse or speed up time.
 
 ⦿ **Gate I** - Once the user awakens their val, the process of replacement begins. While it’s happening, the user will gain a near perfect memory that will remain for all gates. Instead of remembering moments, the user will feel as if they genuinely relive them. Once the replacement is finished, the user will gain “regional time control”, with everything in their view within 30 meters of themselves. They do not yet unlock the clocks. Green wisps will appear around what is affected by the user. They cannot yet move things backwards in time. The speed at which things are moved through time is limited by 5 seconds per second.
 
@@ -116,19 +116,19 @@ The oldest forbidden element, created at the dawn of everything. One of the two 
 ⦿ **Gate V** - With meditation, the user can predict outcomes with varying accuracy depending on how many possible outcomes there are. User unlocks fully localized time which only affects them, allowing them to speed up themselves through time to attack quicker, rewind in time to heal injuries, or freeze themselves in time to be completely still. How It Feels: Witnesses will feel some indescribable force that makes them perceive things differently (either faster or slower, with no correlation deciding what they get), with déjà vu growing intense around this user. With enough exposure to the user, witnesses will feel nothing. The user will grow slight obsessions with the future and obsession with tech, as well as growing impatient. 
 
 **NOTES**
-- If the Time user leaves time frozen for too long, they risk temporal death.
-- If others break the clocks, potential effects are momentary time rewinds, time glitches, and brain lag. The Time user will feel these effects most. 
+- If the Era user leaves time frozen for too long, they risk temporal death.
+- If others break the clocks, potential effects are momentary time rewinds, time glitches, and brain lag. The Era user will feel these effects most. 
 - Clocks are purely physical energy.
 - Their future predictions are wrong more often than not, especially in the heat of battle. They get more accurate when the user uses their abilities.
 - Rewinding injuries too frequently increases risk of temporal death. 
 - Progression through the gates requires close encounters with Temporal Death, showing the user puts their trust in the element.
 
-## Space (I - V)
-The second oldest, created alongside Time. One of the two elements that chooses its user instead of being chosen. Once the chosen awakens their val, this element will slowly replace their original element over the course of 6-8 Tulia days. This element will only have one user at a time. It will always appear as purple or blue wisps, similar to the green wisps of its sister element Time. 
+## Dimension (I - V)
+The second oldest, created alongside Era. One of the three elements that chooses its user instead of being chosen. Once the chosen awakens their val, this element will slowly replace their original element over the course of 6-8 Tulia days. This element will only have one user at a time. It will always appear as purple or blue wisps, similar to the green wisps of its sister element Era. 
 
-⦿ **Gate I** - Once the user awakens their val, the replacement process will begin. Immediately, the user will lose their original element. Over the progressing days, the wisps of Space will randomly appear around their hands and lower arms over the period of replacement. Once it’s finished, the user will begin to struggle with depth perception and feel displaced constantly. At this gate, the element is purely melee, with each attack enchanted with space. Armor struggles, footing fails, and bones rattle in ways they shouldn’t when attacked by this user. The user is no longer a part of space, instead an influence on it.
+⦿ **Gate I** - Once the user awakens their val, the replacement process will begin. Immediately, the user will lose their original element. Over the progressing days, the wisps of Dimension will randomly appear around their hands and lower arms over the period of replacement. Once it’s finished, the user will begin to struggle with depth perception and feel displaced constantly. At this gate, the element is purely melee, with each attack enchanted with space. Armor struggles, footing fails, and bones rattle in ways they shouldn’t when attacked by this user. The user is no longer a part of space, instead an influence on it.
 
-⦿ **Gate II** - User unlocks ranged attacks, being able to throw propel force. Depth perception worsens and the user can randomly struggle from balance issues. However, the user can feel and affect things from a distance, mimicking telekinesis. In reality, it’s actually as if the item is  in their hand, simply visibly displaced. Under stress, the user can misjudge where the item may be—or, in rare cases, Space could unintentionally lie to them, and an item may be in a different place than they perceive. 
+⦿ **Gate II** - User unlocks ranged attacks, being able to throw propel force. Depth perception worsens and the user can randomly struggle from balance issues. However, the user can feel and affect things from a distance, mimicking telekinesis. In reality, it’s actually as if the item is  in their hand, simply visibly displaced. Under stress, the user can misjudge where the item may be—or, in rare cases, Dimension could unintentionally lie to them, and an item may be in a different place than they perceive. 
 
 ⦿ **Gate III** - The user unlocks gravity control, and their balance issues disappear. User can now cause minor shifts in gravity that will affect everything in their affected radius (around 50 meters). This user can now perfectly quantify every distance, with their mind being clouded by their calculations that they don’t welcome. The constant quantifications cloud their thoughts, often making it difficult to focus. Their telekinesis can now pull and push items, limited to five times their own lifting strength.
 
@@ -141,12 +141,36 @@ The second oldest, created alongside Time. One of the two elements that chooses 
 **NOTES**
 - Creating new “localized dimensions”, as in adding to the 3D. It allows them to move through 4D and above by adding the extra dimension. 
 - User can move to 2D and even 1D. They cannot bring people with them.
-- Progression through this gate requires meditation beyond the atmosphere of any celestial body. 
+- Progression through this gate requires meditation beyond the atmosphere of any celestial body.
+  
+## Din (I - VI)
+One of the three elements that chooses its wielder. Once the user awakens their val, it will replace their original element overtime. This element will only have one user at a time. Din will allow its user to control and manipulate sound waves in early gates, but grow to vibration and damn near truth itself in later gates. This element is visibly similar to Air, sprinkling in wisps depending on what kind of sound is being made or manipulated. 
+
+⦿ **Gate I** - Once the user awakens their val, the replacement process begins. Their original element will completely vanish, and for exactly 168 hours (6 Tulia Days), they will be without their replacement. Once the 168 hours are up, the user will finally gain access to Din. The user gains the ability to manipulate and mimic sounds created around them, but have yet to unlock creation on its own. They can edit and alter the sounds they mimic/manipulate. The user will become incredibly aware of every little sound around them. They no longer just hear sound, they feel it, and see it. 
+
+⦿ **Gate II** - The user is now able to create sound from their body, but it must be based on nearby or recent sounds, and has a maximum volume of ~90db. They begin to gain super-hearing, with every sound in a 30m radius being picked up by their ears. Their hearing also gets better, allowing them to hear quieter sounds that may be missed by others.  
+
+⦿ **Gate III** - At this gate, something called "Silent Sound" is unlocked, which effectively allows the user to create sound that makes no noise, but has all other characteristics of sound. The user now masters all musical notes and tunes, being able to create these at their own will using their ability. Maximum volume rises to ~120db. Their hearing also imrpoves even further.
+
+⦿ **Gate IV** -  User can now create Sound Illusions, which will replay the exact same sound in the mind of a victim for as long as they are in range. This sound can range from anything trivial to something incredibly irritating. Notably, this sound is in the victim's head, so covering the ears will not rid of it, but it will also do no physical damage. The user will now become fascinated with vibrations, while also being able to cause small ones in small objects. Max volume rises to ~150db. 
+
+⦿ **Gate V** - User can now echo actions of themselves, causing it to happen twice, simply known as an "Echo". This can be any action, ranging from trivial luxuries to aggressive attacks. Echoes can also be set up in advance, allowing for odd sneak attacks. Their vibrations grow stronger, allowing larger vibrations of larger items, now without contact. They can also now completely strip an item from its ability to create sound, so long as they remain close to it. Max volume rises to ~250db. The user's hearing peaks here, with every little sound in a 200-300m radius getting noticed. Sounds that are too on tune may become unbearable for the user to hear.
+
+⦿ **Gate VI** - User's manifested sound can now travel beyond Mach 1, reaching peaks of Mach 20. The user themselves can reach Mach 1 speeds. The user's sound can now rip through space, physically causing discomfort in the torso. They can also mimic vibrations from one object to another, possibly changing shape and multiplying damage. Their vibration speeds can cause items to shatter, given enough time. Max Volume Rises to ~400db. 
+
+**_How It Feels_**: Witnesses of Din will have the user's emotion portrayed onto them, as the user projects their emotions unintentionally to those around them. The user themself may suffer intensely from irritation due to all of the sound they must endure hearing. Along with this, their life will become more rythmic, with their emotions and actions being "perfectly timed" in comparison to each other.
+
+**NOTES**
+- Wisp Color Tutorial Kind Of!!: Yellow = Fast-Tempo Upbeat or Energetic Noise. Red & Black = High-Energy, Strong/Powerful, and Intense Noise. Blue Hues = Slow, Saddening Noise. Orange Hues = Peaceful, Soothing Noise. Green = Natural Noise. Gray/Silver = Modern Noise (beeps, metal, ect). White = Everything Else. 
+- The user struggles to maintain their maximum volume, due to their super hearing. Their own loud sounds may very well hurt them, too. 
+- User's Echoes can miss if the target moves or changes.
+- Attacking an Echo that has yet to be replayed will damage the user. When an Echo is being played, it cannot be damaged.
+
 # Specific Forbidden Elements
 <sub>**_Only elementals of specific types can use these._**<sub>
-# FIREN FORBIDDENS
+# FIREN FORBIDDEN
 ## Hellfire (I - IV)
-This element was created by the Fire element to empower rage in its people. The only 2D Forbidden Element, with 3 distinct layers in each gate called “Thresholds”. This fire-based element will turn the user’s flames a deep red when in use. This element is heavily connected to emotion, and cannot be chosen. Instead, users are born with it in very rare cases. There is a universal “Threshold N (Zero)” in which the user is simply normal, getting no effects from any threshold (but retaining the Gate’s effects). The user will be entirely normal until a near-death experience caused by unnatural causes, and only then will the element fully awaken.
+This element was created by Fire in an attempt to end the Forbidden Arms Race. The only 2D Forbidden Element, with 3 distinct layers in each gate called “Thresholds”. This fire-based element will turn the user’s flames a deep red when in use. This element is heavily connected to emotion, and cannot be chosen. Instead, users are born with it in very rare cases. There is a universal “Threshold N (Zero)” in which the user is simply normal, getting no effects from any threshold (but retaining the Gate’s effects). The user will be entirely normal until a near-death experience caused by unnatural causes, and only then will the element fully awaken.
 
 ⦿ **Gate I** - Progression through thresholds in Gate I requires intense emotions or near death experiences. Flames in all thresholds of this gate are always chaotic and hard to control. Movement through thresholds requires near death experiences, or just death, with each threshold reviving and repairing the user for more combat. This Gate makes the user vulnerable to strong negative emotions, usually turning them into rage.
 
@@ -193,22 +217,6 @@ This element was created by the Fire element to empower rage in its people. The 
 - Threshold N is most vulnerable to bloodlust outbursts.
 - Progression backwards through thresholds is difficult in the later gates, requiring meditation and regulation.
 - Progression through the gates requires learning emotional control, even if the user had it before Hellfire arrived.
-
-## Sol (I - III)
-The first Forbidden Element hand crafted by an element. It was created by Fire in an attempt to secure the battlefield easily, and given to a single warrior to test. This element began a race for other elements to build their own forbiddens. A controlled, combat-centered fire based element that empowers the user at the cost of peace of mind. As it’s empowered, the flames become a brighter orange. 
-
-⦿ **Gate I** - The user will become knowledgeable on how to best use the element of fire, providing them with a “Third Eye” which can predict enemy attacks and plan counter attacks. 
-
-⦿ **Gate II**  - Flames become more controlled, refusing to burn without being given explicit command by the user. Explosions are possible by throwing fireballs or shooting focused beams of fire. The Third Eye becomes louder, however, speaking more violence and hatred into the user’s mind. 
-
-⦿ **Gate III** - The Third Eye merges with the user’s consciousness. They are overwhelmed with the urge to kill alongside pride for the Firen element, alongside the heavy influence of nearby flames in a closed radius. The speed of their flight is heavily increased, and they can crash into the ground to cause massive explosions. The Third Eye becomes unbearable, eating away at their sanity. 
-
-**_How It Feels_**: Witnesses of this element will feel an aura of immense authority and control, with an urge to follow the commands and wisdom of the user. The user will grow hateful of non-Firen culture and existence as the Third Eye spews propaganda into their ear, which can provoke self-harm as the Third Eye constantly convinces them they have not done enough for the Firen.
-
-**NOTES**: 
-- Sol’s flames are explosive.
-- The Third Eye can be wrong.
-- Progression through the element requires deeds that the Fire element declares bravery.
 
 # AIRREN FORBIDDEN
 ## Squall (I - IV)
