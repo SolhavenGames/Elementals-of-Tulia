@@ -7,10 +7,15 @@ The leader of Irision, Iris is simultaniously one of the most respected, and one
 
 ⦾ Birthday: Year 722, Month Retti, Day 2
 
-## ⦿ Xor (Male) - Poisi - Minor Protag-Supporting
+## ⦿ Xor (Male) - Poisi - Minor Protaganist/Antagonist
 Xor, born in Tilox, was a nationalist in his youth. He believed the Poisi Elementals were superior to everyone with no compromise, and was even a founder in their Knightsdale Movement. He was arrested shortly after, so had little influence in the later years when the Siege of Set put them into power. He was given a seat in the government, but his loyalty wavered slightly when the state killed his daughter due to her protesting. Knowing this would have this effect, the state had already planned to replace him, sending him away. He flees to Earth, fearing for his life, where he begins to justify his nationalistic tendencies while integrating with humanity. He eventually helps Adva, Imbra, and Kael integrate into human society, but is killed by Imbra when she discovers his nationalist ties.
 
 ⦾ Birthday: Year 844, Month Venos, Day 7
+
+## ⦿ Be,lake Urola (Male) - Sakai - Minor Anatonist Supporting
+The loyal servant to Terkou, Be,lake, commonly referred to as Lake (Lah-Keh), is commonly seen by Terkou's side, carrying out his every order without question. It's not known as to how he got there, or why he stays, but he does, and his loyalty seems unwavering. 
+
+⦾ Birthday: Year 833, Month Unity, Day 1
 
 ## ⦿ Grand Knight Asli (Female) - Firen - Minor Antagonist
 A high-ranking warrior in Irision, Knight Asli is a powerful and dangerous combatant who is sent to abduct Imbra and return her to Tulia under the belief that she weilds the forbidden element Hellfire. She fails this mission, instead returning with Kael, and indirectly causing Imbra's Crusade. 
