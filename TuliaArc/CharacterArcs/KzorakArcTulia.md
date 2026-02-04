@@ -7,7 +7,7 @@
 
 **Inciting Losses**: After surviving assassination attempts from his own nation, he believes there is no "Good Side" on Tulia. 
 
-**Irreversable Actions**: Causing thousands of deaths of Forbidden Users after cooperating with Troy Talona.
+**Irreversable Actions**: Seeking out Omni, knowing he will lose his original element.
 
 **Biggest Arc Influence**: Proving that Phlanax nations are not perfect.
 ## Summary 
