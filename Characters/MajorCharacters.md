@@ -5,27 +5,35 @@
 These are the characters who will have a major impact on the story alone, being major pillars of the entire Elementals Universe and timeline.
 
 ## ⦿ Imbra "Phoenix" Hayes (Female) - Firen - Forbidden Element User (Hellfire)  
-⦾ Description: 
+⦾ Description: Chestnut Umber skintone (#8b5f46). Shoulder length scruffy and messy dull black hair (#151515). Orange-Red eyes (#ff4b33). 
 
 ⦾ Birthday: Year 873, Month Zneff, Day 22 
 
-⦾ Height: 4'11" / 158cm
+⦾ Height: 4'11" / 149cm
 ## ⦿ Adva "Tempest" Anil (Female) - Airren - Forbidden Element User (Squall)  
+⦾ Description: Rosey Beige skin tone (#e9c3b6). Middle-Back length black hair put into a ponytail-like hairstyle. White-Gray eyes (#D3D4D8). 
 
 ⦾ Birthday: Year 866, Month Tulip, Day 1
 
-⦾ Height: 5'1" / 162cm
+⦾ Height: 5'1" / 152cm
 ## ⦿ Rai Ronal (Male) - Watirsh - Forbidden Element User (Deluge) 
+⦾ Description: Mahogany espresso skintone (#7b4b41). Waist Length charred olive hair (#24362c) wrapped into a style, bringing it to shoulder-length. Blue-Green eyes (#0b5147). 
 
 ⦾ Birthday: Year 871, Month Tilik, Day 30
+
+⦾ Height: 5'1" / 152cm
 ## ⦿ Arete Ishel (Female) - Roccian - Forbidden Element User (Bastion)
+⦾ Description: Soft Caramel skintone (#cfa28b). Shoulder length scruffy black hair. Brown eyes (#A52A2A). 
 
 ⦾ Birthday: Year 860, Month Polus, Day 18
+
+⦾ Height: 5'3" / 160cm
 ## ⦿ Kael Voris (Male) - Snai - Forbidden Element User (Death)
+⦾ Description: Pale skintone (#d7b2a8). Short scruffy brown hair (#A52A2A).  Blue eyes (#1569C7). 
 
 ⦾ Birthday: Year 873, Month Hulmin, Day 27 
 
-⦾ Height: 5'4.5" / 171cm
+⦾ Height: 5'4.5" / 163cm
 ## ⦿ Aeri Glem (Non-Binary) - Litti - Forbidden Element User (Warshine)
 
 ⦾ Birthday: Year 870, Month Kinner, Day 2
