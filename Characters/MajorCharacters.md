@@ -35,8 +35,11 @@ These are the characters who will have a major impact on the story alone, being 
 
 ⦾ Height: 5'4.5" / 163cm
 ## ⦿ Aeri Glem (Non-Binary) - Litti - Forbidden Element User (Warshine)
+⦾ Description: Reddish Caramel skintone (#b67c70). Very short slick black hair with gold highlights towards the end. (#EFBF04).  Gold eyes (#EFBF04). 
 
 ⦾ Birthday: Year 870, Month Kinner, Day 2
+
+⦾ Height: 5'3.5" / 161cm
 ## ⦿ Dera Kni-Soa (Male) - Poisi - Forbidden Element User (Era)
 
 ⦾ Birthday: Year 861, Month Yurni, Day 7
@@ -51,6 +54,7 @@ These are the characters who will have a major impact on the story alone, being 
 
 ⦾ Birthday: Year 861, Month Zneff, Day 26
 ## ⦿ Zezri Duro (Female) - Darrekin - Forbidden Element User (Void)
+⦾ Description: Light brown skintone (#95734e). Shoulder length black hair (#000000) wrapped into a slightly messy and unorganized hairstyle.  Deep, black eyes (#000000). 
 
 ⦾ Birthday: Year 869, Month Stemo, Day 5
 ## ⦿ Zrili Qonn (Non-Binary) - Lithil - Forbidden Element User (Din)
