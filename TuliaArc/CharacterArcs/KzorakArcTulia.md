@@ -1,10 +1,14 @@
-# Zezri "Karai" Duro | Tulia Arc Journey
-<sub> **_Forbidden does not mean forgotten._** <sub>
+# K’zorak Shima | Tulia Arc Journey
+<sub> **_My fight for freedom shall never end._** <sub>
 ## Structure 
-**Starting State**: A tactical and diciplined young soldier in the Darrekin Military, participating in their lifelong war with the Litti Elementals.
-**Ending State**: A leader with massive amounts of guilt after causing most of her friends and followers to die by the hands of Troy Talona and the Elemental Research Initiative.
-**Inciting Losses**: She has many, which build up. Capture by Tixolam, barely surviving in the forest, fighting Zero, and finding people like her all lead her to push to become a positive symbol for all Forbidden Users.
+**Starting State**: A popular independent journalist known for exposing and de-platforming immoral people.
+
+**Ending State**: A hidden elemental, with only one other as company, hiding from the evils of Earth/Gaea.
+
+**Inciting Losses**: After surviving assassination attempts from his own nation, he believes there is no "Good Side" on Tulia. 
+
 **Irreversable Actions**: Causing thousands of deaths of Forbidden Users after cooperating with Troy Talona.
-**Biggest Arc Influence**: Being the leading figure of Forbidden Users/Victims on Tulia. 
+
+**Biggest Arc Influence**: Proving that Phlanax nations are not perfect.
 ## Summary 
-Zezri Duro never wanted to be special. Her nation does not participate in the global war, but has been in a war since its conception, which she fought in due to her indoctrination since youth. Eventually, she was kidnapped by Tixolam, who experimented on her due to her high val bank. They tried everything to discover if there was a Darrekin Forbidden Element, which they later found- right before she escaped. She did not understand this power, and was forced to live with it isolated on the countryside in a deep forest to survive without being caught. Later, she is eventually confronted, and using her new power, she defeats the soldiers pursuing her. This only fuels her fear as she realizes this new element is not something to praise. She eventually forbidden users just like her, and together they form a hidden, underground society with the end goal to destroy Tixolam's experiments. Slowly but surely, she rises through the ranks- but not without Tixolam catching on. They send a soldier known as Zero to kill Zezri, who is almost successful, but Zezri manages to escape with the use of Void, and reaching Void Gate II as a result of the battle. She later defeats Zero in a larger scale battle, but refuses to kill him, seeing him as being a victim, but she does keep him captive. She also frees Kael, and vows to free him and other victims of Death. With a lot more manpower, the media catches onto their existance, and they decide it's time to flee the planet. Zezri leads this, with her society following her to Gaea- where she gets most of them killed due to cooperation with Troy Talona and the Elemental Research Initiative.
+K'zorak was a journalist living in Ralia, sparing no news from coverage during Dal yon Tulia. All brutal attacks, all massacres, all government secrets were exposed by him and spread to everyone he could reach. Unfortunately for him, Ralia and her allies began to believe that his actions were destabilizing populations due to fear and radicalism. When asked to stop, K'zorak refused. Then, only a few days later, he found himself being escorted by soldiers to the Rainforest of Kial, a large, dense rainforest deep within Ralia. There, he adapted, surviving off the land, learning to hunt, and thriving in his surroundings. Eventually, a young, dazed Dera at Era Gate I ran into him. He took this young Dera under his wing, still caring deeply for victims of Knightsdale Nations. Together, they survived for a while. Until assassins, believed to be have sent by Ralia, tried to kill K'zorak. They failed, thanks to Dera defending him. This provoked him into searching for his own forbidden, where he found Omni. Together, him and Dera reach the second gate of their respective Forbiddens, and they begin plotting to flee to Earth/Gaea. Their plan is rushed when Phlanax soldiers chase them off the planet, forcing them to reside on a small uninhabited island on Gaea when everywhere else refuses them refuge. 
