@@ -5,6 +5,7 @@
 These are the characters who will have a major impact on the story alone, being major pillars of the entire Elementals Universe and timeline.
 
 ## ⦿ Imbra "Phoenix" Hayes (Female) - Firen - Forbidden Element User (Hellfire)  
+⦾ Description: 
 
 ⦾ Birthday: Year 873, Month Zneff, Day 22 
 
