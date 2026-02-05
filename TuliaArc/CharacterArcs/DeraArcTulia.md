@@ -1,15 +1,15 @@
-# Imbra "Phoenix" Hayes | Tulia Arc Journey
-<sub> **_Everything breaks under enough tension._** <sub>
+# Dera Kni-Soa | Tulia Arc Journey
+<sub> **_Time will subceed all._** <sub>
 ## Structure 
-**Starting State**: Imbra begins as a passionate and wealthy student in New Iris, studying to join the her nation's military command structure. 
+**Starting State**: Tied heavily to his family's lineage, failing to meet many expectations as he pushed for his own independent career as an engineer.
 
-**Ending State**: Imbra has deep rooted regrets due to her crusade attacks, and fears her power under Hellfire.
+**Ending State**: Isolated (with K'zorak) and afraid with an unfamiliar element on an unfamiliar planet.
 
-**Inciting Losses**: Losing her home, her parents, her planet, and eventually her love, turns her into something unrecognizable.
+**Inciting Losses**: Getting drafted causing him to lose his family.
 
-**Irreversable Actions**: Her attacks on Super Cities begins the Burning of Gaea, and gives her a kill count in the millions.
+**Irreversable Actions**: Faking his own death to escape the Tixolam draft.
 
-**Biggest Arc Influence**: Beginning the Burning of Gaea, and becoming the face of Elemental Resistance. 
+**Biggest Arc Influence**: Much smaller influence overall; mainly showing that Knightsdales can be escaped (even when they think they've gotten you).
 ## Summary 
-A student who lost her nation and parents to war, she finds companionship in Wrenao with Adva Anil, who her loyalty eventually ties to. With her, and a new friend recruited, Kael (who calls himself Vael), they flee to Earth/Gaea. There, not only are the persecuted, hunted, and even attacked, but Imbra directly witnessed death and watches Kael get kidnapped and returned to Tulia. She's broken by this loss, which leads her to start her crusades against Gaea, using her new power, Hellfire, alongside her friend Adva, who uses Squall. Eventually, they realize they were manipulated, and they revolt against Terkou and retreat to the Amazon Rainforest with Rai and Arete, who give them company and friendship.
+Dera Kni-Soa, a member of the newest generation of the long Kni-Soa Poisi bloodline, always wanted to live a more silent life as an engineer, a rare profession for Poisi Elementals. Unfortunately for him, this fascination backfied when Tixolam came to power, as they wished to use his specializations for their agenda of world conquest. Refusing to fight alongside this, he faked his death and fled to a different continent, hiding out in the rainforest alone. But Dera is paranoid, very much so. To him, everyone was after him. He had illegaly entered a country who considered him hostile, and illegaly fled one who considered him an asset. This pushed him to awaken his val- where he entered Era Gate I. If it weren't for K'zorak finding him soon after, he likely would've gone insane. Together, the two survived for many years, until Ralia soldiers did indeed come. Not for Dera, but for K'zorak. He defended K'zorak, getting wounded himself in the process, but this helped him become familair with the power he feared. K'zorak, who began seeking Omni for better protection, reached Gate II in it when Dera reached Gate II Time, and together they fled to Earth where they reside on a small, uninhabited island.
 
