@@ -1,15 +1,14 @@
-# Teira Kni-Soa | Tulia Arc Journey
-<sub> **_Nowhere is home anymore. I'm lost in my own skin._** <sub>
+# Terkou Lynqo | Tulia Arc Journey
+<sub> **_I'm an architect in the shadows. History won't remember me, it'll remember my actions._** <sub>
 ## Structure 
-**Starting State**: The gem of her family's newest generation: beautiful, smart, and charismatic.
+**Starting State**: A "Human Specialist" living on one of the 3 moons of Tulia.
 
-**Ending State**: Isolated by what she believes is her own choice (Dimension influences it), but beginning to listen to Terkou's preachings. 
+**Ending State**: An ideological mastermind puppeteering powerful and emotionally vulnerable Forbidden Element Users.
 
-**Inciting Losses**: Her family encouraging her to flee so she's not drafted or used by the state.
+**Inciting Losses**: Honestly? He's always been like this. He had to lose nothing to declare Earth/Gaea rightful Elemental land. 
 
-**Irreversable Actions**: Abandoning Aeri. This hurts them, but Teira doesn't see anything wrong with it.
+**Irreversable Actions**: Pointing Imbra and Adva to massive cities, indirectly causing major damage.
 
-**Biggest Arc Influence**: Showing the more subtle side to Forbidden Element horrors. 
+**Biggest Arc Influence**: Being the architect of Elemental Evils. 
 ## Summary 
-The star of the youngest Kni-Soa eneration, this young lady was well known in multiple communities. She was incredibly outspoken, popular, and independent. This did not work well for her when Dal yon Tulia broke out- despite her family begging her to be silent, she still spoke out against the state. This later pushed her family to send her away to a refugee camp in the neighboring Litti nation, where she first meets Aeri. There they grow close, sharing stories about their life, before Aeri is sent away due to their wavering beliefs in the Litti propaganda. Partially influenced by this, Teira leaves the camp, searching for her family. It's then she awakens her val, with her original element being replaced by Dimension as she enters Gate I. This (unknowingly to her) influences her into an isolation period of 5 Tulia years, until she's finally adopted by a nice rural Litti-Poisi family. Though, she quickly leaves them to, struggling to form attachments. Then she finds Aeri again, and she remains with them for a while- before abandoning them, too, and fleeing to Earth, where they are still alone, but not afraid. After a while, they meet Terkou, who grounds them and gives them stability.
-
+Terkou Lynqo has always been called a Human Specialist by his Elemental counterparts, despite knowing little about the species. When he eventually fled Tulia's moon to Earth/Gaea, he originally cooperated with the government of the planet. He became a major source for humanity to understand the species- until he left without a trace, retreating to live in Antarctica. There, he began his shadow operations, teaming up with other Elementals who aimed to conquer Earth/Gaea from the inside (Namely: Xor.) Their movements were slow and calculated, working alongside Human institutions to get to other elementals on the planet. While this radicalism did not work most of the time, few nodded along. It was when Xor was killed by Adva and Imbra's Hellfire showed that Terkou saw true potential. He began to manipulate the two, leading to the crusade that began the Burning of Gaea. When Adva and Imbra abandoned him after discovering that he was using them, he silently began to command and plot for other Elemental factions- Until he ran into a Teira. A lost soul, emotional and broken just like Imbra and Adva were. Then came I'sale, then Aeri, and finally, Zero- his perfect team. Four Forbidden Users, working under him loyally, following his cause. Under him, they formed the group called "[TBD]", a group hellbent on taking Earth/Gaea for Elementals.
