@@ -1,15 +1,15 @@
-# Teira Kni-Soa | Tulia Arc Journey
-<sub> **_Nowhere is home anymore. I'm lost in my own skin._** <sub>
+# Soldier-0000 "Zero" | Tulia Arc Journey
+<sub> **_No voice. None needed._** <sub>
 ## Structure 
-**Starting State**: The gem of her family's newest generation: beautiful, smart, and charismatic.
+**Starting State**: [UNKNOWN] , [REDACTED] to become the perfect soldier for Tixolam.
 
-**Ending State**: Isolated by what she believes is her own choice (Dimension influences it), but beginning to listen to Terkou's preachings. 
+**Ending State**: Terkou filling the leadership role he lost on Tulia.
 
-**Inciting Losses**: Her family encouraging her to flee so she's not drafted or used by the state.
+**Inciting Losses**: [UNKNOWN] kidnapped by [REDACTED] to [???] Bane.
 
-**Irreversable Actions**: Abandoning Aeri. This hurts them, but Teira doesn't see anything wrong with it.
+**Irreversable Actions**: None of his actions are made by him; he has no free will. He is a drone.
 
-**Biggest Arc Influence**: Showing the more subtle side to Forbidden Element horrors. 
+**Biggest Arc Influence**: Showing the evils of the Knightsdale ideology- while not technically belonging to it.
 ## Summary 
-The star of the youngest Kni-Soa eneration, this young lady was well known in multiple communities. She was incredibly outspoken, popular, and independent. This did not work well for her when Dal yon Tulia broke out- despite her family begging her to be silent, she still spoke out against the state. This later pushed her family to send her away to a refugee camp in the neighboring Litti nation, where she first meets Aeri. There they grow close, sharing stories about their life, before Aeri is sent away due to their wavering beliefs in the Litti propaganda. Partially influenced by this, Teira leaves the camp, searching for her family. It's then she awakens her val, with her original element being replaced by Dimension as she enters Gate I. This (unknowingly to her) influences her into an isolation period of 5 Tulia years, until she's finally adopted by a nice rural Litti-Poisi family. Though, she quickly leaves them to, struggling to form attachments. Then she finds Aeri again, and she remains with them for a while- before abandoning them, too, and fleeing to Earth, where they are still alone, but not afraid. After a while, they meet Terkou, who grounds them and gives them stability.
+Nothing is known about Zero's past- as it has all been scrubbed by the state. Instead, they market him as a perfect soldier, who has always been that way. What is known is that he was the first test subject for the forbidden element Bane- though we don't know if it was willing or not. He rose through the Gates of Bane faster than others due to his proficiency with the element, and eventually was tasked with major missions, like attempting to assassinate Zezri Duro, though failing both times. When Zezri leads her assault on Tixolam, Zero is captures and placed into her pocket dimension, where he wanders for many years, only remaining sane due to the fact that he has no free will, and cannot percieve the horrors he was seeing. When Zezri arrives to Gaea, she places Zero in Antarctica, beliveing that it was uninhabited and isolated, not knowing a certain Terkou would scoop this soldier up quickly. Now Zero is battle ready, prepared to fight for his new supreme leader.
 
