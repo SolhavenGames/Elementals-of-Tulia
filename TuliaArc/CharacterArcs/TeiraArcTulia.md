@@ -1,15 +1,15 @@
-# Imbra "Phoenix" Hayes | Tulia Arc Journey
-<sub> **_Everything breaks under enough tension._** <sub>
+# Teira Kni-Soa | Tulia Arc Journey
+<sub> **_Nowhere is home anymore. I'm lost in my own skin._** <sub>
 ## Structure 
-**Starting State**: Imbra begins as a passionate and wealthy student in New Iris, studying to join the her nation's military command structure. 
+**Starting State**: The gem of her family's newest generation: beautiful, smart, and charismatic.
 
-**Ending State**: Imbra has deep rooted regrets due to her crusade attacks, and fears her power under Hellfire.
+**Ending State**: Isolated by what she believes is her own choice (Dimension influences it), but beginning to listen to Terkou's preachings. 
 
-**Inciting Losses**: Losing her home, her parents, her planet, and eventually her love, turns her into something unrecognizable.
+**Inciting Losses**: Her family encouraging her to flee so she's not drafted or used by the state.
 
-**Irreversable Actions**: Her attacks on Super Cities begins the Burning of Gaea, and gives her a kill count in the millions.
+**Irreversable Actions**: Abandoning Aeri. This hurts them, but Teira doesn't see anything wrong with it.
 
-**Biggest Arc Influence**: Beginning the Burning of Gaea, and becoming the face of Elemental Resistance. 
+**Biggest Arc Influence**: Showing the more subtle side to Forbidden Element horrors. 
 ## Summary 
-A student who lost her nation and parents to war, she finds companionship in Wrenao with Adva Anil, who her loyalty eventually ties to. With her, and a new friend recruited, Kael (who calls himself Vael), they flee to Earth/Gaea. There, not only are the persecuted, hunted, and even attacked, but Imbra directly witnessed death and watches Kael get kidnapped and returned to Tulia. She's broken by this loss, which leads her to start her crusades against Gaea, using her new power, Hellfire, alongside her friend Adva, who uses Squall. Eventually, they realize they were manipulated, and they revolt against Terkou and retreat to the Amazon Rainforest with Rai and Arete, who give them company and friendship.
+The star of the youngest Kni-Soa eneration, this young lady was well known in multiple communities. She was incredibly outspoken, popular, and independent. This did not work well for her when Dal yon Tulia broke out- despite her family begging her to be silent, she still spoke out against the state. This later pushed her family to send her away to a refugee camp in the neighboring Litti nation, where she first meets Aeri. There they grow close, sharing stories about their life, before Aeri is sent away due to their wavering beliefs in the Litti propaganda. Partially influenced by this, Teira leaves the camp, searching for her family. It's then she awakens her val, with her original element being replaced by Dimension as she enters Gate I. This (unknowingly to her) influences her into an isolation period of 5 Tulia years, until she's finally adopted by a nice rural Litti-Poisi family. Though, she quickly leaves them to, struggling to form attachments. Then she finds Aeri again, and she remains with them for a while- before abandoning them, too, and fleeing to Earth, where they are still alone, but not afraid. After a while, they meet Terkou, who grounds them and gives them stability.
 
