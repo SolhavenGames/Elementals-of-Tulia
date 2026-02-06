@@ -1,5 +1,5 @@
 # ELEMENTALS!
-# The Timeline will be stored here!
+# The Timeline will be stored here! (Currently Outdated)
 # Timeline of the story begins in the Satan's Era of Tulia, i.e. the March on Tramalen. Timeline years will follow which planet the story mainly focuses on at the moment.
 ## T-Year 900
 - March on Tramalen establishes Firen Knightsdale / Irision
