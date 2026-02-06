@@ -1,4 +1,4 @@
-# Terkou "The Architect" Lynqo | Tulia Arc Journey
+# Terkou "The Only" Lynqo | Tulia Arc Journey
 <sub> **_I'm an architect in the shadows. History won't remember me, it'll remember my actions._** <sub>
 ## Structure 
 **Starting State**: A "Human Specialist" living on one of the 3 moons of Tulia.
