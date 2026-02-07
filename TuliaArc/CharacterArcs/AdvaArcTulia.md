@@ -79,7 +79,7 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - Adva meets Arete | Arete is understanding and forgiving of their actions, confusing Adva who expected to be outcasted. 
 
 ⦿ **E-Year 2036**
-- Adva lives peacefully and quietly with Rai, Adva, and Imbra in the Amazon Rainforest, only being encountered by local revolting Elemental Factions.
+- Adva lives peacefully and quietly with Rai, Arete, and Imbra in the Amazon Rainforest, only being encountered by local revolting Elemental Factions.
 
 ⦿ **E-Year 2038** (END OF TULIA ARC [? Might change- but just for now, 2038 is the end.]
 - Adva and her new squad have grown close, but she questions her actions. The human pleading to her constantly rings through her mind.
