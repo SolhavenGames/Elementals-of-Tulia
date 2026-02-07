@@ -73,7 +73,7 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 
 ⦿ **E-Year 2035**
 - Terkou point Adva and Imbra to New York Super City, which leads to their largest and most powerful coordinated attack. They face resistance as the city is also evacuated.
-- A human directly begs Adva for their life in broken Firen, citing their desire to return to their family. This causes Adva to question her actions.
+- A human directly begs Adva for their life in broken Firen, citing their desire to return to their family. This causes Adva to question her actions, and no longer believe in the crusade.
 - Adva speaks to Imbra, and they both have been having doubts. They confront Terkou.
 - Terkou is unapologetic. He continues to try to manipulate them, but Adva is enraged by his manipulation. She attacks them before fleeing Antarctica, living with Rai and Arete in the Amazon Rainforest.
 - Adva meets Arete | Arete is understanding and forgiving of their actions, confusing Adva who expected to be outcasted. 
