@@ -69,13 +69,13 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - Adva reluctantly reaches Squall Gate II after encouraged by Terkou, losing her Windsi forever.
 - Terkou encourages the pair to go out on their own, causing unexpected havoc where they can.
 - Adva meets Rai | The first encounter is coordinated by Imbra. Adva listens to Rai, and she slowly begins to question Terkou's leadership.
-- After this directive, Adva solo-attacks multiple smaller cities, those being the Mega Cities Casablanca, Venice, and Sao Paulo. 
+- After this directive, Adva solo-attacks multiple mega cities, distrupting global trade.
 
 ⦿ **E-Year 2035**
 - Terkou point Adva and Imbra to New York Super City, which leads to their largest and most powerful coordinated attack. They face resistance as the city is also evacuated.
-- A human directly begs Adva for their life in Firen, causing Adva to question her actions.
+- A human directly begs Adva for their life in broken Firen, citing their desire to return to their family. This causes Adva to question her actions.
 - Adva speaks to Imbra, and they both have been having doubts. They confront Terkou.
-- Terkou is unapologetic. He continues to try to manipulate them, but Adva is enraged by his lies. She attacks them before fleeing Antarctica, living with Rai and Arete in the Amazon Rainforest.
+- Terkou is unapologetic. He continues to try to manipulate them, but Adva is enraged by his manipulation. She attacks them before fleeing Antarctica, living with Rai and Arete in the Amazon Rainforest.
 - Adva meets Arete | Arete is understanding and forgiving of their actions, confusing Adva who expected to be outcasted. 
 
 ⦿ **E-Year 2036**
