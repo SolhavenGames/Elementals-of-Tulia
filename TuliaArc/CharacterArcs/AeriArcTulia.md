@@ -55,6 +55,7 @@ Aeri Glem was a soldier before it was even legal to be one. Their entire life, t
 ⦿ **E-Year 2037**
 - Aeri arrives on the planet, wandering aimlesssly trying to remain off-the-grid.
 - Teria finds Aeri again, who introduces them to Terkou.
+- Aeri meets Terkou | Their first encounter, Aeri is slightly suspicious, but Teira lightens the mood. Aeri ends up listening to Terkou for hours.
 
 ⦿ **E-Year 2038**
 - Aeri begins listening to Terkou, mainly through Teira. They don't entirely agree with his outlook, but stay for Teira...
