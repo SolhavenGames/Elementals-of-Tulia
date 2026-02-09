@@ -30,7 +30,7 @@ The start of The Burning of Gaea (The next event). After blaming humanity for th
 ## ⦿ The Burning of Gaea
 The massive global conflict between Humans and Elementals on Earth/Gaea. Elementals mainly fight for freedom, but humans interpret it as an attempted take-over of their home, leading to bloody fights and massive conflicts. Only one nation aligns with Elementals, that being the Empire of Alaska. Every other nation forms its own alliance to try and end the insurrection. The first fight considered an actual battle would be New York Super City, where humans lead a coordinated resistance against an Elemental invasion and uprising, holding them off for longer than anyone could have anticipated, changing the outlook on the conflict for the rest of the arc and onward.
 ## ⦿ Troy’s Radicalizations 
-Pushes the narrative to Humanity that Elementals are inherently evil, radicalizing more against them. However, it also pushes Elementals to follow the narrative, as humans will only declare them aligned. 
+Pushes the narrative to Humanity that Elementals are inherently evil, radicalizing more against them. However, it also pushes Elementals to follow the narrative, as humans will only declare them aligned. This event is major because she is the only human who unlocks this power, and some mega-radical anti elementals turn against her, claiming she's become one of them. 
 ## ⦿ Samae Unlocks Pure
 Using self-experimentation, Samae becomes the first and only Human to unlock Pure. She extracts val from dead elementals to implant in herself, causing massive amounts of pain and illness as her body rejected it, but cybernetic augments kept her alive.
 ## ⦿ Deployment of HUMAN Units
