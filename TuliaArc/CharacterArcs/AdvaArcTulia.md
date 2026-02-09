@@ -69,8 +69,8 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - Their actions encourage more rebellions across the planet. Terkou aims them to assist the smaller rebellions, leading to the start up of hundreds of small factions and the beginning of the Burning of Gaea.
 - Adva reluctantly reaches Squall Gate II after encouraged by Terkou, losing her Windsi forever.
 - Terkou encourages the pair to go out on their own, causing unexpected havoc where they can.
-- Adva meets Rai | The first encounter is coordinated by Imbra. Adva listens to Rai, and she slowly begins to question Terkou's leadership.
 - After this directive, Adva solo-attacks multiple mega cities, distrupting global trade.
+- Adva meets Rai | The first encounter is coordinated by Imbra. Adva listens to Rai, and she slowly begins to question Terkou's leadership.
 - During a solo attack, Adva is directly confronted by the Knights of Gaea and Samae, defeating Samae in hand-to-hand combat, despite her using val-distrupting technology.
 - Adva defeats a group of Knights of Gaea members, despite being outnumbered and having her val suppressed.
 
