@@ -14,8 +14,9 @@
 A student who lost her nation and parents to war, she finds companionship in Wrenao with Adva Anil, who her loyalty eventually ties to. With her, and a new friend recruited, Kael (who calls himself Vael), they flee to Earth/Gaea. There, not only are the persecuted, hunted, and even attacked, but Imbra directly witnessed death and watches Kael get kidnapped and returned to Tulia. She's broken by this loss, which leads her to start her crusades against Gaea, using her new power, Hellfire, alongside her friend Adva, who uses Squall. Eventually, they realize they were manipulated, and they revolt against Terkou and retreat to the Amazon Rainforest with Rai and Arete, who give them company and friendship.
 ## Timeline
 ⦿ **T-Year 900**
-- Imbra is enrolled in her 3rd year of school, where she specializes in military and tactics with dreams to join her nation's Command Structure.
+- Imbra is enrolled in her 3rd year of school, where she specializes in military and tactics with dreams to join her nation's Command Structure. She truly loves her nation, her element, and her culture more than anything in the world.
 - The March on Tramalen establishes Irision, the Firen Knightsdale. The new government immediately targets higher education.
+- Notably, Imbra does not participate in any protests out of fear.
   
 ⦿ **T-Year 902**
 - Higher education is completely abolished, forcing Imbra to return home.
@@ -61,16 +62,17 @@ A student who lost her nation and parents to war, she finds companionship in Wre
 
 ⦿ **E-Year 2034**
 - Terkou begins to train Imbra and Adva in hand-to-hand combat, allowing them to become more deadly.
-- Imbra reaches Hellfire Gate II with Terkou's guidance. This makes her far more dangerous.
+- Imbra reaches Hellfire Gate II with Terkou's guidance. This makes her far more dangerous, though she's wounded for a while due to miscalculations by Terkou in the way the Gate upgrade was coordinated.
 - The pair, aimed and commanded by Terkou, launch a massive surprise attack on the Super City Wuhan-Nanjing, the capital city of the Imperial Military State of China. The nation is crippled by the attack.
 - Their actions encourage more rebellions across the planet. Terkou aims them to assist the smaller rebellions, leading to the start up of hundreds of small factions and the beginning of the Burning of Gaea.
 - Terkou encourages the pair to go out on their own, causing unexpected havoc where they can, though Terkou aims Imbra towards large, corporate cities.
 - Imbra meets Rai | Rai encourages Imbra to stop her attacks, though Imbra ignores him. Imbra is irritated by him. Rai begins to intercept her on her way to attack cities.
 - Rai and Imbra fight, with Rai managing to subdue her over the Ocean due to his superiority with Deluge.
 - Rai and Imbra fight again, this time on land. Though Rai seems to be less occupied with the fight, turning it into more of a dance. This enrages and humiliates Imbra.
-- Rai and Arete meet again, but this time they talk instead of fight. He seems to get through to her. She begins to doubt and question Terkou's leadership, looking back on all the damage she's caused.
+- Rai and Arete meet again, but this time they talk instead of fight. He seems to get through to her with a specific question: "Do you think your parents would approve of this?" She begins to doubt and question Terkou's leadership, looking back on all the damage she's caused. 
 - Imbra introduces Rai to Adva.
 - Despite Rai's words, Imbra continues to attack cities, though on a lower scale.
+- Kael continues to appear to her in dreams, causing her to wake up in weeping frenzies. 
 
 ⦿ **E-Year 2035**
 - Terkou point Adva and Imbra to New York Super City, which leads to their largest and most powerful coordinated attack. They face heavy resistance as the city is also evacuated.
