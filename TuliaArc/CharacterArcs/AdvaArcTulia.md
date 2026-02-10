@@ -13,7 +13,6 @@
 
 ## Summary 
 Adva, a slightly popular Airren woman due to her looks and light participation within the modelling scene, was determined to survive Dal yon Tulia. She fled to a mostly abandoned area of her nation called the No Man's Land to avoid her nation's draft, where she met Imbra. Surviving together for a while, they eventually decide to flee the planet, recruiting a new friend Kael (who calls himself Vael) along the way. On Earth, they are mistreated, surveilled, and attacked. To top it all off, Adva's Windsi is killed by Xor when he awakens her without telling her of the consequence of losing her Windsi. From here, she had already decided her hate for the planet was set and stone. Once Imbra agreed, they began their crusade. With the help of Terkou, she unlocks Squall, and uses it during crusades. Though, due to Gate I reviving her Windsi, she is hesitant to move forward. She finally does, after Terkou encourages her, reaching Squall Gate II. Eventually, with Rai providing support, she and Imbra break free of Terkou's influence, and she even injures him, before the two retreat to the Amazon Rainforest to live with Rai and Arete. 
-
 ## Timeline
 ⦿ **T-Year 900**
 - Adva lives at home with her adoptive mother, participating heavily in Airren NightLife and soft-launching a modelling career.
