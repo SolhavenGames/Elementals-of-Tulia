@@ -26,9 +26,12 @@ Kael Voris witnessed his entire family and friends slaughtered by his state (onc
 ⦿ **T-Year 903**
 - Kael's family gets incredibly politically active, beginning to push back against the Knightsdale. Kael is encouraged to stay home, as his family fears for him due to his political past.
 
+⦿ **T-Year 903**
+- Dal yon Tulia breaks out, and some of Kael's family and friends are drafted.
+- 
 ⦿ **T-Year 909**
 - Icik soldiers begin to enter Kael's nation to restore order and power to the government.
-- Kael's city becomes a direct hold out against Knightsdale 
+- Kael's city becomes a direct hold out against Knightsdale in the Snai nation.
 
 ⦿ **T-Year 910**
 - Icik soldiers invade Kael's house and slaughter his family. They leave him alive due to him not being present at protests & his still underlying POI status. They leave the bodies there.
