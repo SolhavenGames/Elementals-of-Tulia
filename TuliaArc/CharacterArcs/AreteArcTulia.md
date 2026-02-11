@@ -74,6 +74,7 @@ A charitable Roccian Elemental, Arete has rarely put herself before others. She 
 - The Burning of Gaea convinces Arete that they should stay hidden for longer, ridding of any chance that the two go visit Humans again.
 - Rai and Arete search for Deluge and Bastion respectively, just in case.
 - Arete is shocked at how quickly Rai unlocks Deluge- she unlocks Bastion a while later.
+- She begins to struggle to sleep deeply and frequently wakes up in the middle of the night from any small sound, prepared to defend herself and Rai.
 - She tries to convince Rai not to go out and try to stop Imbra, but he does anyway. She worries deeply for him, but respects his free will.
 - Rai brags about his successes, but his stories only entertain Arete- who still silently worries for him.
 
