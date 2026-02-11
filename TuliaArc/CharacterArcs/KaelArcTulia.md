@@ -101,11 +101,9 @@ Kael Voris witnessed his entire family and friends slaughtered by his state (onc
 - Zezri's society begins plots to flee the planet.
 - They eventually leave towards the end of the year. Zezri keeps Kael close.
 
-⦿ **E-Year 2037**
+⦿ **E-Year 2038**
 - Zezri and her society arrive on Earth/Gaea. She encourages her society to cooperate with the local authority.
 - Unfortunately, this leads to most of them being imprisoned and killed. Kael is imprisoned, but his element spreads to hundreds of humans, causing a small pandemic.
 - Kael is isolated from everyone else, before Troy learns of Kael's importance.
 - Kael meets Troy | Kael was still in the systems of Earth/Gaea, and Troy realizes that he has connections to Phoenix (AKA Imbra). He decides to use him for leverage.
-
-⦿ **E-Year 2038**
 - Kael is still locked away, but Troy's plan for him is being drawn out. Kael either does not care, or lacks the capacity to care. He never smiles, never laughs, and hardly talks. 
