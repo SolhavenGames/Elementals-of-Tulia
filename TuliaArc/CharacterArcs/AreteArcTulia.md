@@ -17,8 +17,8 @@ A charitable Roccian Elemental, Arete has rarely put herself before others. She 
 - Arete travels around Tulia frequently, participating in charity events. She invests a lot of time in these events, expecting little in return.
 - At the time, she is in the Watrish city Til, helping distribute food to the less fortunate during some government hardship.
 - Arete meets Rai | Their families were already connected, but Arete personally met them when she assisted them with food. The two became good friends almost immediately.
-- Towards the end of the year, she ends up in the Poisi city Texxa, which had just been hit by a major natural disaster.
 - When the Firen fall to Knightsdale, all of her charity is banished as the nation begins "Nationalization of Strength". 
+- Towards the end of the year, she ends up in the Poisi city Texxa, which had just been hit by a major natural disaster.
 
 ⦿ **T-Year 901**
 - Arete participates in 3 different charity events, all reacting to natural disasters as a result of Val Pollution.

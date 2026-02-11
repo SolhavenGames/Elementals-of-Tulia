@@ -1,4 +1,4 @@
-# Soldier-0000 "Zero" | Tulia Arc Journey
+# Warrior-0000 "Zero" | Tulia Arc Journey
 <sub> **_No voice. None needed._** <sub>
 ## Structure 
 **Starting State**: [UNKNOWN] , [REDACTED] to become the perfect soldier for Tixolam.
