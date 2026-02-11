@@ -1,5 +1,5 @@
 # Arete Ishel | Tulia Arc Journey
-<sub> **_Everything breaks under enough tension._** <sub>
+<sub> **_The world is a better place when everyone works together!_** <sub>
 ## Structure 
 **Starting State**: Arete works in a family that owns many global charities, resulting in her being very charitable and selfless herself.
 
