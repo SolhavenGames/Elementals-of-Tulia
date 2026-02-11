@@ -1,0 +1,2 @@
+# Tulia - The Planet
+Tulia is the sister planet to Gaea, built by the Elements out of pity of the human gods. They pretty much copied exactly what the human gods did with Earth- making a rocky Terra planet tilted on an axis, even being similar in size. The only major difference they had in the beginning was having 3 moons- one at night, one during the day, and one that hovers mostly unpredictably.
