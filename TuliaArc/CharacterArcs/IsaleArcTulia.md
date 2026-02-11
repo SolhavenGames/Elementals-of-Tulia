@@ -54,7 +54,7 @@ Is'ale is a strong believer in the democratic processes of Tulia. When the Knigh
 - Some humans come to visit him, his story spreading among journalists and government officials. Though, he considers them irritating, as they treat him as if he doesn't understand anything.
 - Is'ale meets Troy | At this time, Troy had moderate amounts of power, but wasn't strong enough to push his anti-elemental agenda. This meeting with him alone pushed Is'ale to distrust humanity more.
 
-⦿ **E-Year 2033**
+⦿ **E-Year 2034**
 - When humanity grows hostile towards Elementals, Is'ale secretly unlocks Biota.
 - The Burning of Gaea alongside the very public prosecution of Elementals causes him to flee his home to Antarctica, where he believes he will be safer.
 - He brings rations with him, hoping to hide there for a while before he has to return.
