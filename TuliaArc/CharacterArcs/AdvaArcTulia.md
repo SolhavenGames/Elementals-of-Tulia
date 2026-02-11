@@ -70,7 +70,7 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - Terkou encourages the pair to go out on their own, causing unexpected havoc where they can.
 - After this directive, Adva solo-attacks multiple mega cities, distrupting global trade.
 - Adva meets Rai | The first encounter is coordinated by Imbra. Adva listens to Rai, and she slowly begins to question Terkou's leadership.
-- During a solo attack, Adva is directly confronted by the Knights of Gaea and Samae, defeating Samae in hand-to-hand combat, despite her using val-distrupting technology.
+- Adva meets Samae | During a solo attack, Adva is directly confronted by the Knights of Gaea and Samae, defeating Samae in hand-to-hand combat, despite her using val-distrupting technology.
 - Adva defeats a group of Knights of Gaea members, despite being outnumbered and having her val suppressed.
 
 ⦿ **E-Year 2035**
