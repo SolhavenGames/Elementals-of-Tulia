@@ -15,55 +15,99 @@ The situation in Asia is tense, but some see hope. Some populations in oppressed
 
 ## Asia’s Countries:
 State of Japan/North Japan 🌍
+
 Capital: North Tokyo | Alignment: Terra Union 
+
 Japan’s Empire/South Japan
+
 Capital: South Tokyo | Alignment: Tokyo Treaty Organization
+
 Economic Zone in Siberia 🌍
+
 Capital: Yelizovo | Alignment: Terra Union
+
 State of Mongolia 
+
 Capital: Irkutsk | Alignment: Legion of Free States
+
 ADS Refugee Camps
+
 Capital: N/A | Alignment: Global Populations (None)
+
 Korea’s Empire
+
 Capital: Seoul | Alignment: Legion of Free States
+
 Imperial Military State of China ⭐
+
 Capital: Wuhan-Nanjing | Alignment: Legion of Free States
+
 South East Asia/North-South East Asia
+
 Capital: North Singapore | Alignment: Asia’s Neutral Defense Pact
+
 Republican Federal State of Sector Iota/Middle-South East Asia
+
 Capital: South Singapore | Alignment: Tokyo Treaty Organization
+
 Military Democracy of Oceania/South-South East Asia
+
 Capital: Sydney | Alignment: Tokyo Treaty Organization
+
 Military State of India ⭐
+
 Capital: Super Delhi | Alignment: Tokyo Treaty Organization
+
 Collective of Persia
+
 Capital: Tehran | Alignment: Legion of Free States 
+
 Anti-Anarchy State of Central Asia
+
 Capital: Tashkent | Alignment: Asia’s Neutral Defense Pact
+
 Republic of The Levant
+
 Capital: Baghdad | Alignment: Asia’s Neutral Defense Pact
+
 Caucasus State
+
 Capital: Baku | Alignment: Asia’s Neutral Defense Pact
+
 Disorganized Anarchist Territories: 2
+
 Central Siberia
+
 Peninsula of Arabia
 
 ## Asia’s Super Cities:
 Tokyo (Split | North Japan/State of Japan | South Japan/Japan’s Empire)
+
 Singapore (Split | Sector Iota | South East Asia)
+
 Wuhan-Nanjing (Capital of China)
+
 Super Delhi (Capital of India)
+
 Sydney (Capital of Oceania)
 
 ## Asia’s Mega Cities:
 Hanoi (South East Asia)
+
 Taipei (China)
+
 Seoul (Korea)
+
 Tehran (Persia)
+
 Baghdad (Levant)
+
 Damascus (Levant)
+
 Baku (Caucasus)
+
 Kabul (India)
+
 Beijing (China)
 
 	Africa
