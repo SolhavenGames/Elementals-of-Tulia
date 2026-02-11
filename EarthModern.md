@@ -1,90 +1,113 @@
-        Overview
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
+# Overview
 The Great Terra War has mostly ended as governments collect and organize themselves, creating alliances and rivalries across the globe. Some states aim to reunify Earth under the Terra Union, 
 and some aim to prevent this. Nonetheless, the world is still em- broiled in tensions and conflicts, near famines from over urbanization, and confusion and instability as people and land 
 frequently switch flags every other month due to war and occupation. Many populations wish for a return to the simpler times under the Terra Union, as not even most people called for its diss-
 olution. With each passing day, this dream seems to drift further, as Terra Union loyalists lose land and power. 
           “So help us, for the Terra Union may NEVER rise again…”
-The year is 2035.
+The year is ????.
 
-        Asia & Australia
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
-The current “Frozen Asia” as it’s called is split between two major factions. One led by India, and the other led by China, despite their similar ideologies. The sphere of influence dominated 
-by China holds themself, Korea’s Empire, The Collective of Persia, and Mongolia. Together they form the Legion of Freedom, despite none of them having democratic elections. They wish to build 
-an Asia dominated by them, holding their own ambitions together carefully. Then, the sphere of India, which holds themselves, the Republican Federal State of Sector Iota, the Military Democracy
-of Oceania, and Japan’s Empire (AKA South Japan). Unlike the Legion, the cohesion of this alliance is merely held together by the desire for joint defense against Legionary expansion. Oceania 
-and Iota often have clashing interests, and Japan despises the alliance’s unwillingness to assist in its ongoing division (more on that later). Together, they created the Tokyo Treaty Organization. 
-Other Asian nations, such as the State of Japan (AKA North Japan), Central Asia, Novikov’s Corporate Empire, South East Asia, and other  disorganized territories do not participate in the cold 
-war, but use the tensions to their leverage to gain beneficial treaties and concessions from both sides. Specifically, nations like the Levant have gained heavy recognition in the Peninsula of 
-Arabia following multiple generous treaties from the Legion. 
-War is handled differently in both alliances. For example, in the Legion, they have a large emphasis on Infantry. There are tens of millions of light infantry with small arms ready to storm 
-across borders if war was to ever be declared. Within these divisions, there is some light armor like IFVs or Armored Cars, but it is very light. They gamble on pure boots with equipment other 
-than large investments. 
-In the TTO, they innovate and adapt. They have infantry paired with robotic advance- ments to make them stronger in battle. However, TTO infantry have way less weaponry in their arsenal. This 
-is because they heavily believe in their robotic augmentations to carry the necessary weight for their soldiers. In all simulations they have run, it has done such. They have successfully 
-deployed approximately 4.5 million infantry with full cyber-augmentations which is the highest out of any alliance. Apart from their infantry, they invest in armor, including advanced IFVs and 
-speedy tanks with heavy anti-infantry weaponry after spies discovered Legionary plans. 
-Navally, both do the same thing. There has been a naval arms race for the longest time, which the Legion has been losing from the start. TTO imports many ships from outside nations, including 
-Terra Union Naval Commands. But the Legion moves too slow, makes lackluster deals, and is often unwilling to negotiate. It seems they care little for the naval front and have already surrendered
-it to the TTO.
-The airforce is very different. Every nation in both alliances imports stockpiles of thousands of planes from the Airforce Conglomerate in Central Europe, building massive air forces which guaran-
-tees a slaughter when the war begins. Massive heavy high-flying bombers with deep striking missiles also guarantee maximum damage, which has encouraged both alliances to build massive anti-air 
-defenses in the super and mega cities.
-The situation in Asia is tense, but some see hope. Some populations in oppressed states like India and China flee to Oceania, where laws are looser and there is protected speech, assembly, and press.
-They then spread massive propaganda of how horrible life is in both countries, attempting to de-legitimize these nations and tear apart the alliances they’ve built. It doesn’t seem to be working yet, 
-and Oceania has not commented on them, despite India demanding action.
+# Asia & Australia
+The current “Frozen Asia” as it’s called is split between two major factions. One led by India, and the other led by China, despite their similar ideologies. The sphere of influence dominated by China holds themself, Korea’s Empire, The Collective of Persia, and Mongolia. Together they form the Legion of Freedom, despite none of them having democratic elections. They wish to build an Asia dominated by them, holding their own ambitions together carefully. Then, the sphere of India, which holds themselves, the Republican Federal State of Sector Iota, the Military Democracy of Oceania, and Japan’s Empire (AKA South Japan). Unlike the Legion, the cohesion of this alliance is merely held together by the desire for joint defense against Legionary expansion. Oceania and Iota often have clashing interests, and Japan despises the alliance’s unwillingness to assist in its ongoing division (more on that later). Together, they created the Tokyo Treaty Organization. Other Asian nations, such as the State of Japan (AKA North Japan), Central Asia, Novikov’s Corporate Empire, South East Asia, and other  disorganized territories do not participate in the cold war, but use the tensions to their leverage to gain beneficial treaties and concessions from both sides. Specifically, nations like the Levant have gained heavy recognition in the Peninsula of Arabia following multiple generous treaties from the Legion. War is handled differently in both alliances. For example, in the Legion, they have a large emphasis on Infantry. There are tens of millions of light infantry with small arms ready to storm across borders if war was to ever be declared. Within these divisions, there is some light armor like IFVs or Armored Cars, but it is very light. They gamble on pure boots with equipment other than large investments. 
+In the TTO, they innovate and adapt. They have infantry paired with robotic advance- ments to make them stronger in battle. However, TTO infantry have way less weaponry in their arsenal. This is because they heavily believe in their robotic augmentations to carry the necessary weight for their soldiers. In all simulations they have run, it has done such. They have successfully deployed approximately 4.5 million infantry with full cyber-augmentations which is the highest out of any alliance. Apart from their infantry, they invest in armor, including advanced IFVs and speedy tanks with heavy anti-infantry weaponry after spies discovered Legionary plans. 
+Navally, both do the same thing. There has been a naval arms race for the longest time, which the Legion has been losing from the start. TTO imports many ships from outside nations, including Terra Union Naval Commands. But the Legion moves too slow, makes lackluster deals, and is often unwilling to negotiate. It seems they care little for the naval front and have already surrendered it to the TTO.
+The airforce is very different. Every nation in both alliances imports stockpiles of thousands of planes from the Airforce Conglomerate in Central Europe, building massive air forces which guarantees a slaughter when the war begins. Massive heavy high-flying bombers with deep striking missiles also guarantee maximum damage, which has encouraged both alliances to build massive anti-air defenses in the super and mega cities.
+The situation in Asia is tense, but some see hope. Some populations in oppressed states like India and China flee to Oceania, where laws are looser and there is protected speech, assembly, and press. They then spread massive propaganda of how horrible life is in both countries, attempting to de-legitimize these nations and tear apart the alliances they’ve built. It doesn’t seem to be working yet, and Oceania has not commented on them, despite India demanding action.
 
-        Asia’s Countries:
+## Asia’s Countries:
 State of Japan/North Japan 🌍
+
 Capital: North Tokyo | Alignment: Terra Union 
+
 Japan’s Empire/South Japan
+
 Capital: South Tokyo | Alignment: Tokyo Treaty Organization
+
 Economic Zone in Siberia 🌍
+
 Capital: Yelizovo | Alignment: Terra Union
+
 State of Mongolia 
+
 Capital: Irkutsk | Alignment: Legion of Free States
+
 ADS Refugee Camps
+
 Capital: N/A | Alignment: Global Populations (None)
+
 Korea’s Empire
+
 Capital: Seoul | Alignment: Legion of Free States
+
 Imperial Military State of China ⭐
+
 Capital: Wuhan-Nanjing | Alignment: Legion of Free States
+
 South East Asia/North-South East Asia
+
 Capital: North Singapore | Alignment: Asia’s Neutral Defense Pact
+
 Republican Federal State of Sector Iota/Middle-South East Asia
+
 Capital: South Singapore | Alignment: Tokyo Treaty Organization
+
 Military Democracy of Oceania/South-South East Asia
+
 Capital: Sydney | Alignment: Tokyo Treaty Organization
+
 Military State of India ⭐
+
 Capital: Super Delhi | Alignment: Tokyo Treaty Organization
+
 Collective of Persia
+
 Capital: Tehran | Alignment: Legion of Free States 
+
 Anti-Anarchy State of Central Asia
+
 Capital: Tashkent | Alignment: Asia’s Neutral Defense Pact
+
 Republic of The Levant
+
 Capital: Baghdad | Alignment: Asia’s Neutral Defense Pact
+
 Caucasus State
+
 Capital: Baku | Alignment: Asia’s Neutral Defense Pact
+
 Disorganized Anarchist Territories: 2
+
 Central Siberia
+
 Peninsula of Arabia
 
-        Asia’s Super Cities:
+## Asia’s Super Cities:
 Tokyo (Split | North Japan/State of Japan | South Japan/Japan’s Empire)
+
 Singapore (Split | Sector Iota | South East Asia)
+
 Wuhan-Nanjing (Capital of China)
+
 Super Delhi (Capital of India)
+
 Sydney (Capital of Oceania)
 
-	Asia’s Mega Cities:
+## Asia’s Mega Cities:
 Hanoi (South East Asia)
+
 Taipei (China)
+
 Seoul (Korea)
+
 Tehran (Persia)
+
 Baghdad (Levant)
+
 Damascus (Levant)
+
 Baku (Caucasus)
+
 Kabul (India)
+
 Beijing (China)
 
 	Africa
