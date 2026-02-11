@@ -46,7 +46,7 @@ Dera Kni-Soa, a member of the newest generation of the long Kni-Soa Poisi bloodl
 - With Ralia soldiers chasing them, Dera and K'zorak flee the planet, aiming for Earth/Gaea.
 
 ⦿ **E-Year 2035**
-- The pair arrives on Earth, being rejected and mistreated everywhere they go.
+- The pair arrives on Earth/Gaea, being rejected and mistreated everywhere they go.
 - Through societal hints, they learn of the ongoing conflict between Humans and Elementals.
 - Due to this, the two decide to settle on a small distant island.
 

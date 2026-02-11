@@ -13,7 +13,6 @@
 
 ## Summary 
 Adva, a slightly popular Airren woman due to her looks and light participation within the modelling scene, was determined to survive Dal yon Tulia. She fled to a mostly abandoned area of her nation called the No Man's Land to avoid her nation's draft, where she met Imbra. Surviving together for a while, they eventually decide to flee the planet, recruiting a new friend Kael (who calls himself Vael) along the way. On Earth, they are mistreated, surveilled, and attacked. To top it all off, Adva's Windsi is killed by Xor when he awakens her without telling her of the consequence of losing her Windsi. From here, she had already decided her hate for the planet was set and stone. Once Imbra agreed, they began their crusade. With the help of Terkou, she unlocks Squall, and uses it during crusades. Though, due to Gate I reviving her Windsi, she is hesitant to move forward. She finally does, after Terkou encourages her, reaching Squall Gate II. Eventually, with Rai providing support, she and Imbra break free of Terkou's influence, and she even injures him, before the two retreat to the Amazon Rainforest to live with Rai and Arete. 
-
 ## Timeline
 ⦿ **T-Year 900**
 - Adva lives at home with her adoptive mother, participating heavily in Airren NightLife and soft-launching a modelling career.
@@ -69,9 +68,9 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - Their actions encourage more rebellions across the planet. Terkou aims them to assist the smaller rebellions, leading to the start up of hundreds of small factions and the beginning of the Burning of Gaea.
 - Adva reluctantly reaches Squall Gate II after encouraged by Terkou, losing her Windsi forever.
 - Terkou encourages the pair to go out on their own, causing unexpected havoc where they can.
-- Adva meets Rai | The first encounter is coordinated by Imbra. Adva listens to Rai, and she slowly begins to question Terkou's leadership.
 - After this directive, Adva solo-attacks multiple mega cities, distrupting global trade.
-- During a solo attack, Adva is directly confronted by the Knights of Gaea and Samae, defeating Samae in hand-to-hand combat, despite her using val-distrupting technology.
+- Adva meets Rai | The first encounter is coordinated by Imbra. Adva listens to Rai, and she slowly begins to question Terkou's leadership.
+- Adva meets Samae | During a solo attack, Adva is directly confronted by the Knights of Gaea and Samae, defeating Samae in hand-to-hand combat, despite her using val-distrupting technology.
 - Adva defeats a group of Knights of Gaea members, despite being outnumbered and having her val suppressed.
 
 ⦿ **E-Year 2035**
@@ -84,5 +83,5 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 ⦿ **E-Year 2036**
 - Adva lives peacefully and quietly with Rai, Arete, and Imbra in the Amazon Rainforest, only being encountered by local revolting Elemental Factions.
 
-⦿ **E-Year 2038** (END OF TULIA ARC [? Might change- but just for now, 2038 is the end.]
+⦿ **E-Year 2038** 
 - Adva and her new squad have grown close, but she questions her actions. The human pleading to her constantly rings through her mind.
