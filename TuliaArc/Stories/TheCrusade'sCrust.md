@@ -427,9 +427,7 @@ I try not to, but I can’t help but giggle. Adva’s sass is always a bit funny
 “Get comfortable,” Adva flipped over, flying upside down relative to us. “89 days doesn’t sound like a lot now, but it builds. Just be glad our suits have autopilot.”
 
 I look towards the Sun. She’s right… and I still feel uneasy. I take a deep breath, uncertain but ready. Whatever comes, I must withstand. For my parents.
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 2 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 2 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 2 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+# CHAPTER 2
 The sun shines over the edges of Gaea. Tulia has since long fallen out of view. Our escort turned back when they felt we were far enough to be safe. After that, smaller groups formed, sharing supplies and horror
 stories about experiences. Save for a few unexpected deaths from suit malfunctions and lost elementals flying off-track, the trip was uneventful. 
 
@@ -721,11 +719,7 @@ I lay down in the middle, right next to Vael. He snores so softly, it’s almost
 
 I hear her shift. The biolumenescent flowers dim their lights, and the outside quiets. My eyes shut slowly, as if waiting for me to fight it. But for once, I feel my mind slow down and my heart relax. My flames 
 quiet and dim as everything goes black. I’ve forgotten the peace of true sleep, but I hope to remember it tonight.
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 3 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 3 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 3 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-CHAPTER 3
-
+# CHAPTER 3
 I was blinded by the foggy lights. Nothing was where it should be. My flames burned my own skin as the unknown voices yelled from beyond the shadows. I shielded my eyes only to be drenched in water and dragged
 through the snow. The shadowy figure had reached me, red in its eyes. My wrist bleeds in his grasp. Helpless, I kick and grab the snow trying to resist. I yell for Adva, Vael, and my father, only to be met by 
 laughter from those who drag me. A pain pierces the back of my head as I collapse to the ground, nose hitting the concrete beneath the snow. 
@@ -1219,9 +1213,7 @@ dampen, and I begin to feel drowsy as the sight hypnotizes me.
 Slowly, the world quiets. The clouds shield my mind, and my eyelids grow heavy. I try to fight it, but my body forces me to accept it. Within seconds, I fall fast asleep, the world wishing me a
 beautiful goodnight with the sunset blessing my eyes.
 
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 4 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 4 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 4 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+# CHAPTER 4
 I open my eyes, yet I still can’t see. The room was hardly illuminated by my own flames and a dim candle in a corner, where a figure sat still. I sit up, rustling and muffling the blankets placed over me to 
 keep me warm. The figure’s head looks over at me, and I freeze. 
 
@@ -1607,9 +1599,7 @@ mind.
 I look towards Kael and Adva, both seeming just as speechless as me. That’s when it hits me. Gaea doesn’t view us as refugees. We’re volatile aliens with the power to harm their infrastructure, 
 but the ability to propel their own society. We’re assets desperate for safety, easy to exploit. Gaea isn't a home, it’s a prison. 
 
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 5 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 5 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 5 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+# CHAPTER 5
 
 I clutched my father’s book close to my chest, sitting on my new bed. The sounds of my own flames burning only increased my anxiety. This could very well be one of the last times I enjoy their sounds, before 
 Gaea forces me to hide them away. The darkness in the room, only pushed away by my own light, could engulf me as it does everyone else. I never considered the possibility of me being afraid of the dark… but 
@@ -1874,9 +1864,7 @@ Xor walks over calmly, a different smile rising on his face. “How do you feel?
 
 My body feels hollow. I look down at my hands, the dart now gone, but the singe from the figure is still there. I look back up at Xor, before collapsing, losing consciousness. 
 
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 6 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 6 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 6 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+# CHAPTER 6
 “YRUSEI!” Adva yells loudly. Repeatedly. I could hear wind whistling throughout the house— but it was too strong to be Yrusei. The urgency in Adva’s voice causes me to rush out to investigate.
 
 She is completely tearing the house apart. The couch was flipped on its side, doors open, shelves with their contents emptied on the floor, all while Xor and Amei stood in the doorway to the backyard, Amei looking
@@ -2125,9 +2113,7 @@ stopped flowing. The room quieted.
 
 “Yrusei.” She uttered, her voice cracking.
 
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 7 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 7 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 7 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+# CHAPTER 7
 Adva just wasn’t the same. Her eyes were missing a distinct glimmer. Her hands twitched more often. She fixated on small things- sounds of ventilation, bright flashing from outside, the dripping of water in the 
 sink. Every time I tried to talk to her, her gaze always seemed to stare through me. She responds, but it’s never her usual tone, something I can’t pinpoint missing from each sentence. But this morning, that
 was different.
@@ -2407,11 +2393,7 @@ I sit next to her, letting silence return. I lean into her shoulder with my own,
 
 “Ah, Miss Hayes!” A booming voice from the sky calls. An elemental hovers down, flaming, followed by two other, similar figures. “Irision calls your name. Do you answer?”
 
-
-
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 8 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 8 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 8 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+# CHAPTER 8
 There they were, three knights before us. Their uniforms were decked in the gold-orange trim of Irision, and their flames danced in deliberate yet peculiar ways. I could sense their power, just from the proximity. 
 
 They stepped closer to us, each inch closer causing my heart to race faster. Adva and I retreated just as quickly as they approached, sticking by each other’s side. I hear the movement of Kael and Xor behind 
