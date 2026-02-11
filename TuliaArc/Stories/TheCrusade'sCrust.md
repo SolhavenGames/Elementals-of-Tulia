@@ -1,9 +1,9 @@
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — SUMMARY — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+# SUMMARY
+
 This story is through Imbra’s POV, made to show the slow descent into radicalism of Adva and Imbra thanks to the systems of Gaea/Earth and Tulia combined. 
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — END — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 1 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 1 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 1 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+
+# CHAPTER 1
+
 “Get up, Ember.” My friend Adva calls as she shakes me awake. “The camp is leaving! We'll be left behind.” 
 
 The sun shines through the tent's fabric as Adva stands above me. A soft, yet urgent smile rises on her pale face as she sees my eyes open. Adva moves my burning hair from in front of my eyes. “You awake? 
@@ -884,8 +884,8 @@ way the snow shot up, the sound it made… could that thing kill me?
 
 I move my eyes, looking for Adva and Vael, but I can’t find them. The woman from before approaches me again, kneeling to match my eye level. Then, she begins speaking softly. I can’t stop shaking,
 but I try to be as still as possible. I see the man who used the weapon staring at me. Like he’s waiting for me to mess up, eager to use it again. 
+    The woman grabs my attention again, putting her hand in front of my eyes. She grabs my wrist slowly, wrapping a band around it. It automatically tightened, growing tight enough to remove my hand
 
-	The woman grabs my attention again, putting her hand in front of my eyes. She grabs my wrist slowly, wrapping a band around it. It automatically tightened, growing tight enough to remove my hand 
 from circulation. Then it loosens slightly, giving my hand room to breathe, but leaving me unable to pull it off myself. 
 
 The woman then pulls her tablet out again, holding her writing utensil in the same hand. She looks to her colleagues, who leave after she says something to them. A small smile appears across her 
@@ -1722,7 +1722,6 @@ She just giggles, her hand brushing over my hair. “You smell nice, too. How lo
 
 “I haven’t taken one yet,” He says through a sigh. “Amei told me to wait for my new clothes first.”
 
-
 I tilt my head. “Well be ready for a challenge.” Adva comments, her tone rising as she speaks. “And some sub-par water.” Kael only sighs. 
 
 As if we summoned her, Amei walks through the front door, a similar bag she gave to me hanging on her shoulder. “Come on, Vael.” She says softly. She still thinks his name is Vael… why hasn’t he corrected he
@@ -1937,7 +1936,7 @@ I feel my flames rising with rage. My fist balls and quivers, a dart automatical
 ash.
 
 Amei acts quickly, grabbing a fire extinguisher and suppressing the flames before they can spread. She turns to me. “... I’m sorry.” She says softly, approaching me. “I swear I didn’t know anything about 
-this.”	
+this.”    
 
 I look down at my hands. How did a dart appear? It was identical to the one I grabbed in that… world. The way it felt in my hand was almost… too perfect. It conducted my flames too well. It was too easy to
 throw. Thinking about it feels uncanny.
@@ -2125,7 +2124,6 @@ Her breathing was quick and unpredictable, just like the storm she caused in the
 stopped flowing. The room quieted. 
 
 “Yrusei.” She uttered, her voice cracking.
-
 
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 7 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — CHAPTER 7 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
