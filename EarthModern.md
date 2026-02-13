@@ -111,7 +111,6 @@ Kabul (India)
 Beijing (China)
 
 # Africa
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 Africa is a much different continent to Asia. It is not currently frozen in a cold war, and is heavily controlled by loyalists to the former Terra Union. There are only 4 free states that do 
 not identify as territories of the Terra Union, those being North West Africa, The Nile Corporation, State Alpha, and State Beta. The Terra Union loyalist states are the Terra Sahara Command 
 and the Terra Naval Command in Africa. The Sahara Command, usually  referred to as “Greater Sahara”, commands a large force of loyalists and defenders. The Naval Command, usually referred to 
@@ -187,7 +186,6 @@ Casablanca (North West Africa)
 Algiers (North West Africa)
 
 # Europe/Europa
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 Europe currently sits as a continent constantly at war. Unlike the rest of the world, the Terra Union initially managed to maintain control over major European cities, even after the Declaration
 of Deunification. However as time went on, control slipped. The state that came after the Terra Union, named Europa, began to lose major ground as hundreds of small and disorganized rebellions
 happened all at once. Years of conflict ensued, and suddenly Europa was pushed back to its most loyal region: The Balkans and Anatolia. What rests where it used to be are now multiple states, 
@@ -288,7 +286,6 @@ Belgrade (Europa)
 Athens (Europa)
 
 # North America
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 North America is home to the second most powerful nation in the world, the Thirteen Republics. It is also home to the largest, most expansive Super and Mega cities, thanks to massive urbanization
 projects under the Terra Union. The largest of these would be New York City, which has grown to become comparable to the size of West Virginia. Another major example would be Toronto, which has
 grown so large that the country that owns it (Defenders of Toronto) is entirely just Toronto. No rural land, purely urban. 
@@ -397,7 +394,6 @@ Atlanta (13 Republics)
 Montreal (Quebec)
 
 # South America
-— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 South America, like Africa, is incredibly Terra-Union controlled. Unfortunately for its loyalists, it’s also home to an incredibly rich and powerful nation: The Inca Empire. The Inca returned 
 themselves to power through blood, sweat, and tears, and now claim to be isolationists on the western half of the continent, simply exporting their resources through airlift to the highest 
 buyers. They have incredibly luxurious exports, and are often on high demand. Some like to call them Corporatocratic for this, but they do have democratic elections, which seem to be free and 
