@@ -14,43 +14,43 @@
 ## Summary 
 Adva, a slightly popular Airren woman due to her looks and light participation within the modelling scene, was determined to survive Dal yon Tulia. She fled to a mostly abandoned area of her nation called the No Man's Land to avoid her nation's draft, where she met Imbra. Surviving together for a while, they eventually decide to flee the planet, recruiting a new friend Kael (who calls himself Vael) along the way. On Earth, they are mistreated, surveilled, and attacked. To top it all off, Adva's Windsi is killed by Xor when he awakens her without telling her of the consequence of losing her Windsi. From here, she had already decided her hate for the planet was set and stone. Once Imbra agreed, they began their crusade. With the help of Terkou, she unlocks Squall, and uses it during crusades. Though, due to Gate I reviving her Windsi, she is hesitant to move forward. She finally does, after Terkou encourages her, reaching Squall Gate II. Eventually, with Rai providing support, she and Imbra break free of Terkou's influence, and she even injures him, before the two retreat to the Amazon Rainforest to live with Rai and Arete. 
 ## Timeline
-⦿ **T-Year 900**
+### ⦿ **T-Year 900**
 - Adva lives at home with her adoptive mother, participating heavily in Airren NightLife and soft-launching a modelling career.
 
-⦿ **T-Year 905**
+### ⦿ **T-Year 905**
 - Her nation, Wor, falls to the Knightsdale Ideology, becoming Wrenao.
 - The ideology shift heavily affects NightLife, as curfews force citizens to stay home before sundown.
 - Adva is forced to move when a civil war breaks out in her country. She relocates to a less populous area. 
 
-⦿ **T-Year 906**
+### ⦿ **T-Year 906**
 - Wrenao effectively defeats freedom fighters, further increasing control over their territory...
 - ... Causing Adva to move off-grid, losing most of her friends as she fears for her life.
 
-⦿ **T-Year 908**
+### ⦿ **T-Year 908**
 - _Dal yon Tulia_ breaks out, causing Wrenao to pass war mobilization legislation.
 - Adva witnesses her friends and allies be drafted.
 
-⦿ **T-Year 910**
+### ⦿ **T-Year 910**
 - Wrenao expands their draft, its new requirements having Adva eligible ...
 - ... Which provokes her to flee to a territory called "No Man's Land", which is a mostly abandoned area of the nation destroyed by civil war.
 - Adva meets Imbra | The first encounter was quite tense, as Imbra is caught stealing food from Adva. She instead helps her find food, and Imbra continues to follow her despite Adva's wishes.
 
-⦿ **T-Year 913**
+### ⦿ **T-Year 913**
 - Adva and Imbra have grown inseperable.
 
-⦿ **T-Year 915**
+### ⦿ **T-Year 915**
 - Imbra and Adva have a close encounter with Coven soldiers. [This encounter brings them closer]
 
-⦿ **T-Year 917**
+### ⦿ **T-Year 917**
 - Imbra and Adva hear of plans to flee the planet with a growing refugee camp in nearby Rutt.
 
-⦿ **T-Year 918**
+### ⦿ **T-Year 918**
 - Imbra and Adva get to Rutt, joining the refugee camp.
 - Adva meets Kael | The first encounter was full of suspicion, but they eventually soften with each other.
 - The trio survives a coven attack on the refugee camp.
 - The trio leaves the planet, spending 90 days in space travelling to Earth/Gaea.
 
-⦿ **E-Year 2033**
+### ⦿ **E-Year 2033**
 - Adva arrives on Earth with Imbra and Kael, 90 days after leaving. Refugees are treated poorly.
 - Adva distrusts the governments of Earth/Gaea due to her underlying xenophobia against Humans.
 - After being relocated with Imbra and Kael. They are treated better due to a human employee fighting to protect their rights.
@@ -60,7 +60,7 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - Adva injures one of the Knights, and kills Xor after the battle. She re-unites with Imbra shortly after, and they are enraged, but lost. She learns of Kael's fate here.
 - Terkou finds the pair, recruiting them to his cause. Adva pretends not to trust him, but she loves his offer.
 
-⦿ **E-Year 2034**
+### ⦿ **E-Year 2034**
 - Adva unlocks Squall with Terkou's help. She's hesitant to go beyond Gate I due to her Windsi being revived.
 - Terkou gifts Adva her signature weapon- a metal staff that conducts her val too well.
 - Trained by Terkou, Adva and Imbra become proficient in hand-to-hand combat, commonly sparring to increase their own capabilities.
@@ -73,15 +73,15 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - Adva meets Samae | During a solo attack, Adva is directly confronted by the Knights of Gaea and Samae, defeating Samae in hand-to-hand combat, despite her using val-distrupting technology.
 - Adva defeats a group of Knights of Gaea members, despite being outnumbered and having her val suppressed.
 
-⦿ **E-Year 2035**
+### ⦿ **E-Year 2035**
 - Terkou point Adva and Imbra to New York Super City, which leads to their largest and most powerful coordinated attack. They face resistance as the city is also evacuated.
 - A human directly begs Adva for their life in broken Firen, citing their desire to return to their family. This causes Adva to question her actions, and no longer believe in the crusade.
 - Adva speaks to Imbra, and they both have been having doubts. They confront Terkou.
 - Terkou is unapologetic. He continues to try to manipulate them, but Adva is enraged by his manipulation. She attacks them before fleeing Antarctica, living with Rai and Arete in the Amazon Rainforest.
 - Adva meets Arete | Arete is understanding and forgiving of their actions, confusing Adva who expected to be outcasted. 
 
-⦿ **E-Year 2036**
+### ⦿ **E-Year 2036**
 - Adva lives peacefully and quietly with Rai, Arete, and Imbra in the Amazon Rainforest, only being encountered by local revolting Elemental Factions.
 
-⦿ **E-Year 2038** 
+### ⦿ **E-Year 2038** 
 - Adva and her new squad have grown close, but she questions her actions. The human pleading to her constantly rings through her mind.
