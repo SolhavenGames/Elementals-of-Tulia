@@ -14,67 +14,67 @@ The airforce is very different. Every nation in both alliances imports stockpile
 The situation in Asia is tense, but some see hope. Some populations in oppressed states like India and China flee to Oceania, where laws are looser and there is protected speech, assembly, and press. They then spread massive propaganda of how horrible life is in both countries, attempting to de-legitimize these nations and tear apart the alliances they’ve built. It doesn’t seem to be working yet, and Oceania has not commented on them, despite India demanding action.
 
 ## Asia’s Countries:
-State of Japan/North Japan 🌍
+⦿ State of Japan/North Japan 🌍
 
 Capital: North Tokyo | Alignment: Terra Union 
 
-Japan’s Empire/South Japan
+⦿ Japan’s Empire/South Japan
 
 Capital: South Tokyo | Alignment: Tokyo Treaty Organization
 
-Economic Zone in Siberia 🌍
+⦿ Economic Zone in Siberia 🌍
 
 Capital: Yelizovo | Alignment: Terra Union
 
-State of Mongolia 
+⦿ State of Mongolia 
 
 Capital: Irkutsk | Alignment: Legion of Free States
 
-ADS Refugee Camps
+⦿ ADS Refugee Camps
 
 Capital: N/A | Alignment: Global Populations (None)
 
-Korea’s Empire
+⦿ Korea’s Empire
 
 Capital: Seoul | Alignment: Legion of Free States
 
-Imperial Military State of China ⭐
+⦿ Imperial Military State of China ⭐
 
 Capital: Wuhan-Nanjing | Alignment: Legion of Free States
 
-South East Asia/North-South East Asia
+⦿ South East Asia/North-South East Asia
 
 Capital: North Singapore | Alignment: Asia’s Neutral Defense Pact
 
-Republican Federal State of Sector Iota/Middle-South East Asia
+⦿ Republican Federal State of Sector Iota/Middle-South East Asia
 
 Capital: South Singapore | Alignment: Tokyo Treaty Organization
 
-Military Democracy of Oceania/South-South East Asia
+⦿ Military Democracy of Oceania/South-South East Asia
 
 Capital: Sydney | Alignment: Tokyo Treaty Organization
 
-Military State of India ⭐
+⦿ Military State of India ⭐
 
 Capital: Super Delhi | Alignment: Tokyo Treaty Organization
 
-Collective of Persia
+⦿ Collective of Persia
 
 Capital: Tehran | Alignment: Legion of Free States 
 
-Anti-Anarchy State of Central Asia
+⦿ Anti-Anarchy State of Central Asia
 
 Capital: Tashkent | Alignment: Asia’s Neutral Defense Pact
 
-Republic of The Levant
+⦿ Republic of The Levant
 
 Capital: Baghdad | Alignment: Asia’s Neutral Defense Pact
 
-Caucasus State
+⦿ Caucasus State
 
 Capital: Baku | Alignment: Asia’s Neutral Defense Pact
 
-Disorganized Anarchist Territories: 2
+⦿ Disorganized Anarchist Territories: 2
 
 Central Siberia
 
@@ -110,7 +110,7 @@ Kabul (India)
 
 Beijing (China)
 
-	Africa
+# Africa
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 Africa is a much different continent to Asia. It is not currently frozen in a cold war, and is heavily controlled by loyalists to the former Terra Union. There are only 4 free states that do 
 not identify as territories of the Terra Union, those being North West Africa, The Nile Corporation, State Alpha, and State Beta. The Terra Union loyalist states are the Terra Sahara Command 
@@ -131,39 +131,62 @@ alliance with a different corporation in Eastern Europe. They also use robots fo
 Africa is arguably the most democratic continent in the world currently, and many flock to State Alpha or State Beta due to the high quality of living in those states. Many refer to the continent 
 as the “Bastion of Hope”. 
 
-	Africa’s Countries:
-North West Africa
+## Africa’s Countries:
+⦿ North West Africa
+
 Capital: Tunis | Alignment: Northern Atlantic Military Alliance 
-Nile Corporation ⭐
+
+⦿ Nile Corporation ⭐
+
 Capital: Cairo-6 | Alignment: Nile Economic Pact
-Sahara Administration/Greater Sahara 🌍
+
+⦿ Sahara Administration/Greater Sahara 🌍
+
 Capital: Lagos-N | Alignment: Terra Union
-Terra Naval Command in Africa/Southern Atlantic Naval East 🌍
+
+⦿ Terra Naval Command in Africa/Southern Atlantic Naval East 🌍
+
 Capital: Lagos-S | Alignment: Terra Union
-State Alpha
+
+⦿ State Alpha
+
 Capital: Cape: Super | Alignment: South Africa Union
-State Beta
+
+⦿ State Beta
+
 Capital: Windhoek | Alignment: South Africa Union
-Anarchist Territories: 1
+
+⦿ Anarchist Territories: 1
+
 Congo Jungle Anarchist Forces
 
-	Africa’s Super Cities:
+## Africa’s Super Cities:
 Lagos (Split | Greater Sahara | SAN-E)
+
 Cairo (Nile Corporation)
+
 Tunis (North West Africa)
+
 Cape Town (State Alpha)
+
 Addis Ababa (Nile Corporation)
 
-	Africa’s Mega Cities:
+## Africa’s Mega Cities:
 Johannesburg (State Alpha)
+
 Bamako (Greater Sahara)
+
 Kaya (Greater Sahara)
+
 Freetown (SAN-E)
+
 Dakar (SAN-E)
+
 Casablanca (North West Africa)
+
 Algiers (North West Africa)
 
-	Europe/Europa
+# Europe/Europa
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 Europe currently sits as a continent constantly at war. Unlike the rest of the world, the Terra Union initially managed to maintain control over major European cities, even after the Declaration
 of Deunification. However as time went on, control slipped. The state that came after the Terra Union, named Europa, began to lose major ground as hundreds of small and disorganized rebellions
@@ -195,46 +218,76 @@ military force, they failed to secure even basic military objectives, and left t
 Overall, Europe is split between 3 strong alliances who constantly will fight each other, causing major land swaps and instability. The borders of Europe change year by year, and many people flee the
 continent due to conscription laws and military oversight.
 
-	Europe’s Countries:
-Technocratic Republic of Germany ⭐
-Capital: Berlin-A4 | Alignment: Rome-Berlin Technocracy
-Reborn State of France ⭐
-Capital: Paris-A | Alignment: Northern Atlantic Military Alliance 
-Democratic Republic of Iberia
-Capital: Madrid | Alignment: Northern Atlantic Military Alliance
-Mediterranean Command
-Capital: Rome-E | Alignment: Rome-Berlin Technocracy
-Republic of The North 🌍
-Capital: Stockholm | Alignment: Terra Union
-Terra Union North Atlantic Command / TUNA 🌍
-Capital: London-A5 | Alignment: Terra Union
-Airforce Conglomerate of Central Europe
-Capital: Budapest | Alignment: None 
-The Rus in Kyiv / Rus / Kyiv
-Capital: Kyiv | Alignment: None
-Europa 🌍
-Capital: Instantinople-B3 | Alignment: Terra Union
-Anarchist Territories: 0
+## Europe’s Countries:
+⦿ Technocratic Republic of Germany ⭐
 
-	Europe’s Super Cities:
+Capital: Berlin-A4 | Alignment: Rome-Berlin Technocracy
+
+⦿ Reborn State of France ⭐
+
+Capital: Paris-A | Alignment: Northern Atlantic Military Alliance 
+
+⦿ Democratic Republic of Iberia
+
+Capital: Madrid | Alignment: Northern Atlantic Military Alliance
+
+⦿ Mediterranean Command
+
+Capital: Rome-E | Alignment: Rome-Berlin Technocracy
+
+⦿ Republic of The North 🌍
+
+Capital: Stockholm | Alignment: Terra Union
+
+⦿ Terra Union North Atlantic Command / TUNA 🌍
+
+Capital: London-A5 | Alignment: Terra Union
+
+⦿ Airforce Conglomerate of Central Europe
+
+Capital: Budapest | Alignment: None 
+
+⦿ The Rus in Kyiv / Rus / Kyiv
+
+Capital: Kyiv | Alignment: None
+
+⦿ Europa 🌍
+
+Capital: Instantinople-B3 | Alignment: Terra Union
+
+⦿ Anarchist Territories: 0
+
+## Europe’s Super Cities:
 Berlin (Germany)
+
 Paris (France)
+
 London (TUNA)
+
 Instantinople (Europa)
+
 Rome (Mediterranean Command)
 
-	Europe’s Mega Cities:
+## Europe’s Mega Cities:
 Kyiv (The Rus)
+
 Barcelona (Iberia)
+
 Stockholm (Northern Republic)
+
 Sevastopol (The Rus)
+
 Vilnius (Central Europe)
+
 Madrid (Iberia)
+
 Venice (Mediterranean Command)
+
 Belgrade (Europa)
+
 Athens (Europa)
 
-	North America
+# North America
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 North America is home to the second most powerful nation in the world, the Thirteen Republics. It is also home to the largest, most expansive Super and Mega cities, thanks to massive urbanization
 projects under the Terra Union. The largest of these would be New York City, which has grown to become comparable to the size of West Virginia. Another major example would be Toronto, which has
@@ -268,49 +321,82 @@ still call for some pro-Terra Union reforms. Demands like this are usually met w
 constant watch in big cities, ensuring loyalty to the cause and sometimes even conscripting. The military is present in everyday life, and nobody can escape them for even a second. Only during
 wartime do the people get some breathing room, and that’s when unrest seems to rise the most. These two nations are unstable, but only time will tell if they stand.
 
-	North America’s Countries:
-The Thirteen Republics ⭐
+## North America’s Countries:
+⦿ The Thirteen Republics ⭐
+
 Capital: New York-A1 | Alignment: Eastern Alliance
-Republic of Quebec
+
+⦿ Republic of Quebec
+
 Capital: Montreal-C | Alignment: Eastern Alliance
-Empire of Alaska ⭐
+
+⦿ Empire of Alaska ⭐
+
 Capital: Anchorage | Alignment: Alaska’s Free Empire
-Terra Union Great Lakes Militia / TUG-LM 🌍
+
+⦿ Terra Union Great Lakes Militia / TUG-LM 🌍
+
 Capital: Chicago-B5 | Alignment: Terra Union
-Socialist Federal States of The Pacific East / Pacific East / SFS
+
+⦿ Socialist Federal States of The Pacific East / Pacific East / SFS
+
 Capital: Los Angeles-B9 | Alignment: Anti-Terra Union
-Defenders of Natural Land 🌍
+
+⦿ Defenders of Natural Land 🌍
+
 Capital: N/A | Alignment: Terra Union (Leaning)
-Democratic State of Central America (DCSA)
+
+⦿ Democratic State of Central America (DCSA)
+
 Capital: Mexico City-C5 | Alignment: Anti-Terra Union
-Caribbean Federation
+
+⦿ Caribbean Federation
+
 Capital: Havana | Alignment: Anti-Terra Union
-Defenders of Toronto 🌍
+
+⦿ Defenders of Toronto 🌍
+
 Capital: Toronto-A1 | Alignment: Terra Union (Leaning)
-Anarchist Territories: 1
+
+⦿ Anarchist Territories: 1
+
 Anarchists in The Rockies
 
-	North America’s Super Cities:
+## North America’s Super Cities:
 New York (13 Republics)
+
 Miami (13 Republics)
+
 Chicago (TUG-LM)
+
 Los Angeles (SFS)
+
 Mexico City (Central America)
+
 Toronto (DoT)
 
-	North America’s Mega Cities:
+## North America’s Mega Cities:
 Philadelphia (13 Republics)
+
 Dallas (Central America)
+
 Seattle (SFS)
+
 Anchorage (Alaska)
+
 Detroit (TUG-LM)
+
 New Orleans (Central America)
+
 Havana (Caribbean)
+
 Panama (Central America)
+
 Atlanta (13 Republics)
+
 Montreal (Quebec)
 
-	South America
+# South America
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 South America, like Africa, is incredibly Terra-Union controlled. Unfortunately for its loyalists, it’s also home to an incredibly rich and powerful nation: The Inca Empire. The Inca returned 
 themselves to power through blood, sweat, and tears, and now claim to be isolationists on the western half of the continent, simply exporting their resources through airlift to the highest 
@@ -329,29 +415,47 @@ their proximity with NASA, most of their forces are marines or sailors who becam
 Overall, not much happens in South America. It’s a pretty peaceful continent and a strong base for Terra Union states that currently reside there, as they have no enemies on their land. In fact,
 all four nations in South America have signed multiple economic agreements to even further secure the peace in their continent. 
 
-	South America’s Countries:
-Reborn Inca Empire ⭐
+## South America’s Countries:
+⦿ Reborn Inca Empire ⭐
+
 Capital: Lima-T5 | Alignment: None
-Naval Command in South America (NASA) ⭐🌍
+
+⦿ Naval Command in South America (NASA) ⭐🌍
+
 Capital: Caracas-A4 | Alignment: Terra Union
-Terra Union South America Militia (TU-SAM) 🌍
+
+⦿ Terra Union South America Militia (TU-SAM) 🌍
+
 Capital: Brasilia | Alignment: Terra Union
-Republican Imperial Federation of Patagonia (RIF-P)
+
+⦿ Republican Imperial Federation of Patagonia (RIF-P)
+
 Capital: Buenos Aires-B5 | Alignment: None
-Anarchist Territories: 1
+
+⦿ Anarchist Territories: 1
+
 Rainforest Anarchists
 
-	South America’s Super Cities:
+## South America’s Super Cities:
 Lima (Inca)
+
 Caracas (NA-SA)
+
 Buenos Aires (Patagonia)
+
 Cali (Inca)
+
 La Paz (Patagonia)
+
 Rio De Janeiro (NA-SA)
 
-	South America’s Mega Cities:
+## South America’s Mega Cities:
 Brasilia (TU-SAM)
+
 Barcelona (Iberia)
+
 Sao Paulo (TU-SAM)
+
 Medellin (Inca)
+
 Rosario (Patagonia)
