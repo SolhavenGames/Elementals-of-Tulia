@@ -20,4 +20,26 @@ A young and impoverished Elemental in the corrupt Watrish nation, Rai found hims
 - Rai meets Arete | Their two families had already known each other well, but when Rai and Arete meet, they immediately become great friends. They stay in contact, even when Arete leaves.
 
 ### ⦿ **T-Year 902**
-- Rai finds a new job- 
+- Rai finds a new job that was opened up at a media company. He now works to filter through data from Knightsdales, pinpointing what's real and what's fake.
+
+### ⦿ **T-Year 904**
+- Rai begins trying to juggle home-based higher education and his new job, which he has grown to love.
+- His family begins participating in anti-Knightsdale protests.
+
+### ⦿ **T-Year 905**
+- The media company Rai works at predicts a major global war will start within the next 5 years.
+- The media company is silently shut down by the state for spreading false news and fearmongering.
+- Rai is put on unemployment by the government, as they were the cause of his job vanishing.
+
+### ⦿ **T-Year 906**
+- Rai gives all of his money to his family, focusing on his education.
+
+### ⦿ **T-Year 907**
+- His family finally tells him of their plan to get him to safety. He doesn't agree with it, but they insist. 
+
+### ⦿ **T-Year 908**
+- Dal yon Tulia begins, and Rai is immediately sent away with Arete. He is still unhappy with leaving his family, but Arete helps him feel better.
+  
+### ⦿ **E-Year 2020**
+- The refugees arrive on Earth/Gaea.
+- The Global Government beings working to give them all homes.
