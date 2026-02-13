@@ -1,6 +1,6 @@
 # IMPERIAL MILITARY STATE OF CHINA
 ## BUREAUCRATIC AFTER REPORT - WUHAN-NANJING
-<sub>_An unprovoked surprise attack from an unknown source caused irreversible damage to our capital city.<sub>
+<sub>_An unprovoked surprise attack from an unknown source caused irreversible damage to our capital city._<sub>
 
 ### ASSAILENTS:
 FIRE ELEMENTAL; ALIAS: “PHOENIX”
@@ -154,3 +154,4 @@ Entities beyond our military capabilities; reportedly only two. Damages beyond o
 8:09:56 - Aid from North America, Europe, and Africa arrives. 
 
 8:10:00 - Troy Talona continues his speech. “Only through unity will this threat be defeated”. 
+
