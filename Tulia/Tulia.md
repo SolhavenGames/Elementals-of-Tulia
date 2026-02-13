@@ -58,3 +58,12 @@ This disaster will ruin the lightwaves in the area for a few minutes. Light boun
 
 ### ⦿ **Tectonic Falters**
 Val in the air seeps into the ground often, causing tremors, quakes, and sinkholes where they usually wouldn't be- and being much stronger than usual. Though the tremors and quakes only last for a few seconds, the sheer force of them being able to cause concussions. 
+
+### ⦿ **Extreme Overgrowth**
+Within a few seconds, years of verdure grows. Vines curl up buildings. Trees sprout on roads. Grass and dirt breaks through concrete. Foundations of buildings age and rust. There have been rare cases of animals being caught by the rapid growth, getting wrapped in vines or stuck in trees that sprouted right below them.
+
+### ⦿ **Moisture Attraction**
+Water seems to pull closer to other water sources. This can create weird moments where massive drops of floating water rests in the middle of roads. While it's usually harmless, it sometimes can trap animals within its water bubbles, and the water bubbles have been reported to chase those who happen to have chase Valorans and wrap around their heads to suffocate them.
+
+### ⦿ **Flash Desert**
+Out of nowhere, the ground becomes covered in sand and dust. It all rushes in within a few minutes, and it can take days to clean. Many have drowned in the sudden influx of sand, causing some cities to build anti-Flash Desert walls. 
