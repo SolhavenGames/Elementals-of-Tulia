@@ -1,7 +1,7 @@
 # Elementals - The Species
 ## What are Elementals? 
 Elementals are an intelligent _Valoran_ inhabitants of the planet Tulia. They happen to be the smartest and strongest of the Valoran animal family, as well have having the most val by far. Elementals come in 15 different unique elements: Fire, Nature, Wood, Air, Ice, Snow, Rock, Metal, Sand, Lightning, Poison, Darkness, Light, Blood, and Water- just like other Valoran creatures. They have drawn their borders based on this difference, creating 13 different sovereign nations. 
-## Elemental Anatomy
+## Elemental Energies
 Elementals are made up of 3 main energies: **Yal**, **Jal**, and **Val**. All three of the energies are extremely important to their survival, with imbalances in the first two causing pain and illness. Each energy serves its own important purpose.
 
 ### ⦿ **Yal**
@@ -15,10 +15,15 @@ The pride and joy of every Valoran creature. Val is an incredibly unstable and d
 
 Val is a direct energy inheritance from the Elements, i.e. the Valoran Gods, which is why it's so unstable. Due to this, it is impossible to recreate artifically, with all attempts ending in major disasters. It does happen to be a wonderful energy source, with Lithil (Lightning) Elementals creating a large economy using massive power banks. 
 
+As for what unlocked Val can do- it is known to act as its own structural reinforcement lattice that can withstand ~28.7 GJ of energy, a feat achieved when the Elemental flies at top speeds, due to its ability to eat and redirect momentum away from the Valoran's body as a whole, and use it for more speed. This also works for deceleration, allowing the Elemental to slow down within seconds. Without flight, it can withstand far less- only ~11.9 GJ of energy. While the lattice is best for flight, it also happens to be useful for combat, allowing them to take stronger punches and even resist piercing attacks. Even with this, the lattice can wear down after enough strikes. Val also is known to preserve organs, redirecting force away from them. This causes a lot more damage to the skin of the Elemental, which has evolved overtime to heal quicker in response, also growing stronger. Hinted to earlier, it also smooths the environment around the elemental, preventing their incredible speed from causing too much damage. This also translates to temperature (Warm Elements do not melt as they should unless prompted by the user, same with cold elements and freezing). 
+
 ### ⦿ **Forbidden Val**
-Forbidden Val, formerly considered just a myth, is a version of Val that is simply direct Valoran God energy. Not inheritance, not a copy, just direct energy from the Gods. This trait alone makes it multitudes more unstable and strong than normal Val, but normal Valoran bodies and minds struggle to handle it, causing unintended and often negative side affects with the energy. The energy is so strong that the Gods who created it fear it, and recently, it has caused inter-god conflicts. When Forbidden Val is unlocked, it completely replaces normal val- but not everybody can handle the energy. Forbidden Val is known to tear people apart from the inside if their val bank is too low. 
+Forbidden Val, formerly considered just a myth, is a version of Val that is simply direct Valoran God energy. Not inheritance, not a copy, just direct energy from the Gods. One ounce of Forbidden Val is equal to ~671,091 ounces of val- though the power does not scale linearly. This trait alone makes it multitudes more unstable and strong than normal Val, but normal Valoran bodies and minds struggle to handle it, causing unintended and often negative side affects with the energy. The energy is so strong that the Gods who created it fear it, and recently, it has caused inter-god conflicts. When Forbidden Val is unlocked, it completely replaces normal val- but not everybody can handle the energy. Forbidden Val is known to tear people apart from the inside if their val bank is too low. 
 
-Valorans capable of wielding this energy are often strong without it, becoming even stronger with it. The more Forbidden Val a user gains, the more durable, fast, and strong they become. 
+With Forbidden Val being equal to around 617,000 ounces of Val, it can immediately seem terrifying- which it is. Compared to val's peak of ~28.7 GJ, Foribdden Val peaks at 212 PJ- and that's not even in flight. That is sheer energy output. At peak preformance, A single ounce of Forbidden Val will output the equivalent to 212 petajoules. 
 
-Forbidden Val is supplied through _Forbidden Elements_. 
+Forbidden Val is supplied through _Forbidden Elements_. It's usually required for Valorans to seek the element out, but some are born in the user, and others choose the users. When the Forbidden Element is unlocked, their power is split into gates. As the user progresses through gates, their Forbidden Val increases exponentially. Forbidden Val is also known to prevent sicknesses, improve life length, prevent and even reverse aging, and lower sustenance requirements. 
+## Elemental Anatomy
+The anatomy of Elementals is very similar to humans- except they are smaller with denser bones (hovering around 27% extra compared to Humans) and muscles (hovering around 16% extra compared to Humans) explicitly due to gravity when you exclude the affects of Val on their bodies. Average Elemental baseline FFMI is ~10–15% higher compared to humans humans as well. When compared to humans, however, other than density, they have incredibly similar internal structures when systems are considered- 
+
 
