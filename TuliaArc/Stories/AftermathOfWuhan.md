@@ -6,7 +6,8 @@
 FIRE ELEMENTAL; ALIAS: “PHOENIX”
 
 AIR ELEMENTAL; ALIAS: “TEMPEST”
-<sub>_designations assigned post-incident._<sub>
+
+<sub>_Designations assigned post-incident._<sub>
 
 ### INCIDENT REPORTS
 CIVILIAN CASUALTIES [Estimate]: ~4,501
@@ -38,4 +39,5 @@ WIND SPEEDS QUICKLY SURPASSED STRUCTURAL THRESHOLDS
 GDP contraction of 41% expected by the next fiscal year. Emergency spending laws retract social safety nets and lower military pay. Damages to Wuhan-Nanjing hover around $1,871,909,631,520 (calculation still underway). Corporations, trade routes (both internal and external), and aerial travel expected to drop by 81%.
 ### RESPONSE:
 Entities beyond our military capabilities; reportedly only two. Damages beyond our economic capabilities; potential recovery period still being calculated. Governments and militaries scrambled; national Elementals unruly. Caution advised, but force used. Future is uncertain, preparations for all out war with Elementals underway. 
+
 
