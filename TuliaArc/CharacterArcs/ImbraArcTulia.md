@@ -69,7 +69,7 @@ A student who lost her nation and parents to war, she finds companionship in Wre
 - Imbra meets Rai | Rai encourages Imbra to stop her attacks, though Imbra ignores him. Imbra is irritated by him. Rai begins to intercept her on her way to attack cities.
 - Rai and Imbra fight, with Rai managing to subdue her over the Ocean due to his superiority with Deluge.
 - Rai and Imbra fight again, this time on land. Though Rai seems to be less occupied with the fight, turning it into more of a dance. This enrages and humiliates Imbra.
-- Rai and Arete meet again, but this time they talk instead of fight. He seems to get through to her with a specific question: "Do you think your parents would approve of this?" She begins to doubt and question Terkou's leadership, looking back on all the damage she's caused. 
+- Rai and Imbra meet again, but this time they talk instead of fight. He seems to get through to her with a specific question: "Do you think your parents would approve of this?" She begins to doubt and question Terkou's leadership, looking back on all the damage she's caused. 
 - Imbra introduces Rai to Adva.
 - Despite Rai's words, Imbra continues to attack cities, though on a lower scale.
 - Kael continues to appear to her in dreams, causing her to wake up in weeping frenzies. 
@@ -88,4 +88,5 @@ A student who lost her nation and parents to war, she finds companionship in Wre
 
 ### ⦿ **E-Year 2038**
 - Imbra has grown close to her new friends, but she still deeply regrets her actions. She now has an underlying hate for her power, and desprately wants to hide her flames.
+
 
