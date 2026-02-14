@@ -81,4 +81,7 @@ These are the characters who will have a major impact on the story alone, being 
 ## ⦿ Wykoi Maita (Male) - Inca-Born - Major Protaganist 
 
 ⦾ Birthday: Year 2007, Month December, Day 2
+## ⦿ K,erla Naomi (Female) - Sakai - Major Protaganist 
+
+⦾ Birthday: Year 805, Month Tulip, Day 28
 
