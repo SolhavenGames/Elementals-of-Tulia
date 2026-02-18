@@ -23,6 +23,9 @@ A young woman who lost her home to war, she grew up only knowing conflict. She w
 ### ⦿ **E-Year 2020**
 - The first Elementals arrive, and despite only being 10 years old, Samae already doesn't like them, silently believing they are here to take the planet away.
 
+### ⦿ **E-Year 2021**
+- Samae meets Kterla | Despite Samae barrating her with insults, claiming she's seeking to control the planet by gaining their trust, she stays calm, and respects Samae. The moment goes viral online.
+
 ### ⦿ **E-Year 2023**
 - Her family begins to give her technological augments stolen from their corporate conquerers, allowing Samae to become stronger and smarter.
 - She begins to train, as she has been excited for years to join her family in battle.
