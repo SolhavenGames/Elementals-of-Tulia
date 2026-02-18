@@ -236,7 +236,8 @@ The final form of Hellfire. Val production reaches a staggering 100x, incredibly
 **_How it feels_**: Witnesses of Hellfire, no matter the gate, will feel intrigued, almost as if they should approach the user. Their curiosity will rise, and in some cases, the witness can become infatuated with the user. The user themself, depending on the gate, will either become intensely emotional, or incredibly dedicated. No matter the gate, the user will always feel a sensation to burn, use their element, and even kill, as they get random intense episodes of immense bloodlust. 
 
 ### **NOTES**
-- Concept burning and Hellfire abilities will commonly avoid harming people the user considers friends, lovers, or family, even when uncontrolled. 
+- Concept burning and Hellfire abilities will commonly avoid harming people the user considers friends, lovers, or family, even when uncontrolled.
+- Concept burning does not erase, it merely corrupts. Example: "holes" in memories act as uncertainty.
 - Threshold N is most vulnerable to bloodlust outbursts.
 - Hellfire Scars are purely visual. They will have no affect on the ability/concept/environment, only the wounds will.
 - The user's concept burning can harm themselves, which makes it dangerous to use in close combat.
