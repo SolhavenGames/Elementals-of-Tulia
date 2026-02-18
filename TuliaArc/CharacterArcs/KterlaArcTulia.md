@@ -53,3 +53,28 @@ A highly renowned former Bunnis executive leader, K,erla Naomi's name is known a
 - She sends a search party to find Terkou, still keeping Endsight a secret from the world. She doesn't want the public to grow weary.
 - Most of her days are filled with travel around the planet, meeting leaders and giving speeches alongside Wykoi.
 - Kterla meets Samae | Despite Samae barrating her with insults, claiming she's seeking to control the planet by gaining their trust, she stays calm, and respects Samae. The moment goes viral online.
+### ⦿ **E-Year 2024**
+- The Strategists of Peace have now stopped/prevented 20 armed conflicts. 
+### ⦿ **E-Year 2028**
+- Kterla fails to find Terkou, giving up and hoping he's okay.
+- She puts all of her focus onto keeping peace on Earth.
+- Kterla gets a building named after her in Paris, named Kterla Hall. She cries when it's presented to her. The moment gets a lot of pushback from anti-Elemental radicalists. 
+### ⦿ **E-Year 2030**
+- Wykoi and Kterla have now won over 100 peace prizes, 56 of which belonging to the Strategists of Peace.
+### ⦿ **E-Year 2033**
+- Upon the arrival of more refugees, Kterla fights to help the new refugees get homes.
+- The Strategists of Peace run into a problem when Troy Talona takes over the ADS, as they now are silently being sidelined and ignored.
+- Wykoi and Kterla no longer need the ADS, but the moment is very direspectful. Wykoi takes it to heart, but Kterla is forgiving.
+- When Elementals begin disappearing, Kterla sends investigators from the Strategists of Peace.
+### ⦿ **E-Year 2034**
+- Kterla cries in response to the attack on Wuhan-Nanjing. She is outraged that Elementals would do this, and immediately assumes that Endsight and Terkou are involved.
+- Upon rapidly growing distrust for Elementals, Kterla fights to keep her people from rising up and fighting.
+- The Strategists of Peace lose a lot of legitimacy, despite all they've done. Kterla is heartbroken as she watches all of her progress disappear.
+- An Elemental uprising conquers the city she and Wykoi reside in. They are both given protection, but Kterla still disagrees with their aggression.
+- Kterla continues to preach for peace.
+### ⦿ **E-Year 2035**
+- In the battle of New York Super City, the Strategists of Peace secretly assist in evacuation, though they mainly help Elementals.
+- Kterla begins to visit major Elemental factions, trying to help them become peaceful and less angry.
+- Kterla calls out Troy for radicalizing Elementals with his heavy anti-Elemental policies. She doesn't name Terkou as she has yet to confirm he and Endsight caused the Burning of Wuhan.
+### ⦿ **E-Year 2038**
+- Kterla continues to move from faction to faction, Human and Elemental, trying to make peace- though her efforts are mostly sidelined, as the planet is torn between the two species. 
