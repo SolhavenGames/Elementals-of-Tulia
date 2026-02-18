@@ -10,24 +10,24 @@
 ## Omni (I - V) 
 The second youngest Forbidden Element, created by all of the elements together to create one final union. It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
 
-⦿ **Gate I** - The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light
-green, Blood Omni becomes pink). Omni element will also share characteristics of the original element (Flux/Core, Temperature, Feel).
-Disconnection from the original element does not begin yet.
+### ⦿ **Gate I**
+The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light green, Blood Omni becomes pink). Omni element will also share characteristics of the original element (Flux/Core, Temperature, Feel). Disconnection from the original element does not begin yet.
 
-⦿ **Gate II** - Omni element loses the color and temperature of the original element. User gains the ability to alter the temperature.
-Disconnect from the original element begins here, and grows with each Gate. 
+### ⦿ **Gate II**
+Omni element loses the color and temperature of the original element. User gains the ability to alter the temperature. Disconnect from the original element begins here, and grows with each Gate. 
 
-⦿ **Gate III** - Omni element loses the feel of the original element, allowing the user to choose so long as it’s in line with the Omni flux/core distinction. 
+### ⦿ **Gate III**
+Omni element loses the feel of the original element, allowing the user to choose so long as it’s in line with the Omni flux/core distinction. 
 
-⦿ **Gate IV** - Omni element loses the Flux/Core distinction, allowing the user to choose which one they prefer for the moment. 
+### ⦿ **Gate IV**
+Omni element loses the Flux/Core distinction, allowing the user to choose which one they prefer for the moment. 
 
-⦿ **Gate V** - The user can now change characteristics of the elements they have already created. They can also influence nearby elements (not control, simply influence). Disconnection 
-from the original element disappears entirely here, as the user struggles to even remember what their original element was. Memories are scattered and even when reminded, they’re skeptical. 
+### ⦿ **Gate V**
+he user can now change characteristics of the elements they have already created. They can also influence nearby elements (not control, simply influence). Disconnection from the original element disappears entirely here, as the user struggles to even remember what their original element was. Memories are scattered and even when reminded, they’re skeptical. 
 
  **_How it feels_**: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated  and over-energized, constantly requiring more action.
 
-**NOTES**
-
+### **NOTES**
 - Flux/Core (Soft/Hard Element) choice can be made after the element has already been deployed. This essentially means that the user can launch a liquid-like substance at someone, then make
 it hard as rock.
 - Omni at Gate V can mimic effects of all elements (excluding forbiddens). 
@@ -37,28 +37,26 @@ it hard as rock.
 ## Pure (I - V)
 This element was created by the Human gods, in an attempt to mimic Elemental power. It’s the only forbidden element that isn’t truly an element, it’s pure val. Uniquely, Humans can unlock this as well. It is nearly invisible apart from purple and red wisps that appear when it’s in use. The element is purely closed-ranged.
 
-⦿ **Gate I** - Purely cosmetic. When this Gate is unlocked, nothing about the user is changed. If they’re an elemental, they will simply have the purple and red wisps accompany their original 
-element. If they’re human, the wisps will appear when they do feats that require lots of physical exertion. 
+### ⦿ **Gate I**
+Purely cosmetic. When this Gate is unlocked, nothing about the user is changed. If they’re an elemental, they will simply have the purple and red wisps accompany their original element. If they’re human, the wisps will appear when they do feats that require lots of physical exertion. 
 
-⦿ **Gate II** - For Elementals, this Gate will empower their usual element by increasing their val production slightly. For Humans, they will become slightly stronger, gain more stamina, and
-be able to spawn the wisps from their fingertips. The wisps themselves are still mostly useless. 
+### ⦿ **Gate II** 
+For Elementals, this Gate will empower their usual element by increasing their val production slightly. For Humans, they will become slightly stronger, gain more stamina, and be able to spawn the wisps from their fingertips. The wisps themselves are still mostly useless. 
 
-⦿ **Gate III** - This is the first Gate that brings upon major changes. Both Humans and Elementals will feel drastic changes in their personality, becoming more self-serving and arrogant. 
-Elementals will lose their original element, and both will experience extreme strength (Lift around 1,000 pounds), speed (Move at about 120mph), and endurance (resist gunshots) coming 
-gradually after this Gate is reached (taking about 45 Tulia Days). This comes at the cost of higher sustenance required (food and water), which increases with each Gate. 
+### ⦿ **Gate III** 
+This is the first Gate that brings upon major changes. Both Humans and Elementals will feel drastic changes in their personality, becoming more self-serving and arrogant.  Elementals will lose their original element, and both will experience extreme strength (Lift around 1,000 pounds), speed (Move at about 120mph), and endurance (resist gunshots) coming gradually after this Gate is reached (taking about 45 Tulia Days). This comes at the cost of higher sustenance required (food and water), which increases with each Gate. 
 
-⦿ **Gate IV** - Physical stats are doubled. The user faces urges to become stronger and better than those around them at all costs. Hitting another val creature repeatedly can cause a temporary
-drainage of val, weakening the victim’s element.
+### ⦿ **Gate IV**
+Physical stats are doubled. The user faces urges to become stronger and better than those around them at all costs. Hitting another val creature repeatedly can cause a temporary drainage of val, weakening the victim’s element.
 
-⦿ **Gate V** - Physical stats can be increased by usual means of exercise, training, and exposure much faster than the average being. Nearby elements will be influenced by the user’s presence,
-but the user cannot control that influence, which will feel like a slight tug from the upper chest. User will have an undying urge to become the strongest person they can be, always
-believing that they are never enough, feeling the need to prove themselves.
+### ⦿ **Gate V**
+Physical stats can be increased by usual means of exercise, training, and exposure much faster than the average being. Nearby elements will be influenced by the user’s presence, but the user cannot control that influence, which will feel like a slight tug from the upper chest. User will have an undying urge to become the strongest person they can be, always believing that they are never enough, feeling the need to prove themselves.
 
 **_How It Feels_**: Elementals will feel when this forbidden element is close, as their own val is drawn to it. It will never directly flee to them, but the change can be felt. The user will
 feel an unrelenting urge to become as strong and as fast as possible, aiming to test their limits, and prove themselves constantly. Despite all this, they always will feel as if their
 improvements are inadequate. This side of insecurity they will fight to never show. Their veins will also begin to glow the same color of their wisps for every Gate after Gate IV. 
 
-**NOTES**
+### **NOTES**
 - Pure users are still capable of forming alliances if they feel it benefits them. 
 - Pure elementals will forget their original element in a similar way that an Omni user does. 
 - Val drainage will not benefit the pure user directly, it simply weakens the victim for a little bit.
@@ -68,32 +66,43 @@ improvements are inadequate. This side of insecurity they will fight to never sh
 ## Death (I - XI)
 The youngest forbidden element, created due to the rapid death of elementals on Tulia. The forbidden element that is not chosen, but caught. Unlike the others, its user can relieve themselves of it before they are too far gone. The time of progression depends on how willing the victim is to live. This element is one of the only ones to Gate up entirely on its own.
 
-⦿ **Gate I** - The user feels ill and sickly, almost like a normal disease. In fact, it’s almost indistinguishable. In this stage, it will slowly spread across the victim’s body before making any major moves.
+### ⦿ **Gate I** 
+The user feels ill and sickly, almost like a normal disease. In fact, it’s almost indistinguishable. In this stage, it will slowly spread across the victim’s body before making any major moves.
 
-⦿ **Gate II** - The element begins to flow through the user’s body, getting familiar. At this Gate, the victim’s sickness gets noticeably worse, and they experience short term memory issues. 
+### ⦿ **Gate II**
+The element begins to flow through the user’s body, getting familiar. At this Gate, the victim’s sickness gets noticeably worse, and they experience short term memory issues. 
 
-⦿ **Gate III** - The victim is bedridden as their entire body screams in pain. The immune system of the victim realizes that it’s not fighting a usual disease, and does everything it can to survive by frequently entering Survival Mode. The Forbidden Element continues its movement, implanting itself further. 
+### ⦿ **Gate III**
+The victim is bedridden as their entire body screams in pain. The immune system of the victim realizes that it’s not fighting a usual disease, and does everything it can to survive by frequently entering Survival Mode. The Forbidden Element continues its movement, implanting itself further. 
 
-⦿ **Gate IV** - The victim’s original element loses its color, becoming a shade of gray color depending on their original element. At this Gate, it has also infiltrated the victim’s mind at a large degree. This is the first gate where emancipated users can gain abilities— emancipation in this gate will grant the user with the permanent ability to sense death (When someone/something is dying). They will also gain the ability to speed this process up by extended proximity. This ability is carried on to  all the next emancipations.
+### ⦿ **Gate IV** 
+The victim’s original element loses its color, becoming a shade of gray color depending on their original element. At this Gate, it has also infiltrated the victim’s mind at a large degree. This is the first gate where emancipated users can gain abilities— emancipation in this gate will grant the user with the permanent ability to sense death (When someone/something is dying). They will also gain the ability to speed this process up by extended proximity. This ability is carried on to  all the next emancipations.
 
-⦿ **Gate V** - Death begins to melt memories and conquer the victim’s element. The victim’s element will always keep its original characteristics, but with Death, contact will spread a limited version of the disease (version spread by the element caps at Gate III before it is resolved naturally by the new victim’s immune system). The change will happen gradually but quicker than normal, usually over the course of 2 rotations of the celestial body the victim was infected on, peaking at around 115 days. Emancipation from Gate V will no longer spread Death, but instead will slowly wear targets down through exhaustion and doubt. This will carry on to all the next emancipations.
+### ⦿ **Gate V**
+Death begins to melt memories and conquer the victim’s element. The victim’s element will always keep its original characteristics, but with Death, contact will spread a limited version of the disease (version spread by the element caps at Gate III before it is resolved naturally by the new victim’s immune system). The change will happen gradually but quicker than normal, usually over the course of 2 rotations of the celestial body the victim was infected on, peaking at around 115 days. Emancipation from Gate V will no longer spread Death, but instead will slowly wear targets down through exhaustion and doubt. This will carry on to all the next emancipations.
 
-⦿ **Gate VI** - All pain stops, and the victim begins to experience long term memory issues as their memories grow corrupted and they question their own intuition. At this Gate, many things become irreversible, including the new element color, a fascination with death, and self loathing. Emancipation from Gate VI will make the user feel very little pain, if any at all. Along with this, they get a pseudo-self heal that revives dead cells as zombie cells, leaving dark gray scars. This will carry on to all the next emancipations.
+### ⦿ **Gate VI** 
+All pain stops, and the victim begins to experience long term memory issues as their memories grow corrupted and they question their own intuition. At this Gate, many things become irreversible, including the new element color, a fascination with death, and self loathing. Emancipation from Gate VI will make the user feel very little pain, if any at all. Along with this, they get a pseudo-self heal that revives dead cells as zombie cells, leaving dark gray scars. This will carry on to all the next emancipations.
 
-⦿ **Gate VII** - Victim’s element begins to feel the effects as the production of their val becomes corrupted permanently. This new, death-touched val now allows them to slowly hollow out their enemies through morale and fear. If enough damage is dealt by someone who’s reached Gate VII Death, their victim may even lose memories and sense of self. Emancipation here gives the user the ability to corrupt the val of other people after it’s been used outside of their body, effectively taking control of it. However, the element they control will become a weaker version of itself. This will carry on to all the next emancipations.
+### ⦿ **Gate VII**
+Victim’s element begins to feel the effects as the production of their val becomes corrupted permanently. This new, death-touched val now allows them to slowly hollow out their enemies through morale and fear. If enough damage is dealt by someone who’s reached Gate VII Death, their victim may even lose memories and sense of self. Emancipation here gives the user the ability to corrupt the val of other people after it’s been used outside of their body, effectively taking control of it. However, the element they control will become a weaker version of itself. This will carry on to all the next emancipations.
 
-⦿ **Gate VIII** - This is the only Gate where the victim grows weaker. Emancipation from this Gate will actually make the user physically stronger, faster, and slightly smarter. However, their mind will grow slower and they will feel doubtful and hopeless often, alongside struggles to form new emotional connections (including the ones they may have forgotten). This is the last possible gate of Emancipation, by which the user's steps will become completely silent, they will no longer appear in photos or videos, and will become totally silent when not speaking. They will also gain the ability to project injuries and pain that they inflict onto themselves onto others, though the projected injury will heal in ~20 seconds (unless acted upon by an external force). Along with this, the user will be able to communicate with the dead, allowing for better perception, though the dead may speak to them without them asking, clouding their mind.
+### ⦿ **Gate VIII**
+This is the only Gate where the victim grows weaker. Emancipation from this Gate will actually make the user physically stronger, faster, and slightly smarter. However, their mind will grow slower and they will feel doubtful and hopeless often, alongside struggles to form new emotional connections (including the ones they may have forgotten). This is the last possible gate of Emancipation, by which the user's steps will become completely silent, they will no longer appear in photos or videos, and will become totally silent when not speaking. They will also gain the ability to project injuries and pain that they inflict onto themselves onto others, though the projected injury will heal in ~20 seconds (unless acted upon by an external force). Along with this, the user will be able to communicate with the dead, allowing for better perception, though the dead may speak to them without them asking, clouding their mind.
 
-⦿ **Gate IX** - The point of no return, where Death cannot be purged from this victim. Their consciousness is conquered as their obsession with death grows to new Gates as the victim feeds off the fear of those around them, resulting in them not killing, but threatening and toying. 
+### ⦿ **Gate IX**
+The point of no return, where Death cannot be purged from this victim. Their consciousness is conquered as their obsession with death grows to new Gates as the victim feeds off the fear of those around them, resulting in them not killing, but threatening and toying. 
 
-⦿ **Gate X** - Death shuts down pain receptors. The victim will fight simply because it’s the last remaining thing that brings them a feeling beyond emptiness. They will fight through injuries.
+### ⦿ **Gate X**
+Death shuts down pain receptors. The victim will fight simply because it’s the last remaining thing that brings them a feeling beyond emptiness. They will fight through injuries.
 
-⦿ **Gate XI** - Victim no longer gets ill, can no longer talk, and loses all sense of self. They wander aimlessly, untamed, with deep empty gray eyes. No goals, no desires. 
+### ⦿ **Gate XI** 
+Victim no longer gets ill, can no longer talk, and loses all sense of self. They wander aimlessly, untamed, with deep empty gray eyes. No goals, no desires. 
 
 **_How It Feels_**: Depending on the Gate, the witness will have a different feeling. Gates I-III give no distinct feeling. Gates IV-VI will breed anxiety, making the witness either cautious
 or worried for the victim. At Gates VII and beyond, the witness will feel hollow. The longer they are with the victim, the worse the feeling will get. The victim of Death will feel 
 increasingly hopeless and pessimistic as the Gates progress. 
-**NOTES**
+### **NOTES**
 - Gate XI victims will never fight. 
 - Victims will not be able to utilize Death’s powers until they are freed from it (unless specified otherwise in the gate).
 - Victims will not try to die directly, but will not resist it. 
@@ -105,17 +114,22 @@ increasingly hopeless and pessimistic as the Gates progress.
 ## Era (I - V)
 The oldest forbidden element, created at the dawn of everything. One of the three elements that chooses its user. Once the user awakens their val, if they are chosen, their element will be replaced by Era gradually, over the course of 7-19 Tulia days. This element can also only have one user at a time. It can appear as either green wisps or physical green clocks, where the user can grab the hands to reverse or speed up time.
 
-⦿ **Gate I** - Once the user awakens their val, the process of replacement begins. While it’s happening, the user will gain a near perfect memory that will remain for all gates. Instead of remembering moments, the user will feel as if they genuinely relive them. Once the replacement is finished, the user will gain “regional time control”, with everything in their view within 30 meters of themselves. They do not yet unlock the clocks. Green wisps will appear around what is affected by the user. They cannot yet move things backwards in time. The speed at which things are moved through time is limited by 5 seconds per second.
+### ⦿ **Gate I**
+Once the user awakens their val, the process of replacement begins. While it’s happening, the user will gain a near perfect memory that will remain for all gates. Instead of remembering moments, the user will feel as if they genuinely relive them. Once the replacement is finished, the user will gain “regional time control”, with everything in their view within 30 meters of themselves. They do not yet unlock the clocks. Green wisps will appear around what is affected by the user. They cannot yet move things backwards in time. The speed at which things are moved through time is limited by 5 seconds per second.
 
-⦿ **Gate II** - The ability to move things backwards in time is unlocked. Speed is now limited to 10 seconds per second. Green wisps can now be crafted into weapons. The user shows a slight fascination with the future and advancements of technology. 
+### ⦿ **Gate II** 
+The ability to move things backwards in time is unlocked. Speed is now limited to 10 seconds per second. Green wisps can now be crafted into weapons. The user shows a slight fascination with the future and advancements of technology. 
 
-⦿ **Gate III** - User unlocks the clock. Breaking the clock allows for them to freeze time in their general area (around them, 50 meters out). Grabbing the hands to move forward or back will affect what they choose in their mind. The clocks can be thrown as projectiles. If they break on contact, they will have the same freezing effect. Others can affect the clock, leaving room for odd and unpredictable effects on localized time on their behalf. User will become impatient. 
+### ⦿ **Gate III**
+User unlocks the clock. Breaking the clock allows for them to freeze time in their general area (around them, 50 meters out). Grabbing the hands to move forward or back will affect what they choose in their mind. The clocks can be thrown as projectiles. If they break on contact, they will have the same freezing effect. Others can affect the clock, leaving room for odd and unpredictable effects on localized time on their behalf. User will become impatient. 
 
-⦿ **Gate IV** - Clocks can now affect universal time in cases of extreme emotion or focus. Altering it too much (beyond 15-30 seconds) will have devastating effects on the user’s stamina, with going beyond 75 seconds resulting in temporal death (the user lives forever in a state of frozen time). User can get visions of the future that come rarely in dreams. 
+### ⦿ **Gate IV**
+Clocks can now affect universal time in cases of extreme emotion or focus. Altering it too much (beyond 15-30 seconds) will have devastating effects on the user’s stamina, with going beyond 75 seconds resulting in temporal death (the user lives forever in a state of frozen time). User can get visions of the future that come rarely in dreams. 
 
-⦿ **Gate V** - With meditation, the user can predict outcomes with varying accuracy depending on how many possible outcomes there are. User unlocks fully localized time which only affects them, allowing them to speed up themselves through time to attack quicker, rewind in time to heal injuries, or freeze themselves in time to be completely still. How It Feels: Witnesses will feel some indescribable force that makes them perceive things differently (either faster or slower, with no correlation deciding what they get), with déjà vu growing intense around this user. With enough exposure to the user, witnesses will feel nothing. The user will grow slight obsessions with the future and obsession with tech, as well as growing impatient. 
+### ⦿ **Gate V**
+With meditation, the user can predict outcomes with varying accuracy depending on how many possible outcomes there are. User unlocks fully localized time which only affects them, allowing them to speed up themselves through time to attack quicker, rewind in time to heal injuries, or freeze themselves in time to be completely still. How It Feels: Witnesses will feel some indescribable force that makes them perceive things differently (either faster or slower, with no correlation deciding what they get), with déjà vu growing intense around this user. With enough exposure to the user, witnesses will feel nothing. The user will grow slight obsessions with the future and obsession with tech, as well as growing impatient. 
 
-**NOTES**
+### **NOTES**
 - If the Era user leaves time frozen for too long, they risk temporal death.
 - If others break the clocks, potential effects are momentary time rewinds, time glitches, and brain lag. The Era user will feel these effects most. 
 - Clocks are purely physical energy.
@@ -126,19 +140,24 @@ The oldest forbidden element, created at the dawn of everything. One of the thre
 ## Dimension (I - V)
 The second oldest, created alongside Era. One of the three elements that chooses its user instead of being chosen. Once the chosen awakens their val, this element will slowly replace their original element over the course of 6-8 Tulia days. This element will only have one user at a time. It will always appear as purple or blue wisps, similar to the green wisps of its sister element Era. 
 
-⦿ **Gate I** - Once the user awakens their val, the replacement process will begin. Immediately, the user will lose their original element. Over the progressing days, the wisps of Dimension will randomly appear around their hands and lower arms over the period of replacement. Once it’s finished, the user will begin to struggle with depth perception and feel displaced constantly. At this gate, the element is purely melee, with each attack enchanted with space. Armor struggles, footing fails, and bones rattle in ways they shouldn’t when attacked by this user. The user is no longer a part of space, instead an influence on it.
+### ⦿ **Gate I** 
+Once the user awakens their val, the replacement process will begin. Immediately, the user will lose their original element. Over the progressing days, the wisps of Dimension will randomly appear around their hands and lower arms over the period of replacement. Once it’s finished, the user will begin to struggle with depth perception and feel displaced constantly. At this gate, the element is purely melee, with each attack enchanted with space. Armor struggles, footing fails, and bones rattle in ways they shouldn’t when attacked by this user. The user is no longer a part of space, instead an influence on it.
 
-⦿ **Gate II** - User unlocks ranged attacks, being able to throw propel force. Depth perception worsens and the user can randomly struggle from balance issues. However, the user can feel and affect things from a distance, mimicking telekinesis. In reality, it’s actually as if the item is  in their hand, simply visibly displaced. Under stress, the user can misjudge where the item may be—or, in rare cases, Dimension could unintentionally lie to them, and an item may be in a different place than they perceive. 
+### ⦿ **Gate II** 
+User unlocks ranged attacks, being able to throw propel force. Depth perception worsens and the user can randomly struggle from balance issues. However, the user can feel and affect things from a distance, mimicking telekinesis. In reality, it’s actually as if the item is  in their hand, simply visibly displaced. Under stress, the user can misjudge where the item may be—or, in rare cases, Dimension could unintentionally lie to them, and an item may be in a different place than they perceive. 
 
-⦿ **Gate III** - The user unlocks gravity control, and their balance issues disappear. User can now cause minor shifts in gravity that will affect everything in their affected radius (around 50 meters). This user can now perfectly quantify every distance, with their mind being clouded by their calculations that they don’t welcome. The constant quantifications cloud their thoughts, often making it difficult to focus. Their telekinesis can now pull and push items, limited to five times their own lifting strength.
+### ⦿ **Gate III**
+The user unlocks gravity control, and their balance issues disappear. User can now cause minor shifts in gravity that will affect everything in their affected radius (around 50 meters). This user can now perfectly quantify every distance, with their mind being clouded by their calculations that they don’t welcome. The constant quantifications cloud their thoughts, often making it difficult to focus. Their telekinesis can now pull and push items, limited to five times their own lifting strength.
 
-⦿ **Gate IV** - User can now travel through the three dimensions independently from each other. They are no longer affected by gravity, and can enchant items with their own localized gravity, limited based on the item’s size, requiring direct contact from the user. However, the user can summon spawns of their wisps to throw their gravity, or create “gravity bombs” which will disrupt usual gravity in the area momentarily. The user will always feel displaced after this gate, and rarely walks on the ground anymore. With that, they will commonly lose focus as their mind drifts through the dimensions independently. 
+### ⦿ **Gate IV** 
+User can now travel through the three dimensions independently from each other. They are no longer affected by gravity, and can enchant items with their own localized gravity, limited based on the item’s size, requiring direct contact from the user. However, the user can summon spawns of their wisps to throw their gravity, or create “gravity bombs” which will disrupt usual gravity in the area momentarily. The user will always feel displaced after this gate, and rarely walks on the ground anymore. With that, they will commonly lose focus as their mind drifts through the dimensions independently. 
 
-⦿ **Gate V** - The user is now entirely immune to all gravity, no longer requires oxygen, and masters independent dimensional travel. The user can create their own, localized dimensions, in which they can travel and warp in odd ways. To the untrained eye, their movements can sometimes look like short-range teleportation. The user can now collapse items in on themselves when it has been affected by their power after a while. They cannot do this to living creatures.
+### ⦿ **Gate V**
+The user is now entirely immune to all gravity, no longer requires oxygen, and masters independent dimensional travel. The user can create their own, localized dimensions, in which they can travel and warp in odd ways. To the untrained eye, their movements can sometimes look like short-range teleportation. The user can now collapse items in on themselves when it has been affected by their power after a while. They cannot do this to living creatures.
 
 **_How It Feels_**: Witnesses will get intense vertigo upon their first few exposures to the user, which will slowly wear off after enough time with them. The user will feel displaced and lonely, uncomfortable in cramped places. However, whether they enjoy this loneliness is unknown. The user struggles to build close relationships, as being near people has an off feeling to it. 
 
-**NOTES**
+### **NOTES**
 - Creating new “localized dimensions”, as in adding to the 3D. It allows them to move through 4D and above by adding the extra dimension. 
 - User can move to 2D and even 1D. They cannot bring people with them.
 - Progression through this gate requires meditation beyond the atmosphere of any celestial body.
