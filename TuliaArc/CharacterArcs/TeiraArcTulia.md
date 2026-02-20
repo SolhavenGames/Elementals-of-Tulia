@@ -72,4 +72,5 @@ The star of the youngest Kni-Soa generation, this young lady was well known in m
 - Aeri arrives, meeting Teira again in Antarctica. She happily introduces them to Terkou and Is'ale.
 
 ### ⦿ **E-Year 2038**
+- Teira meets Zero | She almost seems unbothered by his lack of emotion... and treats him like a stuffed best friend, commonly talking to him about random things.
 - Fully indoctrinated by Terkou, she believes in his ideology completely, ready to fight for Endsight and bring Valoran Democracy to Earth/Gaea.
