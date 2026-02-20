@@ -12,11 +12,6 @@ Xor, born in Tilox, was a nationalist in his youth. He believed the Poisi Elemen
 
 ⦾ Birthday: Year 844, Month Venos, Day 7
 
-## ⦿ Be,lake Urola (Male) - Sakai - Minor Anatonist Supporting
-The loyal servant to Terkou, Be,lake, commonly referred to as Lake (Lah-Keh), is commonly seen by Terkou's side, carrying out his every order without question. It's not known as to how he got there, or why he stays, but he does, and his loyalty seems unwavering. 
-
-⦾ Birthday: Year 833, Month Unity, Day 1
-
 ## ⦿ Grand Knight Asli (Female) - Firen - Minor Antagonist
 A high-ranking warrior in Irision, Knight Asli is a powerful and dangerous combatant who is sent to abduct Imbra and return her to Tulia under the belief that she weilds the forbidden element Hellfire. She fails this mission, instead returning with Kael, and indirectly causing Imbra's Crusade. 
 
