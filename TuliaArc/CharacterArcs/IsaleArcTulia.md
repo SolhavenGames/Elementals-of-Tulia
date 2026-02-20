@@ -65,6 +65,10 @@ Is'ale is a strong believer in the democratic processes of Tulia. When the Knigh
 
 ### ⦿ **E-Year 2036**
 - Is'ale fully integrates in Terkou's 'colony', hiding out and waiting for their time to strike.
+- Is'ale meets Teira | He assists Terkou in radicalizing the young Forbidden User, preaching community and love.
+### ⦿ **E-Year 2037**
+- Is'ale meets Aeri | Is'ale doesn't like Aeri immediately, but he tries to tolerate them.
 
 ### ⦿ **E-Year 2038**
+- Is'ale meets Zero | The lost soul makes him uncomfortable, but he tries to give Zero some company and affection.
 - Is'ale, having spent so much time alongside Terkou, now believes wholeheartedly in the idea of an Elemental Democracy on Earth/Gaea, and is willing to kill to get there.
