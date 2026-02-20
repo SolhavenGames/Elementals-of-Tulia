@@ -23,6 +23,8 @@ A highly renowned former Bunnis executive leader, K,erla Naomi's name is known a
 - Kterla arrives on Earth, where she cooperates with the global government.
 - Kterla meets Terkou | Kterla and Terkou being the most important Elementals meet, and they grow somewhat close, being the only person the other can relate to.
 - They form Endsight together, a place for Elementals aroudn the planet to meet and chat, alongside assisting the global government to produce Elemental friendly products.
+### ⦿ **E-Year 2009**
+- Kterla and Terkou grow incredibly close, almost romantic- but both are always incredibly busy, making a romantic commitment difficult. They do spend their freetime together, and their mutual friends commonly poke fun at the idea.
 ### ⦿ **E-Year 2010**
 - Terkou speaks of distrust of Humanity to Kterla. She dismisses it, claiming he's just paranoid.
 - Terkou begins to make Endsight more radical, beginning to preach radical anti-human sentiment to members of Endsight. Kterla takes notice, and demands he stop.
