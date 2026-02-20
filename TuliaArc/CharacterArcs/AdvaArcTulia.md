@@ -58,7 +58,7 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - After being attacked, Adva, Imbra, and Kael retreat to Antartica, being guided by Xor.
 - The group is confronted by Coven soldiers sent to retrieve Imbra. Adva discovers her prowess during the battle.
 - Adva injures one of the Knights, and kills Xor after the battle. She re-unites with Imbra shortly after, and they are enraged, but lost. She learns of Kael's fate here.
-- Terkou finds the pair, recruiting them to his cause. Adva pretends not to trust him, but she loves his offer.
+- Adva meets Terkou | She pretends not to trust him, but she loves his offer of power and recognition.
 
 ### ⦿ **E-Year 2034**
 - Adva unlocks Squall with Terkou's help. She's hesitant to go beyond Gate I due to her Windsi being revived.
