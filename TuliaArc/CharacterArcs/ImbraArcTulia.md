@@ -58,7 +58,7 @@ A student who lost her nation and parents to war, she finds companionship in Wre
 - Imbra moves quickly through the Thresholds of Hellfire Gate I while under attack by Knights sent to bring her back to Tulia.
 - Kael is taken by the Knights, infuriating Imbra.
 - She declares a crusade on Humanity, with Adva's support. Though, they are unguided and lost.
-- Terkou finds the pair, offering to recruit them. Imbra seems attracted to his rhetoric.
+- Imbra meets Terkou | She's drawn in by his words, and almost immediately falls into his radicalization.
 
 ### ⦿ **E-Year 2034**
 - Terkou begins to train Imbra and Adva in hand-to-hand combat, allowing them to become more deadly.
@@ -88,5 +88,6 @@ A student who lost her nation and parents to war, she finds companionship in Wre
 
 ### ⦿ **E-Year 2038**
 - Imbra has grown close to her new friends, but she still deeply regrets her actions. She now has an underlying hate for her power, and desprately wants to hide her flames.
+
 
 
