@@ -59,4 +59,5 @@ Aeri Glem was a soldier before it was even legal to be one. Their entire life, t
 - Aeri meets Is'ale | The two don't get along immediately, due to Aeri's pride.
 
 ### ⦿ **E-Year 2038**
+- Aeri meets Zero | Aeri is put off by the soldier... but agrees to work alongside him.
 - Aeri begins listening to Terkou, mainly through Teira. They don't entirely agree with his outlook, but stay for Teira...
