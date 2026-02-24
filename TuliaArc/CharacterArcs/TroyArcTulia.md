@@ -61,21 +61,22 @@ Troy Talona, a name that believed in human supremacy over everything. A loud Uni
 ### ⦿ **E-Year 2033**
 - Troy becomes the head of the EII, immediately renaming it from the Elemental Integration Initiative to the Elemental Research Initiative.
 - He immediately begins prosecuting Elementals in nations that will allow him, though he does it behind the scenes and in the shadows.
+### ⦿ **E-Year 2034**
 - When the Burning of Wuhan happens, he immediately rallies the world behind him.
 - The ADS grants him emergency powers, giving him near total control over all military and defense spendings of the Global Government.
 - Troy meets Samae | Him and Samae get along well, and he calls her and her organization wonderful people. He also grants them funds using his newly granted powers.
 - Troy pulls his funding back once he finds out the Knights of Gaea have begun attacking humans.
 - Troy immediately begins investing in robotic soldiers to fight against Elementals, alongside a new weapon called "Spear Cannons", the only known thing to pierce the Elemental Val Lattice.
 - Spear Cannons are quickly rolled out and mass-produced, being the first genuine resistance Humanity puts up.
-### ⦿ **E-Year 2034**
+### ⦿ **E-Year 2035**
 - Troy, making patterns through attacks of Imbra and Adva, correctly predicts that New York Super City is the next target for the duo.
 - He sends a pre-emptive force to help defend the city. They all know they may die, but they know the power of the message they will send.
 - After NYSC, Troy gives a speech encouraging humanity to stay united and strong.
 - Due to his prediction, the ADS gives him even more power, giving him near total legislative control over the organization.
-### ⦿ **E-Year 2035**
+### ⦿ **E-Year 2036**
 - The first android prototypes come off of the assembly lines- though they are total failures.
 - Troy begins technologically augmenting his own soldiers, allowing them to fight Elementals- though their success rate is ~1% among Low Val Bank Elementals, and 0% with anything above.
-### ⦿ **E-Year 2036**
+### ⦿ **E-Year 2037**
 - Elections are suspended in the ERI as Troy is seen as the only person who can save humanity.
 ### ⦿ **E-Year 2038**
 - When Zezri's Underground Society arrives, he immediately imprisons most of them. Some escape.
