@@ -127,7 +127,9 @@ User unlocks the clock. Breaking the clock allows for them to freeze time in the
 Clocks can now affect universal time in cases of extreme emotion or focus. Altering it too much (beyond 15-30 seconds) will have devastating effects on the user’s stamina, with going beyond 75 seconds resulting in temporal death (the user lives forever in a state of frozen time). User can get visions of the future that come rarely in dreams. 
 
 ### ⦿ **Gate V**
-With meditation, the user can predict outcomes with varying accuracy depending on how many possible outcomes there are. User unlocks fully localized time which only affects them, allowing them to speed up themselves through time to attack quicker, rewind in time to heal injuries, or freeze themselves in time to be completely still. How It Feels: Witnesses will feel some indescribable force that makes them perceive things differently (either faster or slower, with no correlation deciding what they get), with déjà vu growing intense around this user. With enough exposure to the user, witnesses will feel nothing. The user will grow slight obsessions with the future and obsession with tech, as well as growing impatient. 
+With meditation, the user can predict outcomes with varying accuracy depending on how many possible outcomes there are. User unlocks fully localized time which only affects them, allowing them to speed up themselves through time to attack quicker, rewind in time to heal injuries, or freeze themselves in time to be completely still. 
+
+How It Feels: Witnesses will feel some indescribable force that makes them perceive things differently (either faster or slower, with no correlation deciding what they get), with déjà vu growing intense around this user. With enough exposure to the user, witnesses will feel nothing. The user will grow slight obsessions with the future and obsession with tech, as well as growing impatient. 
 
 ### **NOTES**
 - If the Era user leaves time frozen for too long, they risk temporal death.
