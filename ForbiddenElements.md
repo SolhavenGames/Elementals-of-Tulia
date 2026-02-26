@@ -433,7 +433,7 @@ User becomes faster and totally silent when invisible, no longer producing any s
 A defensive Forbidden Element made by the Rock element. It was made to be incredibly defensive, as the Rock element did not want to provoke the others into thinking they were preparing for an invasion. This element demands dominance of the battlefield with large, unmoving walls and structures altering the very ground itself. 
 
 ### ⦿ **Gate I** 
-The user immediately grows heavier, with their haloed body getting armor similar to that of Biota’s. However, his armor is much stronger and heavier. The user is also now able to create walls extending from slabs of stone in the ground. The user will grow more selfless as these gates progress. 
+The user immediately grows heavier, with their haloed body getting armor similar to that of Biota’s. However, this armor is much stronger and heavier. The user is also now able to create walls extending from slabs of stone in the ground. The user will grow more selfless as these gates progress. 
 
 ### ⦿ **Gate II**
 All rocks of the user become two times more dense. They can enchant others will invisible armor, increasing their durability slightly. Walls created by the user are now nearly impossible to move (but still possible to shatter/break through them). 
