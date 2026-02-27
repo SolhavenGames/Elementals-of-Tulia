@@ -384,7 +384,7 @@ Elements become twelve times as cold, causing victims of it to move slower as th
 Created by the Nature element to oppose and resist Sol, Biota is a Naturine Forbidden Element built for war. It’s the reason that Elementals aren’t born with all of the element specific forbidden elements, as it created widespread fear among the gods about forbidden elements killing off the Tulian population. This element is sometimes referred to as “Life”, due to it extending connections with Mother Nature. 
 
 ### ⦿ **Gate I**
-Immediately, the user grows immune to fire. Their element spawn does not—just the vines on their body. They also gain armor which they can activate at any time. It’s unfortunately tight and hard to breathe in, but it’s very durable, absorbing lots of damage. 
+Immediately, the user grows immune to fire (not immune to Hellfire, but resistant). Their element spawn does not—just the vines on their body. They also gain armor which they can activate at any time. It’s unfortunately tight and hard to breathe in, but it’s very durable, absorbing lots of damage. 
 
 ### ⦿ **Gate II** 
 Nature around the user will be influenced by them, giving the user the choice to influence it and bring it to their command, or to ignore it and allow it to cloud their mind. Users can now extend their limbs using their vines, which if held flor long enough can cause internal damage. 
