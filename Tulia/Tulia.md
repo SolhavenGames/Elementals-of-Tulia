@@ -57,7 +57,7 @@ A tornado of flames that loves to target cold and wooded areas. The Fire Tornado
 This disaster will ruin the lightwaves in the area for a few minutes. Light bounces oddly, sometimes not bouncing at all, causing dark patches. The worst of all is that this disaster is completely impossible to predict. Sometimes, it can just prevent light from bouncing at all, causing moments of total pitch black darkness in an area. Other times, it can change colors of light, causing everything to appear brighter and even blinding.
 
 ### ⦿ **Tectonic Falters**
-Val in the air seeps into the ground often, causing tremors, quakes, and sinkholes where they usually wouldn't be- and being much stronger than usual. Though the tremors and quakes only last for a few seconds, the sheer force of them being able to cause concussions. 
+Val in the air seeps into the ground often, causing tremors, quakes, and sinkholes where they usually wouldn't be- and being much stronger than usual. Though the tremors and quakes only last for a few seconds, the sheer force of them can cause concussions. 
 
 ### ⦿ **Extreme Overgrowth**
 Within a few seconds, years of verdure grows. Vines curl up buildings. Trees sprout on roads. Grass and dirt breaks through concrete. Foundations of buildings age and rust. There have been rare cases of animals being caught by the rapid growth, getting wrapped in vines or stuck in trees that sprouted right below them.
@@ -67,3 +67,4 @@ Water seems to pull closer to other water sources. This can create weird moments
 
 ### ⦿ **Flash Desert**
 Out of nowhere, the ground becomes covered in sand and dust. It all rushes in within a few minutes, and it can take days to clean. Many have drowned in the sudden influx of sand, causing some cities to build anti-Flash Desert walls. 
+
