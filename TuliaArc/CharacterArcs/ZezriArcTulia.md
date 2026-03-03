@@ -31,11 +31,12 @@ Zezri Duro never wanted to be special. Her nation does not participate in the gl
 ### ⦿ **T-Year 914**
 - Zezri, now with Void Gate I, escapes the prison using a portal that appeared on her cell wall.
 - She flees to the rainforest, living off the land as she struggles with her new unfamiliar Element.
+- Zezri meets Zrili | They meet in the forest, and begin to survive together. They bond over their weird and unique Elements.
 ### ⦿ **T-Year 915**
 - Zezri discovers her pocket dimension for the first time.
 ### ⦿ **T-Year 916**
-- Zezri is confronted by Poisi soldiers, and she's forced to use her Element to defend herself.
-- While fighting, some other survivors of the prison come to assist her.
+- The duo is confronted by Poisi soldiers, and they're forced to use her Elements to defend themselves.
+- While fighting, some other survivors of the prison come to assist them.
 - Together, they form an underground society for forbidden users and survivors of Tixolam's tests.
 ### ⦿ **T-Year 917**
 - In the first elections, Zezri becomes the leader of the society.
@@ -46,7 +47,6 @@ Zezri Duro never wanted to be special. Her nation does not participate in the gl
 - She begins to draw out plans of an attack on Tixolam's society.
 ### ⦿ **T-Year 919**
 - Zezri meets Spara | Zezri tries to talk with her, but can't help but notice that she seems off. So she gives her space, but reassures her that she's always there.
-- Zezri meets Zrili | Zrili arrived suddenly, but Zezri welcomed them. The two became friends quickly.
 - Zezri defeats Zero, now trapping him in her pocket dimension and releases him into the nearby forest.
 ### ⦿ **T-Year 920**
 - When Zero keeps trying to kill members of her society, she's forced to lock him in the pocket dimension again.
