@@ -12,3 +12,4 @@
 - **The Seige of Set begins, and the Poisi Nation falls to Knightsdale, becoming Tixolam.**
 - [SAMAE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SamaeArcTulia.md) | Samae is born on Gaea (E-YEAR 2010). 
 - [DERA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/DeraArcTulia.md), [TEIRA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TeiraArcTulia.md) | The Kni-Soa siblings, being residents of Set, struggle under the new regime. Their formerly powerful family loses a major chunk of their influence. 
+## T-Year 902
