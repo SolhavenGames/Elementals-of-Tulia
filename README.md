@@ -26,8 +26,19 @@
 - [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Upon the rising Knightsdale movement in Rutt, Is'ale and his group begin a staunch public media push against them, exposing their corruption and evil.
 ## T-Year 903
 - **International Knightsdale plans are derailed by the civil war in Swailen.**
+- **Democratic Nations are still slow to react to the rise in Authoritarianism.**
 - [KAEL](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md) | Kael's family gets involved politically, silently assisting anti-Knightsdale factions in their civil war. They encourage Kael to stay home due to his past in political education.
 - [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | A small media conglomerate of independent journalists in Ralia join together to help each other. K'zorak joins along.
 - **Radical Endsight grows, moving to deep online forums.** (E-YEAR 2013)
 - [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) | Kterla becomes the first Elemental to win a peace prize on Gaea. (E-YEAR 2013)
-- [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri is placed on the border with Tixolam after facing injury in combat. 
+- [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri is placed on the border with Tixolam after facing injury in combat.
+## T-Year 904
+- [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md), [TERKOU](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) | Kterla finally notices the radicalizations, and the two split it this time. Endsight stays loyal to Terkou instead of her. (E-YEAR 2014)
+- [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Is'ale and his group push harder to the public, finally making a breakthrough. 
+- **Rutt's public grows radicalized against Knightsdale movements, but with elections being distant, they are stuck with a non-interventionalist government with Knightsdale sympathisers.**
+- [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md), [WYKOI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/WykoiArcTulia.md) | Wykoi allows Kterla to live with him after hearing of Terkou's betrayal. (E-YEAR 2014)
+- [RAI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/RaiArcTulia.md) | Rai's family begins participating in Anti-Knightsdale protests in Wavalo, the Watrish Nation.
+- [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md), [WYKOI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/WykoiArcTulia.md) | The Strategists for Peace is formed by the pair, which takes over production of Elemental Products and expands into Peacemaking operations. (E-YEAR 2015)
+- **The Snai Civil War turns in favor of the Knightsdale, freeing up the resources of other Knightsdales.**
+## T-YEAR 905
+- 
