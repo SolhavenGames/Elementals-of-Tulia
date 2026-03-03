@@ -15,11 +15,10 @@ Terkou Lynqo has always been called a Human Specialist by his Elemental counterp
 ### ⦿ **T-Year 900**
 - Terkou lives on Kinnsi, studying Earth/Gaea from a distance.
 - He eventually builds the funds to move to the planet, saying goodbye to his home to further understand the species that resides on Earth/Gaea.
-### ⦿ **E-Year 2007**
+### ⦿ **E-Year 2008**
 - Terkou arrives on the planet, cooperating with the governments.
 - He slowly grows to resent them, the institutionalism being far different to the laid back Moon Government he's grown used to.
 - Terkou pretends that everything is fine, becoming a figure of Elementals among human governments.
-### ⦿ **E-Year 2008**
 - Terkou meets Kterla | Terkou, after being on the planet alone for so long, is estatic to meet another Elemental. They get along well, quickly growing close.
 - They form Endsight together, a place for Elementals aroudn the planet to meet and chat, alongside assisting the global government to produce Elemental friendly products.
 ### ⦿ **E-Year 2009**
