@@ -67,6 +67,7 @@
 - **Bunnis is the first nation to mobilize for war. Many mark this as the point of no return.**
 - [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | His public support plateaus as his nation launches a massive propaganda campaign against him.
 ## T-YEAR 908 - DAL YON TULIA BEGINS
+- [TROY](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TroyArcTulia.md) | Troy Talona gets into politics in his home nation, Oceania. (E-YEAR 2019)
 - [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Is'ale's party wins many elections, giving them limited political power. He remains a public-facing figure for his movement.
 - **A border conflict between Irision and Rutt cause the alliances to fall into war with one another, beginning Dal yon Tulia on the second day of the second month.**
 - [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Is'ale immediately enlists in the Rutt Military, becoming a symbol of Naturine Resolve.
@@ -75,4 +76,4 @@
 - [IMBRA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ImbraArcTulia.md) | Imbra flees to the mountains to avoid the draft.
 - **Ralia faces a mountain of lawsuits for the right to cover the conflict.**
 - [SPARA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SparaArcTulia.md) | Spara is commanded to lead an invasion into Southern Bunnis. She complies, but does not get far.
-- **The First Elemental refugees arrive on Gaea.** (E-YEAR 2020)
+- **The First mass wave of Elemental refugees arrive on Gaea.** (E-YEAR 2020)
