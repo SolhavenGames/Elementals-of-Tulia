@@ -54,7 +54,7 @@ The star of the youngest Kni-Soa generation, this young lady was well known in m
 - She hears of many fleeing to Earth/Gaea, and she decides to do so herself. She can't conclude why she decides this.
 - Only a few days later, she takes off into space.
 
-⦿ **E-Year 2034**
+### ⦿ **E-Year 2034**
 - Teira arrives on Earth/Gaea. During her travels, she unlocked Dimension Gate II due to her use of it- and its silent use of itself. She doesn't even realize she unlocked this Gate. 
 - She originally wanders aimlessly through the lands of Africa, her new-found balance issues from Gate II Dimension causing minor injuries.
 - She's briefly noticed by the local government, who reports her to the ADS.
