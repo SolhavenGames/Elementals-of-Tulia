@@ -1,6 +1,6 @@
 # ELEMENTALS OF TULIA / VALORAN UNIVERSE | THE TIMELINE
 # TULIA ARC
-<sub> Events that affect all characters will be listed without names. <sub>
+<sub>Events that affect all characters will be listed without names. Events that happened on Earth will be denoted with (E-YEAR ####).<sub>
 ## T-Year 900
 - **March on Tramalen establishes Firen Knightsdale / Irision, causing an international crisis.**
 - [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Is'ale and his group pushes for more Anti-Knightsdale reform in Rutt (Naturine Nation). They are mostly ignored.
@@ -28,4 +28,6 @@
 - **International Knightsdale plans are derailed by the civil war in Swailen.**
 - [KAEL](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md) | Kael's family gets involved politically, silently assisting anti-Knightsdale factions in their civil war. They encourage Kael to stay home due to his past in political education.
 - [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | A small media conglomerate of independent journalists in Ralia join together to help each other. K'zorak joins along.
+- **Radical Endsight grows, moving to deep online forums.** (E-YEAR 2013)
+- [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) | Kterla becomes the first Elemental to win a peace prize on Gaea. (E-YEAR 2013)
 - [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri is placed on the border with Tixolam after facing injury in combat. 
