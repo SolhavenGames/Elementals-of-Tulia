@@ -30,16 +30,14 @@ A charitable Roccian Elemental, Arete has rarely put herself before others. She 
 - The Great Massacre in the Icik/Snai nations causes them to fall to Knightsdale as well.
 - When the coup in the Snai nation happens, Arete attempts to send humanitarian aid to the citizens- which is blocked by Icik Soldiers.
 - Her family halts all operations as Knightsdale movements grow around the globe.
-
-### ⦿ **T-Year 904**
-- Arete's family forces her to return home, fearing for her safety.
-- She keeps an eye on the situation from a distance, desperate to return.
-
+- 
 ### ⦿ **T-Year 905**
 - Despite her family's wishes, Arete visits the Airren Nation, which is projected to fall next.
 - When it does fall, she is arrested. Her family uses their political influence to get her released after 8 days behind bars.
 - Arete returns when the Civil War breaks out in the nation. She helps feed hungry civilians, leaving food packages around demilitarized zones.
 - A mass refugee crisis begins, but Arete and her family's funds helps to keep the world somewhat stable.
+- Arete's family forces her to return home, fearing for her safety.
+- She keeps an eye on the situation from a distance, desperate to return.
 
 ### ⦿ **T-Year 906**
 - Arete begins working with other charities and governments to chart out plans for people to flee to Earth/Gaea.
