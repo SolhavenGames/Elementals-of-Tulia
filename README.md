@@ -59,7 +59,20 @@
 - **The Knightsdale nations Irision, Tixolam, Fraklen, Swalien, and Wrenao form the Knightsdale Coven, a self-proclaimed defensive alliance.**
 - [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri is kidnapped by Tixolam after they detected her massive val bank.
 ## T-YEAR 907
+- [ZERO](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZeroArcTulia.md) | Tixolam begins its Perfect Soldier program, a program seeking to unlock the Forbidden Element Bane. Warrior-0000 "Zero" is the first to unlock it.
 - **Representatives from Wrenao, Tixolam, and Fraklen give the "Speeches of Destiny" in the world government meeting, declaring the Phlanax as evil and aggressive.**
+- [TERKOU](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) | Endsight secretly has a good amount of influence, supporting Pro-Elemental laws. Terkou decides it's too slow, and begins building other plots to conquer Gaea. (E-YEAR 2018)
 - [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md) | Arete is forced to participate in evacuations next year by her family who fears for her life.
-### - **Tulian World Government collapses when the Coven forms their own independent World Government, and neither can claim full legitimacy.**
+- **Tulian World Government collapses when the Coven forms their own independent World Government, and neither can claim full legitimacy.**
+- **Bunnis is the first nation to mobilize for war. Many mark this as the point of no return.**
 - [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | His public support plateaus as his nation launches a massive propaganda campaign against him.
+## T-YEAR 908 - DAL YON TULIA BEGINS
+- [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Is'ale's party wins many elections, giving them limited political power. He remains a public-facing figure for his movement.
+- **A border conflict between Irision and Rutt cause the alliances to fall into war with one another, beginning Dal yon Tulia on the second day of the second month.**
+- [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Is'ale immediately enlists in the Rutt Military, becoming a symbol of Naturine Resolve.
+- **Many major characters witness their friends or family being drafted.**
+- [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md), [RAI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/RaiArcTulia.md) | The two flee in the first refugee party, seeking safety from the war on Gaea.
+- [IMBRA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ImbraArcTulia.md) | Imbra flees to the mountains to avoid the draft.
+- **Ralia faces a mountain of lawsuits for the right to cover the conflict.**
+- [SPARA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SparaArcTulia.md) | Spara is commanded to lead an invasion into Southern Bunnis. She complies, but does not get far.
+- **The First Elemental refugees arrive on Gaea.** (E-YEAR 2020)
