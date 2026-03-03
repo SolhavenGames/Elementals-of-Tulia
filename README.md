@@ -52,3 +52,8 @@
 - [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | A battle for free speech in Ralia begins when K'zorak is sued by his nation, arguing his coverage of the Airren Civil War uses fearmongering to expand his audience base. He gets support from the conglomerate.
 - **Endsight begins carrying out terrorist attacks, attempting to conceal Elemental involvement by using Human weapons. (E-YEAR 2016)**
 - [RAI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/RaiArcTulia.md) | The media company Rai works at is shut down after they made claims of a global war starting soon. 
+## T-YEAR 906
+- **Wrenao wins the civil war swiftly, causing freedom fighters to retreat to hilly areas.**
+- [ADVA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AdvaArcTulia.md) | Adva moves a second time, this time choosing to reside in the abandoned rubble of a city destroyed by the civil war.
+- [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md) | Arete begins gathering funds for refugees to flee to Gaea. She also survives an assassination attempt, but she is brutally wounded.
+- [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri is kidnapped by Tixolam after they detected her massive val bank.
