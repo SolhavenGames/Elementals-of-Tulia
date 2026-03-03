@@ -75,6 +75,15 @@
 - [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md), [RAI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/RaiArcTulia.md) | The two flee in the first refugee party, seeking safety from the war on Gaea.
 - [IMBRA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ImbraArcTulia.md) | Imbra flees to the mountains to avoid the draft.
 - **Ralia faces a mountain of lawsuits for the right to cover the conflict.**
+- **A Knightsdale Coup in Sharlin (Litti Nation) fails due to high support for the sitting government.**
 - [SPARA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SparaArcTulia.md) | Spara is commanded to lead an invasion into Southern Bunnis. She complies, but does not get far.
 - **The First mass wave of Elemental refugees arrive on Gaea.** (E-YEAR 2020)
 - [ENDSIGHT](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/Endsight.md) | Endsight sees a spike in membership upon the arrival of refugees. 
+## T-YEAR 909
+- [DERA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/DeraArcTulia.md) | Dera is drafted into the military, being split from his family. He fakes his death shortly after, fleeing to the Rainforest of Kial.
+- [AERI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AeriArcTulia.md), [TEIRA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TeiraArcTulia.md) | The two meet in a refugee camp, Teira growing close to Aeri who serves as a guard. These interactions break Aeri out of their Litti Indoctrination.
+- **Political infighting breaks out in the Phlanax after Wavalo and Ralia are exposed for using cyberwarfare to suppress free speech in Rutt, namely silencing isolationist and anti-war groups.**
+- [ZERO](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZeroArcTulia.md) | Zero is sent on his first missions wielding Bane, proving to be a wonderful assassin. He reaches Bane Gate II, the first to do so.
+- [SPARA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SparaArcTulia.md) | Spara defects from the Icik Army after killing a messenger who delivered orders to slaughter and plnuder a small village of civilians.
+- [IMBRA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ImbraArcTulia.md) | Imbra flees from the mountains to No Man's Land of Wrenao, where there are limited Coven patrols due to Freedom Fighter resistance cells.
+- [KAEL](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md) | Resistance grows in Kael's nation again, and his city becomes an Anti-Knightsdale stronghold.
