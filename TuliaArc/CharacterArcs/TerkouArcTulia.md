@@ -31,7 +31,7 @@ Terkou Lynqo has always been called a Human Specialist by his Elemental counterp
 - Terkou ramps up his radicalizations when Kterla goes off to assist in geopolitics on Earth/Gaea.
 ### ⦿ **E-Year 2013**
 - Radical Endsight has multiple deep online forums hidden on hard-to-find networks.
-- Terkou never shows his face, using his name as an alias online. Among Radical Endsight, be comes a leader figure, though he rarely interacts with the members.
+- Terkou never shows his face, using his name as an alias online. Among Radical Endsight, he becomes a leader figure, though he rarely interacts with the members.
 ### ⦿ **E-Year 2014**
 - Kterla discovers Terkou's actions. Instead of taking responsibility, he simply flees to antarctica, leaving no trace.
 - He quickly adapts to his new life, building small structures on the continent to create his own small colony.
