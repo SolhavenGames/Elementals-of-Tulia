@@ -7,3 +7,6 @@
 - [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) | Kterla is sent to Gaea for safety after surviving multiple assassination attempts.
 - [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | K'zorak and other journalists are targetted when Irision is established, an open attack on Free Speech in Ralia (Ballad Nation).
 ## T-Year 901
+- [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md) | Arete and her family ramp up their charity efforts, becoming very publicly Anti-Knightsdale.
+- The Seige of Set begins, and the Poisi Nation falls to Knightsdale, becoming Tixolam.
+- [DERA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/DeraArcTulia.md), [TEIRA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TeiraArcTulia.md) | The Kni-Soa siblings, being residents of Set, struggle under the new regime. Their formerly powerful family loses a major chunk of their influence. 
