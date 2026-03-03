@@ -1824,7 +1824,7 @@ When it utters that, I feel strength rush through my body, though still lacking 
 
 “Strong creation.” It says. I feel its eyes piercing my flesh. “Yes, indeed. She was right.”
 
-I try to speak, but I can’t. I keep panting, searching desperately for air. Suddenly, the figure extends its hand, a weapon resting within. A small, yet sharp dart, shaped by flames and ash. It stares at
+I try to speak, but I can’t. I keep panting, searching desperately for air. Suddenly, the figure extends its hand, a weapon resting within. A small, yet sharp knife, shaped by flames and ash. It stares at
 me expectantly, its eyes meeting mine causing a shiver down my spine.
 
 When I grab the dart, the contact on the figure’s skin singes my hand. But I feel as my body accepts the weapon, it joins my flames as my own.
@@ -1862,7 +1862,7 @@ flames burn differently, and my heart beats harder than before.
 
 Xor walks over calmly, a different smile rising on his face. “How do you feel?”
 
-My body feels hollow. I look down at my hands, the dart now gone, but the singe from the figure is still there. I look back up at Xor, before collapsing, losing consciousness. 
+My body feels hollow. I look down at my hands, the knife now gone, but the singe from the figure is still there. I look back up at Xor, before collapsing, losing consciousness. 
 
 # CHAPTER 6
 “YRUSEI!” Adva yells loudly. Repeatedly. I could hear wind whistling throughout the house— but it was too strong to be Yrusei. The urgency in Adva’s voice causes me to rush out to investigate.
@@ -1920,13 +1920,13 @@ I recoil. Who does he think he is? “Says who?”
 
 “If you know what’s good for you,” He turns, his element flaring as he stares me down. “You say.” 
 
-I feel my flames rising with rage. My fist balls and quivers, a dart automatically manifesting in my hand. Before I can act, Xor exits the house. I still throw the dart, the door exploding into flames and
+I feel my flames rising with rage. My fist balls and quivers, a knife automatically manifesting in my hand. Before I can act, Xor exits the house. I still throw the knife, the door exploding into flames and
 ash.
 
 Amei acts quickly, grabbing a fire extinguisher and suppressing the flames before they can spread. She turns to me. “... I’m sorry.” She says softly, approaching me. “I swear I didn’t know anything about 
 this.”    
 
-I look down at my hands. How did a dart appear? It was identical to the one I grabbed in that… world. The way it felt in my hand was almost… too perfect. It conducted my flames too well. It was too easy to
+I look down at my hands. How did a knife appear? It was identical to the one I grabbed in that… world. The way it felt in my hand was almost… too perfect. It conducted my flames too well. It was too easy to
 throw. Thinking about it feels uncanny.
 
 “Hey.” Amei says softly, grabbing my attention as I look up at her. “I’ll get to the bottom of this. Okay?” I nod. She slides me a device, looking similar to a small version of her tablet. “You can message
@@ -1961,9 +1961,9 @@ Kael’s eyebrows furrow, his head tilting downwards. “He did what?”
 
 Kael stares at me blankly, his gaze only being broken by his blinks. “Did you do anything?”
 
-I point at the front door. “See how it’s singed and burned?” He looks over. “I threw a… dart thing at it. Right after he left.”
+I point at the front door. “See how it’s singed and burned?” He looks over. “I threw a… knife thing at it. Right after he left.”
 
-“A… dart?” He turned back to me. “Where’d you get a dart?” 
+“A… knife?” He turned back to me. “Where’d you get a knife?” 
 
 I go to pick up the television, attempting to place it back on its stand, the only thing still standing normally. “It kind of just appeared in my hand.” 
 
@@ -1976,9 +1976,9 @@ I turn to him. “I don’t know if I can do it on command.”
 I look down at my hand. Focusing on my own body causes me to notice the difference flowing through my veins. This energy feels different than anything I’ve ever felt, but reminds me of my fight for oxygen
 in that world. Just the act of focusing on it causes my flames to jerk and dance in unusual ways. My light shines brighter than it ever has, and I feel my heat rise. 
 
-Kael shields his eyes. “All that for a dart?” He says, giggling. 
+Kael shields his eyes. “All that for a knife?” He says, giggling. 
 
-I ball my fist, a large fire rising from it. It’s not a dart, but it’s different. Then I remember- My father’s book. I have read it sparsely, but mainly searching for the notes he left me. Perhaps there’s
+I ball my fist, a large fire rising from it. It’s not a knife, but it’s different. Then I remember- My father’s book. I have read it sparsely, but mainly searching for the notes he left me. Perhaps there’s
 something in there to teach me how to properly conduct this new energy. 
 
 “I’ll be right back.” I say quickly. I hear him mumble ‘okay’ as I run off to my room. Seeing Adva on my bed, still motionless, reminds me that there’s a reason for me to do this. To protect us, all three
@@ -2013,20 +2013,20 @@ He sits up, clearing his throat. “Let’s see what you got.”
 I ball my fist again, new knowledge assisting me. The energy coursing through my veins now feels less alien and more like potential. When the flame rises from my fist, I’m now commanding it. Its odd 
 dancing and sharp turns are by my command, each action intentional. 
 
-Kael nods. “Okay, the flame’s dancing. How about the dart?” He asks, leaning forward. 
+Kael nods. “Okay, the flame’s dancing. How about the knife?” He asks, leaning forward. 
 
-Right, the dart! There wasn’t anything about weapons in the chapter we read, but I think I can figure it out. I push the energy through my body— every movement burning slightly— until there’s an excess
+Right, the knife! There wasn’t anything about weapons in the chapter we read, but I think I can figure it out. I push the energy through my body— every movement burning slightly— until there’s an excess
 of it in my palm. The pure energy gathered there causes my hand to shine brighter than the rest of my body, the heat causing the air around it to distort. 
 
-First attempt: Imagining the dart. Maybe if I convince myself it’s there, it’ll actually appear. To do this, I recall how it felt in my hands. How its fire connected with mine. How my fingers curled 
+First attempt: Imagining the knife. Maybe if I convince myself it’s there, it’ll actually appear. To do this, I recall how it felt in my hands. How its fire connected with mine. How my fingers curled 
 around it. I close my eyes, trying to immerse myself in the memory, only to realize it’s not working. It does little beyond shift val through my body, between my head and arm. 
 
 I sigh. Second attempt: Finger positions. Even though it appeared on its own last time, I still try this as a ‘just in case’. I position my fingers in multiple ways that would be optimal for holding a 
-dart, multiple shapes failing to satisfy. When I pinch my thumb to my index finger, however. I feel it— the same energy the dart caused when it first manifested. 
+knife, multiple shapes failing to satisfy. When I pinch my thumb to my index finger, however. I feel it— the same energy the knife caused when it first manifested. 
 
 Kael tilts his head. “Getting somewhere?”
 
-I smile at his distraction, but quickly refocus. Pinching them together harder does nothing, so I try to imagine it again. Suddenly, with just the thought of the dart in my hand, it appeared. Same shape,
+I smile at his distraction, but quickly refocus. Pinching them together harder does nothing, so I try to imagine it again. Suddenly, with just the thought of the knife in my hand, it appeared. Same shape,
 same form, same feel. I looked at it, still holding it between my thumb and index, twisting my wrist around to examine its shape.
 
 “Cool.” Kael leans forward, a large smile on his face. “Now throw it.”
@@ -2042,7 +2042,7 @@ He curls his lips inward, bobbing his head side to side. “Sure, but what if it
 I look around the room, searching for something that wouldn’t burn for too long or easy to contain. I eventually choose the kitchen island- it’s made of a stone from Gaea, and hard to move. I don’t 
 think Gaea’s stone burns easily, but- as Kael said, only one way to find out. 
 
-I throw the dart, the ease of which catching me off guard a second time. When it makes contact with the island, it doesn’t explode. Instead, it pierces the stone, leaving a small hole where it entered. 
+I throw the knife, the ease of which catching me off guard a second time. When it makes contact with the island, it doesn’t explode. Instead, it pierces the stone, leaving a small hole where it entered. 
 
 “Huh.” Kael says softly. “I kind of expected worse.”
 
@@ -2278,19 +2278,19 @@ I pull Kael behind the still burning vehicle for safety. Then Adva arrives with 
 
 BANG.
 
-They keep ringing out, the vehicle’s metal shaking and clinking as they strike it. We all cower behind the safety, not knowing how safe it truly is. We could be moments away from death. That’s when it happens- the dart
+They keep ringing out, the vehicle’s metal shaking and clinking as they strike it. We all cower behind the safety, not knowing how safe it truly is. We could be moments away from death. That’s when it happens- the knife
 returns. It forms in my quivering hand in perfect shape, ready to be thrown. 
 
 Amei’s blood is still warm on my face. Her voice still rings through my mind. Kael still groans by my side. His blood still pours onto the ground. I can’t let them get away with this. 
 
-I don’t even hesitate. The moment I hear a break in their steady bangs, I jump up and throw the dart at the first one I see, another dart replacing it as soon as it’s thrown. 
+I don’t even hesitate. The moment I hear a break in their steady bangs, I jump up and throw the knife at the first one I see, another knife replacing it as soon as it’s thrown. 
 
 BOOM.
 
 My target, and the humans immediately next to him, are immediately engulfed by massive raging flames. An ash cloud covers their eyes as the fires spread, burning their skin quicker than normal flames. The remaining three
 humans panic, rushing to cover.
 
-Again, I do not hesitate. I lob the new dart at another group of two, an even larger explosion coating them in the flames. Adva, who had stood with me, begins spreading the flames using the wind, catching the last two 
+Again, I do not hesitate. I lob the new knife at another group of two, an even larger explosion coating them in the flames. Adva, who had stood with me, begins spreading the flames using the wind, catching the last two 
 fleeing humans in my fiery grasp. 
 
 Their screams are almost painful to hear. But then I remind myself what they did. What they would’ve done to me. I can’t feel bad for them. 
@@ -2298,13 +2298,13 @@ Their screams are almost painful to hear. But then I remind myself what they did
 I step out from behind the vehicle, approaching the now burning corpses. One human had survived, his arms severely injured by my flames. My entire body quivers as I step closer to him, each step making him jump as he
 tries to crawl away.
 
-He leans on a nearby tree, staring up at me directly in my eyes. I hear the terror in his voice as he pleads to me in his human language. Another dart appears in my hand. I glance down at it, weighing my options, his
+He leans on a nearby tree, staring up at me directly in my eyes. I hear the terror in his voice as he pleads to me in his human language. Another knife appears in my hand. I glance down at it, weighing my options, his
 tone growing desperate.
 
 I stare down at him for a moment, examining him. His face is slightly melted from my flames, but I can still see the glimmer from his tears. Every slight movement I make causes him to flinch massively, his weeping growing
 louder.
 
-I drop the dart by my side. The dart would be too merciful.
+I drop the knife by my side. The knife would be too merciful.
 
 At this moment, I only feel rage. Hatred. Nothing could’ve convinced me that this human deserved life.
 
@@ -2435,7 +2435,7 @@ remaining ever taunting.
 “It’s in there somewhere, Miss Hayes.” She pushes her foot further into my chest, causing me to gasp for any air as tears well in my eyes. I helplessly punch and scratch at her ankles. “We’ll release the real
 you today.”
 
-I can’t even respond. Darts try and fail to form in my hands as my measly attempts to fight back are swiftly ignored. Once she takes her foot off of me, I inhale massively. Each move I make has my body screaming,
+I can’t even respond. Knives try and fail to form in my hands as my measly attempts to fight back are swiftly ignored. Once she takes her foot off of me, I inhale massively. Each move I make has my body screaming,
 begging me to stop. Regardless, I stand to my feet. 
 
 Asli laughs. “You’re persistent! Exactly what we need for new Knights.” She rolls her shoulders, small cracking noises coming from them. “Come on, just surrender, and join us.”
@@ -2460,7 +2460,7 @@ to try harder. I will try harder.
 I gather my courage and dignity, Asli’s boot still firm on my neck. I push her off and stand on my feet as quick as I can, ignoring my pain, then fly directly at her, tackling her to the ground and giving her the 
 treatment she gave me. I drag her through the snow, scratching and punching her face as I do. 
 
-Then I stomp on her chest, leaving a small crater beneath her. The darts begin to form in my hand, and I lob them at her as quickly as they come, leaving explosions where she rests. I land nearby, panting and 
+Then I stomp on her chest, leaving a small crater beneath her. The knives begin to form in my hand, and I lob them at her as quickly as they come, leaving explosions where she rests. I land nearby, panting and 
 exhausted.
 
 Once the smoke clears, I see her there kneeling. Blood drips from her lips. “Hm.” She utters, as she touches her blood. “Fine. Let’s get flashy.”
@@ -2527,13 +2527,13 @@ my body only seems to push back. I have to do something.
 My flames flickered to a black and red color. My entire body shook with each scream from Kael. I felt my body become overrun by rage and hate. Suddenly, all my mind can focus on is Asli. Her face. Her laughter. Her
 fire. My flames now drench in the hellish color as my body heals itself once again. 
 
-Once I hear even a slight hint to her position, I dash fast enough to bring the snow I was standing on with me. Within an instant, I grab her by her neck and begin unleashing a flurry of darts, punches, and blasts of
+Once I hear even a slight hint to her position, I dash fast enough to bring the snow I was standing on with me. Within an instant, I grab her by her neck and begin unleashing a flurry of knives, punches, and blasts of
 fire directly onto her as I yell incoherently. 
 
-A new dart manifests in my hands. A larger, sharper one, sharing my new red and black color. Without thinking, I use it to stab her repeatedly, over and over. When she pushes me off of her, the dart has been left in 
+A new knife manifests in my hands. A larger, sharper one, sharing my new red and black color. Without thinking, I use it to stab her repeatedly, over and over. When she pushes me off of her, the knife has been left in 
 her neck.
 
-She pulls the dart out, moaning in pain as she does, touching around the wound. Unlike her others, her fire doesn’t cover them immediately. It lingers, staring back at me.
+She pulls the knife out, moaning in pain as she does, touching around the wound. Unlike her others, her fire doesn’t cover them immediately. It lingers, staring back at me.
 
 I dash back to her again, kicking her in the head. Then I throw her in the air, and unleash a massive beam of flames in her direction. I watch as she falls to the ground, her neck gushing blood.
 
@@ -2562,7 +2562,7 @@ Kael glances at me. “Whatever you say.” He responds, through strained breath
 
 The air rumbles as Asli flies. “The bug’s back for more?” She yells from the sky. “Watch how easy it is to melt snow.”
 
-She crashes down from the sky, catching Kael as she goes by. Kael uses the surrounding snow to bury them. He slips his way out, right before I punch the mound, pushing Asli out of it. Then a flurry of darts chase her,
+She crashes down from the sky, catching Kael as she goes by. Kael uses the surrounding snow to bury them. He slips his way out, right before I punch the mound, pushing Asli out of it. Then a flurry of knives chase her,
 exploding once they get close enough. 
 
 Asli defeats Kael and I using a fire whip, cracking through the air with quick and painful swings, making it hard to close the distance. She lands a crucial strike on the back of my legs, causing me to fall onto the
