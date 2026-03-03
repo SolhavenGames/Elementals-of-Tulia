@@ -56,4 +56,10 @@
 - **Wrenao wins the civil war swiftly, causing freedom fighters to retreat to hilly areas.**
 - [ADVA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AdvaArcTulia.md) | Adva moves a second time, this time choosing to reside in the abandoned rubble of a city destroyed by the civil war.
 - [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md) | Arete begins gathering funds for refugees to flee to Gaea. She also survives an assassination attempt, but she is brutally wounded.
+- **The Knightsdale nations Irision, Tixolam, Fraklen, Swalien, and Wrenao form the Knightsdale Coven, a self-proclaimed defensive alliance.**
 - [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri is kidnapped by Tixolam after they detected her massive val bank.
+## T-YEAR 907
+- **Representatives from Wrenao, Tixolam, and Fraklen give the "Speeches of Destiny" in the world government meeting, declaring the Phlanax as evil and aggressive.**
+- [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md) | Arete is forced to participate in evacuations next year by her family who fears for her life.
+### - **Tulian World Government collapses when the Coven forms their own independent World Government, and neither can claim full legitimacy.**
+- [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | His public support plateaus as his nation launches a massive propaganda campaign against him.
