@@ -36,17 +36,15 @@ Zrili was a nobody for their entire early life, choosing to make very few friend
 - Zrili finally decides to leave after her trust with the soldiers slowly waivers.
 - They find their way to Tixolam, weaving through the rural part of the country to reach the jungle.
 - They live off the land, slowly losing their mind as the sounds of animals ring through their head constantly.
+- Zrili meets Zezri | Zezri helps Zrili stay sane, but she doesn't even realize it. Together, they survive the otherwise harsh lands.
 ### ⦿ **T-Year 915**
 - Zrili gets their first full nights rest since they've wielded Din.
 ### ⦿ **T-Year 916**
-- Zrili hears whispers of nearby underground societies for "people like them". They begin searching for it.
+- The duo is confronted by Poisi soldiers, and they're forced to use her Elements to defend themselves.
+- While fighting, some other survivors of the prison come to assist them.
+- Together, they form an underground society for forbidden users and survivors of Tixolam's tests.
 ### ⦿ **T-Year 918**
-- Zrili finally finds the underground society. They do not join directly, but sthey remain adjacent to where they camp.
-- Residents of the society notice them, frequently bringing them supplies to survive.
-- Zrili wants to join, but is unsure. The residents bringing them food encourage them to weigh their options, but reminds them that they are always welcomed.
-### ⦿ **T-Year 919**
-- Zrili finally decides to join.
-- Zrili meets Zezri | They caught Zezri off guard, but the two click quickly. Zezri is the first person in years that Zrili considers a friend.
+- Zrili works under Zezri as her second-in-command.
 ### ⦿ **T-Year 920**
 - Zrili assists in the capture and trapping of Zero.
 ### ⦿ **T-Year 921**
