@@ -40,7 +40,7 @@ Spara Dei-Sor was a powerful and trusted soldier in the Icilen military. Once th
   
 ### ⦿ **T-Year 910**
 - Spara learns to survive, living off the frozen land.
-- She tries to repent to her wrongdoings by growing closer to her Element, Ice. Though, Ice mostly ignores her, as it's caught up in the Great God War.
+- She tries to repent to her wrongdoings by growing closer to her Element, Ice. Though, Ice mostly ignores her, as it's caught up in God Conflicts.
 
 ### ⦿ **T-Year 912**
 - Spara is found by Snai soldiers, and she's forced to fight her way out to flee to Bunnis, the Sakai nation.
