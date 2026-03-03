@@ -48,7 +48,7 @@ Zrili was a nobody for their entire early life, choosing to make very few friend
 ### ⦿ **T-Year 920**
 - Zrili assists in the capture and trapping of Zero.
 ### ⦿ **T-Year 921**
-- Zrili participates in the attack on Tixolam, using their new powers aggressively for the first time- but mainly using them to distract and disorient guards. This battle helps them reach Din Gate II.
+- Zrili participates in the attack on Tixolam. This battle helps them reach Din Gate II.
 - After this battle, Zezri asks them for help to draft a plan to flee the planet. Zrili does- but under time crunch, it ends up being slightly rushed.
 - The rushed plan cause many to die in transit.
 ### ⦿ **E-Year 2038**
