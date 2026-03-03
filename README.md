@@ -26,3 +26,6 @@
 - [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Upon the rising Knightsdale movement in Rutt, Is'ale and his group begin a staunch public media push against them, exposing their corruption and evil.
 ## T-Year 903
 - **International Knightsdale plans are derailed by the civil war in Swailen.**
+- [KAEL](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md) | Kael's family gets involved politically, silently assisting anti-Knightsdale factions in their civil war. They encourage Kael to stay home due to his past in political education.
+- [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | A small media conglomerate of independent journalists in Ralia join together to help each other. K'zorak joins along.
+- [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri is placed on the border with Tixolam after facing injury in combat. 
