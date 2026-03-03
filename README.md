@@ -33,7 +33,7 @@
 - [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) | Kterla becomes the first Elemental to win a peace prize on Gaea. (E-YEAR 2013)
 - [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri is placed on the border with Tixolam after facing injury in combat.
 ## T-Year 904
-- [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md), [TERKOU](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) | Kterla finally notices the radicalizations, and the two split it this time. Endsight stays loyal to Terkou instead of her. (E-YEAR 2014)
+- [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md), [TERKOU](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) | Kterla finally notices the radicalizations, and the two split it this time. Endsight stays loyal to Terkou instead of her. Terkou flees to Antarctica to hide. (E-YEAR 2014)
 - [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Is'ale and his group push harder to the public, finally making a breakthrough. 
 - **Rutt's public grows radicalized against Knightsdale movements, but with elections being distant, they are stuck with a non-interventionalist government with Knightsdale sympathisers.**
 - [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md), [WYKOI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/WykoiArcTulia.md) | Wykoi allows Kterla to live with him after hearing of Terkou's betrayal. (E-YEAR 2014)
@@ -41,4 +41,14 @@
 - [KTERLA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md), [WYKOI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/WykoiArcTulia.md) | The Strategists for Peace is formed by the pair, which takes over production of Elemental Products and expands into Peacemaking operations. (E-YEAR 2015)
 - **The Snai Civil War turns in favor of the Knightsdale, freeing up the resources of other Knightsdales.**
 ## T-YEAR 905
-- 
+- [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md) | Arete visits the Airren Nation, aiming to spread charity to those who have recently been affected by instability.
+- **The Windstorm Protests in The Airren Nation cause a coup that establishes Wrenao.**
+- [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md) | Arete is arrested, but is later released.
+- **A civil war similar to the Snai Civil War breaks out in Wrenao, with the people fighting for their freedoms to return. This once again devours resources of global Knightsdale factions.**
+- [ARETE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md) | Arete returns, distributing aid to the victims of the civil war.
+- [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | K'zorak goes to get on-the-ground coverage of the civil war. 
+- [ADVA](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AdvaArcTulia.md) | Due to the civil war, Adva moves to a less populous area to avoid conflict.
+- **Proposed by Rutt, Themselves, Ralia, Wavalo, Bunnis (Sakai Nation), and Delekt (Roccian Nation) form the Phlanax of Freedom, aiming to protect each other in case of Knightsdale expansion.**
+- [K'ZORAK](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KzorakArcTulia.md) | A battle for free speech in Ralia begins when K'zorak is sued by his nation, arguing his coverage of the Airren Civil War uses fearmongering to expand his audience base. He gets support from the conglomerate.
+- **Endsight begins carrying out terrorist attacks, attempting to conceal Elemental involvement by using Human weapons. (E-YEAR 2016)**
+- [RAI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/RaiArcTulia.md) | The media company Rai works at is shut down after they made claims of a global war starting soon. 
