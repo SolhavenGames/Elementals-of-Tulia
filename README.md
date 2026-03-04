@@ -1,6 +1,6 @@
 # ELEMENTALS OF TULIA / VALORAN UNIVERSE | THE TIMELINE
 # TULIA ARC
-<sub>Events that affect all characters will be listed without names. Events that happened on Earth will be denoted with (E-YEAR ####).<sub>
+<sub>Events that affect all characters and have no organization associated will be listed without names. Events that happened on Earth will be denoted with (E-YEAR ####).<sub>
 ## T-Year 900
 - **March on Tramalen establishes Firen Knightsdale / Irision, causing an international crisis.**
 - [IS'ALE](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md) | Is'ale and his group pushes for more Anti-Knightsdale reform in Rutt (Naturine Nation). They are mostly ignored.
