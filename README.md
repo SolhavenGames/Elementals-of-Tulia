@@ -1,5 +1,5 @@
 # ELEMENTALS OF TULIA / VALORAN UNIVERSE | THE TIMELINE
-# TULIA ARC
+# TULIA SAGA
 <sub>Events that affect all characters and have no organization associated will be listed without names. Events that happened on Earth will be denoted with (E-YEAR ####).<sub>
 ## T-Year 900
 - **March on Tramalen establishes Firen Knightsdale / Irision, causing an international crisis.**
@@ -197,4 +197,4 @@
 - [ZEZRI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZezriArcTulia.md) | Zezri escapes captivity using her portals, but due to AntiVal, she does not have enough energy to free others. She flees to a snowy forest, regretting her choices. (E-YEAR 2038)
 - [ZRILI](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZriliArcTulia.md) | Zrili has already begun drafting their own escape plan, aiming to meet with Zezri again and fight against the people that wronged them. (E-YEAR 2038)
 - [KAEL](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md), [TROY](https://github.com/RosemaryKai/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TroyArcTulia.md) | Recognizing Kael as a companion of Imbra and Adva, Troy decides to take a gamble and display him publicly as a prisoner to try to draw them out... (E-YEAR 2038)
-# GAEA ARC (Yet to be added... but it's being drafted already >:))
+# GAEA SAGA (Yet to be added... but it's being drafted already >:))
