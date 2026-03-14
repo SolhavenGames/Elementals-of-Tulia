@@ -17,7 +17,9 @@ These are the characters who will have a major impact on the story alone, being 
 
 ⦾ Height: 5'1" / 152cm
 
-⦾ Weight: 41kg
+⦾ Weight: 59kg
+
+⦾ Build: Petite Athletic Hourglass 
 ## ⦿ Rai Ronal (Male) - Watirsh - Forbidden Element User (Deluge) 
 ⦾ Description: Mahogany espresso skintone (#7b4b41). Waist Length charred olive hair (#24362c) wrapped into a style, bringing it to shoulder-length. Blue-Green eyes (#0b5147). 
 
