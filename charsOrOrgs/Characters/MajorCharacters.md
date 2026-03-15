@@ -11,7 +11,7 @@ These are the characters who will have a major impact on the story alone, being 
 
 ⦾ Height: 4'11" / 149cm
 ## ⦿ Adva "Tempest" Anil (Female) - Airren - Forbidden Element User (Squall)  
-⦾ Description: Rosey Beige skin tone (#e9c3b6). Middle-Back length black hair put into a ponytail-like hairstyle. White-Gray eyes (#D3D4D8). 
+⦾ Description: Rosey Beige skin tone (#e9c3b6). Middle-Back length black hair put into a ponytail-like hairstyle. Large almond white-gray eyes (#D3D4D8). 
 
 ⦾ Birthday: Year 866, Month Tulip, Day 1
 
