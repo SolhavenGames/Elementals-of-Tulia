@@ -42,5 +42,5 @@ The final move of The Gray Lives: Releasing the Death Forbidden into major citie
 The ADS, after noticing a distinct lack of Val Pollution, noticed inexplicable Val Suction- the same Val Suction that The Gray Lives found years ago. This discovery is major, because it proves that extracting val from a non-elemental source is possible. The ADS immediately begins trying Val Suction themselves, aiming to empower future weapons.
 ## ⦿ The Gray Lives are defeated.
 The Gray Lives are defeated in Siberia by PAC, its leader being captured and put on public trial in Berlin. Humans and Elementals alike watched the trial, both unanimously despising The Gray Lives and the pain they caused. The leader and its members are executed, but small splinter factions of The Gray Lives escape and continue to cause havoc throughout minor cities in the world.
-## ⦿ New HUMAN units known as Valdroids act in unexpected ways on the battlefield.
+## ⦿ New HUMAN units known as Valdroids.
 After successfully harvesting Val from the air, the ADS deploys their new weapon- Valdroids, combat robots with val capabilities. These robots, while few and far-between, are exceptional in combat against even high-tier Elementals, though they have limited val. Later innovations allow them to suck val out of the air, which is useful as their enemies will now commonly feed them more power. 
