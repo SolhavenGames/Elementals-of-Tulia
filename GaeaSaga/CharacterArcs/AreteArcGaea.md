@@ -3,7 +3,7 @@
 ## Structure 
 **Starting State**: Living in the Amazon Rainforest alongside Rai, Adva, and Imbra.
 
-**Ending State**: Grouped with Zezri, Zrili, and K'zorak, aiming to enforce peace and lawfulness by protecting citizens and popularizing co-existance. 
+**Ending State**: Grouped with Zezri, Zrili, and K'zorak, aiming to enforce peace and lawfulness by protecting citizens and popularizing coexistence. 
 
 **Inciting Moments**: Joining the Peace & Cooperation Guild after Kterla called for her.
 
