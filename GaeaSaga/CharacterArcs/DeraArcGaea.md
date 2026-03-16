@@ -9,7 +9,7 @@
 
 **Irreversable Actions**: Choosing to join The Symbols over PAC for less regulation, causing him to be declared a criminal.
 
-**Biggest Arc Influence**: Much smaller influence overall; mainly showing that Knightsdales can be escaped (even when they think they've gotten you).
+**Biggest Arc Influence**: Being considered the morally cleanest Symbols member.
 
 **Ending Alignment**: The Symbols (as Paradox).
 ## Summary 
