@@ -1,4 +1,4 @@
-# THE TULIA ARC
+# THE TULIA SAGA!
 <sub>_“War took our home, but it can build us a new one.”_<sub>
 # TULIA
 ## ⦿ Collapse of the Free World
