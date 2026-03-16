@@ -1,15 +1,17 @@
 # Aeri "Warsight" Glem | Gaea Saga Journey
-<sub> **_Perfection isn't easy... but I love challenges, anyway._** <sub>
+<sub> **_War always shines when I'm there! Get it? Cause.. Warshine..._** <sub>
 ## Structure 
-**Starting State**: A heavily indoctrinated young soldier dedicated to dying for the Litti cause.
+**Starting State**: A young unit of Endsight under Terkou, being trained in combat with dual swords that connect at the handles.
 
-**Ending State**: Tied to a friend, Teira Kni-Soa, and her ideology, though somewhat aligning with it themselves.
+**Ending State**: A feared and respected warrior & rival of Paradox (Dera). 
 
-**Inciting Losses**: Being abandoned inexplicably twice; once by their God (Light), and the other by Teira.
+**Inciting Moments**: Slaughtering the military of an Anti-Elemental nation, as per orders.
 
-**Irreversable Actions**: Joining and listening to the preachings of Terkou, simply because Teira did first.
+**Irreversable Actions**: Killing the leader of a nation on public broadcast.
 
-**Biggest Arc Influence**: Being the final straw starting the Great God War.
+**Biggest Arc Influence**: Being the most public figure of Endsight's task force, building further cross-species resentment.
+
+**Ending Alignment**: Endsight (As Warsight). 
 ## Summary 
 
 ## Timeline
