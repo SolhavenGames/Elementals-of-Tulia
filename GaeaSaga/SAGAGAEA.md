@@ -27,19 +27,20 @@ The Gray Lives watching PAC begin undoing their work caused a slight panic. So, 
 ## ⦿ Kael is Emancipated; The Symbols unofficially form
 Finally being Emancipated by Imbra, the pair join Adva on her vigilantism. They become known as The Symbols due to mystery but popularity, with Imbra and Adva still under the name Phoenix and Tempest, and Kael joining as Morrow. Together, they act as a less regulated and more extreme version of PAC, fighting exclusively for what they believe in. Though, they are known to lean towards Elemental Superiority, and often condemn Human Actions that Elementals get away with in their moral code.
 ## ⦿ The Knights of Gaea crowned the Greatest Elemental Fighters
-
+With expanded Tech augments and unique tactics of ambush and surprise attack, the Knights of Gaea begin to regularly defeat low-tier and mid-tier Elementals. With this development, multiple Human governments begin to funnel money and power into them, much to the dismay of Troy and the ADS, who still dislike the Knights hostility to humans who don't align with them. 
 ## ⦿ The Moon Disaster
-
+The Gray Lives, using Roccian Val placed all across the moon, begin to attract the moon towards the Earth, aiming to have it strike the planet and wipe out all life within 12 hours after they began to pull. With such a disasterous development, the Burning of Gaea is put on a temporary pause as the world unites to try and stop the disaster. Frei-Se's Watrish population commanded by Rai work to stabilize the tides while Dera representing both The Symbols & PAC and Aeri representing Endsight are sent to the moon, both aiming to stop the moon, but Aeri aiming to stop it later. The two duel on the Moon, starting their rivalry. The moon is eventually stopped once Dera spreads Arete's val across the moon, allowing her to override the pull of The Gray Lives and return the moon to where it belongs, and the entire planet breathes a sigh of relief. 
 ## ⦿ Rai & Spara Marriage; Dei-Sor Royal Dynasty
-
+Having been allies and symbols of their people, Rai and Spara marry, forming the Dei-Sor Royal Dynasty as Rai takes Spara's last name. They hold a marital ceremony that slightly unites their souls, and slightly merging their abilities as Rai's Water becomes colder as his rain turns into hail, and Spara gains the ability to cast heavy blizzards in her area. Recordings of the marriage cause outrage among humans as Elemental customs spook them. 
 ## ⦿ HUMAN Units improve, reaching 50% win rate against mid-tier Elementals.
-
-## ⦿ Frez-Se Great War | Humans invade Antarctica
-
+Extensive investments into the ADS military causes HUMAN units to be optimized for warfare against mid-tier Elementals, though high-tier Elementals continue to cause problems. Alongside this, Spear Cannons become far stronger and foot infantry also become more effective against Elementals. This event brings hope to humans who previously thought the war was hopeless, consequently raising the manpower and enlistment of the ADS. 
+## ⦿ Frei-Se Great War | Humans invade Antarctica
+After long planning, Nations in South Africa, Oceania, and South America launch a massive Aerial Invasion of Frei-Sa with Jets flying over to bomb major cities and attempting to destroy the nation economically. Luckily for Frei-Se, The Symbols happened to be visiting their Queen, so the attack wasn't as bad as it could've been- but the damage wasn't negligible. Hundreds of jets were taken down, but multiple cities were flattened. This attack radicalized the formerly peaceful Frei-Se, but also further boosted human morale.
 ## ⦿ Death Pandemic; Death Disease spreads thanks to The Gray Lives.
-
+The final move of The Gray Lives: Releasing the Death Forbidden into major cities across the globe. All around the world, including Frei-Se, citizens began to suffer from immense internal pain, gray skin/elements, and paralysis as the Death Disease purged through towns and massacred millions. This is the first time The Gray Lives made themselves noticed as they publicly claimed responsibility for this, once again uniting the world against them.
 ## ⦿ Val Suction is detected; ADS Begins Val Suction
-
+The ADS, after noticing a distinct lack of Val Pollution, noticed inexplicable Val Suction- the same Val Suction that The Gray Lives found years ago. This discovery is major, because it proves that extracting val from a non-elemental source is possible. The ADS immediately begins trying Val Suction themselves, aiming to empower future weapons.
 ## ⦿ The Gray Lives are defeated.
-
+The Gray Lives are defeated in Siberia by PAC, its leader being captured and put on public trial in Berlin. Humans and Elementals alike watched the trial, both unanimously despising The Gray Lives and the pain they caused. The leader and its members are executed, but small splinter factions of The Gray Lives escape and continue to cause havoc throughout minor cities in the world.
 ## ⦿ New HUMAN units known as Valdroids act in unexpected ways on the battlefield.
+After successfully harvesting Val from the air, the ADS deploys their new weapon- Valdroids, combat robots with val capabilities. These robots, while few and far-between, are exceptional in combat against even high-tier Elementals, though they have limited val. Later innovations allow them to suck val out of the air, which is useful as their enemies will now commonly feed them more power. 
