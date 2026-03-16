@@ -1,4 +1,4 @@
-# Terkou "The One" Lynqo | Tulia Arc Journey
+# Terkou "The One" Lynqo | Gaea Saga Journey
 <sub> **_I have no respect for the lesser species. Kill them all, for all I care._** <sub>
 ## Structure 
 **Starting State**: A trusted leader of a powerful task force.
