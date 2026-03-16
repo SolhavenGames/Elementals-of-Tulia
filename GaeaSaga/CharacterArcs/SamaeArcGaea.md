@@ -1,4 +1,4 @@
-# Samae "Valor" Herba | Gaea Arc Journey
+# Samae "Valor" Herba | Gaea Saga Journey
 <sub> **_I've conquered their power, do you think I can't conquer them as well?!_** <sub>
 ## Structure 
 **Starting State**: An embarassed leader desperate to get revenge on the one who humiliated her.
