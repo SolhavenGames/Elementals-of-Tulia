@@ -1,5 +1,5 @@
 # Adva "Zephyr" Anil | Gaea Saga Journey
-<sub> **_"I do what I know is right."_** <sub>
+<sub> **_I do what I know is right, without hesitation._** <sub>
 ## Structure 
 **Starting State**: Training for combat alongside Imbra, living with Rai, Arete, and Imbra in the Amazon Rainforest, isolated from the world and silently regretting her past actions.
 
