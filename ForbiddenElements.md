@@ -11,7 +11,7 @@
 The second youngest Forbidden Element, created by all of the elements together to create one final union. It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
 
 ### ⦿ **Gate I**
-The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light green, Blood Omni becomes pink). Omni element will also share characteristics of the original element (Flux/Core, Temperature, Feel). Disconnection from the original element does not begin yet.
+The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light green, Blood Omni becomes pink). Omni element will also share characteristics of the original element (Flux/Core, Temperature, Feel). However, the element can be manifested in ways that adjacent elements can (i.e. If the user is Ballad, Blood --> Water --> Snow). Disconnection from the original element does not begin yet.
 
 ### ⦿ **Gate II**
 Omni element loses the color and temperature of the original element. User gains the ability to alter the temperature. Disconnect from the original element begins here, and grows with each Gate. 
@@ -23,7 +23,7 @@ Omni element loses the feel of the original element, allowing the user to choose
 Omni element loses the Flux/Core distinction, allowing the user to choose which one they prefer for the moment. 
 
 ### ⦿ **Gate V**
-The user can now change characteristics of the elements they have already created. They can also influence nearby elements (not control, simply influence). Disconnection from the original element disappears entirely here, as the user struggles to even remember what their original element was. Memories are scattered and even when reminded, they’re skeptical. 
+The user can now change characteristics of the elements they have already created. They can also influence nearby elements (not control, simply influence). Disconnection from the original element peaks here, as the user struggles to even remember what their original element was. Memories are scattered and even when reminded, they’re skeptical. 
 
  **_How it feels_**: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated  and over-energized, constantly requiring more action.
 
@@ -41,20 +41,18 @@ This element was created by the Human gods, in an attempt to mimic Elemental pow
 Purely cosmetic. When this Gate is unlocked, nothing about the user is changed. If they’re an elemental, they will simply have the purple and red wisps accompany their original element. If they’re human, the wisps will appear when they do feats that require lots of physical exertion. 
 
 ### ⦿ **Gate II** 
-For Elementals, this Gate will empower their usual element by increasing their val production slightly. For Humans, they will become slightly stronger, gain more stamina, and be able to spawn the wisps from their fingertips. The wisps themselves are still mostly useless. 
+For Elementals, this Gate will empower their usual element by increasing their val production slightly. For Humans, they will become slightly stronger, gain more stamina, and be able to spawn the wisps from their fingertips. The wisps themselves are still mostly useless. At this gate, users can now "grab" and "hold" other elements, also growing resistant to its effects. This does not yet apply to Forbidden Elements.
 
 ### ⦿ **Gate III** 
-This is the first Gate that brings upon major changes. Both Humans and Elementals will feel drastic changes in their personality, becoming more self-serving and arrogant.  Elementals will lose their original element, and both will experience extreme strength (Lift around 1,000 pounds), speed (Move at about 120mph), and endurance (resist gunshots) coming gradually after this Gate is reached (taking about 45 Tulia Days). This comes at the cost of higher sustenance required (food and water), which increases with each Gate. 
+This is the first Gate that brings upon major changes. Both Humans and Elementals will feel drastic changes in their personality, becoming more self-serving and arrogant.  Elementals will lose their original element, and both will experience extreme strength, speed, and a stronger lattice coming gradually after this Gate is reached (taking about 10 Tulia Days). This comes at the cost of higher sustenance required (food and water) as their body evolves. As the user remains in combat, the body will be pumped with more val, allowing for stronger attacks overtime. The user can now also hold Forbidden Elements.
 
 ### ⦿ **Gate IV**
-Physical stats are doubled. The user faces urges to become stronger and better than those around them at all costs. Hitting another val creature repeatedly can cause a temporary drainage of val, weakening the victim’s element.
+Physical stats now increase at an exponential rate, with training. Wisps begin to flow inside the body and through the veins, causing the user to have streaks of purple or blue glows beneath their skin which grow more frequent at exertion. The user's element now mimics the powers and abilities of elements they grab. With this, the user also grows more prideful and insecure, frequently falling into fits of rage.
 
 ### ⦿ **Gate V**
-Physical stats can be increased by usual means of exercise, training, and exposure much faster than the average being. Nearby elements will be influenced by the user’s presence, but the user cannot control that influence, which will feel like a slight tug from the upper chest. User will have an undying urge to become the strongest person they can be, always believing that they are never enough, feeling the need to prove themselves.
+Physical stats now increase at a factorial rate with training. The user cannot direct val in their body, making some parts of their body stronger than others. They can also expell their val all at once, creating shockwaves, or when done at a focused point, lightning like effects. The increase of power in combat ramps up much faster, and sustinence requirements fade. Insecurities and rage rises as the user becomes incredibly prone to random spikes of immense anger.
 
-**_How It Feels_**: Elementals will feel when this forbidden element is close, as their own val is drawn to it. It will never directly flee to them, but the change can be felt. The user will
-feel an unrelenting urge to become as strong and as fast as possible, aiming to test their limits, and prove themselves constantly. Despite all this, they always will feel as if their
-improvements are inadequate. This side of insecurity they will fight to never show. Their veins will also begin to glow the same color of their wisps for every Gate after Gate IV. 
+**_How It Feels_**: Elementals will feel when this forbidden element is close, as their own val is drawn to it. It will never directly flee to them, but the change can be felt. The user will feel an unrelenting urge to become as strong and as fast as possible, aiming to test their limits, and prove themselves constantly. Despite all this, they always will feel as if their improvements are inadequate. This side of insecurity they will fight to never show. Their veins will also begin to glow the same color of their wisps for every Gate after Gate IV. 
 
 ### **NOTES**
 - Pure users are still capable of forming alliances if they feel it benefits them. 
