@@ -1,4 +1,4 @@
-# Wykoi "Stability" Maita | Tulia Arc Journey
+# Wykoi "Stability" Maita | Gaea Saga Journey
 <sub> **_The angel on our shoulders know best. Listen to her, please, and maybe the bloodshed can stop._** <sub>
 ## Structure 
 **Starting State**: In the Strategists for Peace, scrambling to try and roll back the Burning of Gaea, despite it reaching its 5th year.
