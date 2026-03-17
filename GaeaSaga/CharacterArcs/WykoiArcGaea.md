@@ -3,7 +3,7 @@
 ## Structure 
 **Starting State**: In the Strategists for Peace, scrambling to try and roll back the Burning of Gaea, despite it reaching its 5th year.
 
-**Ending State**: TBD
+**Ending State**: In a bunker, commanding human led SFP forces, while also handling infighting in PAC.
 
 **Inciting Moments**: Listening to Elementals as a sort of human wisdom figure to them, helping them understand the planet further.
 
