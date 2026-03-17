@@ -3,15 +3,15 @@
 ## Structure 
 **Starting State**: ... Still... a lost... broken robot.
 
-**Ending State**: TBD
+**Ending State**: A combat robot with sparse upgrades working with PAC to decode the fighting styles of rivals.
 
-**Inciting Moments**: TBD
+**Inciting Moments**: Getting upgrades from the Knights of Gaea.
 
-**Irreversable Actions**: TBD
+**Irreversable Actions**: Fleeing from multiple groups after they all tried & failed to kill him.
 
-**Biggest Arc Influence**: TBD
+**Biggest Arc Influence**: Helping PAC come to par with groups like The Symbols.
 
-**Ending Alignment**: TBD
+**Ending Alignment**: Peace & Cooperation Guild (as Endzone).
 ## Summary 
 
 ## Timeline 
