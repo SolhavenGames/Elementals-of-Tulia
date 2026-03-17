@@ -3,7 +3,7 @@
 ## Structure 
 **Starting State**: A woman who has lost everything, yet still eager and desperate to fight for whats right.
 
-**Ending State**: TBD
+**Ending State**: Afraid and hidden, ordering PAC from a bunker with Wykoi.
 
 **Inciting Moments**: Watching Endsight materialize as something dangerous inciting her to build a response.
 
