@@ -3,7 +3,7 @@
 ## Structure 
 **Starting State**: A staunch believer in Terkou's ideology. 
 
-**Ending State**: TBD
+**Ending State**: A wanted and feared criminal due to his unorthodoxed tactics of burying people in overgrowth.
 
 **Inciting Moments**: His first deployment attacking a major city, causing massive overgrowth and burying it in verdure. 
 
