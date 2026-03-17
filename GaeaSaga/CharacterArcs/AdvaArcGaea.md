@@ -3,7 +3,7 @@
 ## Structure 
 **Starting State**: Training for combat alongside Imbra, living with Rai, Arete, and Imbra in the Amazon Rainforest, isolated from the world and silently regretting her past actions.
 
-**Ending State**: TBD
+**Ending State**: A popular symbol of graceful strength for Elementals across the planet.
 
 **Inciting Moments**: Choosing to save Humans, despite them attacking her.
 
