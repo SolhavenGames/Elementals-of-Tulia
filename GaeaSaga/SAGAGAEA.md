@@ -1,5 +1,6 @@
 # THE GAEA SAGA!
 <sub>_“The world's anger doesn't boil. It erupts.”_<sub>
+
 <sub>_This saga takes place purely on Earth- no Tulia here, unfortunately, but don't worry- Tulia is not paused._<sub>
 # EARTH
 ## ⦿ Berlin Attack
