@@ -353,28 +353,29 @@ themself will become more sensitive to light, and always have an urge to feed th
 
 # ICIK/SNAI FORBIDDEN
 ## Subzero (I - V)
-An element created by the Brother Elements to protect their corner of the world. This element is an enhancement of both Ice and Snow, meaning both elementals can unlock this power. It always appears as either white or cyan, depending on whether Ice or Snow is in use.
+An element created by the Brother Elements to protect their corner of the world. This element is an enhancement of both Ice and Snow, meaning both elementals can unlock this power. This element at its core is control and domination of temperatures. It always appears as either white or cyan, depending on whether Ice or Snow is in use.
 
 ### ⦿ **Gate I**
-The original element remains, with no access to the other. The element becomes twice as cold and the user can strike with more precision. It also gains the ability to act as a Flux element, while still being able to act as a Core. 
+The user's original element remains, with yet to gain access to the other. The user's temperatures decrease, peaking at double the original maximum. The element also becomes more precise as molocules hug each other much closer than usual. Finally, the user can now use the element as both Flux and Core.
 
 ### ⦿ **Gate II** 
-User unlocks the second element. Their element reaches three times as cold as usual once this Gate is reached. However the user’s brain lags in random moments as they struggle to keep up, with their brain moving slower when not in combat.
+User unlocks the second element. Minimum temperature is now four times the original. Controlling temperatures no longer requires direct contact with the target, and the user can now alter temperatures from range. However, the user begins to experience the first drawbacks of Subzero- cognitive lag. Their brain will randomly slow down when out of battle. 
 
 ### ⦿ **Gate III** 
-Ice can be turned to Snow, and Snow to Ice. User can also affect temperatures without use of their element, with their Ice and Snow reaching five times as cold as normal. Ice and Snow have a lasting effect on the environment, which will decay on its own over multiple days. User will begin to experience short term memory issues and executive dysfunction, struggling to begin or end tasks. 
+Ice can be turned to Snow, and Snow to Ice. Minimum temperature now reaches eight times the original. Ice and snow from Subzero will not melt as quickly, taking much longer to be melted by natural means. However, the user can very easily "melt" them into water, from which they can no longer control it. User will begin to experience short term memory issues and executive dysfunction, struggling to begin or end tasks. 
 
 ### ⦿ **Gate IV** 
-Ice and Snow grow sharp, becoming eight times as cold (now allowing near instant frostbite on contact) as usual and becoming immune to heat. Wounds caused by Subzero will no longer heal or worsen naturally, requiring outside influence. User will struggle with perception outside of combat as their mind fixates often.
+Ice and snow reach maximum precision here, and can no longer be melted by outside forces. Wounds caused by Subzero can no longer heal or worsen naturally, including inability to get infections. To heal, they require outside action or medication. Frostbite placed on targets can be used to create force on them, not requiring contact. User will struggle with perception outside of combat as their mind fixates often.
 
 ### ⦿ **Gate V**
-Elements become twelve times as cold, causing victims of it to move slower as their body begins to slowly freeze after elongated exposure. Moments can be locked in place by the element, with Ice or Snow only melting upon the user’s command. Things locked will be perfectly preserved. The user also gains the ability to make excellent spears instantly. The user will think much slower outside of combat.
+Subzero temperatures are now unlimited, though temperatures beyond fifteen times the original requires stamina upkeep. Victims exposed to the frigid temperatures will begin to freeze themselves, which the Subzero user can revert by simple thought. The user can now reduce kinetic and process-based motion toward zero within a controlled domain with an ability called "Frescend". Things locked will be perfectly preserved. 
 
 **_How It Feels_**: Witnesses will feel frigid for a few moments once the first contact is made. The presence of the user themself does not directly affect the temperature, but it will feel like they do. While outside of combat, the user will struggle cognitively after use depending on what gate they are in. They will also be incredibly uncomfortable in warm areas.
 
 ### **NOTES**
-- This element can freeze flames (not summoned by Hellfire or Sol). 
-- Shields created by this element are nearly unbreakable. 
+- This element can freeze flames (not summoned by Hellfire). 
+- Shields created by this element are nearly unbreakable.
+- Frescending can be selective, for example: nullifying specific forces based on direction or strength, freezing light (causing items to visually disappear despite still being there), and freezing opponents abilities.
 - Progression through this element requires meditation in self-created cold environments.
 
 # NATURINE FORBIDDEN
