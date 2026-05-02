@@ -1,6 +1,10 @@
 # The Forbidden Elements. 
 	Format: Element (Min Gate - Max Gate) - Description 
+	GATES
 	Gate (Gate) - Gate effects (Repeat for all gates)
+	ASPECTS
+	Aspect (Aspect Name)
+	Aspect Description
 	How It Feels - Descrption of feelings/effects of element on witnesses or
 	NOTES 
 	Things to note
@@ -9,7 +13,7 @@
 <sub>_Anyone of any elemental type (and in one case, human!) can use these._<sub>
 ## Omni (I - V) 
 The second youngest Forbidden Element, created by all of the elements together to create one final union. It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
-
+## GATES
 ### ⦿ **Gate I**
 The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light green, Blood Omni becomes pink). Omni element will also share characteristics of the original element (Flux/Core, Temperature, Feel). However, the element can be manifested in ways that adjacent elements can (i.e. If the user is Ballad, Blood --> Water --> Snow). Disconnection from the original element does not begin yet.
 
@@ -24,6 +28,14 @@ Omni element loses the Flux/Core distinction, allowing the user to choose which 
 
 ### ⦿ **Gate V**
 The user can now change characteristics of the elements they have already created. They can also influence nearby elements (not control, simply influence). Disconnection from the original element peaks here, as the user struggles to even remember what their original element was. Memories are scattered and even when reminded, they’re skeptical. 
+
+## ASPECTS
+### PASSIVE ASPECT: Element Omniscience 
+Wielding this Forbidden Element is enough for the user to grow knowledgeable about every base element, including wisdom on how to use the element optimally. Furthermore, they can use this knowledge to predict how their opponents would use their own element- including Forbidden Elements, though for those ones specifically, their intuition is usually off. With this, they can also sense when other elementals are nearby or approaching.
+### ASPECT: Harmony
+The user breaks the realm of possibility and begins to manifest all Elements as one truly, unlocking a true form of the Omni Element. This element feels hot and cold. Soft and hard. Tangible and intangible. Everything becomes one at the same time, and victims of this pure form break down as they struggle to comprehend what’s hitting them. Their body panics as their mind scrambles. Such a perfect harmony requires much mental strain from the user to uphold, demanding intense focus and calm to do well. A bad harmony can be dangerous or desperate to both their enemies, and themselves.
+### ASPECT: Allegiance 
+Using this aspect, the user chooses an Element that is unable to be used by anyone else so long as they are using it. This effect applies to element-specific Forbiddens, as well (Fire → Hellfire, Air → Squall, Light → Warshine). If there is no element detected, it will go for the Element the user was born with (If a Pure user, formerly Firen, is around when Fire is claimed, they can no longer use Pure). When the user switches elements, the Allegiance drops and the opponent is free to use their element again. 
 
  **_How it feels_**: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated  and over-energized, constantly requiring more action.
 
