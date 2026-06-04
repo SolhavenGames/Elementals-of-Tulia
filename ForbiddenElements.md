@@ -10,9 +10,9 @@
 	Things to note
 
 # Universal Forbidden Elements
-<sub>_Anyone of any elemental type (and in one case, human!) can use these._<sub>
+Any elemental (and for one, human) can use these elements.
 ## Omni (I - V) 
-The second youngest Forbidden Element, created by all of the elements together to create one final union. It's a combination of every normal element into one. Due to its abundance of color, it appears as a bright white light. 
+Due to its abundance of color, it appears as a bright white light in its final gate. Progression through Omni's gates requires continued use of all of the elements. It is involuntary (it will happen whenever the threshold is met; does not require user's activation). Omni was a bi-product created by naturally when an abundance of Divine Val from other Forbidden Elements being created coalesed into one form. This fact alone makes it quite unstable, and this shows mainly in its ability to make its user forget their original element. The Val Gods are mostly annoyed by its existance, as it is something none of them created, and therefore, none of them can control.
 ## GATES
 ### ⦿ **Gate I**
 The user’s original element dominates the union, which its color tinting the white (i.e. Naturine Omni becomes light green, Blood Omni becomes pink). Omni element will also share characteristics of the original element (Flux/Core, Temperature, Feel). However, the element can be manifested in ways that adjacent elements can (i.e. If the user is Ballad, Blood --> Water --> Snow). Disconnection from the original element does not begin yet.
@@ -40,14 +40,13 @@ Using this aspect, the user chooses an Element that is unable to be used by anyo
  **_How it feels_**: Witnesses are not touched at all by the presence of the omni wielder. The element itself cares little for those beyond its user. Its user will always feel understimulated  and over-energized, constantly requiring more action.
 
 ### **NOTES**
-- Flux/Core (Soft/Hard Element) choice can be made after the element has already been deployed. This essentially means that the user can launch a liquid-like substance at someone, then make
-it hard as rock.
+- Flux/Core (Soft/Hard Element) choice can be made after the element has already been deployed. This essentially means that the user can launch a liquid-like substance at someone, then make it hard as rock.
 - Omni at Gate V can mimic effects of all elements (excluding forbiddens). 
 - Omni’s influence is not controllable, all it does is simply make elements act slightly different around the Omni user. 
 - Progression through gates requires growing familiar with all elements, and conscious decisions to lose your own.
 
 ## Pure (I - V)
-This element was created by the Human gods, in an attempt to mimic Elemental power. It’s the only forbidden element that isn’t truly an element, it’s pure val. Uniquely, Humans can unlock this as well. It is nearly invisible apart from purple and red wisps that appear when it’s in use. The element is purely closed-ranged.
+It is nearly invisible apart from purple and red wisps that appear when it’s in use. The element is purely closed-ranged. Progression through the gates of Pure requires increasingly better feats, and is mostly involuntary (it can be resisted, but it will eventually force itself through). This element was created by Gadevyr, and is the oldest Forbidden Element, as it was created then for Human Emirla and himself to be on-par with the other two Valoran Gods, Ice and Fire. However, this form is a lesser version of it used by the Emirla. His version has additional abilities, including manipulation of his own size & mass, self-replication, and summoning his soldier Emirla. Valoran Gods uniquely only find out about this Forbidden Element in the Xalii Era, when Samae is called to the realm.
 ## GATES
 ### ⦿ **Gate I**
 Purely cosmetic. When this Gate is unlocked, nothing about the user is changed. If they’re an elemental, they will simply have the purple and red wisps accompany their original element. If they’re human, the wisps will appear when they do feats that require lots of physical exertion. 
@@ -83,7 +82,7 @@ Without contact, the Pure user can perfectly mimic an attack out of pure rage. T
 - Combat will not strengthen them as much as exercise or training.
 - Progression through the element requires intense physical training. 
 ## Death (I - XI)
-The youngest forbidden element, created due to the rapid death of elementals on Tulia. The forbidden element that is not chosen, but caught. Unlike the others, its user can relieve themselves of it before they are too far gone. The time of progression depends on how willing the victim is to live. This element is one of the only ones to Gate up entirely on its own.
+This element appears as a gray version of the user's original element. The element is purely close-ranged. Progression is entirely involuntary, and post emancipation, impossible. Death is currently the youngest Forbidden Element, formed by the continued loss of life from both Dal yon Tulia and the Great God War, as val from Elementals and divine val from Emirla coalesed into it. Loss of life on this scale has never been seen before, and when Death was first discovered, the Valoran Gods tried to kill it- and it resisted. Thus, they fear it, and are convinced that it is spawn of something terrible. Something worse than death. Something beyond their own minds.
 ## GATES
 ### ⦿ **Gate I** 
 The user feels ill and sickly, almost like a normal disease. In fact, it’s almost indistinguishable. In this stage, it will slowly spread across the victim’s body before making any major moves.
@@ -141,7 +140,7 @@ increasingly hopeless and pessimistic as the Gates progress.
 - Progression through the element is natural, the victim has no influence.
 
 ## Era (I - V)
-The oldest forbidden element, created at the dawn of everything. One of the three elements that chooses its user. Once the user awakens their val, if they are chosen, their element will be replaced by Era gradually, over the course of 7-19 Tulia days. This element can also only have one user at a time. It can appear as either green wisps or physical green clocks, where the user can grab the hands to reverse or speed up time.
+This element appears as green wisps or physical green clocks, which the user can grab the hands of to manipulate the flow of time (though it is possible without). Progression through the gates requires the user's consent, being fueled by meditation in time-altered zones (must be created by the user). This element chooses its user, and can only have one user at a time. Once the chosen awakens their val, this element will replace their original one over the course of 7-19 Tulia days. Era is the oldest Forbidden Element, as the universe did not move without it. Yes, this element precedes age itself. There was nothing before this element, and how it was created is unknown. What is known is that its creation marks the beginning of everything. Its mystery & age made it a prime study for Elemental scientists in love with the myth. 
 ### GATES
 ### ⦿ **Gate I**
 Once the user awakens their val, the process of replacement begins. While it’s happening, the user will gain a near perfect memory that will remain for all gates. Instead of remembering moments, the user will feel as if they genuinely relive them. Once the replacement is finished, the user will gain “regional time control”, with everything in their view within 30 meters of themselves. They do not yet unlock the clocks. Green wisps will appear around what is affected by the user. They cannot yet move things backwards in time. The speed at which things are moved through time is limited by 5 seconds per second.
@@ -177,7 +176,7 @@ After striking a target with a strong enough time attack, that target can experi
 - Progression through the gates requires close encounters with Temporal Death, showing the user puts their trust in the element.
 
 ## Dimension (I - V)
-The second oldest, created alongside Era. One of the three elements that chooses its user instead of being chosen. Once the chosen awakens their val, this element will slowly replace their original element over the course of 6-8 Tulia days. This element will only have one user at a time. It will always appear as purple or blue wisps, similar to the green wisps of its sister element Era. 
+This element will appear as purple or blue wisps, or sometimes instantiations of the Dimension the user is using as a weapon. Progression is completely involuntary, and it happens through extended periods alone or drifting from mortal possessions. This element chooses its user, and only has one user at a time. Once the chosen awakens their val, this element will slowly replace their original element over the course of 6-8 Tulia days. Dimension is the second oldest element, made immediately after what's called its "Brother Element", Era. Once everything could move, it needed somewhere to move- thus, Space was born. Though, many still debate if it came before, during, or after the necessity to move was summoned, creating a similar paradox to Era. 
 ## GATES
 ### ⦿ **Gate I** 
 Once the user awakens their val, the replacement process will begin. Immediately, the user will lose their original element. Over the progressing days, the wisps of Dimension will randomly appear around their hands and lower arms over the period of replacement. Once it’s finished, the user will begin to struggle with depth perception and feel displaced constantly. At this gate, the element is purely melee, with each attack enchanted with space. Armor struggles, footing fails, and bones rattle in ways they shouldn’t when attacked by this user. The user is no longer a part of space, instead an influence on it.
@@ -210,7 +209,8 @@ The yang of Dimension's aspects. With this aspect, a Dimension wielder can swing
 - Progression through this gate requires meditation beyond the atmosphere of any celestial body.
   
 ## Din (I - VI)
-One of the three elements that chooses its wielder. Once the user awakens their val, it will replace their original element overtime. This element will only have one user at a time. Din will allow its user to control and manipulate sound waves in early gates, but grow to vibration and damn near truth itself in later gates. This element is visibly similar to Air, sprinkling in wisps depending on what kind of sound is being made or manipulated. 
+This element has varying appearances based on the user's emotions. Progression is voluntary, requiring the user to consent to progression through gates. Speaking of, progression through gates requires harmonic relationships with one's own body, mind, and soul (not all at once). An unstable or unhappy Din user is a weak and vulnerable one. This element can only have one user at a time. It will slowly replace the user's original element over 6 Tulia days. Din is mostly believed to have come third, though even this is up for debate. Era answered when, Dimension answered where, and Din answered how... how could there be a when and where, without a how? Its unique control of vibration is what created many fundemental interactions between energies- temperature, movement, and even sometimes creation and destruction. Din is what allowed for everything else to be born, though in this action, it lost its control of some of its older dominations, and remained focused on vibration and sound.
+
 ## GATES
 ### ⦿ **Gate I**
 Once the user awakens their val, the replacement process begins. Their original element will completely vanish, and for exactly 168 hours (6 Tulia Days), they will be without their replacement. Once the 168 hours are up, the user will finally gain access to Din. The user gains the ability to manipulate and mimic sounds created around them, but have yet to unlock creation on its own. They can edit and alter the sounds they mimic/manipulate. The user will become incredibly aware of every little sound around them. They no longer just hear sound, they feel it, and see it. 
