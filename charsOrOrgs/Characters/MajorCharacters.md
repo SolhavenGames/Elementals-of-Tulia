@@ -4,7 +4,7 @@
 
 These are the characters who will have a major impact on the story alone, being major pillars of the entire Elementals Universe and timeline.
 
-# ⦿ Adva "Tempest" Anil (Female) - Airren - Forbidden Element User (Squall)  
+# ⦿ Adva "Tempest" / "Zephyr" Anil (Female) - Airren - Forbidden Element User (Squall)  
 ⦾ Description: Rosey Beige skin tone (#e9c3b6). Middle-Back length black hair put into a ponytail-like hairstyle. Large almond white-gray eyes (#D3D4D8). 
 
 ⦾ Birthday: Year 866, Month Tulip, Day 1
@@ -17,7 +17,7 @@ These are the characters who will have a major impact on the story alone, being 
 ## Backstory
 Adva Anil was born in the Airren democracy, but her parents put her up for adoption. She was quickly adopted by a rather wealthy elderly woman who simply needed some help around her house. However, this elderly woman and Adva had little to no relationship. Often, Adva would spend days, even weeks outside of the house, going to parties and participating in night life while her adpotive mother cared little for what she did. Adva became synonymous with the culture. When the war broke out, she quickly went into hiding when her friends were absorbed into the war. This alone broke her, causing her to close off what she thought was once and for all. Until she met Imbra, who refused to leave as she provided her food and safety. Adva found herself opening up to a new friend...
 She eventually unlocked Squall with the help of Terkou, and became one of the greatest Forbidden users with it.
-## ⦿ Aeri Glem (Non-Binary) - Litti - Forbidden Element User (Warshine)
+## ⦿ Aeri "Warsight" / "Zenith" Glem (Non-Binary) - Litti - Forbidden Element User (Warshine)
 ⦾ Description: Reddish Caramel skintone (#b67c70). Very short slick black hair with gold highlights towards the end. (#EFBF04).  Gold eyes (#EFBF04). 
 
 ⦾ Birthday: Year 870, Month Kinner, Day 2
@@ -26,7 +26,7 @@ She eventually unlocked Squall with the help of Terkou, and became one of the gr
 ## Backstory
 Aeri Glem was a child born for the Litti Army. They never met their parents, instead they were handed to the military the moment they were born. Then, the moment they could walk and speak, they started training. Every day. Strict schedule. Same meals. For years, and years. It was all they knew, before they were assigned to basic city patrols. Then, when Dal yon Tulia broke out, a massive refugee crisis had them reassigned to a camp on the border with a nations which hosted a young Knightsdale government. From their birth to this day, they had only had to follow orders. They hardly ever evaluated situations on their own, and thus, they were properly crafted into a perfect soldier.
 Warshine was given to them by their god, Light, who saw this in them- and their pride- and decided there could be no better wielder. 
-## ⦿ Arete Ishel (Female) - Roccian - Forbidden Element User (Bastion)
+## ⦿ Arete "Sentinel" Ishel (Female) - Roccian - Forbidden Element User (Bastion)
 ⦾ Description: Soft Caramel skintone (#cfa28b). Shoulder length scruffy black hair. Brown eyes (#A52A2A). 
 
 ⦾ Birthday: Year 860, Month Polus, Day 18
