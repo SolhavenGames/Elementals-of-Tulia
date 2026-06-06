@@ -50,6 +50,7 @@ Rai Ronal, in his corrupted nation, was born in a rather impoverished family. Du
 ⦾ Birthday: Year 873, Month Hulmin, Day 27 
 
 ⦾ Height: 5'4.5" / 163cm
+## Backstory
 # ⦿ Dera Kni-Soa (Male) - Poisi - Forbidden Element User (Era)
 
 ⦾ Birthday: Year 861, Month Yurni, Day 7
@@ -59,12 +60,15 @@ Rai Ronal, in his corrupted nation, was born in a rather impoverished family. Du
 # ⦿ Teira Kni-Soa (Female) - Poisi - Forbidden Element User (Dimension)
 
 ⦾ Birthday: Year 873, Month Kinner, Day 33
+## Backstory
 # ⦿ Warrior-0000 “Zero” (Male) - Poisi - Forbidden Element User (Bane)
 
 ⦾ Birthday: Year 855, Month Venos, Day 12
+## Backstory
 # ⦿ Spara Dei-Sor (Female) - Icik - Forbidden Element User (Subzero)
 
 ⦾ Birthday: Year 861, Month Zneff, Day 26
+## Backstory
 # ⦿ Imbra "Phoenix" Hayes (Female) - Firen - Forbidden Element User (Hellfire)  
 ⦾ Description: Chestnut Umber skintone (#8b5f46). Shoulder length scruffy and messy dull black hair (#151515). Orange-Red eyes (#ff4b33). 
 
@@ -79,31 +83,40 @@ She was born with her powers, but they remained dormant until she eventually had
 ⦾ Description: Light brown skintone (#95734e). Shoulder length black hair (#000000) wrapped into a slightly messy and unorganized hairstyle.  Deep, black eyes (#000000). 
 
 ⦾ Birthday: Year 869, Month Stemo, Day 5
+## Backstory
 # ⦿ Zrili Qonn (Non-Binary) - Lithil - Forbidden Element User (Din)
 
 ⦾ Birthday: Year 871, Month Unity, Day 27
+## Backstory
 # ⦿ Is’ale Minsi (Male) - Naturine - Forbidden Element User (Biota)
 
 ⦾ Birthday: Year 868, Month Junoy, Day 19
+## Backstory
 # ⦿ K’zorak Shima (Male) - Ballad - Forbidden Element User (Omni)
 
 ⦾ Birthday: Year 872, Month Morsh, Day 33
+## Backstory
 # ⦿ Samae Herba (Female) - Nile-Born - Forbidden Element User (Pure)
 
 ⦾ Birthday: Year 2010, Month July, Day 4
+## Backstory
 # ⦿ Troy Talona (Male) - Human (Australia Resident) - Major Antagonist
 
 ⦾ Birthday (Earth): Year 1999, Month June, Day 2nd
+## Backstory
 # ⦿ Terkou Lynqo (Male) - Mettai - Major Antagonist
 
 ⦾ Birthday: Year 801, Month Zneff, Day 6
+## Backstory
 # ⦿ Endzone (Genderless) - Android - Major Neutral
 
 ⦾ Birthday: Year 2001, Month January, Day 17
+## Backstory
 # ⦿ Wykoi Maita (Male) - Inca-Born - Major Protaganist 
 
 ⦾ Birthday: Year 1989, Month December, Day 2
+## Backstory
 # ⦿ Kterla Naomi (Female) - Sakai - Major Protaganist 
 
 ⦾ Birthday: Year 805, Month Tulip, Day 28
-
+## Backstory
