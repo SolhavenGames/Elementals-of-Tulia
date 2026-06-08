@@ -62,7 +62,7 @@ Dera would eventually awaken his val in attempts to assist in this task, but he 
 Imbra Hayes was born to a wealthy family in the Firen democracy of Iris. Her mother was a jeweler, and her father a warrior, both of whom she loves dearly. THey taught her to never claim superiority to anyone, and treat all as her equal- no matter who they are. Being an only child, she was also raised with a lot of attention and love, even from distant family members. She wanted to be a military official for tactical purposes, as a potential global space force began to take hold. But when her nation fell to the evils of Knightsdale, her parents forced her to flee the country to avoid her being drafted. She doesn't know what happened to them. Later, she is forced to start stealing due to starvation, until she eventually comes across Adva, someone who reluctantly helps her. The two eventually form a strong bond, the strongest the universe has ever seen...
 
 She was born with her powers, but they remained dormant until she eventually had a near death experience, unlocking the power she swears is a curse. 
-# ⦿ Is’ale Minsi (Male) - Naturine - Forbidden Element User (Biota)
+# ⦿ Is’ale "Rootsight" / "Briarsight" Minsi (Male) - Naturine - Forbidden Element User (Biota)
 
 ⦾ Birthday: Year 862, Month Junoy, Day 19
 ## Backstory
@@ -91,7 +91,7 @@ Kterla Naomi is known worldwide on Tulia for her political contribution to the G
 K'zorak Shima was a popular independent journalist within his nation. He'd create unfiltered reports on corrupt polititians, sneaky laws, blooming crime rings, and buried stories that many others weren't willing to cover. Of course, this caused him to get a major target on his back, but luckily for him, the State actually agreed to protect him. Free Media was engrained in the state's law, a young and poorly worded law, but a law nonetheless. K'zorak's truths and government partnership made even his competitors jealous, but his focus was not competition. It was spreading the truth. When the rise of Knightsdales began, the state began to stray away. The questionable things they had to do to keep Knightsdales out of their own government was reported by K'zorak, questioning its morality. This was the first strike for the state. The final one? When he exposed the joint cyber attack against an allied nation to prevent a possible one. Then, his free speech was revoked, and he was exiled to the massive Rainforest his nation houses. Betrayed by his state, he continued to make reports in exile, though getting little attention...
 
 K'zorak finds Omni when he realizes that it's dangerous to remain powerless, and Dera promises to remain by him until he's stable again...
-# ⦿ Rai Ronal (Male) - Watirsh - Forbidden Element User (Deluge) 
+# ⦿ Rai "Tideking" Ronal (Male) - Watirsh - Forbidden Element User (Deluge) 
 ⦾ Description: Mahogany espresso skintone (#7b4b41). Waist Length charred olive hair (#24362c) wrapped into a style, bringing it to shoulder-length. Blue-Green eyes (#0b5147). 
 
 ⦾ Birthday: Year 871, Month Tilik, Day 30
@@ -108,42 +108,51 @@ Rai unlocks Deluge behind Arete's back, hoping to finally make himself matter to
 Samae Herba is an Egypt-Born Human who came just in time for the Terra Union's collapse, beginning the Global Civil War. Her parents pushed her to fight alongside them for her nation, which she barely knew, but she did anyway. Her nation eventually ended up losing, and her parents, dying. She was alone, no friends, no known family, and almost powerless. All she had was a few technological augments, a sizable mind, and infinite ambition. Samae began to push herself, and even became an outspoken figure for Anti-Elementalists before the Burning of Gaea even began. She eventually ended up forming the Knights of Gaea at the young age of 17, and she'd silently begin her own fight for her planet...
 
 Samae unlocks Pure after months of self-experimentation, after a humiliating defeat to Adva pushed her to find something to even the odds. 
-# ⦿ Spara Dei-Sor (Female) - Icik - Forbidden Element User (Subzero)
+# ⦿ Spara "Frostqueen" Dei-Sor (Female) - Icik - Forbidden Element User (Subzero)
 
 ⦾ Birthday: Year 861, Month Zneff, Day 26
 ## Backstory
 Spara Dei-Sor was an Icik woman who always wanted to join its army. Even from a young age, she had a fascination with how her nation's soldiers used their power for the better. Eventually, she would achieve that dream, and she would join its army. Her loyalty and actions would get her quickly promoted to a mid-ranking officer, where she would command medium sized forces under orders from Commanders. This was her happy place; she had a loyal army, a strong leader, and her nation was stable. Until the Knightsdale movement began. Unfortunately for her, her commander turned out to secretly be a Knightsdale sympathiser. Her loyalty to him got her mistaken as one, and thus, she wasn't removed from her position, instead, she was commanded to carry out its atrocities. Garrisoning the Snai nation to prevent rebellion, arresting protesters, and later even plundering a village, which she refused, and exiled herself to the deep, icy void of The Far South.
 
 Spara gets Subzero after begging for it from the Ice God, who gives it to her only to spite the other Gods, as this was when the Great God War was picking up speed...
-# ⦿ Teira Kni-Soa (Female) - Poisi - Forbidden Element User (Dimension)
+# ⦿ Teira "Riftsight" / "Rifter" Kni-Soa (Female) - Poisi - Forbidden Element User (Dimension)
 
 ⦾ Birthday: Year 873, Month Kinner, Day 33
 ## Backstory
 Teira Kni-Soa, the youngest child of the Kni-Soa family, was the crown jewel of it. Her entire family adored her beauty, her passion, her genius. She was constantly given praise after praise, never given a chance to rest. She grew to adore the spotlight, but her older brother Dera was her escape. When she was tired of being praised, she'd find herself in his room chatting about life. When she was annoyed with having to be perfect, she entertained Dera- who loved her flaws, too. She showed her brother love not out of obligation, but out of pure emotion and true siblinghood between the two, that looked unbreakable to any onlooker. When her brother was drafted, she was broken. Her family later sent her to a refugee camp in the neighboring Litti nation, where they hoped she would be safe. She would later escape that camp, with a new mission: Find her family. Find her brother.
 
 Teira unlocks Dimension when she tries to awaken her Val to assist in her new quest. She is confused when her element disappears and is replaced. Suddenly, she forgets her mission, and she wanders aimlessly...
-# ⦿ Terkou Lynqo (Male) - Mettai - Major Antagonist
+# ⦿ Terkou "The One" Lynqo (Male) - Mettai - Major Antagonist
 
 ⦾ Birthday: Year 801, Month Zneff, Day 6
 ## Backstory
+Terkou Lynqo was a self proclaimed "Human Specialist" living on one of Tulia's moons. He eventually moves to Gaea after saving up enough money, in an attempts to study the planet and its inhabitants deeper. He meets Kterla there, and together, they aim to make a home for their kind on the planet, as instability in their own home causes many of them to flee. However, the two begin to disagree and stray apart, despite clear romantic interest in one another, as Terkou favors Elemental Supremacy as opposed to Kterla's Coexistance stance. Eventually, Terkou goes into hiding, taking Endsight with him as his own personal terrorist organization. His isolation causes him to lose central control, and it becomes more of a cult. He now waits for an opportunity to put his plan into motion...
 # ⦿ Troy Talona (Male) - Human (Australia Resident) - Major Antagonist
 
 ⦾ Birthday (Earth): Year 1999, Month June, Day 2nd
 ## Backstory
+Troy is an Australia born human that was always destine for politics. His family were politically active, striving for the return of the Terra Union- a strong human-centric union that allowed for massive innovation on both technological and social scales. Troy, being raised in this household, happened to become a unionist himself, and he became a very popular figure due to his confidence in his ideals and quick debate tactics, bringing strong evidence while debunking his opponents. Though, he could not run for office in his country due to lack of military experience. So, he decided instead to run for the Global Government- which he won in a landslide. There, he was pushed into an Elemental specialization, a young organization made to help Elementals integrate to Gaea. He climbed the ranks in here, and used it to fearmonger the Burning of Gaea into affect...
 # ⦿ Wykoi Maita (Male) - Inca-Born - Major Protaganist 
 
 ⦾ Birthday: Year 1989, Month December, Day 2
 ## Backstory
-# ⦿ Warrior-0000 “Zero” (Male) - Poisi - Forbidden Element User (Bane)
+Wykoi Maita is an Inca born human that didn't have much going for him before his political career. When Elementals arrived, he became a very loud voice for coexistance between the species, so much so that many Elementals- even those who were Elemental Supremacists- began to praise him for his honesty and effort to his cause, something Elemental culture appreciates. His ideals were reinforced personally when his father died, and the first to rush to his side were his local Elemental friends- far before any Human even bothered to text him. They arrived with gifts, condolences, and comfort that he had never felt before. That moment fueled his love for the species, and he could never truly see them as pure evil. Wykoi would eventually meet Kterla, and the two would become the sybmol for coexistance.
+# ⦿ Warrior-0000 “Zero” | "Gravesight" (Male) - Poisi - Forbidden Element User (Bane)
 
 ⦾ Birthday: Year 855, Month Venos, Day 12
 ## Backstory
+Zero was a nobody. So much so, that his name is unknown. What is known is that he was cut off by his own family after his addictions pushed him to be a liability, forcing him into state custody- state housing, state sustenance, state rehabilitation, all of it. And he contineud to resist. When his nation fell to Knightsdale, they used this fact that nobody seemed to care for him paired with his noticably larger val bank to use him as an experiement. Admittedly, they knew he was a loose cannon. They knew he was a bad investment, but he was undoubtedly the best they had, and if it succeeded, he would be the perfect soldier. Luckily for them, it did. Now they just had to hold out...
+Zero is given Bane when he is apart of a super soldier program. He is the only person to be able to fully handle Bane, allowing him to fly through the gates faster than his peers- and eventually, he is the last one remaining alive.
 # ⦿ Zezri Duro (Female) - Darrekin - Forbidden Element User (Void)
 ⦾ Description: Light brown skintone (#95734e). Shoulder length black hair (#000000) wrapped into a slightly messy and unorganized hairstyle.  Deep, black eyes (#000000). 
 
 ⦾ Birthday: Year 869, Month Stemo, Day 5
 ## Backstory
+Zezri Duro was born to be a worker. However, when her state noticed how much Val she carried, they decided to turn her into a soldier instead. Like Aeri, she was sent through a grueling training process. Though, unlike Aeri, they were trained to be a strategist. They were trained to think and choose. They were given the right to decide. her intelligence made this a lot stronger than her state probably expected, and she had already begun developing thoughts against her state early-on, btu she played along. When a neighboring nation fell to Knightsdale, a refugee crisis began- and she was pushed to be the leader of the camp, where she was kidnapped by that new Knightsdale nation to be a lab rat...
+Zezri would eventually be given Void by these scientists, which she would use to escape her captivity- broken and alone...
 # ⦿ Zrili Qonn (Non-Binary) - Lithil - Forbidden Element User (Din)
 
 ⦾ Birthday: Year 871, Month Unity, Day 27
 ## Backstory
+Zrili Qonn was born to a middle-class family in the most active and busy city in the world. Due to this, they were expected to follow along. Their high val allowed them a strong position in a local powerplant that supplied power for the entire world, which their family heavily suggested they take. Reluctantly, they did, but they hated everything about it. All they ever wanted was a quiet life, far away from the endless noise of the city. This power plant was the exact opposite, constant whirring and chirping of machines tore into them. Eventually, they were offered a promotion that required them to awaken their val, something that would change their life forever...
+Zrili would eventually be given Din once it finished replacing their element. Being overloaded with sound, they aimlessly searched, desperate for help...
