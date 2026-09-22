@@ -296,7 +296,7 @@ Belgrade (Europa)
 Athens (Europa)
 
 # North America
-North America is home to the second most powerful nation in the world, the Thirteen Republics. It is also home to the largest, most expansive Super and Mega cities, thanks to massive urbanization
+North America is home to the second most powerful nation in the world, the Thirteen Sectors. It is also home to the largest, most expansive Super and Mega cities, thanks to massive urbanization
 projects under the Terra Union. The largest of these would be New York City, which has grown to become comparable to the size of West Virginia. Another major example would be Toronto, which has
 grown so large that the country that owns it (Defenders of Toronto) is entirely just Toronto. No rural land, purely urban. 
 
@@ -305,7 +305,7 @@ hundreds of thousands of European immigrants over the years, despite ongoing war
 make up 45% of the world’s food imports, and commonly fight wars with each other over rural land. People in massively urban countries like the 13 Republics, Toronto, or the Democratic State of 
 Central America have commonly been on the verge of famine. If it weren’t for ADS intervention, it’s likely millions would have died by now. 
 
-The Thirteen Republics is an economic powerhouse resting on the East of the continent. Their name has a sprinkle of nostalgia in it, as they actually have 19 Republics in their confederation.
+The Thirteen Sectors is an economic powerhouse resting on the East of the continent. Their name has a sprinkle of nostalgia in it, as they actually have 19 Republics in their confederation.
 This confederation demands strong political ties but allows heavy economic freedoms, allowing for different republics to develop how they see fit. For example, the New York Republic is heavily 
 industrialized, forming massive corporations for consumerism, while the Tennessee Republic tries to take on most of the agricultural demands of the nation. It’s a delicate balance that has been 
 holding strong since the nation was founded. As for their military, they hold a strong alliance with their northern neighbor Quebec, who frequently battles with the Empire of Alaska. Quebec itself
@@ -333,7 +333,7 @@ constant watch in big cities, ensuring loyalty to the cause and sometimes even c
 wartime do the people get some breathing room, and that’s when unrest seems to rise the most. These two nations are unstable, but only time will tell if they stand.
 
 ## North America’s Countries:
-⦿ The Thirteen Republics ⭐
+⦿ The Thirteen Sectors ⭐
 
 Capital: New York-A1 | Alignment: Eastern Alliance
 
