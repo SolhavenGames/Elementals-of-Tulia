@@ -20,7 +20,9 @@ Core Ideology - Disorganized Democracy (Until Early-Mid Gaea Arc); Non-Authorita
 <sub> Disorganized Democracy → Non-Authoritarian Imperium | [Spara Dei-Sor](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SparaArcTulia.md) is elected Queen of Frei-Se, but gives her people freedoms that normal Imperiums wouldn't, including the freedom to criticize her.<sub>
 <sub>_Imperium - An Elemental Ideology where the Royal Family leads as a single executive force. Usually Authoritarian. Sometimes the family has specialized advisors. Usually considered to be outdated, but Frei-Se seems fine with it._<sub>
 ## STRUCTURE
+Frei-Se is led by [Spara Dei-Sor](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SparaArcTulia.md) and [Rai Ronal/Dei-Sor](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/RaiArcTulia.md) as Husband and Wife. King and Queen. They have total executive control, leaving guaranteed freedoms for every citizen. Everyone answers to them with utmost loyalty, and nobody is above them in the Frei-Se government food chain.
 
+Beneath them are many advisors as neither truly know how to govern, as well as some servants who are willing, insisting volunteers happy to work for their royal family. Their advisors do exactly that- Advise. Though they do constantly remind the Royals that they have the final say, no matter what they (the advisors) tell them (the royals). Yet, the Royals continue to enjoy the help from their advisors, even allowing them to live in the palace alongside them and their servants.
 ## GOALS
 Early Gaea Arc Goals - Organize, Stabilize
 
