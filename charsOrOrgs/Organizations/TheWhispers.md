@@ -11,7 +11,7 @@ Major Character Membership - N/A
 
 Based In - Siberia, Wilderness
 
-Active Personnel - 682k (401k Humans, Rest Elemental)
+Active Personnel - 242k (131k Humans, Rest Elemental)
 
 Core Ideology - Accelerationist Extinctionism 
 
@@ -23,13 +23,16 @@ The Whispers operates in a very culty way. They actually worship [Kael Hayes-Vor
 ## GOALS
 Early Gaea Arc Goals - Spread Terror, Kill as many as possible, Maintain Secrecy
 
-With such a low member count at the start, The Whispers mainly operates through terrorist attacks that they frame on other organizations known for terrorism. Using this tactic, they were able to commit many acts while going com0letely unnoticed. 
+With such a low member count at the start, The Whispers mainly operates through terrorist attacks that they frame on other organizations known for terrorism. Using this tactic, they were able to commit many acts while going completely unnoticed. Their operations, usually ordered and plotted by Shi Ryisko, caused mass confusion, death, and often wars, uprisings, or more conflicts. Nadest Ryisko was often commanding the soldiers on the ground, opting to 'see the destruction for himself' while his daughter was the mastermind behind it all.
 
-Middle Gaea Arc Goals - Spread Terror, Kill as many as possible, Innovate Strong Weapons
+Middle Gaea Arc Goals - Spread Terror, Kill as many as possible, Innovate With Val
 
-
+With membership growing, The Whispers grew cocky. They believed that if they innovated far enough using Val, they could create the environment necessary for a mass extinction, killing both Humans and Elementals but bringing upon a new wave of beautiful life with noone to exploit it. Thus, they built the Val Bomb. What they didn't expect was for the invention to push other organizations to focus on them after the Val Bomb caused international fear. 
 
 Late Gaea Arc - Survive
 
-
+In the late Gaea Arc, The Whispers are under attack by almost every other organization. Even [Endsight](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs%2FOrganizations%2FEndsight.md), the organization Nadest and Shi used to claim allegiance to, was now participating in covert ops against them to secure their innovations. The Whispers did eventually fall, and Nadest was killed in the battle. However, Shi escaped, and was later recruited by [Terkou Lynqo](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) to join [Endsight](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs%2FOrganizations%2FEndsight.md)...
 ## BACKSTORY
+The founders of The Whispers, Nadest and Shi Ryisko, are father and daughter. The mother/wife was killed by humanity, which pushed them to join Endsight in the first place. But as they saw the glory of life on Gaea, they began to believe that nobody was truly worth the planet. So, their ideology quickly radicalized to an Extinctionism. A quick purge of all intelligent life on the planet, including them.
+
+The Whispers wasn't born out of hatred. It was born out of love. Love for the nature of Gaea. Love for its beautiful plants and animals. Its glorious skies. They believed wholeheartedly that no mortal eyes deserved to lay eyes upon the planet. 
