@@ -5,7 +5,7 @@ The Association of Democratic States, working from Berlin, brings in representat
 
 The ADS is often looked towards when massive, international threats or events happen. This includes natural disasters and distribution of news. This also includes the arrival of Elementals, which they handled by creating a new institution. It currently has held a long peacetime through negotiations and diplomacy (There are still some conflicts), despite having no peacekeeping/armed forces to back them up. 
 ## STATS
-Leader - Troy Talona (Up until the Late-Middle Gaea Arc); Samae Herba (Present)
+Leader - [Troy Talona](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaSaga/CharacterArcs/TroyArcTulia.md) (Up until the Late-Middle Gaea Arc); [Samae Herba](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/GaeaSaga/CharacterArcs/SamaeArcGaea.md) (Present)
 
 Based In - Berlin (Super City), Germania
 
