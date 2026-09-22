@@ -1,26 +1,28 @@
 # FREI-SE - TRI-UNION OF THREE CULTURES
-<sub>_"No elemental should kneel to any other creature. Ever."_</sub>
+<sub>_"We would've been peaceful. Now we will protect every Elemental."_</sub>
 ## SUMMARY
-
+Frei-Se is a nation in Antarctica led by a royal family, currently just a King and Queen, known simply as King Dei-Sor and Queen Dei-Sor. 
 ## STATS
-Leader -
+Leader - [Spara Dei-Sor](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SparaArcTulia.md) ("Queen Dei-Sor"), [Rai Ronal/Dei-Sor](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/RaiArcTulia.md) ("King Dei-Sor")
 
-Major Character Membership -
+Major Character Membership -[Spara Dei-Sor](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/SparaArcTulia.md), [Rai Ronal/Dei-Sor](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/RaiArcTulia.md)
 
-Based In - 
+Based In - Frei-Se, Dersk
 
-Active Personnel - 
+Population - 16.7 Million 
 
-Core Ideology -
+Active Personnel - 3.4 Million 
 
-<sub> <sub>
+Core Ideology - Non-Authoritarian Imperium 
+
+<sub>_Imperium - An Elemental Ideology where the Royal Family leads as a single executive force. Usually Authoritarian. Usually considered to be outdated, but Frei-Se seems fine with it._<sub>
 ## STRUCTURE
 
 ## GOALS
-Early Gaea Arc Goals - Spread Terror, Inspire Uprisings, Conquer Humanity
+Early Gaea Arc Goals - 
 
-Middle Gaea Arc Goals - Spread Terror, Solidify Elemental Gains, Get the Val Bomb
+Middle Gaea Arc Goals - 
 
-Late Gaea Arc / Early Xalii Arc Goals - Spread Terror, Weaken Humanity, Buy Time
+Late Gaea Arc / Early Xalii Arc Goals - 
 
 ## BACKSTORY
