@@ -1,11 +1,11 @@
-# THE WHISPERS - APOLOGIZING TO THE WORLD FOR YESTERDAY
-<sub>_"Flavor text!"_</sub>
+# THE WHISPERS - YET ANOTHER REASON TO FIGHT
+<sub>_"No eyes deserve the beauty of these planets."_</sub>
 ## SUMMARY
-
+The Whispers is a highly secretive extinctionist death cult that's actually a break away from
 ## STATS
 Leader - 
 
-Major Character Membership - 
+Major Character Membership - N/A
 
 Based In - 
 
