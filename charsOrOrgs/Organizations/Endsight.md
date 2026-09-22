@@ -29,14 +29,20 @@ In this time, Endsight was not a terrorist organization. It was even run through
 
 Middle Tulia Arc Goals - Reorganize, Repurpose
 
-Endsight, after [Terkou Lynqo](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) essentially took the organization and bent it to his own, new will, was now reorganizing and repurposing itself to fit his new ideology. 
+Endsight, after [Terkou Lynqo](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) essentially took the organization and bent it to his own, new will, was now reorganizing and repurposing itself to fit his new ideology. Since he's fled to Antarctica, a barren continent, he struggles to find members, but some who share his vision stay close. 
 
-Late Tulia Arc / Early Gaea Arc Goals - 
+Late Tulia Arc / Early Gaea Arc Goals - Spread Terror, Inspire Uprisings, Conquer Humanity
 
-Middle Gaea Arc Goals - 
+After recruiting [Adva Anil](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AdvaArcTulia.md) and [Imbra Hayes](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ImbraArcTulia.md) when he found them both distressed and full of hatred, Terkou points them as weapons to begin the Burning of Gaea. When he defects from them, however, he's forced to find his four new members, training them and being sure to not make the same mistake he did with the last two...
 
-Late Gaea Arc / Early Xalii Arc Goals - 
+Middle Gaea Arc Goals - Spread Terror, Solidify Elemental Gains, Get the Val Bomb
 
+Endsight has solidified itself as a terrifying power with four willing Forbidden Users under its wing. However, they could be scarier. They want to do more. They want to push more. They need more fear in both Humans and Elementals so that Elementals can finally push to conquer the entire planet. When they hear about the Val Bomb, they decide they absolutely need it at any costs. It could be the key to destroying Humanity once and for all.
+
+Late Gaea Arc / Early Xalii Arc Goals - Spread Terror, Weaken Humanity, Buy Time
+
+With the Val Bomb not being secured, Endsight falls back to the possibility that conventional warfare may have to be enough. They begin to weaken humanity through the same tactics they always used: Terrorist attacks on large major cities, which went well during the Terror Plan, strategically attacking when their strongest enemies were occupied with destroying the death cult, [The Whispers](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/TheWhispers.md). When their Forbidden Users disappear into the Spirit Realm, they switch towards buying time for them to return. They can't let their enemies know they're weakened. 
 ## BACKSTORY
+Endsight was originally founded as an extention of the [ADS](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/AssociationOfDemocraticStates.md) and its intentions to assist Elementals finding a home on the planet. Being led by both [Kterla Naomi](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) and [Terkou Lynqo](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md), the two became the official faces of Elementals on the planet.
 
-
+However, when [Terkou Lynqo](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) eventually decided that Humanity was insultingly weak, and that Gaea belonged to Elementals, he distorted Endsight into the terroristic and hateful organization it's known as today. 
