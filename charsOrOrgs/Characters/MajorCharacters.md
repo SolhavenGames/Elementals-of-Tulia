@@ -47,9 +47,6 @@ She seeked Bastion on Gaea with Rai, after he encouraged her own activity in the
 The eldest child of the politically strong Kni-Soa family, Dera Kni-Soa was otherwise quite overlooked in his youth-focused society. Though, to say he hated this would be a lie. His sister, Teira Kni-Soa, would take most of the attention, allowing Dera to be on his own as he so pleaed, reaching for his own unusual dreams for his kind, like being an engineer. The siblings had a very close relationship, and were often considered inseperable by onlookers. Dera found himself sticking to small groups because of this, finding peace in quality relationships over quantity. When the war broke out, Dera, being the eldest and only child paired with being the child of former political rivals of his young Knightsdale government, was drafted into the war almost instantly. There, he faked his suicide to escape, fleeing to an entirely different continent, only hoping to see his sister or family again.
 
 Dera would eventually awaken his val in attempts to assist in this task, but he was shocked to lose his element completely, as the replacement stage of Era began. He was dazed and confused as his mind flooded with Era's information...
-# ⦿ Endzone (Genderless) - Android - Major Neutral
-
-⦾ Birthday: Year 2001, Month January, Day 17
 ## Backstory
 # ⦿ Imbra "Phoenix" Hayes (Female) - Firen - Forbidden Element User (Hellfire)  
 ⦾ Description: Chestnut Umber skintone (#8b5f46). Shoulder length scruffy and messy dull black hair (#151515). Orange-Red eyes (#ff4b33). 
