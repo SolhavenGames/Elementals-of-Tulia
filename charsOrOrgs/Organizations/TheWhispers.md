@@ -17,13 +17,11 @@ Core Ideology - Accelerationist Extinctionism
 
 <sub>Accelerationist Extinctionism | These people want to kill everyone on the planet, and they're willing to go to very extreme measures to do so.<sub>
 ## STRUCTURE
-The Whispers operates in a very culty way. They actually worship 
+The Whispers operates in a very culty way. They actually worship [Kael Hayes-Voris](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc%2FCharacterArcs%2FKaelArcTulia.md) as he is the wielder of the Forbidden Element Death, though he is one of the main forces fighting against them. Regardless, their loyalty to him and the Death Forbidden Element pushes them forth, and they claim that the Forbidden Element speaks to them directly, commanding them to kill the millions they eventually are responsible for. 
+
+... legitimately, though, Shi ends up delivering most commands on her own, leading the organization herself while her Father leads a personal task force of the strongest fighters, all of which Elementals. with this task force, he usually commits heinous acts of terror, spreading fear across the globe and starting wars as nations blame their rivals and the other species for the mass death. 
 ## GOALS
-Middle Tulia Arc Goals - 
-
-
-
-Late Tulia Arc / Early Gaea Arc Goals - 
+Early Gaea Arc Goals - 
 
 
 
