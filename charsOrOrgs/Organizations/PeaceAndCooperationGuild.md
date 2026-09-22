@@ -19,7 +19,7 @@ Core Ideology - Enforced Futuristic Multi-Species Democracy
 ## STRUCTURE
 Despite having an official leader, PAC operates mostly leaderless, as the leader [Kterla Naomi](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) simply gives the task force directives and targets. They usually deliberate among themselves on how to approach and target them, with the role of field leader often shifting based on who seems to have the most knowledge on the operation they were given.
 
-The dynamic among the actual fighters, the Forbidden Users/Task Force, is often leaderless. They operate under a simple yet effective set structure where eat of the members are given set roles to fill during combat. However, this often leaves them very rigid, and if one is temporarily removed from the fight, vulnerable. This is something they've addressed constantly, but have decided to leave alone for the time being.
+The dynamic among the actual fighters, the Forbidden Users/Task Force, is often leaderless. They operate under a simple yet effective set structure where each of the members are given set roles to fill during combat. However, this often leaves them very rigid, and if one is temporarily removed from the fight, vulnerable. This is something they've addressed constantly, but have decided to leave alone for the time being.
 ## GOALS
 Middle Gaea Arc Goals - Defend Innocents, Hunt & Destroy harmful organizations
 
