@@ -302,14 +302,14 @@ grown so large that the country that owns it (Defenders of Toronto) is entirely 
 
 This is good, and bad. For one, nations with these large cities have massively booming economies, and a heavy influx of migrants. For example, New York City and Miami alike have been getting
 hundreds of thousands of European immigrants over the years, despite ongoing wars. However an unfortunate effect of mass urbanization is the loss of farmland. Countries in North America together
-make up 45% of the world’s food imports, and commonly fight wars with each other over rural land. People in massively urban countries like the 13 Republics, Toronto, or the Democratic State of 
+make up 45% of the world’s food imports, and commonly fight wars with each other over rural land. People in massively urban countries like the 13 Sectors, Toronto, or the Democratic State of 
 Central America have commonly been on the verge of famine. If it weren’t for ADS intervention, it’s likely millions would have died by now. 
 
 The Thirteen Sectors is an economic powerhouse resting on the East of the continent. Their name has a sprinkle of nostalgia in it, as they actually have 19 Republics in their confederation.
 This confederation demands strong political ties but allows heavy economic freedoms, allowing for different republics to develop how they see fit. For example, the New York Republic is heavily 
 industrialized, forming massive corporations for consumerism, while the Tennessee Republic tries to take on most of the agricultural demands of the nation. It’s a delicate balance that has been 
 holding strong since the nation was founded. As for their military, they hold a strong alliance with their northern neighbor Quebec, who frequently battles with the Empire of Alaska. Quebec itself
-is much like the 13 Republics, being an economically decentralized confederation with strong political ties between territories. The alliance between the two holds strong due to these similarities.
+is much like the 13 Sectors, being an economically decentralized confederation with strong political ties between territories. The alliance between the two holds strong due to these similarities.
 In the north rests the Empire of Alaska, a military state focused on expansion and conquest. While it claims to have an emperor, the emperor has never come out in public themself, and thus it is
 highly believed that the Emperor of Alaska is a made up figure. What is known about the government of Alaska is that it’s a massively military-dominated unelected parliament, and political
 scientists assign them a similar ideology to that of China, as an Imperial Military State. It is quite the fitting title, as Alaska has arguably one of the most impressive armies, despite its low
@@ -374,9 +374,9 @@ Capital: Toronto-A1 | Alignment: Terra Union (Leaning)
 Anarchists in The Rockies
 
 ## North America’s Super Cities:
-New York (13 Republics)
+New York (13 Sectors)
 
-Miami (13 Republics)
+Miami (13 Sectors)
 
 Chicago (TUG-LM)
 
@@ -387,7 +387,7 @@ Mexico City (Central America)
 Toronto (DoT)
 
 ## North America’s Mega Cities:
-Philadelphia (13 Republics)
+Philadelphia (13 Sectors)
 
 Dallas (Central America)
 
@@ -403,7 +403,7 @@ Havana (Caribbean)
 
 Panama (Central America)
 
-Atlanta (13 Republics)
+Atlanta (13 Sectors)
 
 Montreal (Quebec)
 
