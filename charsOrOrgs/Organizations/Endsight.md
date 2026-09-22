@@ -13,7 +13,7 @@ Active Personnel - 824,000 Elementals, 4 Forbidden Element Users
 
 Core Ideology - Ultraxenophobic Elemental Junguism 
 
-<sub>_Junugism - An Elemental Ideology where democracy is upheld through a very strict constitution and heavy laws with strong anti-corruption watchdogs. It often makes it difficult for the nation to be ran, almost by design._</sub>
+<sub>_Junugism - An Elemental Ideology where democracy is upheld through a very strict constitution and heavy laws with strong anti-corruption watchdogs. It often makes it difficult for the nation's laws to be changed, almost by design._</sub>
 ## STRUCTURE
 
 ## GOALS
