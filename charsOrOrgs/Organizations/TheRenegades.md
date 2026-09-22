@@ -1,35 +1,32 @@
 # THE RENEGADES - INDEPENDENT STRENGTH
-<sub>_"Flavor text!"_</sub>
+<sub>_"At the end of the day, we're a family, and each other's home above all else."_</sub>
 ## SUMMARY
+The Renegades, while being called that by the story and other nations/organizations, don't have a set and stone name. In fact, they have tens, maybe hundreds of names that the public refers to them by, shifting quite often. It's very similar to their nature. They are hardly official, never posting public statements or issuing public addresses. In fact, they're hardly considered an organization more than they're just a group of vigilantes. 
 
+Their ideals seem to revolve around coexistence with slight Elemental supremacy, mainly through merit. However, they still treat humans as equals, never looking down upon them or killing them without reason. Nations and organizations, including the [Association of Democratic States](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/AssociationOfDemocraticStates.md) and [Strategists for Peace](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/StrategistsForPeace.md) have them declared as wanted criminals due to them operating unsanctioned and without approval from anyone, going where they want, when they want. Though, [Frei-Se](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/Frei-se.md) actually houses them, as they are close friends with the royal family.
 ## STATS
-Leader - 
+Leader - N/A
 
-Major Character Membership - 
+Major Character Membership - [Adva Anil](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AdvaArcTulia.md), [Dera Kni-Soa](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/DeraArcTulia.md), [Imbra Hayes-Voris](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ImbraArcTulia.md), [Kael Hayes-Voris](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md)
 
-Based In - 
+Based In - Darsk, [Frei-Se](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/Frei-se.md)
 
-Active Personnel - 
+Active Personnel - 4 Forbidden Users
 
-Core Ideology - 
+Core Ideology - Democratic Coexistence + Slight Elemental Merit Supremacy; Anti-Authoritarianism 
 
-<sub> <sub>
+<sub>Their ideology is not in-depth on purpose. They do not ideologically agree 100% (though they are at the very least close or adjacent), nor do they fight solely to spread an ideology.<sub>
 ## STRUCTURE
+There is no structure. The Renegade members operate freely from leadership, going where they want, when they want. They do sometimes formulate plans, but no member is ever forced to participate if they don't want to. Furthermore, members are completely free to leave and do something without prior planning or consulting other members. They don't care for their public image or what governments or other organizations think of them.
 
+They more or less operate as a family behind the scenes. They keep each other emotionally in check, understanding the struggles of wielding a Forbidden Element and fighting in a global war like this. They prioritize saving civilians of all kinds, while also toppling governments they don't necessarily agree with.
 ## GOALS
-Middle Tulia Arc Goals - 
+Middle Gaea Arc Goals - Prevent Authoritarianism, Protect Civilians
 
+The young group mainly operates and moves to prevent authoritarian governments from rising and taking power. They also try to save as many civilians as they can, but they usually target what they consider to be institutional wrongdoings, which sometimes leads to civilian deaths in their battles. They also happen to clash with and fight against [Endsight](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/Endsight.md) and the [Peace and Cooperation Guild](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/PeaceAndCooperationGuild.md), but sometimes end up on the same side as the [Peace and Cooperation Guild](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/PeaceAndCooperationGuild.md), a further highlight of their enigmatic nature.
 
+Late Gaea Arc / Early Xalii Arc Goals - Destroy Cults, Prevent [ADS](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/AssociationOfDemocraticStates.md) expansionism, ???
 
-Late Tulia Arc / Early Gaea Arc Goals - 
-
-
-
-Middle Gaea Arc Goals - 
-
-
-
-Late Gaea Arc / Early Xalii Arc Goals - 
-
-
+Towards the end of the Gaea Arc, the long hidden organization known as [The Whispers](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/TheWhispers.md) had become exposed. Together with the [Peace and Cooperation Guild](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/PeaceAndCooperationGuild.md), they moved to end and destroy them once and for all. Right after that, a new threat arose, the global government itself. But suddenly, the group disappeared from the mortal realm into Xalii... no longer aware of what was happening in the mortal realm, until they eventually return...
 ## BACKSTORY
+While The Renegades was only referenced in the Middle Gaea Arc, its members have history together. Just like the operating of the group suggests, they are mostly a family. [Adva Anil](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AdvaArcTulia.md) and [Imbra Hayes-Voris](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ImbraArcTulia.md) have been close friends for many years, surviving the war on Tulia together as the only thing each other had, breeding a close loyalty & sisterly bond, the closest the story sees. [Adva Anil](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AdvaArcTulia.md) and [Kael Hayes-Voris](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md) are close friends too, uniting over their similar traumas with the war. As their names suggest, [Imbra Hayes-Voris](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ImbraArcTulia.md) and [Kael Hayes-Voris](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md) are husband and wife, being married in the Early-Middle Gaea Arc. Though [Dera Kni-Soa](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/DeraArcTulia.md) joined the organization recently after defecting from [PAC](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/PeaceAndCooperationGuild.md), they already have accepted him in and has formed a close, brotherly bond with [Kael Hayes-Voris](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KaelArcTulia.md) after the two connected over shared frustrations with their Forbidden Element and not reaching their dreams...
