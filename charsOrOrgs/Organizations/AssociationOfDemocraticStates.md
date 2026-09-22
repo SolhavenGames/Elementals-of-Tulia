@@ -2,6 +2,7 @@
 <sub> _"... And with the strike of a gavel, history shall drift like never before."_ <sub>
 ## SUMMARY
 The Association of Democratic States, working from Berlin, brings in representatives from every Human nation on the planet. There, they deliberate and enact international law (war laws, human rights, ect) while representing their nation to all others. The ADS is controversial due to its history, which causes some nations to boycott and others to even attempt to destroy, as the institution has had to fight for its legitimacy over three times in the past decades. It currently holds a strong grip over it, with only three nations boycotting its meetings. 
+
 The ADS is often looked towards when massive, international threats or events happen. This includes natural disasters and distribution of news. This also includes the arrival of Elementals, which they handled by creating a new institution. It currently has held a long peacetime through negotiations and diplomacy (There are still some conflicts), despite having no peacekeeping/armed forces to back them up. 
 ## STATS
 Leader - Troy Talona (Up until the Late-Middle Gaea Arc); Samae Herba (Present)
@@ -30,5 +31,6 @@ With [Samae Herba](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/mai
 
 ## BACKSTORY
 The Association of Democratic States is a rebirth of an old Global Government from the 1930s and 40s before the days of the Terra Union, when its ancestor ideology- Interventionalist Democracy- was still spreading. Back then, it was made for legitimacy, and to push public opinion towards them. When the Terra Union was formed, the ADS became the government of the world, running elections and holding the planet together (after defeating a few uprisings), and it was no longer known as the ADS, as it was simply called 'The Government'. 
+
 When the Terra Union fell, the old ADS fell with it. However, remaining Terra Union splinter states that still supported the idea of a united planet rebuilt it, creating the new ADS that we have today, though in a much weaker form. It was created to do exactly what it did previously: build support to slowly conquer. But this time, it failed, as anti-union states gained ground, won wars, and solidified their territories before the Terra Union supporters could fully mobilize. Thus, the ADS became nothing more than a global government with the main goal of keeping peace, limiting loss of life, and oftentimes handling international disputes, though not very effectively.
 
