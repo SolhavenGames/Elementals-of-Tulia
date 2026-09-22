@@ -25,7 +25,7 @@ Early Gaea Arc Goals - Spread Terror, Kill as many as possible, Maintain Secrecy
 
 
 
-Middle Gaea Arc Goals - 
+Middle Gaea Arc Goals - Spread Terror, Kill as many as possible, Innovate Strong Weapons
 
 
 
