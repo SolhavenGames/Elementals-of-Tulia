@@ -7,6 +7,8 @@ Endsight often sees spikes in membership when Valorankind on Gaea comes under th
 ## STATS
 Leader - [Terkou Lynqo](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md)
 
+Major Character Membership - [Aeri Glem](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AeriArcTulia.md), [Isale Minsi](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/IsaleArcTulia.md), [Teira Kni-Soa](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TeiraArcTulia.md), [Zero](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/ZeroArcTulia.md)
+
 Based In - Antarctica, Wasteland (Up until the Middle Gaea Arc), Sahara Desert, Wasteland 
 
 Active Personnel - 824,000 Elementals, 4 Forbidden Element Users 
@@ -15,7 +17,7 @@ Core Ideology - Ultraxenophobic Elemental Junguism
 
 <sub>_Junugism - An Elemental Ideology where democracy is upheld through a very strict constitution and heavy laws with strong anti-corruption watchdogs. It often makes it difficult for the nation's laws to be changed, almost by design._</sub>
 ## STRUCTURE
-
+Endsight lacks a definite structure. Instead, its leader, [Terkou Lynqo](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md), directly commands its four Forbidden User members. 
 ## GOALS
 Early Tulia Arc Goals - 
 
