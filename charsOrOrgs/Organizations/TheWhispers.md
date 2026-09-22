@@ -21,7 +21,7 @@ The Whispers operates in a very culty way. They actually worship [Kael Hayes-Vor
 
 ... legitimately, though, Shi ends up delivering most commands on her own, leading the organization herself while her Father leads a personal task force of the strongest fighters, all of which Elementals. with this task force, he usually commits heinous acts of terror, spreading fear across the globe and starting wars as nations blame their rivals and the other species for the mass death. 
 ## GOALS
-Early Gaea Arc Goals - 
+Early Gaea Arc Goals - Spread Terror, Kill as many as possible, Maintain Secrecy
 
 
 
@@ -29,7 +29,7 @@ Middle Gaea Arc Goals -
 
 
 
-Late Gaea Arc / Early Xalii Arc Goals - 
+Late Gaea Arc - Survive
 
 
 ## BACKSTORY
