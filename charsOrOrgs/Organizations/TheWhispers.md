@@ -5,19 +5,19 @@ The Whispers is a highly secretive extinctionist death cult that's actually a br
 
 Originally founded by a father and daughter, expanded into a global terrorist organization, the Whispers was deeply paranoid to its core. It knew eventually that it would fall, and that led it to be reckless at times, to the point where they were the reason their base of operations was discovered. They were swiftly defeated, but they fought tooth and nail with their invaders...
 ## STATS
-Leader - 
+Leader - Nadest Ryisko, Shi Ryisko
 
 Major Character Membership - N/A
 
-Based In - 
+Based In - Siberia, Wilderness
 
-Active Personnel - 
+Active Personnel - 682k (401k Humans, Rest Elemental)
 
-Core Ideology - 
+Core Ideology - Accelerationist Extinctionism 
 
-<sub> <sub>
+<sub>Accelerationist Extinctionism | These people want to kill everyone on the planet, and they're willing to go to very extreme measures to do so.<sub>
 ## STRUCTURE
-
+The Whispers operates in a very culty way. They actually worship 
 ## GOALS
 Middle Tulia Arc Goals - 
 
