@@ -1,2 +1,2 @@
-# ENDSIGHT - DEMOCRATIC ELEMENTAL SUPREMACISTS
+# ENDSIGHT - RADICAL DEMOCRATIC ELEMENTAL SUPREMACISTS
 <sub>_"No elemental should kneel to any other creature. Ever."_</sub>
