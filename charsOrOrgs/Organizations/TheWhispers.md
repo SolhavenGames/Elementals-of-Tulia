@@ -23,7 +23,7 @@ The Whispers operates in a very culty way. They actually worship [Kael Hayes-Vor
 ## GOALS
 Early Gaea Arc Goals - Spread Terror, Kill as many as possible, Maintain Secrecy
 
-
+With such a low member count at the start, The Whispers mainly operates through terrorist attacks that they frame on other organizations known for terrorism. Using this tactic, they were able to commit many acts while going com0letely unnoticed. 
 
 Middle Gaea Arc Goals - Spread Terror, Kill as many as possible, Innovate Strong Weapons
 
