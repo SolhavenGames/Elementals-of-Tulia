@@ -9,9 +9,9 @@
 
 **Irreversable Actions**: Choosing more dangerous but more efficient options, causing loss of life.
 
-**Biggest Arc Influence**: The first person to reach 'flow state' in her 1v3 against Endsight's Task Force.
+**Biggest Arc Influence**: The first person to use a Forbidden Element's aspect ever in her 1v3 against Endsight's Task Force.
 
-**Ending Alignment**: The Symbols (As Zephyr).
+**Ending Alignment**: The Renegades (As Zephyr).
 ## Summary 
 
 ## Timeline
