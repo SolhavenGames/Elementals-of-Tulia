@@ -15,7 +15,7 @@ Core Ideology - Progressive Democratic Interventionalism (Up until the Late-Midd
 
 <sub>Progressive Democratic Interventionalism → Terra Unionist Techno Democracy | [Troy Talona](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaSaga/CharacterArcs/TroyArcTulia.md) becomes the leader of the ADS. His executive power climbs substantially in times of crisis. Thus, his ideology becomes the main ideology of the ADS.<sub>
 
-<sub>Terra Unionist Techno Democracy → Ultraxenophobic Techno-Totalitarianism | [Samae Herba](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/GaeaSaga/CharacterArcs/SamaeArcGaea.md) takes control of the ADS. Her ideology is enforced through threats and fear of the employees beneath her.<sub>
+<sub>Terra Unionist Techno Democracy → Ultraxenophobic Techno-Totalitarianism | [Samae Herba](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/GaeaSaga/CharacterArcs/SamaeArcGaea.md) takes control of the ADS. Her ideology is enforced through threats and fear, pushing all dissidents into silent obidience.<sub>
 ## GOALS
 Early Tulia Arc Goals - Ensure peace on Gaea, protect and ensure democracy, find homes for Elemental Refugees. 
 
