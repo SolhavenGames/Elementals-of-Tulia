@@ -17,7 +17,7 @@ Middle Tulia Arc Goals - Elemental views teetering, protect and ensure Humanity'
 
 As more Elemental refugees begin to arrive, the ADS makes an entire institution dedicated to assisting them after the sudden and mysterious collapse of Endsight. However, [Troy Talona](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaSaga/CharacterArcs/TroyArcTulia.md) has long been climbing the ranks of that new institution, twisting it to be anti-Elemental and more towards studying and harvesting their power.
 
-Late Tulia Arc/Early Gaea Arc Goals - Defend Humanity, Subdue Elementals, Prevent Elemental Expansion
+Late Tulia Arc / Early Gaea Arc Goals - Defend Humanity, Subdue Elementals, Prevent Elemental Expansion
 
 As the Burning of Gaea presses on, the ADS finds itself trying to organize the nations of humanity against the much stronger and rebelling Elementals. Luckily, [Troy Talona](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaSaga/CharacterArcs/TroyArcTulia.md), who now leads the organization, had long been planning for this, and has prototyped weapons known as Spear Cannons to assist in fighting them, alongside cybernetic HUMAN andriods that work as fodder to help overwhelm the much stronger Elemental force. 
 
