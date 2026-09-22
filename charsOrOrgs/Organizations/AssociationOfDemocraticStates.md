@@ -16,6 +16,10 @@ Core Ideology - Progressive Democratic Interventionalism (Up until the Late-Midd
 <sub>Progressive Democratic Interventionalism → Terra Unionist Techno Democracy | [Troy Talona](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaSaga/CharacterArcs/TroyArcTulia.md) becomes the leader of the ADS. His executive power climbs substantially in times of crisis. Thus, his ideology becomes the main ideology of the ADS.<sub>
 
 <sub>Terra Unionist Techno Democracy → Ultraxenophobic Techno-Totalitarianism | [Samae Herba](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/GaeaSaga/CharacterArcs/SamaeArcGaea.md) takes control of the ADS. Her ideology is enforced through threats and fear, pushing all dissidents into silent obidience.<sub>
+## STRUCTURE
+The ADS is a parliamentary-type structure where each nation on the planet gets one representative, something that's heavily criticized by more populous nations. Regardless, it has operated like that since its rebirth. Representatives elected one head leader from their council, who would hold executive control of the ADS' operations. Together, the representatives deliberated on international law, crisises, and conflicts. Each representative gets one vote, with votes being cast after deliberation. Nations were never forced to follow the laws of the ADS, but often would if their representatives would tell them it was a good idea. 
+
+Its authority comes from the many nations that claim loyalty to it and the long fallen Terra Union. Namely, Europa. Nations like these are known as "Terra Union States", as their loyalties seem to lie more with the fallen union than their own personal national interests. Some even have threatened military intervention into uncooperative states, which worked in the past, but now has dissolved as the Terra Union states lost land over the years.
 ## GOALS
 Early Tulia Arc Goals - Ensure peace on Gaea, protect and ensure democracy, find homes for Elemental Refugees. 
 
