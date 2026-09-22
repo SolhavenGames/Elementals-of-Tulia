@@ -7,6 +7,8 @@ The ADS is often looked towards when massive, international threats or events ha
 ## STATS
 Leader - Troy Talona (Up until the Late-Middle Gaea Arc); Samae Herba (Present)
 
+Based In - Berlin (Super City), Germania
+
 Active Personnel - 350,000 Non-Combatant Employees, 1.2 million Combatant Employees (Mostly from the [Knights of Gaea](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/KnightsOfGaea.md)) 
 ## GOALS
 Early Tulia Arc Goals - Ensure peace on Gaea, protect and ensure democracy, find homes for Elemental Refugees. 
