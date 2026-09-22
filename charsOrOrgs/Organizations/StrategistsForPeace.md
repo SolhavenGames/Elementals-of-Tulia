@@ -26,19 +26,22 @@ Early Tulia Arc Goals - Maintain Peace on Gaea
 
 Way before the Burning of Gaea even began, The Strategists for Peace was founded as an organization to assist in keeping the peace on the planet. The pair worked together so well that they were globally renowned for their work, so much so that [Kterla Naomi](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) had a building named after her in Paris. They were so successful that they were even officially working side-by-side with the [Association of Democratic States](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/AssociationOfDemocraticStates.md), until [Troy Talona](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TroyArcTulia.md) gained enough influence, at least. 
 
-Middle Tulia Arc Goals - 
+Middle Tulia Arc Goals - Bring back Peace, Prevent More Conflicts
 
+When the Burning of Gaea finally begins, The Strategists for Peace finds itself fighting tooth and nail to write and present treaties to upset nations and factions, to no avail. The world is simply too angry for peace, and the conflict is in full swing. Civilians are dying. Nations are committing crimes. Organizations are refusing to do business with Elementals. In fact, even the Strategists for Peace takes a hit due to being partially owned by an Elemental itself...
 
+Late Tulia Arc / Early Gaea Arc Goals - Build an Armed Forces, End Conflicts, Find displaced citizens housing
 
-Late Tulia Arc / Early Gaea Arc Goals - 
+Seeing treaties no longer working, [Kterla Naomi](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) begins moves to build the SFP an official armed forces, conceding all of her power to [Wykoi Maita](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/WykoiArcTulia.md) in hopes that he'd be able to run the organization in her absence, which he did well. He couldn't end any conflicts, but he managed to find millions of refugees homes in less war-torn areas of the world, giving the SFP some much needed legitimacy. 
 
+Middle Gaea Arc Goals - Hold back aggressive expansionist nations, Enforce peace through military
 
+With the military expansion being a resounding success, tens of thousands of pro-coexistence humans and elementals alike flood into it, sick of watching silently as nations tear each other apart. Tens of thousands grows to hundreds of thousands, and eventually millions. Alongside them is a new Guild of Forbidden Users called the [Peace and Cooperation Guild](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/PeaceAndCooperationGuild.md), made solely to fight High to Extreme risk operations that would otherwise take many casualties from the usual SFP armed forces to complete. 
 
-Middle Gaea Arc Goals - 
+Late Gaea Arc / Early Xalii Arc Goals - Prepare for a new war, Buy Time
 
-
-
-Late Gaea Arc / Early Xalii Arc Goals - 
-
-
+The sudden shift in [ADS](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/AssociationOfDemocraticStates.md) policy did not go unnoticed by the organization. Instead, it began facing a surge in membership as many more pro-coexistence people prepared to fight against what many called "clear fascism" from the global government. Even former Terra Union stats began to pull away from it as it shifted far from what it was originally meant for. When their Forbidden Users in the [Peace and Cooperation Guild](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/PeaceAndCooperationGuild.md) suddenly disappeared, they did not back down. They were ready to wait for their return, no matter how long it took.
 ## BACKSTORY
+The Strategists for Peace was the idea of [Kterla Naomi](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md), who had lost [Endsight](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/charsOrOrgs/Organizations/Endsight.md) after [Terkou Lynqo](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/TerkouArcTulia.md) had corrupted its original vision. Now, with a new partner, [Wykoi Maita](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/WykoiArcTulia.md), she used the Strategists for Peace to build a better world for everyone, everywhere.
+
+Her history in politics on Tulia allowed her to complete this task well. She was well versed in diplomacy, and her strong unwavering desire to build a great world would keep her going even in the worst days. Her vision became shared by the entire organization, allowing for quick and effective operations when the SFP was involved.
