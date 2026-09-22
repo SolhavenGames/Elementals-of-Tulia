@@ -1,5 +1,5 @@
 # ASSOCIATION OF DEMOCRATIC STATES - GAEA'S GOVERNMENT
-<sub> _"... And with the strike of a gavel, we shall decide where history goes."_ <sub>
+<sub> _"... And with the strike of a gavel, history shall drift like never before."_ <sub>
 ## BACKSTORY
 The Association of Democratic States is a rebirth of an old Global Government from the 1930s and 40s before the days of the Terra Union, when its ancestor ideology- Interventionalist Democracy- was still spreading. Back then, it was made for legitimacy, and to push public opinion towards them. When the Terra Union was formed, the ADS became the government of the world, running elections and holding the planet together (after defeating a few uprisings), and it was no longer known as the ADS, as it was simply called 'The Government'. 
 
