@@ -82,5 +82,27 @@
 - This time, when they come back, Arete seems almost enraged. She starts another argument with Adva, who takes Imbra and Kael out of there, which she claims is for good. She leads them to the young nation of Frei-Se.
 - Adva meets Spara | The Queen of Frei-Se welcomes the trio with open arms, giving them a place to stay and operate out of near the outskirts of Darsk. They aren't exactly friends yet, but Queen Dei-Sor seems to care enough to give them food, water, and shelter...
 - The trio takes time to adjust to their new home before continuing more operations.
+- After some short downtime, the trio go together to Freecity (previously Freetown, Megacity) to assist Elementals in revolting against a violently oppressive government. It gets minimal news coverage as the media is covering other Forbidden User movements and clashes.
+- Adva goes alone to an Anarchy Zone in the Arabian Desert to defend Sakai Elementals from nearby nations and internal human factions after they let out an SOS call. Kael and Imbra chose to stay back to help Spara, who they had been growing closer with, in governing and organizing her admittedly small, military-guard force.
+- Adva and Imbra go out to Rome (Hyper City) after they get false claims of a looming genocide. There, they are ambushed by a much stronger Samae, who nearly kills Adva before Imbra temporarily stops holding back.
+### OCTOBER
+- The trio welcomes Rai to Frei-se, and they begin to train with him again in three-way training operations.
+- They introduce Rai to Spara and Spara to Rai, vouching for him. Though Spara was likely to allow the Watrish he brought to stay, but with them behind Rai, she hardly asks him any questions before making her decision.
+- Spara begins teaching the trio some of her favorite things to do with Subzero, specifically teaching Adva how to use wind in a denser, more solidified way, almost like ropes. Though she already used wind whips frequently, she now can now use ropes.
+- Imbra tells Adva about her true struggles with Hellfire for the first time. Adva promises to be more careful to avoid having Imbra to go all-out. Kael also promises if a situation like that ever comes up, to push himself further to make up for it.
+- Adva goes out alone to clash with Aeri and Is'ale who find their way to Berlin and attempt to attack the world government. She defeats them and the pair never make it to the city, though the governments had long evacuated. The ADS and Germania (the country that hosts Berlin) keeps the entire thing a secret.
+- On her retreat, Samae ambushes her again. This time, Adva fights differently, taunting her and making her exhaust herself and technologies. Adva still wins the fight, though it's extremely difficult. She still refuses to kill Samae, taunting her by saying "You're my favorite play-thing", some of the only English she's learned.
+- Feeling invigorated, Adva goes to interrupt a bunch of Knights of Gaea logistics, costing the organization millions.
+- Adva delivers food to a starving community of humans a few days later. A human child there hugs her leg, the only affection she's received from a human since she first arrived. She gives the kid the cap she was wearing (don't worry, she has many more at home).
+- When Spara says she'll defend the trio in public after accusations of harboring them, Adva suggests that they can leave to avoid causing Frei-Se trouble. Spara shuts that down immediately, refusing to let go of or abandon her friends.
+- No longer having to hide them, Spara gives the trio rooms in her palace.
+- The trio go to defend Baghdad (Hyper City) from an opportunistic Endsight attack as they waited for PAC to be occupied.
+- Then, they fight them in Cape City a few hours later as Endsight attempted to relocate quickly, still trying to exploit the occupied PAC.
+- The trio later goes to the Caribbean Federation to topple an oppressive government, where they fight PAC, who includes Arete, for the first time. Zezri, someone who used to look up to Adva, is there too. 
+- Adva meets K'zorak | During the battle in Havana, K'zorak and Adva fight.
+- Adva meets Zrili | During the battle in Havana, Zrili and Adva fight.
+- Adva has a short clash with Arete after, where they don't really hold back, despite them reassuring their care for one another. In fact, mid battle, Adva updates Arete on how Rai's been doing in Frei-Se.
+- Adva and Kael, being on a short friends trip and patrol, catch Is'ale trying to sneak through with Zero. They stop them there.
+- The trio intercepts Endsight, who were on the way to South America. 
 ## ⦿ **YEAR 2040**
 ## ⦿ **YEAR 2041**
