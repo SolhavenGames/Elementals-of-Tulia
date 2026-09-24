@@ -87,4 +87,4 @@ Adva, a slightly popular Airren woman due to her looks and light participation w
 - Adva and her new squad have grown close, but she questions her actions. The human pleading to her constantly rings through her mind.
 
 
-[Continue...](https://github.com/SolhavenGames/Elementals-of-Tulia/edit/main/GaeaArc/CharacterArcs/AdvaArcGaea.md)
+[Continue...](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/GaeaArc/CharacterArcs/AdvaArcGaea.md)
