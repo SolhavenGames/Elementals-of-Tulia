@@ -43,7 +43,7 @@
 - Arete coerces Adva into resting, as she had been going out for 12 days straight at this point with little sleep... she definitely needed it, but she was addicted to the rush. Plus, Endsight hadn't been as active anymore. Perhaps she really could rest.
 - Finally settling down, Adva gets to hang out with Imbra a little more, raising Imbra's spirits upon the still looming Kael crisis.
 - Rai and Adva continue to train, eventually learning about Forbidden Element Aspects through Rai's Forbidden Element books, specifically the one on Squall.
-### June
+### JUNE
 - Upon hearing of a looming full-force Endsight attack on a city, Adva finds her way there to stop them. Luckily, her group at home was asleep, allowing her to sneak out without them saying much to stop her.
 - When she arrives at Instantinople (Hyper City), she is forced to confront all four members at once. Yes, four! There was an extra one she was unaware of. Through a battle that lasts almost an hour, Adva eventually comes out on top after she claims Aspect: Liberation in the middle of the battle, pushing her that extra mile further.
 - Due to her saving Instantinople from sure demise, the government there decides to change her title from "Tempest" to "Zephyr", using their sway as the leader of the Union of Mankind to get it done.
