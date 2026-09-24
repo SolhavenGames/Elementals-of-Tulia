@@ -112,6 +112,11 @@
 - During this time, Adva grows closer with those around her, including the civilians in the palace. 
 - Dera, a known non-combatant PAC member and someome had already met a few months ago, was escorted by guards to the palace, asking to be trained, even offering to defect from PAC to get it. Imbra eventually convinces the others to trust him and let him in. 
 - Adva is in charge of training Dera, though she doesn't fully trust him yet. 
-- Dera grows on her as he shows his obedience, prowess, and sometimes, his 
+- Dera grows on her as he shows his obedience, prowess, and sometimes, his charisma.
+- Imbra and Adva go on a multi-day "girls trip" to the antarctic wasteland, just to hang out with each other again. 
+- Rai and Spara end up getting together, something Adva jokingly takes credit for. 
+- After a few weeks of training together, Adva and Dera find their way into a much different, much more passionate training session. They end up in a sexual encounter with one another. They do another the next day.
+### DECEMBER
+- 
 ## ⦿ **YEAR 2040**
 ## ⦿ **YEAR 2041**
