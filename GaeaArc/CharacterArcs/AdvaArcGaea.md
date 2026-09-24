@@ -103,6 +103,10 @@
 - Adva meets Zrili | During the battle in Havana, Zrili and Adva fight.
 - Adva has a short clash with Arete after, where they don't really hold back, despite them reassuring their care for one another. In fact, mid battle, Adva updates Arete on how Rai's been doing in Frei-Se.
 - Adva and Kael, being on a short friends trip and patrol, catch Is'ale trying to sneak through with Zero. They stop them there.
-- The trio intercepts Endsight, who were on the way to South America. 
+- The trio intercepts Endsight, who were on the way to South America.
+- Adva and Imbra force Teira to leave Addis Ababa, they fight Samae with a KoG platoon.
+- After Imbra attacks Pertha in a crazed Hellfire collapse, Adva and Kael remain by her side, not going out unless absolutely necessary.
+### NOVEMBER
+- 
 ## ⦿ **YEAR 2040**
 ## ⦿ **YEAR 2041**
