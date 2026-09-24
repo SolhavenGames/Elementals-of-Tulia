@@ -119,10 +119,12 @@
 - After a few weeks of training together, Adva and Dera find their way into a much different, much more passionate training session. They end up in a sexual encounter with one another. They do another the next day.
 ### DECEMBER
 - During Rai and Spara's wedding, Adva takes the time to peacefully connect with Arete. 
-- It's short lived, however, as an attack from human nations come from the sky, attempting to destroy Frei-Se. Adva mobilizes in the sky to thwart the attack with Imbra. 
+- It's short lived, however, as an attack from human nations come from the sky, attempting to destroy Frei-Se. Adva mobilizes in the sky to thwart the attack with Imbra.
+- Adva and Dera are more publicly physical with one another.
 - Adva spends the next few days in Frei-Se assisting in reconstruction and saving civilians trapped under rubble. She, alongside Imbra, Kael, Dera, Spara, and Rai, vow revenge on the attackers. 
 - Wasting no time, Adva goes out on her own to interrogate people who she suspects have information on those responsible. She manages to get a list of names to return to Rai, who begins his attack searching for them. 
 - Meanwhile, Imbra, Adva, Kael, and Dera, going on his first mission with them, deploy to a war-torn city (normal sized) to investigate a suspected base for The Whispers. 
-- The group splits up, and Adva is ambushed by Teira, where she's beaten and cut within an inch of her life before Dera saves her. Teira retreats before the rest of the arriving team can retaliate. Adva is healed by Kael, but they still take her to Frei-Se so she can rest. 
+- The group splits up, and Adva is ambushed by Teira, where she's beaten and cut within an inch of her life before Dera saves her. Teira retreats before the rest of the arriving team can retaliate. Adva is healed by Kael, but they still take her to Frei-Se so she can rest.
+- Dera sincerely apologizes for his sisters actions and promises to talk to her about it. Adva reassures him that she's okay. 
 ## ⦿ **YEAR 2040**
 ## ⦿ **YEAR 2041**
