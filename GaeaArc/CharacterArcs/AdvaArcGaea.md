@@ -120,11 +120,16 @@
 ### DECEMBER
 - During Rai and Spara's wedding, Adva takes the time to peacefully connect with Arete. 
 - It's short lived, however, as an attack from human nations come from the sky, attempting to destroy Frei-Se. Adva mobilizes in the sky to thwart the attack with Imbra.
-- Adva and Dera are more publicly physical with one another.
+- Adva and Dera are more publicly physical with one another (within comfortable boundaries). 
 - Adva spends the next few days in Frei-Se assisting in reconstruction and saving civilians trapped under rubble. She, alongside Imbra, Kael, Dera, Spara, and Rai, vow revenge on the attackers. 
 - Wasting no time, Adva goes out on her own to interrogate people who she suspects have information on those responsible. She manages to get a list of names to return to Rai, who begins his attack searching for them. 
 - Meanwhile, Imbra, Adva, Kael, and Dera, going on his first mission with them, deploy to a war-torn city (normal sized) to investigate a suspected base for The Whispers. 
 - The group splits up, and Adva is ambushed by Teira, where she's beaten and cut within an inch of her life before Dera saves her. Teira retreats before the rest of the arriving team can retaliate. Adva is healed by Kael, but they still take her to Frei-Se so she can rest.
-- Dera sincerely apologizes for his sisters actions and promises to talk to her about it. Adva reassures him that she's okay. 
+- Dera sincerely apologizes for his sisters actions and promises to talk to her about it. Adva reassures him that she's okay, and thanks him for it.
+- Adva's wounds take longer than usual to heal. Rai, with his Forbidden Element knowledge, says it's likely Dimension Distortion from her small spat with Teira...
+- Dera is returned by his sister, on the brink of death. She was sobbing and shaking for the brief moment she was there, begging them to heal him. When they tried to attack her, she quickly fled. Kael was able to heal him, but he needed time to fully heal, much like Adva.
+- In this downtime, Adva tries scouting to find the base of The Whispers in Siberia. Each time she goes, she can't find anything, but confirms minimal threats, allowing other groups to send non-Forbidden User scouts in.
+- Dera, who feels a bit better, decides to go to Alaska to try and push the Empress to end the Great North American War. The others accompany him, causing a bit of media fallout as they don't disclose the purpose of the meeting.
+- Dera and Adva temporarily fall-out after Dera discovers that Adva isn't interested in him romantically. This pushes her to do some self-discovery, and she finds out she's aromantic. 
 ## ⦿ **YEAR 2040**
 ## ⦿ **YEAR 2041**
