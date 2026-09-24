@@ -108,5 +108,10 @@
 - After Imbra attacks Pertha in a crazed Hellfire collapse, Adva and Kael remain by her side, not going out unless absolutely necessary.
 ### NOVEMBER
 - During The Moon Disaster, staying true to their new plan, Adva only assists with helping calm civilians down in Frei-Se. They also trust PAC to handle it.
+- Adva wing-woman's for Spara to Rai, trying to get the pair together after Spara admitted her feelings for Rai to her. 
+- During this time, Adva grows closer with those around her, including the civilians in the palace. 
+- Dera, a known non-combatant PAC member and someome had already met a few months ago, was escorted by guards to the palace, asking to be trained, even offering to defect from PAC to get it. Imbra eventually convinces the others to trust him and let him in. 
+- Adva is in charge of training Dera, though she doesn't fully trust him yet. 
+- Dera grows on her as he shows his obedience, prowess, and sometimes, his 
 ## ⦿ **YEAR 2040**
 ## ⦿ **YEAR 2041**
