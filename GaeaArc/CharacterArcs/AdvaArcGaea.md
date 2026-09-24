@@ -1,4 +1,4 @@
-# Adva "Zephyr" Anil | Gaea Saga Journey
+# Adva "Zephyr" Anil | Gaea Arc Journey
 <sub> **_I do what I know is right, without hesitation._** <sub>
 ## Structure 
 **Starting State**: Training for combat alongside Imbra, living with Rai, Arete, and Imbra in the Amazon Rainforest, isolated from the world and silently regretting her past actions.
@@ -114,6 +114,7 @@
 - Adva is in charge of training Dera, though she doesn't fully trust him yet. 
 - Dera grows on her as he shows his obedience, prowess, and sometimes, his charisma.
 - Imbra and Adva go on a multi-day "girls trip" to the antarctic wasteland, just to hang out with each other again. 
+- Adva and Dera go together to Nagpur after the first Val Bomb detonation ever to help the already deployed PAC with saving civilians, preventing mass structural collapse, and containing val storms. 
 - Rai and Spara end up getting together, something Adva jokingly takes credit for. 
 - After a few weeks of training together, Adva and Dera find their way into a much different, much more passionate training session. They end up in a sexual encounter with one another. They do another the next day.
 ### DECEMBER
