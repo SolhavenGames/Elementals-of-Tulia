@@ -1,4 +1,4 @@
-# Dera "Paradox" Kni-Soa | Gaea Saga Journey
+# Dera "Paradox" Kni-Soa | Gaea Arc Journey
 <sub> **_Humans are inferior- pretending they're not won't help anybody._** <sub>
 ## Structure 
 **Starting State**: Isolated on an island with K'zorak with desires to find more people to group up with.
