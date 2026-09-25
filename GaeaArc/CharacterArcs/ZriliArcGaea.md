@@ -1,4 +1,4 @@
-# Zrili "Echo" Qonn | Tulia Arc Journey
+# Zrili "Echo" Qonn | Gaea Arc Journey
 <sub> **_Vibration is everywhere! You can't escape me, baby!_** <sub>
 ## Structure 
 **Starting State**: A prisoner of the ADS, beginning an escape plan to reunite with Zezri.
@@ -15,4 +15,29 @@
 ## Summary 
 
 ## Timeline
-### ⦿ **E-YEAR 2039**
+## ⦿ **YEAR 2039**
+### MARCH
+- 
+### APRIL
+- 
+### MAY
+- 
+### JUNE
+- 
+### JULY
+- 
+### AUGUST
+- 
+###  SEPTEMBER
+- 
+### OCTOBER
+- 
+### NOVEMBER
+- 
+### DECEMBER
+- 
+## ⦿ **YEAR 2040**
+### JANUARY 
+- 
+### FEBRUARY 
+- 
