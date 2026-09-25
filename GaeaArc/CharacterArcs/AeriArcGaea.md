@@ -18,7 +18,7 @@
 ## ⦿ **YEAR 2039**
 ### MARCH
 - Aeri spends the short antarctica nights staring up at the stars. Teira accompanies them every once in a while.
-- 
+- Terkou pushes Aeri to try and reach new top speeds, building a large circular track for them. 
 ### APRIL
 - 
 ### MAY
