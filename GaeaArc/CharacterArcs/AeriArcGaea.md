@@ -1,4 +1,4 @@
-# Aeri "Warsight" Glem | Gaea Saga Journey
+# Aeri "Warsight" Glem | Gaea Arc Journey
 <sub> **_War always shines when I'm there! Get it? Cause.. Warshine..._** <sub>
 ## Structure 
 **Starting State**: A young unit of Endsight under Terkou, being trained in combat with dual swords that connect at the handles.
