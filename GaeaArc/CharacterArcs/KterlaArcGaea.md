@@ -1,4 +1,4 @@
-# Kterla "Strategist" Naomi | Gaea Saga Journey
+# Kterla "Strategist" Naomi | Gaea Arc Journey
 <sub> **_The world could want me dead, I'd still fight to protect it._** <sub>
 ## Structure 
 **Starting State**: A woman who has lost everything, yet still eager and desperate to fight for whats right.
