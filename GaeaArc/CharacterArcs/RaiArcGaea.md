@@ -1,4 +1,4 @@
-# Rai "Tideking" Dei-Sor | Gaea Saga Journey
+# Rai "Tideking" Dei-Sor | Gaea Arc Journey
 <sub> **_Through marriage are my people safe, and they will stay safe so long as I live._** <sub>
 ## Structure 
 **Starting State**: Living in the Amazon Rainforest alongside Arete, Imbra, and Adva, continuing to study Forbidden Elements and even participating in combat training with Imbra and Adva.
