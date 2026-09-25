@@ -1,4 +1,4 @@
-# Spara "Frostqueen" Dei-Sor | Gaea Saga Journey
+# Spara "Frostqueen" Dei-Sor | Gaea Arc Journey
 <sub> **_I never wanted to be Queen, but it's what the Gods intended for me._** <sub>
 ## Structure 
 **Starting State**: A hidden exile on Greenland, hiding from responsibility and potential conflict.
