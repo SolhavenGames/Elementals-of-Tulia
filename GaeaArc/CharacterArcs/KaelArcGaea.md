@@ -1,4 +1,4 @@
-# Kael "Morrow" Voris | Gaea Saga Journey
+# Kael "Morrow" Voris | Gaea Arc Journey
 <sub> **_"Saddened by my own power; I miss my element."_** <sub>
 ## Structure 
 **Starting State**: A prisoner of Troy, to be used as bait.
