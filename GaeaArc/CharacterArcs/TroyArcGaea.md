@@ -1,4 +1,4 @@
-# Troy "Sir Aegis" Talona | Gaea Saga Journey
+# Troy "Sir Aegis" Talona | Gaea Arc Journey
 <sub> **_I'm the divine protector. The invincible genius. I know all._** <sub>
 ## Structure 
 **Starting State**: The leader of the Elemental Research Initiative, slowly gaining more and more power.
