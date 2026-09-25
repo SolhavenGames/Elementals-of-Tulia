@@ -1,4 +1,4 @@
-# Warrior-0000 "Zero"; "Gravesight" | Gaea Saga Journey
+# Warrior-0000 "Zero"; "Gravesight" | Gaea Arc Journey
 <sub> **_Lethal force is authorized; Gravesight closing in._** <sub>
 ## Structure 
 **Starting State**: A loyal soldier under Terkou, prepared to fight any and all battles.
