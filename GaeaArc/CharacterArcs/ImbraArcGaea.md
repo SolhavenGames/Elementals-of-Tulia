@@ -1,4 +1,4 @@
-# Imbra "Phoenix" Hayes | Gaea Saga Journey
+# Imbra "Phoenix" Hayes | Gaea Arc Journey
 <sub> **_Why must I be the one cursed with the power of a demon?_** <sub>
 ## Structure 
 **Starting State**: Residing in the Amazon; attacking Berlin to save her love interest.
