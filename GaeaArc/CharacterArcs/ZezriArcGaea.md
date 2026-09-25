@@ -1,4 +1,4 @@
-# Zezri "Umbriss" Duro | Gaea Saga Journey
+# Zezri "Umbriss" Duro | Gaea Arc Journey
 <sub> **_My power will always be used for good, until it kills me._** <sub>
 ## Structure 
 **Starting State**: A saddened and defeated leader, Zezri wanders, looking for any sort of purpose. 
