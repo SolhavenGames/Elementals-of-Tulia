@@ -1,4 +1,4 @@
-# K’zorak "Axis" Shima | Gaea Saga Journey
+# K’zorak "Axis" Shima | Gaea Arc Journey
 <sub> **_We cannot call ourselves free if we exploit the vulnerable._** <sub>
 ## Structure 
 **Starting State**: Isolated with Dera, but considering involvement on the global stage after seeing the mass death.
