@@ -103,7 +103,7 @@
 - Adva meets Zrili | During the battle in Havana, Zrili and Adva fight.
 - Adva has a short clash with Arete after, where they don't really hold back, despite them reassuring their care for one another. In fact, mid battle, Adva updates Arete on how Rai's been doing in Frei-Se.
 - Adva and Kael, being on a short friends trip and patrol, catch Is'ale trying to sneak through with Zero. They stop them there.
-- The trio intercepts Endsight, who were on the way to South America.
+- The trio intercepts Endsight, who were on the way to South America. After this battle, Adva reaches ***Squall Gate III.***
 - Adva and Imbra force Teira to leave Addis Ababa, they fight Samae with a KoG platoon.
 - After Imbra attacks Pertha in a crazed Hellfire collapse, Adva and Kael remain by her side, not going out unless absolutely necessary.
 ### NOVEMBER
@@ -130,6 +130,33 @@
 - Dera is returned by his sister, on the brink of death. She was sobbing and shaking for the brief moment she was there, begging them to heal him. When they tried to attack her, she quickly fled. Kael was able to heal him, but he needed time to fully heal, much like Adva.
 - In this downtime, Adva tries scouting to find the base of The Whispers in Siberia. Each time she goes, she can't find anything, but confirms minimal threats, allowing other groups to send non-Forbidden User scouts in.
 - Dera, who feels a bit better, decides to go to Alaska to try and push the Empress to end the Great North American War. The others accompany him, causing a bit of media fallout as they don't disclose the purpose of the meeting.
-- Dera and Adva temporarily fall-out after Dera discovers that Adva isn't interested in him romantically. This pushes her to do some self-discovery, and she finds out she's aromantic. 
+- Dera and Adva temporarily fall-out after Dera discovers that Adva isn't interested in him romantically. This pushes her to do some self-discovery, and she finds out she's aromantic.
+- This fall-out causes a small rift in the team, though Kael, Imbra, Spara, and Rai all work to try and mend it.
+- Imbra reassures Adva that she's not broken after Adva breaks down into tears in her arms, confessing that she can't understand why she can't love Dera.
 ## ⦿ **YEAR 2040**
-## ⦿ **YEAR 2041**
+### JANUARY 
+- Adva goes on a small self-discovery journey on her own through the snowy plains and forests of Alaska. She finds out she truly is aromantic, and couldn't love Dera romantically even if she tried to force herself.
+- When she returns to Frei-Se, Dera and Adva speak for the first time in a while. Dera reassures her that he isn't angry, just hurt. They reconcile, just slightly, but Dera still asks for a little space while he adjusts.
+- A pandemic begins quickly sweeping across Afro-Eurasia. It's quickly recognized as the same thing Kael was infected with. He quickly declares that, with tens of millions infected, there's no saving them all. The only way is to kill them, which Adva begins doing swiftly after the order.
+- While nations condemn her actions, they commence with killing the infected, too, ending the pandemic.
+- The Whispers becomes the main priority for the group, after there was nobody else to blame for this. Scouting missions to find their base are quickly ramped up.
+- Meanwhile, the group visit some young Elemental nations. Mainly, Adva and Imbra visit the joint Firen-Airren nation of Iriska on the British Isles, which literally has erected statues of the two in its conquered capital of Londina (London Hyper City). Adva is amused by the sight. The pair participates in celebrations for the nation, which upsets nearby Human nations. 
+- After not being on the field for a while, Adva is captured by Is'ale in an ambush. After Adva points out that if he were to kill her, he'd face the full might of an unleashed Imbra, he reluctantly lets her go.
+- Right after this, the pair are ambushed by Samae. For the first time, Endsight and Renegade fight alongside each other. Is'ale is brutally wounded, but Adva manages to get him out of there.
+- She considers leaving him to die for all the harm he's caused. She weighs her options, thinking about how she let Terkou live. But he just let her live, so she feels the need to repay the favor. She calls Kael over to heal him, who is also reluctant before Adva tells him what happened earlier. Is'ale flees quickly, showing no gratitude.
+- Back in Darsk, Adva finds out that she has a second aspect called Aspect: Death Whirl. She begins trying to figure out how to claim that one, too, though progress is slow.
+- Adva and Dera fully reconcile by having sex in the moonlight... because, of course they do. 
+- Teira finds Adva in the wild, and as Adva prepares for a fight, Teira simply apologizes and disappears. Odd.
+### FEBRUARY 
+- The base of The Whispers has finally been discovered! Adva participates with the rest of her squad in planning operations with PAC.
+- She partakes in more aerial scouting operations, identifying no major weaknesses that could be exploited from the air.
+- Zrili and Adva spend a lot of time after the meetings growing closer as they chat about how they equally love and hate their Forbidden Element.
+- Adva takes Arete flying with Imbra carrying Zrili, the first time those two has flown since they were migrating planets.
+- Finally, it's time to attack The Whisper's base. Adva, with Kael, Dera, and Imbra, attack the Southern Compound in The Whisper's Siberia base. Adva plays a major role by being the one who charges at and kills their strongest soldiers, even though that wasn't her designated role. She's just doing it for fun.
+- When she enters the base of The Whispers, she wastes no time in trashing the place and liberates hostages they were holding, long missing and now starving people. There, she sees the same kid that hugged her leg, who is now even happier to see her. The kid is still wearing the cap she gave her. She says "Thank you" in broken Firen as Dera transports the hostages to a safer place.
+- During the clean-up phase, Adva chooses to execute Whisper's members instead of letting them have a free trial. It's technically against International Law, but who's going to stop her?
+- Adva and her squad, after meeting up with PAC for a small debriefing, return to Frei-Se victorious. Spara and Rai treat them to a feast and celebrations.
+- Adva, after Imbra urges her to, decides to take more relaxation time. She had been going out the past few days, but now she chooses to rest with the rest of her squad.
+- ... that doesn't last long, though, as Adva goes out a few days later to defend Iriska from an unprovoked Aerial attack in one that mimics the one that started the Frei-Se war.
+- With the new hostile ADS agenda, Adva and the rest of the squad abandons their relaxation plans and mobilizes, often doing patrols and thwarting Knights of Gaea operations.
+- Suddenly, one night, a portal opens up, almost alluring. She feels drawn to it, and can't help but walk through...
