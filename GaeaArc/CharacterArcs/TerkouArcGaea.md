@@ -1,4 +1,4 @@
-# Terkou "The One" Lynqo | Gaea Saga Journey
+# Terkou "The One" Lynqo | Gaea Arc Journey
 <sub> **_I have no respect for the lesser species. Kill them all, for all I care._** <sub>
 ## Structure 
 **Starting State**: A trusted leader of a powerful task force.
@@ -15,4 +15,29 @@
 ## Summary 
 
 ## Timeline
-### ⦿ **E-YEAR 2039**
+## ⦿ **YEAR 2039**
+### MARCH
+- 
+### APRIL
+- 
+### MAY
+- 
+### JUNE
+- 
+### JULY
+- 
+### AUGUST
+- 
+###  SEPTEMBER
+- 
+### OCTOBER
+- 
+### NOVEMBER
+- 
+### DECEMBER
+- 
+## ⦿ **YEAR 2040**
+### JANUARY 
+- 
+### FEBRUARY 
+- 
