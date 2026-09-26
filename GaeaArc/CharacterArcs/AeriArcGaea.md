@@ -56,9 +56,21 @@
 - Terkou puts off Aeri's operations for now, allowing them to recover.
 - Teira and Zero visit Aeri sparsely as they recover. Is'ale only visits once, but when he visits, he claims it's not out of love, and more for his own conscious. 
 ### JULY
-- 
+- Aeri fully heals, and Terkou orders them back out on the field immediately to distrupt more KoG movements. This time, they have orders to immediately retreat if Samae shows up. This plan allows them to avoid all conflict with her while still doing good damage to the KoG in Africa.
+- Aeri and Zero are sent on a covert operation together. Zero is assigned with assassinating a target while Aeri is meant to secure some files and assets. Their mission is basically flawless as they were fighting humans, and Aeri helps Zero find the ID of the one he's just killed.
+- After multiple hours of training, Aeri finally reaches a new top speed: 20% the SoL. They collapse from exhaustion after, but Terkou only seems to care that they reached a new peak.
+- Aeri briefly fights Samae again after she ambushed them, managing to pierce through their val lattice by charging their swords with their own val. They only use the window of opportunity to retreat, as Terkou's command to avoid combat with her is still standing.
+- When Terkou finds out about the new potential Aeri found with their swords, Terkou pushes Aeri into more training, despite them clearly being exhausted. Teira brings it up, demanding Terkou let Aeri rest. When Terkou asks what Aeri wants, they glance between the two, and shrug... slowly, quivering. 
+- Aeri is forced into a break after training for so long. Teira urges them to stop letting Terkou push them around, but Aeri doesn't entirely know what she's talking about.
+- Endsight moves from Antarctica to the Sahara Desert after Frei-Se stablizes.
 ### AUGUST
-- 
+- Aeri is temporarily present in the battle for Port Terra, disrupting human logistics and allowing for a massive Watrish push which contributes to the fall of the city. They later do something similar in Tokyo, but it goes nowhere as a peace agreement was reached there.
+- Terkou forces Aeri and Is'ale to try and reconcile and consolidate. Aeri doesn't even know why Is'ale doesn't like them, and Is'ale refuses to explain why or even meet personally to resolve the issue, instead going out for battle.
+- Terkou orders Aeri to follow him. When they find Is'ale, Is'ale attacks them and the two get into a real, genuine battle. Aeri holds back as to not hurt an ally, and ends up losing the battle. Terkou reprimands Is'ale for that behavior, but neither of them (Terkou or Is'ale) seem to truly care.
+- Aeri, after being attacked by a leader figure, looks over and studies their past mission reports, something that was required as a soldier of the Litti Army. For them, the attack wasn't just random... it was a sign of them being disciplined for a failure they could not yet see.
+- Teira tries to tell Aeri that they are not at fault. Aeri only nods as she speaks.
+- After cooling down, Is'ale takes Aeri on a high-stakes mission in Addis Ababa, where they are tasked with destroying the military forces there and capturing its commander. They succeed, and Is'ale tells them "good job". Terkou apparently didn't even know about the mission.
+- Aeri is given rest time as Terkou tries to re-evaluate their role. When he asks Aeri for any ideas, Aeri struggles to think of any.
 ###  SEPTEMBER
 - 
 ### OCTOBER
