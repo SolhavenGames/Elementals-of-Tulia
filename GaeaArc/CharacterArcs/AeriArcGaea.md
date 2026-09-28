@@ -72,9 +72,41 @@
 - After cooling down, Is'ale takes Aeri on a high-stakes mission in Addis Ababa, where they are tasked with destroying the military forces there and capturing its commander. They succeed, and Is'ale tells them "good job". Terkou apparently didn't even know about the mission.
 - Aeri is given rest time as Terkou tries to re-evaluate their role. When he asks Aeri for any ideas, Aeri struggles to think of any.
 ###  SEPTEMBER
-- 
+- While still getting their role re-evaluated, Terkou tells them to search for other ways to use their power, specifically speaking about Aspects like observed from Adva in the Battle of Instantinople. They pray to their God searching for answers, still getting no reply. So, they're forced to experiment...
+- After experimenting for a while, they get nowhere. Terkou then orders them to try and find out more about Warshine, sending them on a journey, and demanding they don't return until they find something.
+- Aeri goes across the planet looking for any Elemental that may have knowledge on Forbidden Elements... and eventually finds an Elemental that does. A Litti Elemental, distant Endsight member hiding out in caves in Sector Iota. This Elemental, who keeps her name secret, reveals to Aeri both (active) Aspects of Warshine... War, and Shine.
+- Remaining with this Elemental for a few days to try and learn their Aspects, Aeri finally learns how to claim Aspect: Shine. Aspect: War still slips just barely from their grasp, but their getting closer.
+- Aeri returns to the main base, and Terkou, learning of their new abilities, assigns them a shock-and-awe role. Their main job is to catch enemies off-guard with incredibly strong and ruthless attacks. The team immediately begins training for a new team scenario, as Aeri was not the only one with a new assigned role. Ever since the loss to Adva, Terkou has been plotting a re-evaluation of the team dynamic.
+- After a straight week of training (and a good night's rest), the team is deployed to Busan, where they meet up against the fresh forces of PAC.
+- Aeri meets Arete | Their meeting is brief. Aeri, getting communications and scouting from Zero, waits for a given opening before striking her and knocking her down, also leaving her dazed and confused. It looks like she didn't even see them.
+- Aeri meets K'zorak | They do a similar attack on K'zorak immediately after, though K'zorak does seem to notice them. These two strikes give Is'ale a window to push forward and pressure Zrili. Speaking of....
+- Aeri meets Zrili | Aeri tries the same thing on Zrili. However, to both of their shocks, Zrili perfectly dodges Aeri's sonic-speed attack. Then, when Aeri comes back, They dodge again. And again. And again... Aeri, genuinely shocked, takes a moment to evaluate who they're fighting. Their opponent seems just as confused as they are. Is'ale orders Aeri to assist Teira, who's currently fighting the last PAC member...
+- Aeri meets Zezri | In a sudden and quick strike against Zezri, Aeri's attack dazes and confuses Zezri as she's launched away. However, when Aeri goes for another attack, Zezri traps them in portals placed together to make them fall infintely between them...
+- The battle in Busan continues on. Aeri is eventually rescued by Teira, and the pair uses the light-dimension combo Terkou had trained them for to defeat Zezri, then Arete. Zrili and K'zorak, while K'zorak was wounded and Zrili still relatively untouched, eventually decide that retreat is the best option. Endsight had won against PAC.
+- Aeri steals multiple tons of wealth in food and weapons from Busan, a heavy blow to nearby defensive operations against Elemental insurrections.
+- The party returns to their base victorious. Terkou literally throws them an entire party (not in the conventional sense, but you get my point).
+- Aeri, with Terkou's team-wide rest days, just... studies their former missions, as they have no clue what else to do.
 ### OCTOBER
-- 
+- Terkou, feeling confident, deploys Aeri to bombing runs and logistical disruptions. Their efficiency since figuring out how to claim Aspect: Shine has risen dramatically.
+- Seeing this, Terkou orders them to figure out how to claim Aspect: War. He sends them to find that same Elemental for more training.
+- When Aeri returns to the place the Elemental was, they find that she has vanished. No trace. Aeri tries to search for clues, but finding nothing, searches aimlessly.
+- After wandering/searching for a few days with no luck, they return to Terkou with the unfortunate news. Terkou waves it off, but still urges Aeri to try and claim Aspect: War. After figuring out what it does, Terkou orders them to the same field they train their speed in, demanding they do nothing until the claim Aspect: War.
+- Aeri does just that. They fight, trying to use a similar mechanism to how they claim Aspect: Shine, with no luck.
+- After two days of straight training (with no sleep by the way), Teira enters with Zero. Zero doesn't really care, but Teira urges Aeri to take a break. When Aeri refuses, Teira *demands* it. They finally give in, only resting for a few minutes while Teira tries to tell them to take more agency for themselves.
+- Realizing Aeri won't stop, Teira instead tries to help them figure out how to claim Aspect: War.
+- Three more restless days pass. Teira, after hearing of what both aspects do, suggests Aeri look deeper than the energy they find for Aspect: Shine.
+- Another day. They finally get it, but it happens so suddenly. Aeri claims Aspect: War, and becomes nothing more than a blinding beam sprinting circles around their training room. They... can't stop. It's almost as if they forgot how.
+- After sprinting for hours, Aspect: War seems to fade as Aeri collapses and stumbles into a nearby wall. At this point, Terkou, Is'ale, and Zero have all come to spectate. All four of them report seeing illusions that Aeri didn't cast... or at least, they don't remember casting.
+- Ecstatic, Terkou delays the whole "stopping" problem to send the team out again.
+- First, Endsight is deployed to Tokyo, with the end goal of assisting the long-fighting Elemental Resistance forces with finally breaking its defenses. Standing in their way, however, is PAC, back for a second round. The Endsight Task Force was definitely cocky as they didn't take them as seriously, leading to a loss as PAC outsmarted them. Endsight retreated in defeat. Terkou only sighed at the report.
+- Immediately after the battle, Aeri and Teira are sent on a quick shock-and-awe mission in Scotland to weaken naval bases and land defenses, which they do easily as Teira claims an aspect of her Forbidden Element. They're only challenged shortly after as Zezri and Zrili appear to slow the damage, which they actually stalemate in as Aeri and Teira retreat after being unable to push further. Terkou still praises it as a victory.
+- Endsight is then deployed to Cape City. This time, they are put against Terkou's long-dreaded matchup: Adva's Group, also known as The Renegades.
+- Aeri meets Imbra | Having long heard of Imbra, they finally stand before her. The two fight hard, with Aeri's speed versus Imbra's strength leading to a stalemate before Aeri switches targets with Teira.
+- Aeri meets Kael | Aeri immediately presses a surprise attack advantage against Kael, though Kael is bailed out by Adva. Together, the two force Aeri to retreat as Adva claims Aspect: Liberation, allowing her to reach Aeri-level speeds.
+- Even after claiming Aspect: War, Endsight fails to fight against The Renegades and are quickly routed. Terkou doesn't blame them, and says quote "The match-up will never be in our favor".
+- After short rest, the task force is again deployed, this time to The Levant, where they face PAC again. It again ends in a stalemate, as both groups achieve some of their objectives. No clear winner is declared. In this battle, Aeri had the opportunity to claim both Aspect: War and Aspect: Shine, using them back-to-back to overcome K'zorak and Arete.
+- Immediately after this stalemate, Is'ale takes Aeri down south to the region of Kuwait, where they face K'zorak and Arete again. This time, Aeri and Is'ale are pushed away as their enemies take heavy defensive stances.
+- Aeri clashes briefly with Zezri in Tunis, with Zezri defeating and interrogating them. Aeri says nothing, even under threat of permanent incarceration in The Void. Zezri doesn't follow up on the threat, and eventually just teleports Aeri far into the ocean. Aeri finds their way back to the base after a few hours.
 ### NOVEMBER
 - 
 ### DECEMBER
