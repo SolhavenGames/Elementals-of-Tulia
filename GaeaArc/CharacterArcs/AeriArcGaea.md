@@ -108,11 +108,39 @@
 - Immediately after this stalemate, Is'ale takes Aeri down south to the region of Kuwait, where they face K'zorak and Arete again. This time, Aeri and Is'ale are pushed away as their enemies take heavy defensive stances.
 - Aeri clashes briefly with Zezri in Tunis, with Zezri defeating and interrogating them. Aeri says nothing, even under threat of permanent incarceration in The Void. Zezri doesn't follow up on the threat, and eventually just teleports Aeri far into the ocean. Aeri finds their way back to the base after a few hours.
 ### NOVEMBER
-- 
+- Aeri is awoken by an excited Teira in the middle of the night. The moon's falling towards the planet... they have no idea why Teira is so excited about this.
+- Terkou drafts a plan: Only Aeri will go. His reasoning was simple. With such a major disaster, PAC or The Renegades, or maybe even both, would obviously send someone to stop it. However, Endsight already had the key. Teira could simply sever the gravity connection, since it was done with artificially with Val. Aeri's going due to them being the undoubted Endsight prodigy when it comes to one-on-one conflicts, of course banking on the fact that only one other Elemental shows.
+- Aeri is teleported to the moon by Teira. They're there alone for the most part, even doing quick patrols of the entire moon just to double-check.
+- Aeri meets Dera | Eventually, someone does show up. A long known non-combatant member of PAC. Aeri was given to delay the prevention of the disaster *at any costs*.
+- Wasting no time, Aeri immediately attacks, catching Dera off-guard. Using this momentum, they continue to beat on and combo the non-combatant. Suddenly, after claiming Aspect: Shine in a quick 20-laps around the moon as Dera falls from a recent uppercut, they land the offensive strike of Aspect: Shine. However, not even realizing their own strength, they cause the moon to fracture slightly, entire pieces of the moon breaking off and being pulled towards Earth far faster than the rest of the celestial body. Aeri is frozen at the sight.
+- Remembering their mission, and knowing Teira could simply sever those connections, too, Aeri continues the assault on the now spaceborn Dera. They blast off the planet with maximum efficiency, then-
+- Aeri's suddenly standing where they were a minute ago. The moon's in one piece. Dera's nowhere to be seen, until he strikes them from behind, freezing time to strike again. Then, the strike suddenly replays itself despite massive distance between the two.
+- The battle is otherwise short-lived as Aeri is a soldier of war and Dera is a non-combatant. Dera is forced to retreat, with Aeri's victory leaving a stain on his ego.
+- Despite their best efforts, Dera did manage to do enough for PAC to stop the moon's advance. Teira then severs the connection and pushes the moon back to where it belongs, ending The Moon Disaster.
+- Aeri continues quick shock-and-awe deployments across multiple mega cities and nations, namely Mega Minsk as they try to disrupt the production of the now popular jets that heavily counter Elementals.
+- Aeri sees a video of the Val Bomb. A knot ties in their stomach at the sight. Terkou seems ecstatic, spreading the energy to both Teira and Is'ale. They want that weapon. 
 ### DECEMBER
-- 
+- Silently, Aeri is sent to punish nations that participated in the Frei-Se war with civilian targeted terrorist attacks. The screams causes their mouth to go dry. They usually attack military forces... it's not right to question orders, but they can't help but think about how the civilians aren't responsible for the attack.
+- Aeri's terrorist attacks individually cause tens of thousands of deaths and billions in damages. While they had long been declared a terrorist, even Elemental factions and nations (like Alaska [even though it's more of a human led hybrid nation] and Frei-Se) have begun publicly denouncing them.
+- Aeri is ordered to divert and disrupt humanitarian aid packages to human nations.
+- With Zero, Aeri is sent to assassinate and dismantle a small but growing pro-coexistence movement in Western Europe.
+- Aeri fights Samae once again, this time winning easier with the use of their aspects. Samae calls Aeri a monster directly to their face, spitting at their feet. 
+- Aeri is invited to multiple formalizations of nations across the planet, though Terkou orders them not to go to avoid harming the reputation of those nations on an international scale.
 ## ⦿ **YEAR 2040**
 ### JANUARY 
-- 
+- With the pandemic spreading across the continent, Endsight is only ordered to move Elementals out of the line of danger. They single-handedly prevent 6.4 million Elemental infections through teleportations, speed-extractions, makeshift walls, and executions of both human and elemental infected.
+- Aeri... breaks down into tears. Randomly. Unprompted. With nobody around. 
+- Using data found in other covert operations, Aeri and Teira are sent on separate missions to try and pinpoint the location of the Val Bomb blueprints. Though, their intended theft is halted at some thought of quote "Instant Destruction Plans" of the blueprints if any non-authorized individual comes too close. Aeri is decided by Terkou to be the only one fast enough to take the risk. So, Endsight now waits for a good opportunity.
+- Aeri tries and fails to assassinate multiple KoG commanders after Terkou realizes that the KoG is becoming increasingly powerful on the global stage. After the failure, they simply are put back onto disrupting its logistics, being singlehandedly responsible for massive logistical losses, while still avoiding battle with Samae.
+- Aeri is given rest after collapsing during training. They seem to self-isolate in their room when not training or on missions, simply studying their past missions and looking for mistakes to polish.
+- Teira expresses worry over Aeri's recent behavior. Aeri says they feel fine... though, they aren't entirely sure what 'fine' is. Teira doesn't believe them, but Aeri doesn't say anything else.
+- Aeri's KoG messings pushed the organization to place a multi-million dollar bounty on their head... something Terkou brags for them about.
+- Aeri begins to realize that missions don't feel as fun or invigorating as they used to.
+- Aeri finds Tulia in the night sky once again. 
 ### FEBRUARY 
-- 
+- Aeri is kept at base while Terkou waits to send them out when The Whispers face an all-out assault on their main bases.
+- Aeri spends the downtime training, studying, and sometimes weeping silently in their room. They still don't understand why.
+- Finally, the time comes, and they make the move, managing to slip in just in time to reach the Val Bomb blueprints. However, with them in their hand, their mind replays the event. The first explosion. The bombing of Nagpur. In that moment, they destroy the Val Bomb blueprints, despite orders to return them. When asked on why they don't have them, they simply claim they could not locate them fast enough before they were destroyed, which everyone else seems to believe...
+- For the first time in a while, Aeri's chest feels a little warm.
+- As the world becomes incresingly anti-Elemental from new ADS sentiment, Terkou sends Endsight out to conduct more terrorist attacks. Aeri is sent purely on military disruption tasks...
+- Suddenly, portals open up. Aeri is called to and drawn into the Spirit Realm, Xalii... 
