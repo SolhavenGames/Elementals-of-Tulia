@@ -13,7 +13,7 @@
 
 **Ending Alignment**: Endsight (As Warsight). 
 ## Summary 
-
+Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideology. However as time goes on, Aeri silently grows resistant without realizing it. Their harming of civilians pushes them away from it, but they have been raised and molded to be obedient regardless of their feelings, so they remain through the arc. The continued actions pushes them into a depression as they eventually begin a soft-level rebellion by destroying the blueprints to the Val Bomb, something the rest of Endsight desperately wanted, and the first time in a long time they genuinely feel good about something they did... but it was the only thing they've done against an order. They lie about it, and it feels good, but deep down it also feels scary. Direction and orders were never meant to be broken... right?
 ## Timeline
 ## ⦿ **YEAR 2039**
 ### MARCH
