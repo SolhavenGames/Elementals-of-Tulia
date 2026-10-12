@@ -13,7 +13,7 @@
 
 **Ending Alignment**: The Renegades (As Zephyr).
 ## Summary 
-
+Adva begins this arc in the Amazon Rainforest alongside Arete, Rai, and Imbra. Kael joins soon after, though he is possessed by the Forbidden Element Death, marching him towards an inevitable fate. Partially to get away from this fact, Adva begins searching for reasons to leave the rainforest, which leads into her vigilante arc. Adva begins fighting stronger foes alone, realizing she loves the thrill of the battle. So, she continues, though it causes some friction with Arete. When the friction becomes too much, her, Imbra, and the now emancipated Kael, move to the young nation of Frei-Se, making friends with its queen and continuing their operations from there. Adva, while there, realizes her goal is not just to have fun, but also a slight feeling of obligation to fix the mess she helped make... 
 # Timeline
 ## ⦿ **YEAR 2039**
 ### MARCH
