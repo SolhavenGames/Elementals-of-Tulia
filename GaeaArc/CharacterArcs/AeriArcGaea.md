@@ -32,6 +32,7 @@ Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideolo
 - When they return to Terkou, Terkou is impressed and praises them. Then, Aeri is the one of two given the green-light to move in with quick hit-and-run missions to dodge Adva as Terkou makes contingency plans for her.
 - With this new directive, Aeri quickly hits militaries of states like Northern South East Asia, Korea's Empire, State of Japan, and TUNA (Terra Union North Atlantic Command), who gets hit particularly hard as Aeri deals massive damage to their naval force.
 - Aeri returns to the Endsight base damn near a hero. Is'ale notably stays out of the praising, as he's busy focused on studying Terkou's plans. Zero doesn't do celebrations.
+- Afterwards, Aeri feels rather ill and full of pain. Though, they don't tell anyone, and continue with their missions. The pain persists.
 - Aeri is called off of their missions as Terkou thinks they could be better with their swords. So, Terkou trains them in swordsmanship.
 - Aeri keeps spending times looking at the stars, specifically when Tulia is visible in the sky. 
 ### MAY
@@ -39,6 +40,7 @@ Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideolo
 - Aeri spends time with Teira after she asks. Teira admits that Terkou makes her feel a little weird. Aeri oddly hasn't formed an opinion on him yet. When Teira asks, they just claim to agree.
 - Aeri trains with the rest of the team in the first team deployment training to prepare for future deployments. They can't seem to fully get behind Is'ale's field leadership. 
 - Aeri pulls off a massive heist in Londina (Hyper City), securing massive amounts of gold bars that removes the need for future heists for about 3 months. Terkou again praises Aeri for this development.
+- After the heist, back at base, Aeri collapses unconscious on their bed from internal pain. They wake up a few minutes later, blood staining their bed and dripping from their mouth and nose.
 - Aeri prays to their God for the first time in a while, asking if they're doing the right thing, and looking for directions. They get no answer.
 - Warshine begins to bolster Aeri's pride further, causing them to be more reckless in training. Terkou praises it, but Is'ale tells them to stop. The conflicting order confuses them.
 - Aeri doesn't respond to an invitation to join the Alaskan military, but they do consider how life would be different.
@@ -54,6 +56,7 @@ Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideolo
 - Aeri meets Samae | Spoke too soon. The human Forbidden User, which was a myth, pops up during one of their objectives. In a very high difficulty fight, Aeri eventually routes Samae through use of their superior speed.
 - In another battle, Samae hardly trips Aeri up, forcing them to retreat as more KoG reinforcements arrive. Aeri returns heavily wounded... and it doesn't help that they weren't fully recovered from the last battle.
 - Terkou puts off Aeri's operations for now, allowing them to recover.
+- Aeri continues to cough blood and feel dizzy from time to time. They still don't want to tell anyone.
 - Teira and Zero visit Aeri sparsely as they recover. Is'ale only visits once, but when he visits, he claims it's not out of love, and more for his own conscious. 
 ### JULY
 - Aeri fully heals, and Terkou orders them back out on the field immediately to distrupt more KoG movements. This time, they have orders to immediately retreat if Samae shows up. This plan allows them to avoid all conflict with her while still doing good damage to the KoG in Africa.
@@ -77,6 +80,7 @@ Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideolo
 - Aeri goes across the planet looking for any Elemental that may have knowledge on Forbidden Elements... and eventually finds an Elemental that does. A Litti Elemental, distant Endsight member hiding out in caves in Sector Iota. This Elemental, who keeps her name secret, reveals to Aeri both (active) Aspects of Warshine... War, and Shine.
 - Remaining with this Elemental for a few days to try and learn their Aspects, Aeri finally learns how to claim Aspect: Shine. Aspect: War still slips just barely from their grasp, but their getting closer.
 - Aeri returns to the main base, and Terkou, learning of their new abilities, assigns them a shock-and-awe role. Their main job is to catch enemies off-guard with incredibly strong and ruthless attacks. The team immediately begins training for a new team scenario, as Aeri was not the only one with a new assigned role. Ever since the loss to Adva, Terkou has been plotting a re-evaluation of the team dynamic.
+- Aeri struggles often, randomly losing feeling in their lower body. They also get nosebleeds often. When this was noticed, they brushed it off, saying "It happens sometimes; it'll blow over", but the pattern continued in private. 
 - After a straight week of training (and a good night's rest), the team is deployed to Busan, where they meet up against the fresh forces of PAC.
 - Aeri meets Arete | Their meeting is brief. Aeri, getting communications and scouting from Zero, waits for a given opening before striking her and knocking her down, also leaving her dazed and confused. It looks like she didn't even see them.
 - Aeri meets K'zorak | They do a similar attack on K'zorak immediately after, though K'zorak does seem to notice them. These two strikes give Is'ale a window to push forward and pressure Zrili. Speaking of....
@@ -85,7 +89,7 @@ Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideolo
 - The battle in Busan continues on. Aeri is eventually rescued by Teira, and the pair uses the light-dimension combo Terkou had trained them for to defeat Zezri, then Arete. Zrili and K'zorak, while K'zorak was wounded and Zrili still relatively untouched, eventually decide that retreat is the best option. Endsight had won against PAC.
 - Aeri steals multiple tons of wealth in food and weapons from Busan, a heavy blow to nearby defensive operations against Elemental insurrections.
 - The party returns to their base victorious. Terkou literally throws them an entire party (not in the conventional sense, but you get my point).
-- Aeri, with Terkou's team-wide rest days, just... studies their former missions, as they have no clue what else to do.
+- Aeri, with Terkou's team-wide rest days, just... studies their former missions, as they have no clue what else to do. During their studies, they pass out, cough blood, and struggle with piercing pains. Though, the pain lessens as days pass. 
 ### OCTOBER
 - Terkou, feeling confident, deploys Aeri to bombing runs and logistical disruptions. Their efficiency since figuring out how to claim Aspect: Shine has risen dramatically.
 - Seeing this, Terkou orders them to figure out how to claim Aspect: War. He sends them to find that same Elemental for more training.
@@ -107,6 +111,7 @@ Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideolo
 - After short rest, the task force is again deployed, this time to The Levant, where they face PAC again. It again ends in a stalemate, as both groups achieve some of their objectives. No clear winner is declared. In this battle, Aeri had the opportunity to claim both Aspect: War and Aspect: Shine, using them back-to-back to overcome K'zorak and Arete.
 - Immediately after this stalemate, Is'ale takes Aeri down south to the region of Kuwait, where they face K'zorak and Arete again. This time, Aeri and Is'ale are pushed away as their enemies take heavy defensive stances.
 - Aeri clashes briefly with Zezri in Tunis, with Zezri defeating and interrogating them. Aeri says nothing, even under threat of permanent incarceration in The Void. Zezri doesn't follow up on the threat, and eventually just teleports Aeri far into the ocean. Aeri finds their way back to the base after a few hours.
+- After these battles, Aeri passes out once again, this time a coma, though nobody could identify it as such as they were unaware this even happened.
 ### NOVEMBER
 - Aeri is awoken by an excited Teira in the middle of the night. The moon's falling towards the planet... they have no idea why Teira is so excited about this.
 - Terkou drafts a plan: Only Aeri will go. His reasoning was simple. With such a major disaster, PAC or The Renegades, or maybe even both, would obviously send someone to stop it. However, Endsight already had the key. Teira could simply sever the gravity connection, since it was done with artificially with Val. Aeri's going due to them being the undoubted Endsight prodigy when it comes to one-on-one conflicts, of course banking on the fact that only one other Elemental shows.
@@ -124,7 +129,8 @@ Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideolo
 - Aeri's terrorist attacks individually cause tens of thousands of deaths and billions in damages. While they had long been declared a terrorist, even Elemental factions and nations (like Alaska [even though it's more of a human led hybrid nation] and Frei-Se) have begun publicly denouncing them.
 - Aeri is ordered to divert and disrupt humanitarian aid packages to human nations.
 - With Zero, Aeri is sent to assassinate and dismantle a small but growing pro-coexistence movement in Western Europe.
-- Aeri fights Samae once again, this time winning easier with the use of their aspects. Samae calls Aeri a monster directly to their face, spitting at their feet. 
+- Aeri fights Samae once again, this time winning easier with the use of their aspects. Samae calls Aeri a monster directly to their face, spitting at their feet.
+- Yet again, the internal pain rises. Aeri still doesn't feel obligated to search for solutions, but the pain grows each time it appears.
 - Aeri is invited to multiple formalizations of nations across the planet, though Terkou orders them not to go to avoid harming the reputation of those nations on an international scale.
 ## ⦿ **YEAR 2040**
 ### JANUARY 
@@ -141,6 +147,6 @@ Aeri begins this arc as a loyal soldier to Terkou, indoctrinated into his ideolo
 - Aeri is kept at base while Terkou waits to send them out when The Whispers face an all-out assault on their main bases.
 - Aeri spends the downtime training, studying, and sometimes weeping silently in their room. They still don't understand why.
 - Finally, the time comes, and they make the move, managing to slip in just in time to reach the Val Bomb blueprints. However, with them in their hand, their mind replays the event. The first explosion. The bombing of Nagpur. In that moment, they destroy the Val Bomb blueprints, despite orders to return them. When asked on why they don't have them, they simply claim they could not locate them fast enough before they were destroyed, which everyone else seems to believe...
-- For the first time in a while, Aeri's chest feels a little warm.
+- For the first time in a while, Aeri's chest feels a little warm. Despite this, they still suddenly bleed from the nose. 
 - As the world becomes incresingly anti-Elemental from new ADS sentiment, Terkou sends Endsight out to conduct more terrorist attacks. Aeri is sent purely on military disruption tasks...
 - Suddenly, portals open up. Aeri is called to and drawn into the Spirit Realm, Xalii... 
