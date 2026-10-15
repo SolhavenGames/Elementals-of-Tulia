@@ -39,7 +39,9 @@
 - Arete begins trying to self-diagnos why the urge to help feels so different. After a few days, she can only confidently conclude that it's something to do with Bastion. 
 - She decides she'll keep helping small animals to silence the urge instead of giving into it. 
 - When Arete finds out Adva went out to contest a full-force Endsight, she's horrified. She's even more horrified when she finds out that both Rai and Imbra trust her to quote "kick some ass". Arete has a panic attack due to this.
-- When Adva returns injured (but alive) proclaiming victory, Arete resist the urge to blow up and beats around the bush, trying to urge her to be more careful. 
+- When Adva returns injured (but alive) proclaiming victory, Arete resist the urge to blow up and beats around the bush, trying to urge her to be more careful without triggering an argument. 
+- Adva continues to go out and risk her life. Arete's internal urge pushes and asks why she isn't doing the same. 
+- Arete has multiple sleepless nights due to this urge. 
 ### JULY
 - 
 ### AUGUST
