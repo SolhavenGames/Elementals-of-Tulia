@@ -43,7 +43,10 @@
 - Adva continues to go out and risk her life. Arete's internal urge pushes and asks why she isn't doing the same. 
 - Arete has multiple sleepless nights due to this urge. 
 ### JULY
-- 
+- Arete and Rai have been drifting apart noticeably. Rai reaches out to try and fix that, and the two spends a few days together.
+- When Kael reaches the final gate of Death before he can be emancipated, Arete joins the other three in investing most of their energy in attempting to emancipate him. 
+- Arete silently blames herself for not emancipating Kael before it got to this point. 
+- Through the joint focus on Kael, Arete is able to rebuild friendlier relationships with Adva, Imbra, and Rai. 
 ### AUGUST
 - 
 ###  SEPTEMBER
