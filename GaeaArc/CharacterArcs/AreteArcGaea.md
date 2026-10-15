@@ -36,6 +36,8 @@
 - She has discovered that helping small animals in the wild helps silence the voice. So, she begins doing that.
 - Arete learns more about Bastion through Rai and his studies...
 ### JUNE
+- Arete begins trying to self-diagnos why the urge to help feels so different. After a few days, she can only confidently conclude that it's something to do with Bastion. 
+- She decides she'll keep helping small animals to silence the urge instead of giving into it. 
 - 
 ### JULY
 - 
