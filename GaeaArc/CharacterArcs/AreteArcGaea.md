@@ -74,7 +74,7 @@
 - Arete goes sleepless, the insomnia only worsening. She can't sleep for days, and doesn't leave her room.
 - The third day of her self isolation, Zrili comes in. They claim they can hear Arete's distress, and push Arete to try to spend more time with the team to try and ignore it.
 - Arete tries that, attending some team building activities, and it does kind of silence the urge... but only for a little.
-- Arete begs Kterla for more missions. Kterla gives her a long list of reconstruction requests, counting 55 cities across all continents (barring Antarctica). Arete doesn't return for 8 days, going sleepless for all of them (Forbidden Users can operate longer without sleep, for about 300 hours. She's been awake for just about that, so she's visibly tired).
+- Arete begs Wykoi for more missions. Wykoi gives her a long list of reconstruction requests, counting 55 cities across all continents (barring Antarctica). Arete doesn't return for 8 days, going sleepless for all of them (Forbidden Users can operate longer without sleep, for about 300 hours. She's been awake for just about that, so she's visibly tired).
 - Kterla and Wykoi push Arete to sleep, and she finally does, collapsing from sheer exhaustion.
 - As soon as she wakes up, she finds out that PAC is being deployed to Busan to stop a looming Endsight attack. Kterla reminds the team that despite there only being three visible, the task force is known to have four members. Dera does not go, claiming a non-combatant role. 
 - Arete meets Is'ale | The first person she clashes with. Arete immediately pushes Is'ale back, overwhelming him with sheer firepower.
