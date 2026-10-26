@@ -47,6 +47,13 @@ She seeked Bastion on Gaea with Rai, after he encouraged her own activity in the
 The eldest child of the politically strong Kni-Soa family, Dera Kni-Soa was otherwise quite overlooked in his youth-focused society. Though, to say he hated this would be a lie. His sister, Teira Kni-Soa, would take most of the attention, allowing Dera to be on his own as he so pleaed, reaching for his own unusual dreams for his kind, like being an engineer. The siblings had a very close relationship, and were often considered inseperable by onlookers. Dera found himself sticking to small groups because of this, finding peace in quality relationships over quantity. When the war broke out, Dera, being the eldest and only child paired with being the child of former political rivals of his young Knightsdale government, was drafted into the war almost instantly. There, he faked his suicide to escape, fleeing to an entirely different continent, only hoping to see his sister or family again.
 
 Dera would eventually awaken his val in attempts to assist in this task, but he was shocked to lose his element completely, as the replacement stage of Era began. He was dazed and confused as his mind flooded with Era's information...
+# ⦿ E'rix "Axis" Shima (Male) - Ballad - Forbidden Element User (Omni)
+
+⦾ Birthday: Year 872, Month Morsh, Day 33
+## Backstory
+E'rix Shima was a popular independent journalist within his nation. He'd create unfiltered reports on corrupt polititians, sneaky laws, blooming crime rings, and buried stories that many others weren't willing to cover. Of course, this caused him to get a major target on his back, but luckily for him, the State actually agreed to protect him. Free Media was engrained in the state's law, a young and poorly worded law, but a law nonetheless. E'rix's truths and government partnership made even his competitors jealous, but his focus was not competition. It was spreading the truth. When the rise of Knightsdales began, the state began to stray away. The questionable things they had to do to keep Knightsdales out of their own government was reported by E'rix, questioning its morality. This was the first strike for the state. The final one? When he exposed the joint cyber attack against an allied nation to prevent a possible one. Then, his free speech was revoked, and he was exiled to the massive Rainforest his nation houses. Betrayed by his state, he continued to make reports in exile, though getting little attention...
+
+E'rix finds Omni when he realizes that it's dangerous to remain powerless, and Dera promises to remain by him until he's stable again...
 ## Backstory
 # ⦿ Imbra "Phoenix" Hayes (Female) - Firen - Forbidden Element User (Hellfire)  
 ⦾ Description: Chestnut Umber skintone (#8b5f46). Shoulder length scruffy and messy dull black hair (#151515). Orange-Red eyes (#ff4b33). 
@@ -66,6 +73,13 @@ She was born with her powers, but they remained dormant until she eventually had
 Is'ale Minsi was a political activist and an active member in a growing Tulia Unionist ideology. He has always believed in the average Elemental, trusting that their passion, mind, and heart will lead them where the Gods desire them to go. His Tulia Unionism comes from his belief that Elementals are destine to not only be united as one, but expand and spread as one through the stars, too. So, much of his Naturine adult life was spent in cohorts with his government, attempting to push his ideology along. But as the Knightsdale ideology began to rise, Is'ale's focus shifted from unity to preventing it from exploding. He tried everything in his power to convince his nation that the Knightsdale movements were a threat- and they ignored him. He was proven right when Dal yon Tulia broke out... 
 
 Is'ale finds Biota on Gaea, when he sees Humanity growing ever hostile, and feels the need to empower himself for defense. He later uses it for terrorism and attacks...
+# ⦿ Jhu Duro (Female) - Darrekin - Forbidden Element User (Void)
+⦾ Description: Light brown skintone (#95734e). Shoulder length black hair (#000000) wrapped into a slightly messy and unorganized hairstyle.  Deep, black eyes (#000000). 
+
+⦾ Birthday: Year 869, Month Stemo, Day 5
+## Backstory
+Jhu Duro was born to be a worker. However, when her state noticed how much Val she carried, they decided to turn her into a soldier instead. Like Aeri, she was sent through a grueling training process. Though, unlike Aeri, they were trained to be a strategist. They were trained to think and choose. They were given the right to decide. her intelligence made this a lot stronger than her state probably expected, and she had already begun developing thoughts against her state early-on, btu she played along. When a neighboring nation fell to Knightsdale, a refugee crisis began- and she was pushed to be the leader of the camp, where she was kidnapped by that new Knightsdale nation to be a lab rat...
+Jhu would eventually be given Void by these scientists, which she would use to escape her captivity- broken and alone...
 # ⦿ Kael "Morrow" Voris (Male) - Snai - Forbidden Element User (Death)
 ⦾ Description: Pale skintone (#d7b2a8). Short scruffy brown hair (#A52A2A).  Blue eyes (#1569C7). 
 
@@ -81,13 +95,12 @@ Kael unlocks Death via experiments from the Poisi Nation, which forces him throu
 ⦾ Birthday: Year 805, Month Tulip, Day 28
 ## Backstory
 Kterla Naomi is known worldwide on Tulia for her political contribution to the Global Government when she served as the president of the Sakai Nation. Not only that, many renowned her effective policies that strengthened the Sakai democracy and global alliances. When her term limit was up, she refused to run again, despite most of the population pleading with her to. She instead became a mentor for later government leaders, assisting in drafting of policy if the leader was to ever ask for her assistance, which many did. Notably, she was the first to ever see the Knightsdale movement rising, as forums collected on her own platforms, which she did nothing to stop- as she believed in free speech, though she did hate how they spoke. When Knightsdales finally began to rise, Kterla became a massive target for assassinations, as she was a strong symbol of hope and democracy. So, her nation and its people voted that she be sent to Gaea, where she remained for many many years, hoping one day to see her nation again...
-# ⦿ K’zorak "Axis" Shima (Male) - Ballad - Forbidden Element User (Omni)
+# ⦿ Nixis Qonn (Non-Binary) - Lithil - Forbidden Element User (Din)
 
-⦾ Birthday: Year 872, Month Morsh, Day 33
+⦾ Birthday: Year 871, Month Unity, Day 27
 ## Backstory
-K'zorak Shima was a popular independent journalist within his nation. He'd create unfiltered reports on corrupt polititians, sneaky laws, blooming crime rings, and buried stories that many others weren't willing to cover. Of course, this caused him to get a major target on his back, but luckily for him, the State actually agreed to protect him. Free Media was engrained in the state's law, a young and poorly worded law, but a law nonetheless. K'zorak's truths and government partnership made even his competitors jealous, but his focus was not competition. It was spreading the truth. When the rise of Knightsdales began, the state began to stray away. The questionable things they had to do to keep Knightsdales out of their own government was reported by K'zorak, questioning its morality. This was the first strike for the state. The final one? When he exposed the joint cyber attack against an allied nation to prevent a possible one. Then, his free speech was revoked, and he was exiled to the massive Rainforest his nation houses. Betrayed by his state, he continued to make reports in exile, though getting little attention...
-
-K'zorak finds Omni when he realizes that it's dangerous to remain powerless, and Dera promises to remain by him until he's stable again...
+Nixis Qonn was born to a middle-class family in the most active and busy city in the world. Due to this, they were expected to follow along. Their high val allowed them a strong position in a local powerplant that supplied power for the entire world, which their family heavily suggested they take. Reluctantly, they did, but they hated everything about it. All they ever wanted was a quiet life, far away from the endless noise of the city. This power plant was the exact opposite, constant whirring and chirping of machines tore into them. Eventually, they were offered a promotion that required them to awaken their val, something that would change their life forever...
+Nixis would eventually be given Din once it finished replacing their element. Being overloaded with sound, they aimlessly searched, desperate for help...
 # ⦿ Rai "Tideking" Ronal (Male) - Watirsh - Forbidden Element User (Deluge) 
 ⦾ Description: Mahogany espresso skintone (#7b4b41). Waist Length charred olive hair (#24362c) wrapped into a style, bringing it to shoulder-length. Blue-Green eyes (#0b5147). 
 
@@ -140,16 +153,3 @@ Wykoi Maita is an Inca born human that didn't have much going for him before his
 ## Backstory
 Zero was a nobody. So much so, that his name is unknown. What is known is that he was cut off by his own family after his addictions pushed him to be a liability, forcing him into state custody- state housing, state sustenance, state rehabilitation, all of it. And he contineud to resist. When his nation fell to Knightsdale, they used this fact that nobody seemed to care for him paired with his noticably larger val bank to use him as an experiement. Admittedly, they knew he was a loose cannon. They knew he was a bad investment, but he was undoubtedly the best they had, and if it succeeded, he would be the perfect soldier. Luckily for them, it did. Now they just had to hold out...
 Zero is given Bane when he is apart of a super soldier program. He is the only person to be able to fully handle Bane, allowing him to fly through the gates faster than his peers- and eventually, he is the last one remaining alive.
-# ⦿ Zezri Duro (Female) - Darrekin - Forbidden Element User (Void)
-⦾ Description: Light brown skintone (#95734e). Shoulder length black hair (#000000) wrapped into a slightly messy and unorganized hairstyle.  Deep, black eyes (#000000). 
-
-⦾ Birthday: Year 869, Month Stemo, Day 5
-## Backstory
-Zezri Duro was born to be a worker. However, when her state noticed how much Val she carried, they decided to turn her into a soldier instead. Like Aeri, she was sent through a grueling training process. Though, unlike Aeri, they were trained to be a strategist. They were trained to think and choose. They were given the right to decide. her intelligence made this a lot stronger than her state probably expected, and she had already begun developing thoughts against her state early-on, btu she played along. When a neighboring nation fell to Knightsdale, a refugee crisis began- and she was pushed to be the leader of the camp, where she was kidnapped by that new Knightsdale nation to be a lab rat...
-Zezri would eventually be given Void by these scientists, which she would use to escape her captivity- broken and alone...
-# ⦿ Zrili Qonn (Non-Binary) - Lithil - Forbidden Element User (Din)
-
-⦾ Birthday: Year 871, Month Unity, Day 27
-## Backstory
-Zrili Qonn was born to a middle-class family in the most active and busy city in the world. Due to this, they were expected to follow along. Their high val allowed them a strong position in a local powerplant that supplied power for the entire world, which their family heavily suggested they take. Reluctantly, they did, but they hated everything about it. All they ever wanted was a quiet life, far away from the endless noise of the city. This power plant was the exact opposite, constant whirring and chirping of machines tore into them. Eventually, they were offered a promotion that required them to awaken their val, something that would change their life forever...
-Zrili would eventually be given Din once it finished replacing their element. Being overloaded with sound, they aimlessly searched, desperate for help...
