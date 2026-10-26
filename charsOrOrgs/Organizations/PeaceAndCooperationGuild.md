@@ -7,7 +7,7 @@ The organization prides itself on its coexistence stance, fighting for a future 
 ## STATS
 Leader - [Kterla Naomi](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/KterlaArcTulia.md) 
 
-Major Character Membership - [Arete Ishel](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md), [E'rix Shima](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/E'rixArcTulia.md), [Jhu Duro](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/JhuArcTulia.md), [Nixis Qonn](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/NixisArcTulia.md) 
+Major Character Membership - [Arete Ishel](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/AreteArcTulia.md), [E'rix Shima](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/E'rixArcGaea.md), [Jhu Duro](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/JhuArcGaea.md), [Nixis Qonn](https://github.com/SolhavenGames/Elementals-of-Tulia/blob/main/TuliaArc/CharacterArcs/NixisArcGaea.md) 
 
 Based In - Lima (Super City), Reborn Inca Empire 
 
