@@ -11,7 +11,7 @@
 
 **Biggest Arc Influence**: Showing that participation in Knightsdale isn't always radicalism, it can be fear.
 ## Summary 
-Spara Dei-Sor was a powerful and trusted soldier in the Icilen military. Once they fell to Knightsdale, she was forced to play along- following their orders of arresting dissenters and resistance groups as the government continued to threaten her life. When Dal yon Tulia broke out, she was sent to the frontlines multiple times, mainly in Bunnis, where she was praised for her decisive victories. However, when she was ordered to clear out a village of all civilians to steal and plunder their food and resources, she not only openly refused, but she killed the messenger and fled back to The Far South to hide in its snowy mountains. There, she reflected, building many regrets. She partially couldn't forgive herself for what she had done, and decided that she was no longer worthy of anyone's affection. She is later found by Snai soldiers who were sent looking for her, who she is forced to evade as she flees back to Bunnis, though she is a wanted criminal there. To defend herself, she seeks out Subzero, and is forced to use it when Phlanax soldiers attempt to arrest her. She finally flees even further, eventually joining Zezri's Underground Society. She stays isolated from others, keeping her distance emotionally. She does join them when they assault Tixolam's labs, and when they flee to Gaea, but she does not cooperate with Troy Talona. Instead, she leaves them, too, going to live in an icy island known as Greenland.
+Spara Dei-Sor was a powerful and trusted soldier in the Icilen military. Once they fell to Knightsdale, she was forced to play along- following their orders of arresting dissenters and resistance groups as the government continued to threaten her life. When Dal yon Tulia broke out, she was sent to the frontlines multiple times, mainly in Bunnis, where she was praised for her decisive victories. However, when she was ordered to clear out a village of all civilians to steal and plunder their food and resources, she not only openly refused, but she killed the messenger and fled back to The Far South to hide in its snowy mountains. There, she reflected, building many regrets. She partially couldn't forgive herself for what she had done, and decided that she was no longer worthy of anyone's affection. She is later found by Snai soldiers who were sent looking for her, who she is forced to evade as she flees back to Bunnis, though she is a wanted criminal there. To defend herself, she seeks out Subzero, and is forced to use it when Phlanax soldiers attempt to arrest her. She finally flees even further, eventually joining Jhu's Underground Society. She stays isolated from others, keeping her distance emotionally. She does join them when they assault Tixolam's labs, and when they flee to Gaea, but she does not cooperate with Troy Talona. Instead, she leaves them, too, going to live in an icy island known as Greenland.
 ## Timeline
 ### ⦿ **T-Year 900**
 - A mid ranking Icik soldier, passionate about defending her country, family, and people from any possible threat. Though, Tulia is in an extreme time of peace, so she and her peers mostly serve as symbols.
@@ -59,18 +59,18 @@ Spara Dei-Sor was a powerful and trusted soldier in the Icilen military. Once th
 
 ### ⦿ **T-Year 918**
 - Spara is finally caught, and she's forced to fight Phlanax soldiers to escape.
-- She stumbles across Zezri's underground society, joining it as a Forbidden user. Her element is completely unique, and nobody as seen it before.
+- She stumbles across Jhu's underground society, joining it as a Forbidden user. Her element is completely unique, and nobody as seen it before.
 
 ### ⦿ **T-Year 919**
 - Despite her popularity within the society, she tries to keep away from others.
-- Spara meets Zezri | Zezri was excited to meet Spara after hearing of her unique element, but Spara was very awkward and quiet. Zezri left her alone after a short talk.
+- Spara meets Jhu | Jhu was excited to meet Spara after hearing of her unique element, but Spara was very awkward and quiet. Jhu left her alone after a short talk.
 
 ### ⦿ **T-Year 921**
-- Zezri leads an attack on Tixolam labs, freeing lab rats. This is the first time Spara fights for something she actually believes in.
+- Jhu leads an attack on Tixolam labs, freeing lab rats. This is the first time Spara fights for something she actually believes in.
 - She personally frees a few victims of Tixolam's labs, their praise and thanks making her feel worth people's time for once.
 - The feeling is short-lived, as she begins to remember her past actions again.
-- Zezri, after having built a plan to flee, leads her underground society to Earth/Gaea.
+- Jhu, after having built a plan to flee, leads her underground society to Earth/Gaea.
 
 ### ⦿ **E-Year 2038**
-- When the group arrives on Earth/Gaea, Spara splits after Zezri opts to cooperate with Troy.
+- When the group arrives on Earth/Gaea, Spara splits after Jhu opts to cooperate with Troy.
 - She finds her way to Greenland, where she lives today, trying to forget her past and live a peaceful, quiet life.
