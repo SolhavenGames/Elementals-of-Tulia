@@ -54,7 +54,7 @@ Adva begins this arc in the Amazon Rainforest alongside Arete, Rai, and Imbra. K
 - Adva's quickly back on the field as a bunch of terrorist attacks destabilize the world further, and she feels required to help.
 - Adva meets Dera | While only temporarily, Dera and Adva cross paths. They don't exchange much information about each other as they're actively trying to save people, but they do notice that the other is a Forbidden User.
 ### JULY
-- Adva meets Zezri | Just passing by one another, similar to the situation with Dera. However, they do exchange a bit more about one another, as Zezri oddly seemed to be a bit of a fan.
+- Adva meets Jhu | Just passing by one another, similar to the situation with Dera. However, they do exchange a bit more about one another, as Jhu oddly seemed to be a bit of a fan.
 - Adva, after flip-flopping between stances, finally decides to spend more time at home after Kael reaches Gate VIII of Death... the final gate before the Gate IX - The point of no return.
 - The entire group - Adva, Imbra, Rai, and Arete (despite the latter two not knowing Kael too well) divert all of their energy, attention, and love to Kael in a last-ditch attempt to trigger emancipation and save him.
 - Adva finds herself sharing sleepless nights alongside Imbra, refusing to let her suffer alone.
@@ -98,9 +98,9 @@ Adva begins this arc in the Amazon Rainforest alongside Arete, Rai, and Imbra. K
 - No longer having to hide them, Spara gives the trio rooms in her palace.
 - The trio go to defend Baghdad (Hyper City) from an opportunistic Endsight attack as they waited for PAC to be occupied.
 - Then, they fight them in Cape City a few hours later as Endsight attempted to relocate quickly, still trying to exploit the occupied PAC.
-- The trio later goes to the Caribbean Federation to topple an oppressive government, where they fight PAC, who includes Arete, for the first time. Zezri, someone who used to look up to Adva, is there too. 
-- Adva meets K'zorak | During the battle in Havana, K'zorak and Adva fight.
-- Adva meets Zrili | During the battle in Havana, Zrili and Adva fight.
+- The trio later goes to the Caribbean Federation to topple an oppressive government, where they fight PAC, who includes Arete, for the first time. Jhu, someone who used to look up to Adva, is there too. 
+- Adva meets E'rix | During the battle in Havana, E'rix and Adva fight.
+- Adva meets Nixis | During the battle in Havana, Nixis and Adva fight.
 - Adva has a short clash with Arete after, where they don't really hold back, despite them reassuring their care for one another. In fact, mid battle, Adva updates Arete on how Rai's been doing in Frei-Se.
 - Adva and Kael, being on a short friends trip and patrol, catch Is'ale trying to sneak through with Zero. They stop them there.
 - The trio intercepts Endsight, who were on the way to South America. After this battle, Adva reaches ***Squall Gate III.***
@@ -150,8 +150,8 @@ Adva begins this arc in the Amazon Rainforest alongside Arete, Rai, and Imbra. K
 ### FEBRUARY 
 - The base of The Whispers has finally been discovered! Adva participates with the rest of her squad in planning operations with PAC.
 - She partakes in more aerial scouting operations, identifying no major weaknesses that could be exploited from the air.
-- Zrili and Adva spend a lot of time after the meetings growing closer as they chat about how they equally love and hate their Forbidden Element.
-- Adva takes Arete flying with Imbra carrying Zrili, the first time those two has flown since they were migrating planets.
+- Nixis and Adva spend a lot of time after the meetings growing closer as they chat about how they equally love and hate their Forbidden Element.
+- Adva takes Arete flying with Imbra carrying Nixis, the first time those two has flown since they were migrating planets.
 - Finally, it's time to attack The Whisper's base. Adva, with Kael, Dera, and Imbra, attack the Southern Compound in The Whisper's Siberia base. Adva plays a major role by being the one who charges at and kills their strongest soldiers, even though that wasn't her designated role. She's just doing it for fun.
 - When she enters the base of The Whispers, she wastes no time in trashing the place and liberates hostages they were holding, long missing and now starving people. There, she sees the same kid that hugged her leg, who is now even happier to see her. The kid is still wearing the cap she gave her, slightly damaged. So, Adva trades her in-tact cap with for the kid's. The kid says "Thank you" in broken Firen as Dera transports the hostages to a safer place.
 - During the clean-up phase, Adva chooses to execute Whisper's members instead of letting them have a free trial. It's technically against International Law, but who's going to stop her?
