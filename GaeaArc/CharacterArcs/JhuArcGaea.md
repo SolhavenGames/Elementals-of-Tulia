@@ -1,7 +1,7 @@
-# Zezri "Umbriss" Duro | Gaea Arc Journey
+# Jhu "Umbriss" Duro | Gaea Arc Journey
 <sub> **_My power will always be used for good, until it kills me._** <sub>
 ## Structure 
-**Starting State**: A saddened and defeated leader, Zezri wanders, looking for any sort of purpose. 
+**Starting State**: A saddened and defeated leader, Jhu wanders, looking for any sort of purpose. 
 
 **Ending State**: A major fighter for PAC, reinvigorating her love and passion for fighting for good.
 
