@@ -3,7 +3,7 @@
 ## Structure 
 **Starting State**: Living in the Amazon Rainforest alongside Rai, Adva, and Imbra.
 
-**Ending State**: Grouped with Zezri, Zrili, and K'zorak, aiming to enforce peace and lawfulness by protecting citizens and popularizing coexistence. 
+**Ending State**: Grouped with Jhu, Nixis, and E'rix, aiming to enforce peace and lawfulness by protecting citizens and popularizing coexistence. 
 
 **Inciting Moments**: Joining the Peace & Cooperation Guild after Kterla called for her.
 
@@ -62,9 +62,9 @@
 - The day finally comes. Rai leaves the Amazon, apologizing to Arete, saying that the Queen in Frei-Se inspired him to lead the Watrish back to their culture and into a better, more peaceful life. Arete is now entirely alone.
 - Suddenly, she gets a visit...
 - Arete meets Kterla | In the Amazon, Kterla comes in person to visit Arete after hearing about her from Adva, Imbra, Kael, and Rai. Kterla actually knows Arete from Tulia, from her family's charity organization (The Ishel Foundation). For the first time since the urge appeared, Arete is telling someone about it. Kterla promises to keep Arete in check, and Arete agrees to join the Peace & Cooperation Guild, moving to Lima, Peru.
-- Arete meets K'zorak | In the very first PAC debriefing (centered around meeting the rest of the team), Arete meets K'zorak first. They hit it off really easily, as K'zorak also knows Arete, and Arete actually knows K'zorak as she read a few of his news reports on her visits to Ralia (Ballad Nation; his nation, though K'zorak doesn't remember that it was his nation...)
-- Arete meets Zezri | Arete and Zezri also hit it off. Although Zezri doesn't know Arete due to her more secluded life in Dalino (Darrekin Nation), she admires what Arete used to do on Tulia. Arete is actually kind of afraid of Zezri's power, and Zezri reassures her, telling Arete that she's afraid of it, too. They have a good laugh over it.
-- Arete meets Zrili | Right after meeting Zezri, Zrili approaches Arete. Zrili has heard of the Ishel Foundation, but not Arete herself. No matter, Arete didn't do it for the fame. The two chat for a little bit and Arete learns a lot about Zrili's desires for a quiet life, and they even call their power a cruel joke. The two laugh about it together.
+- Arete meets E'rix | In the very first PAC debriefing (centered around meeting the rest of the team), Arete meets E'rix first. They hit it off really easily, as E'rix also knows Arete, and Arete actually knows E'rix as she read a few of his news reports on her visits to Ralia (Ballad Nation; his nation, though E'rix doesn't remember that it was his nation...)
+- Arete meets Jhu | Arete and Jhu also hit it off. Although Jhu doesn't know Arete due to her more secluded life in Dalino (Darrekin Nation), she admires what Arete used to do on Tulia. Arete is actually kind of afraid of Jhu's power, and Jhu reassures her, telling Arete that she's afraid of it, too. They have a good laugh over it.
+- Arete meets Nixis | Right after meeting Jhu, Nixis approaches Arete. Nixis has heard of the Ishel Foundation, but not Arete herself. No matter, Arete didn't do it for the fame. The two chat for a little bit and Arete learns a lot about Nixis's desires for a quiet life, and they even call their power a cruel joke. The two laugh about it together.
 - Arete meets Dera | Another person who knows who Arete is, this time someone who's directly benefited from it (not the first person she's met like this; Rai benefited from her charity, too). Dera and Arete share stories about his hometown Set (the name of the city is Set) in Tix (the Poisi Nation, now Tixolam). Afterwards, they talk about how the new Knightsdale government has destroyed the nation.
 - Arete meets Wykoi | After meeting the entire team, Wykoi reveals himself to them. He doesn't take time to meet them all individually just yet, but reassures them that their mission is pure and good, also reminding them what they're fighting for: Coexistence and peace on Gaea.
 - Finally, the actual debriefing can begin. Multiple requests are thrown around, mainly for evacuations, repairs, or aid deliveries. Arete is sent on a mission to deliver aid through the Alpine Mountains, from Germania to the Mediterranean Command. She does it in only a few hours, liberating multiple cities from hunger.
@@ -72,15 +72,15 @@
 - Arete returns, being given some praise by humans for the assistance she gave. Yet somehow, the urge to help people has only grown stronger. Louder. More demanding. More demeaning.
 - Without orders, Arete goes out to Sao Paulo to commence repairs there. Kterla warns her not to go without orders, as they only go where they are sanctioned. Arete apologizes, but the urge pushes her to keep doing what she can.
 - Arete goes sleepless, the insomnia only worsening. She can't sleep for days, and doesn't leave her room.
-- The third day of her self isolation, Zrili comes in. They claim they can hear Arete's distress, and push Arete to try to spend more time with the team to try and ignore it.
+- The third day of her self isolation, Nixis comes in. They claim they can hear Arete's distress, and push Arete to try to spend more time with the team to try and ignore it.
 - Arete tries that, attending some team building activities, and it does kind of silence the urge... but only for a little.
 - Arete begs Wykoi for more missions. Wykoi gives her a long list of reconstruction requests, counting 55 cities across all continents (barring Antarctica). Arete doesn't return for 8 days, going sleepless for all of them (Forbidden Users can operate longer without sleep, for about 300 hours. She's been awake for just about that, so she's visibly tired).
 - Kterla and Wykoi push Arete to sleep, and she finally does, collapsing from sheer exhaustion.
 - As soon as she wakes up, she finds out that PAC is being deployed to Busan to stop a looming Endsight attack. Kterla reminds the team that despite there only being three visible, the task force is known to have four members. Dera does not go, claiming a non-combatant role. 
 - Arete meets Is'ale | The first person she clashes with. Arete immediately pushes Is'ale back, overwhelming him with sheer firepower.
 - Arete meets Aeri | Well... hardly. Aeri came in to support Is'ale. Arete hardly saw them, only a flash of light and a sudden pain in her throat and chest.
-- Arete meets Zero | While down and injured, Zero failed to attack her, getting pushed back. Zezri came to support the weakened and vulnerable Arete.
-- Arete meets Teira | ... and Zezri brought her enemy. Now alongside Zezri, Arete tries to fight the teleporting dimension wielder back.
+- Arete meets Zero | While down and injured, Zero failed to attack her, getting pushed back. Jhu came to support the weakened and vulnerable Arete.
+- Arete meets Teira | ... and Jhu brought her enemy. Now alongside Jhu, Arete tries to fight the teleporting dimension wielder back.
 - The battle of Busan continues on. Arete, being harshly injured, struggles to keep stand her ground, and ends up overcompensating for her injury, getting in the way of her teammates while only injuring herself further. PAC is forced to retreat, and Endsight achieves their goals.
 - The team returns to Lima demoralized. Arete is given medicine and bandages to heal from the cuts and poisons. Kterla tells her to sit out for a while so she can properly heal. Wykoi tries to remoralize the team, telling them there's always tomorrow. Arete utters, "Not for the citizens who died".  
 ### OCTOBER
