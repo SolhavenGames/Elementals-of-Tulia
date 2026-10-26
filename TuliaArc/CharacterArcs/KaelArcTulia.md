@@ -11,7 +11,7 @@
 
 **Biggest Arc Influence**: Being the final straw for Imbra to begin her crusade.
 ## Summary 
-Kael Voris witnessed his entire family and friends slaughtered by his state (once it fell to Knightsdale) for their continuing beliefs in the Tulian Democratic Processes. Due to this, Kael flees, jumping from nation to nation, surviving on scraps and charity. He's eventually recruited by Adva and Imbra, who bring him to Earth/Gaea with them, where they are mistreated, watched, and attacked. He falls in love with Imbra, whom he nearly gives his life for. Instead of killing him, the Knights sent to capture Imbra take him instead after declaring Imbra too volatile to transport from Gaea to Tulia, where he's used as a test subject in Tixolam for the Forbidden Element Death. He rapidly flies through the early gates, and eventually is freed by Zezri, who fails to free him but vows to keep him alive. With her, he returns to Earth, and is captured by Troy Talona and the Elemental Research Initiative once Zezri makes the blunder of cooperating with them.
+Kael Voris witnessed his entire family and friends slaughtered by his state (once it fell to Knightsdale) for their continuing beliefs in the Tulian Democratic Processes. Due to this, Kael flees, jumping from nation to nation, surviving on scraps and charity. He's eventually recruited by Adva and Imbra, who bring him to Earth/Gaea with them, where they are mistreated, watched, and attacked. He falls in love with Imbra, whom he nearly gives his life for. Instead of killing him, the Knights sent to capture Imbra take him instead after declaring Imbra too volatile to transport from Gaea to Tulia, where he's used as a test subject in Tixolam for the Forbidden Element Death. He rapidly flies through the early gates, and eventually is freed by Jhu, who fails to free him but vows to keep him alive. With her, he returns to Earth, and is captured by Troy Talona and the Elemental Research Initiative once Jhu makes the blunder of cooperating with them.
 ## Timeline
 ### ⦿ **T-Year 900**
 - Kael is enrolled in school, studying political sciences, law, and economics, with aspirations to become the leader of his nation.
@@ -92,17 +92,17 @@ Kael Voris witnessed his entire family and friends slaughtered by his state (onc
 - Memories begin to slip, and he begins slowly forgetting small memories with Elementals like his friends, family, and Imbra & Adva.
 
 ### ⦿ **T-Year 921**
-- Kael and the other prisoners are freed by Zezri's underground society when they launch an assault on Tixolam's labs to free the remaining subjects.
-- Kael meets Zezri | Zezri approaches Kael, promising to free him from the plight as she refuses to let him die.
-- Unfortunately, Zezri's initial attempts fail, and Kael reaches Death Gate V.
-- This allows him to spread a weaker form of the Death Forbidden Element, but Zezri's society is mostly immune due to having their own. However, citizens are not, causing a minor pandemic in the area.
-- Zezri hides Kael away, but is sure to feed, visit, and keep him company so he doesn't go crazy or die.
-- Kael loses more memories, remembering that he kissed Imbra, but not remembering that it was her. He also forgets most of his friends and family, and even forgets Zezri for a moment. 
-- Zezri's society begins plots to flee the planet.
-- They eventually leave towards the end of the year. Zezri keeps Kael close.
+- Kael and the other prisoners are freed by Jhu's underground society when they launch an assault on Tixolam's labs to free the remaining subjects.
+- Kael meets Jhu | Jhu approaches Kael, promising to free him from the plight as she refuses to let him die.
+- Unfortunately, Jhu's initial attempts fail, and Kael reaches Death Gate V.
+- This allows him to spread a weaker form of the Death Forbidden Element, but Jhu's society is mostly immune due to having their own. However, citizens are not, causing a minor pandemic in the area.
+- Jhu hides Kael away, but is sure to feed, visit, and keep him company so he doesn't go crazy or die.
+- Kael loses more memories, remembering that he kissed Imbra, but not remembering that it was her. He also forgets most of his friends and family, and even forgets Jhu for a moment. 
+- Jhu's society begins plots to flee the planet.
+- They eventually leave towards the end of the year. Jhu keeps Kael close.
 
 ### ⦿ **E-Year 2038**
-- Zezri and her society arrive on Earth/Gaea. She encourages her society to cooperate with the local authority.
+- Jhu and her society arrive on Earth/Gaea. She encourages her society to cooperate with the local authority.
 - Unfortunately, this leads to most of them being imprisoned and killed. Kael is imprisoned, but his element spreads to hundreds of humans, causing a small pandemic.
 - Kael is isolated from everyone else, before Troy learns of Kael's importance.
 - Kael meets Troy | Kael was still in the systems of Earth/Gaea, and Troy realizes that he has connections to Phoenix (AKA Imbra). He decides to use him for leverage.
