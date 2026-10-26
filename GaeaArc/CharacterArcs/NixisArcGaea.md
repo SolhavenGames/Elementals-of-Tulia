@@ -1,7 +1,7 @@
 # Nixis "Echo" Qonn | Gaea Arc Journey
 <sub> **_Vibration is everywhere! You can't escape me, baby!_** <sub>
 ## Structure 
-**Starting State**: A prisoner of the ADS, beginning an escape plan to reunite with Zezri.
+**Starting State**: A prisoner of the ADS, beginning an escape plan to reunite with Jhu.
 
 **Ending State**: One of the most renowned warriors of PAC, but hated by most humans.
 
